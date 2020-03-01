@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> NYT19980424.0421 </DOCNO>
+  <DOCTYPE SOURCE="newswire">&Scedil;TIRI</DOCTYPE>
+  <DATE_TIME> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t73" type="TIME" value="1998-04-24T21:49:00">04/24/1998 21:49:00</TIMEX3> </DATE_TIME>
+  <HEADER>
+A3813 Cx1f taf-z
+u k Cx13  Cx11  BC-EDIT-GENDER-STEREOTYP     04-24 0430
+</HEADER>
+  <BODY><SLUG> BC-EDIT-GENDER-STEREOTYPES-NYT </SLUG><HEADLINE>
+EDITORIAL: THE COURT RETREATS ON STEREOTYPES
+</HEADLINE>
+UR (af) LR  QL
+UR c.1998 N.Y. Times News Service QC  LR  QL
+
+<TEXT>
+<s><ENAMEX TYPE="ORGANIZATION">New_York Times</ENAMEX> a<EVENT aspect="NONE" class="REPORTING" eid="e1" eiid="ei2115" eventID="e1" polarity="POS" pos="VERB" tense="PAST">relatat</EVENT>&icirc;ntr- un editorial<SIGNAL sid="s1997">de</SIGNAL><TIMEX3 anchorTimeID="t73" functionInDocument="NONE" temporalFunction="true" tid="t74" type="DATE" value="1998-04-25">s&acirc;mb&abreve;t&abreve; , 25_aprilie</TIMEX3>:<ENAMEX TYPE="ORGANIZATION">Curtea Suprem&abreve;</ENAMEX><EVENT aspect="NONE" class="OCCURRENCE" eid="e4" eiid="ei2116" eventID="e4" polarity="POS" pos="VERB" tense="PAST">a deviat</EVENT><TIMEX3 anchorTimeID="t73" functionInDocument="NONE" temporalFunction="true" tid="t75" type="DATE" value="1998-W17">s&abreve;pt&abreve;m&acirc;na aceasta</TIMEX3>de_la principiul central al nep&abreve;rtinirii sexelor pe care l-<EVENT aspect="NONE" class="OCCURRENCE" eid="e5" eiid="ei2117" eventID="e5" polarity="POS" pos="VERB" tense="PAST">a ap&abreve;rat</EVENT><TIMEX3 anchorTimeID="t73" functionInDocument="NONE" temporalFunction="true" tid="t76" type="DATE" value="1996">acum doi ani</TIMEX3><SIGNAL sid="s7">&icirc;n</SIGNAL><EVENT aspect="NONE" class="OCCURRENCE" eid="e2031" eiid="ei2118" eventID="e2031" polarity="POS" pos="NOUN" tense="NONE">decizia</EVENT>sa care<EVENT aspect="NONE" class="I_ACTION" eid="e8" eiid="ei2119" eventID="e8" polarity="POS" pos="VERB" tense="PRESPART">invalida</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e2040" eiid="ei2120" eventID="e2040" polarity="POS" pos="NOUN" tense="NONE">utilizarea</EVENT>de stereotipuri sexuale pentru a justifica refuzarea admiterii femeilor la<ENAMEX TYPE="ORGANIZATION">Institutul Militar din Virginia</ENAMEX>.</s> <s>Cu un vot 6-3 , curtea<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e11" eiid="ei2121" eventID="e11" polarity="POS" pos="VERB" tense="PAST">a instituit</EVENT>o lege a imigra&tcedil;iei discriminatorie care acord&abreve; unui copil n&abreve;scut peste hotare al unei femei americane nec&abreve;s&abreve;torite o &scedil;ans&abreve; mai bun&abreve; la cet&abreve;&tcedil;enie dec&acirc;t unui copil n&abreve;scut al unui b&abreve;rbat american nec&abreve;s&abreve;torit .</s>
+<s>Sub acest statut , un copil n&abreve;scut &icirc;n str&abreve;in&abreve;tate al unei mame americane nec&abreve;s&abreve;torite este automat considerat cet&abreve;&tcedil;ean<ENAMEX TYPE="LOCATION">american</ENAMEX>.</s> 
+<s>Dar copilul unui tat&abreve; american nec&abreve;s&abreve;torit nu are drepturi de cet&abreve;&tcedil;enie dac&abreve; tat&abreve;l nu face pasul afirmativ de recunoa&scedil;tere a paternit&abreve;&tcedil;ii &scedil;i accept&abreve; formal s&abreve; se ocupe de &icirc;ntre&tcedil;inere p&acirc;n&abreve;_c&acirc;nd copilul &icirc;mpline&scedil;te<CARDINAL>18_ani</CARDINAL>.</s>
+<s>P&abreve;rerile majorit&abreve;&tcedil;ii au fost<EVENT aspect="NONE" class="OCCURRENCE" eid="e24" eiid="ei2122" eventID="e24" polarity="POS" pos="VERB" tense="PAST">exprimate</EVENT>&icirc;n<CARDINAL>trei</CARDINAL>opinii separate , dintre care cea mai nelini&scedil;titoare a fost<EVENT aspect="NONE" class="OCCURRENCE" eid="e25" eiid="ei2123" eventID="e25" polarity="POS" pos="VERB" tense="PAST">scris&abreve;</EVENT>de un membru liberal ,<ENAMEX TYPE="ORGANIZATION">judec&abreve;torul John Paul Stevens</ENAMEX>, &scedil;i<EVENT aspect="NONE" class="OCCURRENCE" eid="e26" eiid="ei2124" eventID="e26" polarity="POS" pos="VERB" tense="PAST">secondat</EVENT>de un conservator , Judec&abreve;torul &Scedil;ef William Rehnquist .</s> 
+<s><EVENT aspect="NONE" class="I_STATE" eid="e1999" eiid="ei2125" eventID="e1999" polarity="POS" pos="NOUN" tense="NONE">Opinia</EVENT>, care<EVENT aspect="NONE" class="I_STATE" eid="e27" eiid="ei2126" eventID="e27" polarity="POS" pos="VERB" tense="PAST">g&abreve;sea</EVENT>distinc&tcedil;ia &icirc;ntre sexe<EVENT aspect="NONE" class="STATE" eid="e1998" eiid="ei2127" eventID="e1998" polarity="POS" pos="ADJECTIVE" tense="NONE">rezonabil&abreve;</EVENT>,<EVENT aspect="NONE" class="I_STATE" eid="e28" eiid="ei2128" eventID="e28" polarity="POS" pos="VERB" tense="PAST">se sprijinea</EVENT>puternic pe generalit&abreve;&tcedil;i demodate despre rolurile &icirc;n familie , inclusiv prezump&tcedil;ia defectuoas&abreve; c&abreve; mamele au o rela&tcedil;ie mai str&acirc;ns&abreve; cu copiii lor dec&acirc;t ta&tcedil;ii .</s> 
+<s>Dup&abreve; cum<ENAMEX TYPE="ORGANIZATION">judec&abreve;torul Stephen Breyer</ENAMEX>a <EVENT aspect="NONE" class="OCCURRENCE" eid="e32" eiid="ei2129" eventID="e32" polarity="POS" pos="VERB" tense="PAST">&icirc;ntrebat</EVENT><SIGNAL sid="s34">&icirc;ntr-</SIGNAL>un puternic<EVENT aspect="NONE" class="OCCURRENCE" eid="e33" eiid="ei2130" eventID="e33" polarity="POS" pos="NOUN" tense="NONE">dezacord</EVENT>, " ce rost are " s&abreve; aplic&abreve;m bariere de cet&abreve;&tcedil;enie " numai ta&tcedil;ilor &scedil;i nu &scedil;i mamelor &icirc;n lumea de azi _ unde paternitatea poate fi u&scedil;or dovedit&abreve; &scedil;i unde at&acirc;t femeile c&acirc;t &scedil;i b&abreve;rba&tcedil;ii &icirc;&scedil;i pot c&acirc;&scedil;tiga p&acirc;inea la un loc de munc&abreve; ? " , judec&abreve;torii Sandra Day O ' Connor &scedil;i Anthony Kennedy au p&abreve;rut s&abreve; <EVENT aspect="NONE" class="I_ACTION" eid="e43" eiid="ei2131" eventID="e43" polarity="POS" pos="VERB" tense="PRESENT">fie</EVENT> de acord c&abreve; legea <EVENT aspect="NONE" class="OCCURRENCE" eid="e44" eiid="ei2132" eventID="e44" polarity="POS" pos="VERB" tense="PAST">exprim&abreve;</EVENT> discriminare sexual&abreve; neconstitu&tcedil;ional&abreve; .</s> 
+<s>Dar &icirc;n_loc s&abreve; <EVENT aspect="NONE" class="I_ACTION" eid="e45" eiid="ei2133" eventID="e45" polarity="POS" pos="VERB" tense="PRESPART">str&acirc;ng&abreve;</EVENT>voturi pentru a o<EVENT aspect="NONE" class="OCCURRENCE" eid="e46" eiid="ei2134" eventID="e46" polarity="POS" pos="VERB" tense="INFINITIVE">respinge</EVENT>,<EVENT aspect="NONE" class="I_ACTION" eid="e47" eiid="ei2135" eventID="e47" polarity="POS" pos="VERB" tense="PAST">au ales</EVENT>s&abreve; o<EVENT aspect="NONE" class="OCCURRENCE" eid="e48" eiid="ei2136" eventID="e48" polarity="POS" pos="VERB" tense="INFINITIVE">instituie</EVENT>pe &scedil;ubredul temei c&abreve; , deoarece sexul p&abreve;rintelui &scedil;i nu al copilului face diferen&tcedil;a &icirc;n lege , reclamantul nu avea<EVENT aspect="NONE" class="I_STATE" eid="e51" eiid="ei2137" eventID="e51" polarity="NEG" pos="NOUN" tense="NONE">pozi&tcedil;ia</EVENT>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e52" eiid="ei2138" eventID="e52" polarity="POS" pos="VERB" tense="INFINITIVE">intenteze</EVENT>cazul .</s> <s>Nici<ENAMEX TYPE="ORGANIZATION">Departamentul de Justi&tcedil;ie</ENAMEX>, care<EVENT aspect="NONE" class="OCCURRENCE" eid="e53" eiid="ei2139" eventID="e53" polarity="POS" pos="VERB" tense="PAST">a sus&tcedil;inut</EVENT>statutul , nu s- a<EVENT aspect="NONE" class="OCCURRENCE" eid="e54" eiid="ei2140" eventID="e54" polarity="NEG" pos="VERB" tense="PAST">acoperit</EVENT>de glorie .</s> <s>Departamentul<EVENT aspect="NONE" class="OCCURRENCE" eid="e56" eiid="ei2141" eventID="e56" polarity="POS" pos="VERB" tense="PAST">s- a retras</EVENT>din pozi&tcedil;ia sa &icirc;n cazul<ENAMEX TYPE="ORGANIZATION">VMI</ENAMEX><SIGNAL sid="s58">c&acirc;nd</SIGNAL><EVENT aspect="NONE" class="OCCURRENCE" eid="e59" eiid="ei2142" eventID="e59" polarity="POS" pos="VERB" tense="PAST">a sus&tcedil;inut</EVENT>c&abreve; guvernul nu putea<EVENT aspect="NONE" class="OCCURRENCE" eid="e60" eiid="ei2143" eventID="e60" modality="could" polarity="NEG" pos="VERB" tense="NONE">face</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e2004" eiid="ei2144" eventID="e2004" polarity="POS" pos="NOUN" tense="NONE">regulamente</EVENT>pe baza stereotipurilor " chiar<SIGNAL sid="s64">c&acirc;nd</SIGNAL>acele stereotipuri<EVENT aspect="NONE" class="OCCURRENCE" eid="e65" eiid="ei2145" eventID="e65" polarity="POS" pos="VERB" tense="PRESENT">reflect&abreve;</EVENT>realit&abreve;&tcedil;i<TIMEX3 anchorTimeID="t73" functionInDocument="NONE" temporalFunction="true" tid="t77" type="DATE" value="PRESENT_REF">curente</TIMEX3>. "</s><s>C&acirc;t despre curte ,<EVENT aspect="NONE" class="I_ACTION" eid="e66" eiid="ei2146" eventID="e66" polarity="POS" pos="VERB" tense="PAST">a reu&scedil;it</EVENT>prin decizia sa trunchiat&abreve; s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e67" eiid="ei2147" eventID="e67" polarity="POS" pos="VERB" tense="INFINITIVE">arunce</EVENT>&icirc;ndoial&abreve; at&acirc;t asupra constitu&tcedil;ionalit&abreve;&tcedil;ii prevederilor privind imigra&tcedil;ia pe care le- a instituit , c&acirc;t &scedil;i asupra adev&abreve;ratului s&abreve;u angajament &icirc;n lupta cu stereotipurile sexuale .</s></TEXT></BODY>
+  <TRAILER>
+    <s>NYT-04-24-98 2149EDT</s>
+  </TRAILER>
+  <TLINK eventID="e66" lid="l33" relType="BEFORE" relatedToTime="t73"/>
+  <TLINK eventID="e53" lid="l32" relType="BEFORE" relatedToTime="t73"/>
+  <TLINK eventID="e54" lid="l31" relType="BEFORE" relatedToTime="t73"/>
+  <TLINK eventID="e51" lid="l30" relType="BEFORE" relatedToTime="t73"/>
+  <TLINK eventID="e45" lid="l29" relType="BEFORE" relatedToTime="t73"/>
+  <TLINK eventID="e47" lid="l28" relType="BEFORE" relatedToTime="t73"/>
+    <TLINK eventID="e43" lid="l27" relType="IS_INCLUDED" relatedToTime="t75"/>
+  <TLINK eventID="e1999" lid="l26" relType="BEFORE" relatedToTime="t73"/>
+  <TLINK eventID="e28" lid="l25" relType="IS_INCLUDED" relatedToEvent="e1999"/>
+  <TLINK eventID="e27" lid="l24" relType="BEFORE" relatedToTime="t73"/>
+  <TLINK eventID="e25" lid="l23" relType="IDENTITY" relatedToEvent="e24"/>
+  <TLINK eventID="e24" lid="l22" relType="BEFORE" relatedToTime="t73"/>
+  <TLINK eventID="e26" lid="l21" relType="BEFORE" relatedToTime="t73"/>
+  <TLINK eventID="e11" lid="l20" relType="BEFORE" relatedToTime="t73"/>
+  <TLINK eventID="e2040" lid="l19" relType="IS_INCLUDED" relatedToTime="t76"/>
+  <TLINK eventID="e60" lid="l1" relType="IDENTITY" relatedToEvent="e2004"/>
+  <TLINK eventID="e60" lid="l2" relType="SIMULTANEOUS" relatedToEvent="e65" signalID="s64"/>
+  <TLINK eventID="e1" lid="l3" relType="IS_INCLUDED" relatedToTime="t74" signalID="s1997"/>
+  <TLINK eventID="e4" lid="l4" relType="IS_INCLUDED" relatedToTime="t75"/>
+  <TLINK eventID="e5" lid="l5" relType="IS_INCLUDED" relatedToTime="t76"/>
+  <TLINK eventID="e2031" lid="l6" relType="SIMULTANEOUS" relatedToEvent="e4" signalID="s7"/>
+  <TLINK eventID="e8" lid="l7" relType="IDENTITY" relatedToEvent="e2031"/>
+  <TLINK eventID="e32" lid="l8" relType="IS_INCLUDED" relatedToEvent="e33" signalID="s34"/>
+  <TLINK eventID="e56" lid="l9" relType="SIMULTANEOUS" relatedToEvent="e59" signalID="s58"/>
+  <SLINK eventID="e59" lid="l18" relType="MODAL" subordinatedEvent="e60"/>
+  <SLINK eventID="e8" lid="l17" relType="FACTIVE" subordinatedEvent="e2040"/>
+  <SLINK eventID="e66" lid="l10" relType="FACTIVE" subordinatedEvent="e67"/>
+  <SLINK eventID="e1" lid="l11" relType="EVIDENTIAL" subordinatedEvent="e4"/>
+  <SLINK eventID="e27" lid="l12" relType="FACTIVE" subordinatedEvent="e1998"/>
+    <SLINK eventID="e43" lid="l13" relType="MODAL" subordinatedEvent="e44"/>
+  <SLINK eventID="e45" lid="l14" relType="MODAL" subordinatedEvent="e46"/>
+  <SLINK eventID="e47" lid="l15" relType="MODAL" subordinatedEvent="e48"/>
+  <SLINK eventID="e51" lid="l16" relType="MODAL" subordinatedEvent="e52"/>
+</TimeML>

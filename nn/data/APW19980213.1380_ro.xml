@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> APW19980213.1380 </DOCNO>
+  <DOCTYPE SOURCE="newswire">&Scedil;TIRI</DOCTYPE>
+  <DATE_TIME> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t30" type="TIME" value="1998-02-13T15:44:00">02/13/1998 15:44:00</TIMEX3> </DATE_TIME>
+  <HEADER>
+w2227 Cx1f wstm-
+r i Cx13  Cx11 BC-Puerto Rico-Ostatic Ucis     02-13 0243
+</HEADER>
+  <BODY><SLUG> BC-Puerto Rico-Ostatic Ucis,0246 </SLUG><HEADLINE>
+Poli&tcedil;ia a<EVENT aspect="NONE" class="OCCURRENCE" eid="e41" eiid="ei302" eventID="e41" polarity="POS" pos="VERB" tense="PRESENT"> descoperit</EVENT> corpul <EVENT aspect="NONE" class="OCCURRENCE" eid="e40" eiid="ei303" eventID="e40" polarity="POS" pos="ADJECTIVE" tense="NONE">dezmembrat</EVENT> al unui b&abreve;rbat <EVENT aspect="NONE" class="OCCURRENCE" eid="e39" eiid="ei304" eventID="e39" polarity="POS" pos="VERB" tense="PASTPART">r&abreve;pit</EVENT>  miercuri
+</HEADLINE>
+UR De HILARIO DE LEON QC
+UR Reporter Associated Press QC
+
+<TEXT>
+<s><ENAMEX TYPE="LOCATION">CAGUAS</ENAMEX>,<ENAMEX TYPE="LOCATION">Puerto Rico</ENAMEX>(<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ R&abreve;pitorii &scedil;i- au <EVENT aspect="NONE" class="ASPECTUAL" eid="e1" eiid="ei305" eventID="e1" polarity="POS" pos="VERB" tense="PAST">respectat</EVENT><EVENT class="I_ACTION" eid="e42">promisiunea</EVENT>de a <EVENT aspect="NONE" class="OCCURRENCE" eid="e2" eiid="ei307" eventID="e2" polarity="POS" pos="VERB" tense="INFINITIVE">ucide</EVENT>un proprietar de magazin pe care l- au <EVENT aspect="NONE" class="OCCURRENCE" eid="e3" eiid="ei308" eventID="e3" polarity="POS" pos="VERB" tense="PAST">luat</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e43" eiid="ei309" eventID="e43" polarity="POS" pos="NOUN" tense="NONE">ostatic</EVENT>&scedil;i poli&tcedil;ia a <EVENT aspect="NONE" class="OCCURRENCE" eid="e4" eiid="ei310" eventID="e4" polarity="POS" pos="VERB" tense="PAST">g&abreve;sit</EVENT> corpul <EVENT aspect="NONE" class="OCCURRENCE" eid="e5" eiid="ei311" eventID="e5" polarity="POS" pos="ADJECTIVE" tense="NONE">dezmembrat</EVENT>&scedil;i <EVENT aspect="NONE" class="OCCURRENCE" eid="e44" eiid="ei312" eventID="e44" polarity="POS" pos="ADJECTIVE" tense="NONE">decapitat</EVENT>al b&abreve;rbatului <TIMEX3 anchorTimeID="t30" functionInDocument="NONE" temporalFunction="true" tid="t33" type="DATE" value="1998-02-13">vineri</TIMEX3><EVENT aspect="NONE" class="OCCURRENCE" eid="e6" eiid="ei313" eventID="e6" polarity="POS" pos="VERB" tense="PASTPART">&icirc;mpachetat</EVENT>&icirc;n pungi de gunoi din plastic .</s>
+<s>Poli&tcedil;ia<EVENT aspect="NONE" class="REPORTING" eid="e8" eiid="ei314" eventID="e8" polarity="POS" pos="VERB" tense="PAST">a confirmat</EVENT><TIMEX3 anchorTimeID="t30" functionInDocument="NONE" temporalFunction="true" tid="t39" type="DATE" value="1998-02-13">vineri</TIMEX3>c&abreve; cadavrul<EVENT aspect="NONE" class="OCCURRENCE" eid="e9" eiid="ei315" eventID="e9" polarity="POS" pos="VERB" tense="PAST">g&abreve;sit</EVENT>pe o &scedil;osea &icirc;n aceast&abreve; municipalitate<CARDINAL>la 15_mile</CARDINAL>spre sud de<ENAMEX TYPE="PERSON">San Juan</ENAMEX>&icirc;i<EVENT aspect="NONE" class="STATE" eid="e10" eiid="ei316" eventID="e10" polarity="POS" pos="VERB" tense="PAST">apar&tcedil;inea</EVENT>lui<ENAMEX TYPE="PERSON">Jorge Hernandez ,<CARDINAL>49</CARDINAL></ENAMEX>de ani .</s><s><ENAMEX TYPE="PERSON">Hernandez</ENAMEX>a fost<EVENT aspect="NONE" class="OCCURRENCE" eid="e11" eiid="ei317" eventID="e11" polarity="POS" pos="VERB" tense="PAST">r&abreve;pit</EVENT>din magazinul s&abreve;u mic , de cartier , din ora&scedil;ul<ENAMEX TYPE="LOCATION">Trujillo Alto</ENAMEX><SIGNAL sid="s45">la</SIGNAL><TIMEX3 anchorTimeID="t30" functionInDocument="NONE" temporalFunction="true" tid="t35" type="TIME" value="1998-02-11T22:00">10 p.m. miercuri</TIMEX3>,<EVENT aspect="NONE" class="REPORTING" eid="e12" eiid="ei318" eventID="e12" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>poli&tcedil;ia .</s> <s>R&abreve;pitorii lui<EVENT aspect="NONE" class="I_ACTION" eid="e13" eiid="ei319" eventID="e13" polarity="POS" pos="VERB" tense="PAST">au cerut</EVENT>o<EVENT aspect="NONE" class="OCCURRENCE" eid="e162" eiid="ei320" eventID="e162" polarity="POS" pos="NOUN" tense="NONE">r&abreve;scump&abreve;rare</EVENT>de<CARDINAL>1_milion_de_dolari</CARDINAL>, dar<EVENT aspect="NONE" class="OCCURRENCE" eid="e47" eiid="ei321" eventID="e47" polarity="POS" pos="NOUN" tense="NONE">negocierile</EVENT> s- au <EVENT aspect="NONE" class="ASPECTUAL" eid="e14" eiid="ei322" eventID="e14" polarity="POS" pos="VERB" tense="PAST">&icirc;ntrerupt</EVENT><TIMEX3 anchorTimeID="t30" functionInDocument="NONE" temporalFunction="true" tid="t36" type="TIME" value="1998-02-12T12:00">joi la amiaz&abreve;</TIMEX3>.</s>
+<s>Poli&tcedil;ia nu<EVENT aspect="NONE" class="REPORTING" eid="e15" eiid="ei323" eventID="e15" polarity="POS" pos="VERB" tense="PAST">a dat</EVENT>detalii despre<EVENT aspect="NONE" class="I_ACTION" eid="e48" eiid="ei324" eventID="e48" polarity="POS" pos="NOUN" tense="NONE">negocierile</EVENT>cu r&abreve;pitorii pentru<EVENT aspect="NONE" class="OCCURRENCE" eid="e50" eiid="ei325" eventID="e50" polarity="POS" pos="NOUN" tense="NONE">returnarea</EVENT>lui<ENAMEX TYPE="PERSON">Hernandez</ENAMEX>.</s><s>Cadavrul proprietarului de magazin a fost<EVENT aspect="NONE" class="OCCURRENCE" eid="e17" eiid="ei326" eventID="e17" polarity="POS" pos="VERB" tense="PAST">g&abreve;sit</EVENT>cu bra&tcedil;ele &scedil;i capul<EVENT aspect="NONE" class="OCCURRENCE" eid="e51" eiid="ei327" eventID="e51" polarity="POS" pos="ADJECTIVE" tense="PAST">t&abreve;iate</EVENT>&scedil;i cu p&abreve;r&tcedil;ile<EVENT aspect="NONE" class="OCCURRENCE" eid="e18" eiid="ei328" eventID="e18" polarity="POS" pos="VERB" tense="PAST">&icirc;nghesuite</EVENT>&icirc;n pungi de gunoi separate .</s> <s>Un trec&abreve;tor<EVENT aspect="NONE" class="OCCURRENCE" eid="e20" eiid="ei329" eventID="e20" polarity="POS" pos="VERB" tense="PAST">a sunat</EVENT>poli&tcedil;ia pentru a<EVENT aspect="NONE" class="OCCURRENCE" eid="e21" eiid="ei330" eventID="e21" polarity="POS" pos="VERB" tense="INFINITIVE">raporta</EVENT>cadavrul de_pe &scedil;osea .</s><s><ENAMEX TYPE="PERSON">Superintendentul poli&tcedil;iei din Puerto Rico</ENAMEX>,<ENAMEX TYPE="PERSON">Pedro Toledo</ENAMEX>,<EVENT aspect="NONE" class="I_ACTION" eid="e22" eiid="ei331" eventID="e22" polarity="POS" pos="VERB" tense="PAST">a &icirc;ndemnat</EVENT>oamenii care ar putea fi<EVENT aspect="NONE" class="OCCURRENCE" eid="e23" eiid="ei332" eventID="e23" modality="might" polarity="POS" pos="VERB" tense="NONE">&tcedil;inti&tcedil;i</EVENT>de r&abreve;pitori s&abreve; fie<EVENT aspect="NONE" class="STATE" eid="e25" eiid="ei333" eventID="e25" polarity="POS" pos="ADJECTIVE" tense="PRESENT">aten&tcedil;i</EVENT>.</s><s>" A fost o<EVENT aspect="NONE" class="OCCURRENCE" eid="e26" eiid="ei334" eventID="e26" polarity="POS" pos="NOUN" tense="NONE">cre&scedil;tere</EVENT>&icirc;n<ENAMEX TYPE="LOCATION">Puerto Rico</ENAMEX>&icirc;n astfel de lucruri &scedil;i unele dintre aceste bande de r&abreve;pitori sunt<EVENT aspect="NONE" class="STATE" eid="e27" eiid="ei335" eventID="e27" polarity="POS" pos="VERB" tense="PRESENT">formate</EVENT>din str&abreve;ini " ,<EVENT aspect="NONE" class="REPORTING" eid="e28" eiid="ei336" eventID="e28" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT><ENAMEX TYPE="PERSON">Toledo</ENAMEX>.</s><s>&Icirc;n timp ce unele &tcedil;&abreve;ri latino-americane ca<ENAMEX TYPE="LOCATION">Mexicul</ENAMEX>&scedil;i<ENAMEX TYPE="LOCATION">Columbia</ENAMEX>au<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e29" eiid="ei337" eventID="e29" polarity="POS" pos="VERB" tense="PRESENT">suferit</EVENT>&icirc;n_urma unei invazii de<EVENT aspect="NONE" class="OCCURRENCE" eid="e276" eiid="ei338" eventID="e276" polarity="POS" pos="NOUN" tense="NONE">r&abreve;piri</EVENT><SIGNAL sid="s52">&icirc;n</SIGNAL><TIMEX3 anchorTimeID="t30" functionInDocument="NONE" temporalFunction="true" tid="t37" type="DURATION" value="PXY">ultimii ani</TIMEX3>,<EVENT aspect="NONE" class="OCCURRENCE" eid="e281" eiid="ei339" eventID="e281" polarity="POS" pos="NOUN" tense="NONE">infrac&tcedil;iunea</EVENT>nu a fost<EVENT aspect="PERFECTIVE" class="STATE" eid="e54" eiid="ei340" eventID="e54" polarity="NEG" pos="ADJECTIVE" tense="PRESENT">comun&abreve;</EVENT>&icirc;n comunitatea lor<ENAMEX TYPE="LOCATION">din SUA</ENAMEX>.</s></TEXT>
+(PROFILE
+(WS SL:BC-Puerto Rico-Hostage Killed; CT:i;
+(REG:CRB;)
+(REG:ENGL;)
+(LANG:ENGLISH;))
+)
+</BODY>
+  <TRAILER>
+    <s>AP-NY-02-13-98 1544EST</s>
+  </TRAILER>
+  <TLINK eventID="e54" lid="l55" relType="IS_INCLUDED" relatedToTime="t37"/>
+  <TLINK eventID="e23" lid="l54" relType="AFTER" relatedToEvent="e22"/>
+  <TLINK eventID="e15" lid="l53" relType="IS_INCLUDED" relatedToTime="t30"/>
+  <TLINK eventID="e12" lid="l52" relType="IS_INCLUDED" relatedToTime="t30"/>
+  <TLINK eventID="e42" lid="l51" relType="BEFORE" relatedToEvent="e2"/>
+  <TLINK eventID="e276" lid="l2" relType="IDENTITY" relatedToEvent="e281"/>
+  <TLINK eventID="e40" lid="l8" relType="AFTER" relatedToEvent="e39"/>
+  <TLINK eventID="e40" lid="l9" relType="BEFORE" relatedToEvent="e41"/>
+  <TLINK eventID="e1" lid="l10" relType="BEFORE" relatedToTime="t30"/>
+  <TLINK eventID="e1" lid="l11" relType="AFTER" relatedToEvent="e39"/>
+  <TLINK eventID="e3" lid="l12" relType="IDENTITY" relatedToEvent="e43"/>
+  <TLINK eventID="e3" lid="l13" relType="IDENTITY" relatedToEvent="e39"/>
+  <TLINK eventID="e4" lid="l14" relType="IDENTITY" relatedToEvent="e41"/>
+  <TLINK eventID="e5" lid="l15" relType="IDENTITY" relatedToEvent="e40"/>
+  <TLINK eventID="e5" lid="l16" relType="IS_INCLUDED" relatedToEvent="e51"/>
+  <TLINK eventID="e44" lid="l17" relType="IS_INCLUDED" relatedToEvent="e51"/>
+  <TLINK eventID="e6" lid="l19" relType="AFTER" relatedToEvent="e51"/>
+  <TLINK eventID="e8" lid="l20" relType="IS_INCLUDED" relatedToEvent="e9"/>
+  <TLINK eventID="e9" lid="l21" relType="IDENTITY" relatedToTime="t33"/>
+  <TLINK eventID="e9" lid="l22" relType="IDENTITY" relatedToEvent="e4"/>
+  <TLINK eventID="e10" lid="l23" relType="BEFORE" relatedToEvent="e9"/>
+  <TLINK eventID="e11" lid="l24" relType="IDENTITY" relatedToEvent="e39"/>
+  <TLINK eventID="e11" lid="l25" relType="IS_INCLUDED" relatedToTime="t35" signalID="s45"/>
+  <TLINK eventID="e13" lid="l26" relType="AFTER" relatedToEvent="e11"/>
+  <TLINK eventID="e47" lid="l27" relType="AFTER" relatedToEvent="e13"/>
+  <TLINK eventID="e14" lid="l28" relType="SIMULTANEOUS" relatedToTime="t36" signalID="s187"/>
+  <TLINK eventID="e48" lid="l29" relType="IDENTITY" relatedToEvent="e47"/>
+  <TLINK eventID="e17" lid="l30" relType="IDENTITY" relatedToEvent="e9"/>
+  <TLINK eventID="e18" lid="l31" relType="IDENTITY" relatedToEvent="e6"/>
+  <TLINK eventID="e20" lid="l32" relType="BEFORE" relatedToEvent="e17"/>
+  <TLINK eventID="e21" lid="l33" relType="BEFORE" relatedToEvent="e17"/>
+  <TLINK eventID="e22" lid="l34" relType="AFTER" relatedToEvent="e17"/>
+  <TLINK eventID="e28" lid="l35" relType="SIMULTANEOUS" relatedToEvent="e22"/>
+  <TLINK eventID="e29" lid="l37" relType="IS_INCLUDED" relatedToTime="t37" signalID="s52"/>
+  <TLINK eventID="e29" lid="l38" relType="INCLUDES" relatedToEvent="e276"/>
+  <SLINK eventID="e29" lid="l50" relType="FACTIVE" subordinatedEvent="e276"/>
+  <SLINK eventID="e42" lid="l39" relType="MODAL" subordinatedEvent="e2"/>
+  <SLINK eventID="e8" lid="l40" relType="EVIDENTIAL" subordinatedEvent="e10"/>
+  <SLINK eventID="e12" lid="l41" relType="EVIDENTIAL" subordinatedEvent="e11"/>
+  <SLINK eventID="e13" lid="l42" relType="MODAL" subordinatedEvent="e162"/>
+  <SLINK eventID="e48" lid="l43" relType="MODAL" subordinatedEvent="e50"/>
+  <SLINK eventID="e20" lid="l44" relType="MODAL" subordinatedEvent="e21"/>
+  <SLINK eventID="e22" lid="l45" relType="MODAL" subordinatedEvent="e25"/>
+  <SLINK eventID="e28" lid="l46" relType="EVIDENTIAL" subordinatedEvent="e26"/>
+  <SLINK eventID="e28" lid="l47" relType="EVIDENTIAL" subordinatedEvent="e27"/>
+  <ALINK eventID="e1" lid="l48" relType="CULMINATES" relatedToEvent="e42"/>
+  <ALINK eventID="e14" lid="l49" relType="TERMINATES" relatedToEvent="e47"/>
+</TimeML>

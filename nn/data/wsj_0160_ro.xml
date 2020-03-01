@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> WSJ891102-0031 </DOCNO>
+  <DD> = 891102 </DD>
+  <AN> 891102-0031. </AN>
+  <HL> Business Brief -- Savin Corp.:
+@  Office Products Firm Posts
+@  Net Loss for Third Quarter </HL>
+  <DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t29" type="DATE" value="1989-11-02">11/02/89</TIMEX3> </DD>
+  <SO> WALL STREET JOURNAL (J) </SO>
+  <CO> SVB </CO>
+  <IN> EARNINGS (ERN) </IN>
+  <TEXT>
+    <s><ENAMEX TYPE="ORGANIZATION">Savin Corp .</ENAMEX><EVENT aspect="NONE" class="REPORTING" eid="e1" eiid="ei148" eventID="e1" polarity="POS" pos="VERB" tense="PAST">a raportat</EVENT>o<EVENT aspect="NONE" class="OCCURRENCE" eid="e2" eiid="ei149" eventID="e2" polarity="POS" pos="NOUN" tense="NONE">pierdere</EVENT>net&abreve;<TIMEX3 anchorTimeID="t29" functionInDocument="NONE" temporalFunction="true" tid="t30" type="TIME" value="1989-Q3">pentru al treilea trimestru</TIMEX3>de<NUMEX TYPE="MONEY">35.2_milioane_USD</NUMEX>, sau<NUMEX TYPE="MONEY">31 cen&tcedil;i</NUMEX>ac&tcedil;iunea , comparat cu<EVENT aspect="NONE" class="OCCURRENCE" eid="e32" eiid="ei150" eventID="e32" polarity="POS" pos="NOUN" tense="NONE">profitul</EVENT><TIMEX3 anchorTimeID="t30" functionInDocument="NONE" temporalFunction="true" tid="t31" type="TIME" value="1988-Q3">de un an mai devreme</TIMEX3>de<NUMEX TYPE="MONEY">3.8_milioane_USD</NUMEX>, sau<NUMEX TYPE="MONEY">un cent</NUMEX>ac&tcedil;iunea .</s>
+    <s>Un purt&abreve;tor de cuv&acirc;nt pentru compania cu baza &icirc;n Stamford , Conn .<EVENT aspect="NONE" class="REPORTING" eid="e4" eiid="ei151" eventID="e4" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>c&abreve; opera&tcedil;iunile au avut o<EVENT aspect="NONE" class="OCCURRENCE" eid="e6" eiid="ei152" eventID="e6" polarity="POS" pos="NOUN" tense="NONE">pierdere</EVENT>de<NUMEX TYPE="MONEY">5.5_milioane_USD</NUMEX>&icirc;n<TIMEX3 anchorTimeID="t30" functionInDocument="NONE" temporalFunction="true" tid="t33" type="TIME" value="1989-Q3">trimestru</TIMEX3>; &icirc;n_plus ,<EVENT aspect="NONE" class="OCCURRENCE" eid="e9" eiid="ei153" eventID="e9" polarity="POS" pos="NOUN" tense="NONE">pierderea</EVENT>a fost<EVENT aspect="NONE" class="OCCURRENCE" eid="e10" eiid="ei154" eventID="e10" polarity="POS" pos="VERB" tense="PAST">m&abreve;rit&abreve;</EVENT>de cheltuieli nerecurente totaliz&acirc;nd<NUMEX TYPE="MONEY">23.5_milioane_USD</NUMEX>&scedil;i<NUMEX TYPE="MONEY">8.2_milioane_USD</NUMEX>&icirc;n ajust&abreve;ri ale evalu&abreve;rii activelor pe care le- a descris ca " neobi&scedil;nute . "</s>
+    <s>Cheltuielile au fost<EVENT aspect="NONE" class="OCCURRENCE" eid="e18" eiid="ei155" eventID="e18" polarity="POS" pos="VERB" tense="PAST">compensate</EVENT>&icirc;n_parte de un<EVENT aspect="NONE" class="OCCURRENCE" eid="e40" eiid="ei156" eventID="e40" polarity="POS" pos="NOUN" tense="NONE">c&acirc;&scedil;tig</EVENT><NUMEX TYPE="MONEY">de 2_milioane_USD</NUMEX>din<EVENT aspect="NONE" class="OCCURRENCE" eid="e19" eiid="ei157" eventID="e19" polarity="POS" pos="NOUN" tense="NONE">v&acirc;nz&abreve;rile</EVENT>investi&tcedil;iilor a<CARDINAL>dou&abreve;</CARDINAL>&icirc;ntreprinderi comune ,<EVENT aspect="NONE" class="REPORTING" eid="e23" eiid="ei158" eventID="e23" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>el .</s>
+    <s>Beneficiul<EVENT aspect="NONE" class="OCCURRENCE" eid="e24" eiid="ei159" eventID="e24" polarity="POS" pos="VERB" tense="PAST">a sc&abreve;zut</EVENT><NUMEX TYPE="PERCENT">8%</NUMEX>la<NUMEX TYPE="MONEY"><EVENT aspect="NONE" class="STATE" eid="e138" eiid="ei163" eventID="e138" polarity="POS" pos="NOUN" tense="NONE">85.7_milioane_USD</EVENT></NUMEX>, de_la<NUMEX TYPE="MONEY">93.3_milioane_USD</NUMEX><TIMEX3 anchorTimeID="t30" functionInDocument="NONE" temporalFunction="true" tid="t38" type="TIME" value="1988-Q3">un an mai devreme</TIMEX3>.</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Savin</ENAMEX><EVENT aspect="NONE" class="REPORTING" eid="e25" eiid="ei161" eventID="e25" polarity="POS" pos="VERB" tense="PAST">a citat</EVENT>" o<EVENT aspect="NONE" class="OCCURRENCE" eid="e137" eiid="ei162" eventID="e137" polarity="POS" pos="NOUN" tense="NONE">sc&abreve;dere</EVENT>general&abreve; a cererii pentru produse de birou &icirc;n segmentele de pia&tcedil;&abreve; &icirc;n care concureaz&abreve;<ENAMEX TYPE="ORGANIZATION">Savin</ENAMEX>. "</s>
+  </TEXT>
+  <TLINK eventID="e25" lid="l26" relType="BEFORE" relatedToTime="t29"/>
+  <TLINK eventID="e138" lid="l25" relType="AFTER" relatedToEvent="e24"/>
+  <TLINK eventID="e137" lid="l1" relType="BEFORE" relatedToEvent="e1"/>
+  <TLINK lid="l2" relType="AFTER" relatedToEvent="e1" timeID="t29"/>
+  <TLINK eventID="e2" lid="l3" relType="SIMULTANEOUS" relatedToTime="t30"/>
+  <TLINK eventID="e32" lid="l4" relType="SIMULTANEOUS" relatedToTime="t31"/>
+  <TLINK eventID="e4" lid="l5" relType="BEFORE" relatedToTime="t29"/>
+  <TLINK eventID="e4" lid="l6" relType="SIMULTANEOUS" relatedToEvent="e1"/>
+  <TLINK eventID="e6" lid="l7" relType="SIMULTANEOUS" relatedToTime="t33"/>
+  <TLINK lid="l8" relType="IDENTITY" relatedToTime="t30" timeID="t33"/>
+  <TLINK eventID="e2" lid="l9" relType="INCLUDES" relatedToEvent="e6"/>
+  <TLINK eventID="e9" lid="l10" relType="IDENTITY" relatedToEvent="e2"/>
+  <TLINK eventID="e9" lid="l11" relType="SIMULTANEOUS" relatedToEvent="e10"/>
+  <TLINK eventID="e18" lid="l12" relType="SIMULTANEOUS" relatedToEvent="e9"/>
+  <TLINK eventID="e18" lid="l13" relType="SIMULTANEOUS" relatedToEvent="e40"/>
+  <TLINK eventID="e40" lid="l14" relType="SIMULTANEOUS" relatedToEvent="e19"/>
+  <TLINK eventID="e23" lid="l15" relType="SIMULTANEOUS" relatedToEvent="e4"/>
+  <TLINK lid="l17" relType="SIMULTANEOUS" relatedToTime="t38" timeID="t38"/>
+  <TLINK eventID="e24" lid="l18" relType="SIMULTANEOUS" relatedToTime="t30"/>
+  <SLINK eventID="e10" lid="l24" relType="FACTIVE" subordinatedEvent="e9"/>
+  <SLINK eventID="e1" lid="l19" relType="EVIDENTIAL" subordinatedEvent="e2"/>
+  <SLINK eventID="e1" lid="l20" relType="EVIDENTIAL" subordinatedEvent="e32"/>
+  <SLINK eventID="e4" lid="l21" relType="EVIDENTIAL" subordinatedEvent="e6"/>
+  <SLINK eventID="e23" lid="l22" relType="EVIDENTIAL" subordinatedEvent="e18"/>
+  <SLINK eventID="e25" lid="l23" relType="EVIDENTIAL" subordinatedEvent="e137"/>
+</TimeML>

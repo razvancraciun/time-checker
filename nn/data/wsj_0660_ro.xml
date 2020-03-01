@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> WSJ891030-0037 </DOCNO>
+  <DD> = 891030 </DD>
+  <AN> 891030-0037. </AN>
+  <HL> International Brief -- Erbamont N.V.:
+@  Montedison Agrees to Buy
+@  Rest of Stock for $37 Each </HL>
+  <DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t28" type="DATE" value="1989-10-30">10/30/89</TIMEX3> </DD>
+  <SO> WALL STREET JOURNAL (J) </SO>
+  <CO> MNT ERB </CO>
+  <IN> TENDER OFFERS, MERGERS, ACQUISITIONS (TNM) </IN>
+  <TEXT>
+    <s><ENAMEX TYPE="ORGANIZATION">Montedison S.p . A.</ENAMEX><EVENT aspect="NONE" class="I_STATE" eid="e1" eiid="ei137" eventID="e1" polarity="POS" pos="ADJECTIVE" tense="PAST">a fost de_acord</EVENT>definitiv s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e3" eiid="ei138" eventID="e3" polarity="POS" pos="VERB" tense="INFINITIVE">cumpere</EVENT>toate ac&tcedil;iunile publice ale<ENAMEX TYPE="ORGANIZATION">Erbamont N. V .</ENAMEX>pentru<NUMEX TYPE="MONEY">$ 37</NUMEX>fiecare .</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Montedison</ENAMEX><EVENT aspect="NONE" class="STATE" eid="e4" eiid="ei139" eventID="e4" polarity="POS" pos="VERB" tense="PRESENT">de&tcedil;ine</EVENT><TIMEX3 anchorTimeID="t28" functionInDocument="NONE" temporalFunction="true" tid="t29" type="DATE" value="PRESENT_REF">acum</TIMEX3>aproximativ<NUMEX TYPE="PERCENT">72%</NUMEX>din ac&tcedil;iunile extraordinare<ENAMEX TYPE="ORGANIZATION">Erbamont</ENAMEX>.</s>
+    <s>Companiile<EVENT aspect="NONE" class="REPORTING" eid="e5" eiid="ei140" eventID="e5" polarity="POS" pos="VERB" tense="PAST">au spus</EVENT>c&abreve;<EVENT aspect="NONE" class="I_STATE" eid="e30" eiid="ei141" eventID="e30" polarity="POS" pos="NOUN" tense="NONE">acordul</EVENT>a fost unanim<EVENT aspect="NONE" class="I_ACTION" eid="e6" eiid="ei142" eventID="e6" polarity="POS" pos="VERB" tense="PAST">acceptat</EVENT>de un comitet special al directorilor<ENAMEX TYPE="ORGANIZATION">Erbamont</ENAMEX>neafilia&tcedil;i la<ENAMEX TYPE="ORGANIZATION">Montedison</ENAMEX>.</s>
+    <s>Conform pactului , Montedison va<EVENT aspect="NONE" class="OCCURRENCE" eid="e8" eiid="ei143" eventID="e8" polarity="POS" pos="VERB" tense="FUTURE">face</EVENT>o<EVENT aspect="NONE" class="OCCURRENCE" eid="e9" eiid="ei144" eventID="e9" polarity="POS" pos="NOUN" tense="NONE">ofert&abreve;</EVENT>de $ 37 pe ac&tcedil;iune pentru stocul extraordinar<ENAMEX TYPE="ORGANIZATION">Erbamont</ENAMEX>.</s>
+    <s><EVENT aspect="NONE" class="OCCURRENCE" eid="e10" eiid="ei145" eventID="e10" polarity="POS" pos="NOUN" tense="NONE">Oferta</EVENT>va fi<SIGNAL sid="s32">urmat&abreve; de</SIGNAL><EVENT aspect="NONE" class="OCCURRENCE" eid="e12" eiid="ei146" eventID="e12" polarity="POS" pos="NOUN" tense="NONE">v&acirc;nzarea</EVENT>tuturor activelor<ENAMEX TYPE="ORGANIZATION">Erbamont</ENAMEX>, supuse tuturor pasivelor sale , c&abreve;tre<ENAMEX TYPE="ORGANIZATION">Montedison</ENAMEX>.</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Erbamont</ENAMEX>va fi<SIGNAL sid="s33">apoi</SIGNAL><EVENT aspect="NONE" class="OCCURRENCE" eid="e14" eiid="ei147" eventID="e14" polarity="POS" pos="ADJECTIVE" tense="FUTURE">lichidat&abreve;</EVENT>, orice ac&tcedil;ionar<ENAMEX TYPE="ORGANIZATION">Erbamont</ENAMEX><EVENT aspect="NONE" class="STATE" eid="e15" eiid="ei148" eventID="e15" polarity="POS" pos="VERB" tense="NONE">r&abreve;mas</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e16" eiid="ei149" eventID="e16" polarity="POS" pos="VERB" tense="PRESPART">primind</EVENT>o distribu&tcedil;ie de<NUMEX TYPE="MONEY">$ 37</NUMEX>pe ac&tcedil;iune .</s>
+    <s>Companiile<EVENT aspect="NONE" class="REPORTING" eid="e17" eiid="ei150" eventID="e17" polarity="POS" pos="VERB" tense="PAST">au spus</EVENT>c&abreve; tranzac&tcedil;ia este<EVENT aspect="PROGRESSIVE" class="OCCURRENCE" eid="e19" eiid="ei151" eventID="e19" polarity="POS" pos="VERB" tense="PRESENT">structurat&abreve;</EVENT>astfel pentru_c&abreve; legile Antilelor Olandeze , c&abreve;rora Erbamont le este supus&abreve; , nu <EVENT aspect="NONE" class="I_STATE" eid="e23" eiid="ei152" eventID="e23" polarity="NEG" pos="VERB" tense="PRESENT">accept&abreve;</EVENT> tranzac&tcedil;iile de fuziune .</s>
+  </TEXT>
+ <TLINK eventID="e23" lid="l1" relType="BEFORE" relatedToEvent="e19"/> 
+ <TLINK eventID="e1" lid="l2" relType="BEFORE" relatedToTime="t28"/>
+  <TLINK lid="l3" relType="INCLUDES" relatedToEvent="e4" timeID="t29"/>
+  <TLINK lid="l4" relType="INCLUDES" relatedToEvent="e1" timeID="t29"/>
+  <TLINK eventID="e4" lid="l5" relType="BEFORE" relatedToEvent="e3"/>
+  <TLINK eventID="e5" lid="l6" relType="AFTER" relatedToEvent="e1"/>
+  <TLINK eventID="e5" lid="l7" relType="BEFORE" relatedToTime="t28"/>
+  <TLINK eventID="e6" lid="l8" relType="BEGINS" relatedToEvent="e30"/>
+  <TLINK eventID="e8" lid="l9" relType="AFTER" relatedToTime="t28"/>
+  <TLINK eventID="e8" lid="l10" relType="IDENTITY" relatedToEvent="e9"/>
+  <TLINK eventID="e10" lid="l11" relType="IDENTITY" relatedToEvent="e9"/>
+  <TLINK eventID="e10" lid="l12" relType="BEFORE" relatedToEvent="e12" signalID="s32"/>
+  <TLINK eventID="e12" lid="l13" relType="BEFORE" relatedToEvent="e14" signalID="s33"/>
+  <TLINK eventID="e12" lid="l14" relType="BEGUN_BY" relatedToEvent="e16" signalID="s33"/>
+  <TLINK eventID="e15" lid="l15" relType="AFTER" relatedToEvent="e12"/>
+  <TLINK eventID="e15" lid="l16" relType="INCLUDES" relatedToEvent="e16"/>
+  <TLINK eventID="e17" lid="l17" relType="IDENTITY" relatedToEvent="e5"/>
+  <SLINK eventID="e6" lid="l21" relType="FACTIVE" subordinatedEvent="e30"/>
+  <SLINK eventID="e1" lid="l18" relType="MODAL" subordinatedEvent="e3"/>
+  <SLINK eventID="e5" lid="l19" relType="EVIDENTIAL" subordinatedEvent="e6"/>
+  <SLINK eventID="e17" lid="l20" relType="EVIDENTIAL" subordinatedEvent="e19"/>
+</TimeML>

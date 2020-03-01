@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> WSJ891026-0016 </DOCNO>
+  <DD> = 891026 </DD>
+  <AN> 891026-0016. </AN>
+  <HL> Dividend News:
+@  Oneida Ltd. </HL>
+  <DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t15" type="DATE" value="1989-10-26">10/26/89</TIMEX3> </DD>
+  <SO> WALL STREET JOURNAL (J) </SO>
+  <CO> OCQ </CO>
+  <IN> DIVIDENDS (DIV) </IN>
+  <TEXT>
+    <s><ENAMEX TYPE="ORGANIZATION">ONEIDA Ltd .</ENAMEX><EVENT aspect="NONE" class="OCCURRENCE" eid="e1" eiid="ei66" eventID="e1" polarity="POS" pos="VERB" tense="PAST">a declarat</EVENT>un dividend &icirc;n ac&tcedil;iuni<NUMEX TYPE="PERCENT">de 10%</NUMEX>,<EVENT aspect="NONE" class="STATE" eid="e24" eiid="ei67" eventID="e24" polarity="POS" pos="ADJECTIVE" tense="NONE">pl&abreve;tibil</EVENT><TIMEX3 anchorTimeID="t15" functionInDocument="NONE" temporalFunction="true" tid="t16" type="DATE" value="1989-12-15">pe 15_dec.</TIMEX3>pentru ac&tcedil;iunile din registrul<TIMEX3 anchorTimeID="t15" functionInDocument="NONE" temporalFunction="true" tid="t17" type="DATE" value="1989-11-17">17_nov.</TIMEX3></s>
+    <s>Fabricantul<ENAMEX TYPE="ORGANIZATION">ONEIDA</ENAMEX><ENAMEX TYPE="LOCATION">Ltd</ENAMEX>. de produse industriale , pentru consumatori &scedil;i servicii alimentare a mai<EVENT aspect="NONE" class="OCCURRENCE" eid="e3" eiid="ei68" eventID="e3" polarity="POS" pos="VERB" tense="PAST">declarat</EVENT>un dividend trimestrial &icirc;n numerar de<NUMEX TYPE="MONEY">12 cen&tcedil;i</NUMEX>ac&tcedil;iunea , cu acelea&scedil;i date de plat&abreve; &scedil;i registru .</s>
+    <s>Dividendul &icirc;n numerar<EVENT aspect="NONE" class="OCCURRENCE" eid="e4" eiid="ei69" eventID="e4" polarity="POS" pos="VERB" tense="PASTPART">pl&abreve;tit</EVENT>pe ac&tcedil;iunile comune se va<EVENT aspect="NONE" class="OCCURRENCE" eid="e6" eiid="ei70" eventID="e6" polarity="POS" pos="VERB" tense="FUTURE">aplica</EVENT>de_asemenea noilor ac&tcedil;iuni ,<EVENT aspect="NONE" class="REPORTING" eid="e7" eiid="ei71" eventID="e7" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>compania .</s>
+    <s>Manevra r&abreve;spl&abreve;te&scedil;te ac&tcedil;ionarii &scedil;i ar trebui<EVENT aspect="NONE" class="OCCURRENCE" eid="e8" eiid="ei72" eventID="e8" modality="should" polarity="POS" pos="VERB" tense="NONE">s&abreve; &icirc;mbun&abreve;t&abreve;&tcedil;easc&abreve;</EVENT>lichiditatea ac&tcedil;iunilor ,<EVENT aspect="NONE" class="REPORTING" eid="e10" eiid="ei73" eventID="e10" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT><ENAMEX TYPE="ORGANIZATION">Oneida</ENAMEX>.</s>
+    <s>Compania<EVENT aspect="NONE" class="OCCURRENCE" eid="e11" eiid="ei74" eventID="e11" polarity="POS" pos="VERB" tense="PRESENT">are</EVENT><CARDINAL>cam 8.8_milioane</CARDINAL>ac&tcedil;iuni restante .</s>
+    <s>&Icirc;n tranzac&tcedil;iile mixte<ENAMEX TYPE="ORGANIZATION">de_la Bursa de Valori din New_York</ENAMEX><TIMEX3 anchorTimeID="t15" functionInDocument="NONE" temporalFunction="true" tid="t63" type="DATE" value="1989-10-25">ieri</TIMEX3>, ac&tcedil;iunile<ENAMEX TYPE="ORGANIZATION">Oneida</ENAMEX><EVENT aspect="NONE" class="OCCURRENCE" eid="e12" eiid="ei75" eventID="e12" polarity="POS" pos="VERB" tense="PAST">s- au &icirc;nchis</EVENT>la<NUMEX TYPE="MONEY">$ 18 . 375</NUMEX>ac&tcedil;iunea , neschimbate .</s>
+  </TEXT>
+  <TLINK eventID="e10" lid="l12" relType="IS_INCLUDED" relatedToTime="t15"/>
+  <TLINK eventID="e7" lid="l11" relType="IS_INCLUDED" relatedToTime="t15"/>
+  <TLINK eventID="e12" lid="l1" relType="IS_INCLUDED" relatedToTime="t63"/>
+  <TLINK eventID="e1" lid="l2" relType="BEFORE" relatedToTime="t15"/>
+  <TLINK eventID="e24" lid="l3" relType="IS_INCLUDED" relatedToTime="t16"/>
+  <TLINK eventID="e3" lid="l5" relType="BEFORE" relatedToTime="t15"/>
+  <TLINK eventID="e4" lid="l6" relType="SIMULTANEOUS" relatedToEvent="e6"/>
+  <TLINK eventID="e11" lid="l7" relType="IS_INCLUDED" relatedToTime="t15"/>
+  <SLINK eventID="e7" lid="l8" relType="EVIDENTIAL" subordinatedEvent="e6"/>
+  <SLINK eventID="e7" lid="l9" relType="EVIDENTIAL" subordinatedEvent="e4"/>
+  <SLINK eventID="e10" lid="l10" relType="EVIDENTIAL" subordinatedEvent="e8"/>
+</TimeML>

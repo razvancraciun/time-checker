@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> WSJ891102-0033 </DOCNO>
+  <DD> = 891102 </DD>
+  <AN> 891102-0033. </AN>
+  <HL> Reupke Quits Post
+@  As General Manager
+@  Of Reuters Holdings </HL>
+  <DD> <TIMEX3 functionInDocument="PUBLICATION_TIME" temporalFunction="false" tid="t40" type="DATE" value="1989-11-02">11/02/89</TIMEX3> </DD>
+  <SO> WALL STREET JOURNAL (J) </SO>
+  <CO> RTRSY WNEWS </CO>
+  <DATELINE> LONDON  </DATELINE>
+  <TEXT>
+    <s><ENAMEX TYPE="ORGANIZATION">Reuters Holdings PLC</ENAMEX><EVENT aspect="NONE" class="REPORTING" eid="e1" eiid="ei489" eventID="e1" polarity="POS" pos="VERB" tense="PAST">au anun&tcedil;at</EVENT>c&abreve;<ENAMEX TYPE="PERSON">Michael Reupke</ENAMEX><EVENT aspect="NONE" class="OCCURRENCE" eid="e2" eiid="ei490" eventID="e2" polarity="POS" pos="VERB" tense="PAST">demisionat</EVENT>din pozi&tcedil;ia de manager general pentru a urm&abreve;ri interese nespecificate , o<EVENT aspect="NONE" class="OCCURRENCE" eid="e97" eiid="ei491" eventID="e97" polarity="POS" pos="NOUN" tense="NONE">mi&scedil;care</EVENT>pe care organiza&tcedil;ia de &scedil;tiri a definit -o ca o " separare amiabil&abreve; . "</s>
+    <s><ENAMEX TYPE="PERSON">Dl . Reupke , de 52 de ani</ENAMEX>&scedil;i un<EVENT aspect="NONE" class="STATE" eid="e47" eiid="ei492" eventID="e47" polarity="POS" pos="NOUN" tense="NONE">veteran</EVENT><ENAMEX TYPE="ORGANIZATION">Reuters</ENAMEX><TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t42" type="DURATION" value="P27Y">de 27 de ani</TIMEX3>, fusese<EVENT aspect="PERFECTIVE" class="STATE" eid="e360" eiid="ei551" eventID="e360" polarity="POS" pos="ADJECTIVE" tense="PAST">managerul general</EVENT>al serviciului de informa&tcedil;ii al companiei pentru doar<TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t43" type="DURATION" value="P6M"><CARDINAL>&scedil;ase</CARDINAL>luni</TIMEX3>.</s>
+    <s><EVENT aspect="NONE" class="I_ACTION" eid="e51" eiid="ei495" eventID="e51" polarity="POS" pos="NOUN" tense="NONE">Numirea</EVENT>lui &icirc;n acel<EVENT aspect="NONE" class="STATE" eid="e127" eiid="ei496" eventID="e127" polarity="POS" pos="NOUN" tense="NONE">post</EVENT>, care are responsabilit&abreve;&tcedil;i administrative , de personal &scedil;i politice ,<EVENT aspect="NONE" class="ASPECTUAL" eid="e6" eiid="ei497" eventID="e6" polarity="POS" pos="VERB" tense="PAST">a urmat</EVENT>unei<EVENT aspect="NONE" class="STATE" eid="e52" eiid="ei498" eventID="e52" polarity="POS" pos="NOUN" tense="NONE">pozi&tcedil;ii</EVENT><TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t44" type="DURATION" value="PXY">de c&acirc;&tcedil;iva ani</TIMEX3>ca redactor -&scedil;ef la<ENAMEX TYPE="ORGANIZATION">Reuters</ENAMEX>.</s>
+    <s>Nu a fost<EVENT aspect="NONE" class="I_ACTION" eid="e7" eiid="ei501" eventID="e7" polarity="NEG" pos="VERB" tense="PAST">numit</EVENT>nici un<EVENT aspect="NONE" class="STATE" eid="e157" eiid="ei500" eventID="e157" polarity="NEG" pos="NOUN" tense="NONE">successor</EVENT>&scedil;i<EVENT aspect="NONE" class="STATE" eid="e168" eiid="ei502" eventID="e168" polarity="POS" pos="NOUN" tense="NONE">sarcinile</EVENT><ENAMEX TYPE="PERSON">dlui. Reupke</ENAMEX>vor fi<EVENT aspect="NONE" class="ASPECTUAL" eid="e8" eiid="ei503" eventID="e8" polarity="POS" pos="VERB" tense="FUTURE">&icirc;mp&abreve;r&tcedil;ite</EVENT>&icirc;ntre al&tcedil;i<CARDINAL>trei</CARDINAL>directori<ENAMEX TYPE="ORGANIZATION">Reuters</ENAMEX>, a <EVENT aspect="NONE" class="REPORTING" eid="e9" eiid="ei504" eventID="e9" polarity="POS" pos="VERB" tense="PAST">spus</EVENT> compania.</s>
+    <s>&Icirc;ntr- un interviu telefonic ,<ENAMEX TYPE="PERSON">dl. Reupke</ENAMEX>a <EVENT aspect="NONE" class="REPORTING" eid="e10" eiid="ei505" eventID="e10" polarity="POS" pos="VERB" tense="PAST">spus</EVENT>c&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e55" eiid="ei506" eventID="e55" polarity="POS" pos="NOUN" tense="NONE">plecarea</EVENT>sa a fost din " motive personale , " pe care a refuzat s&abreve; le men&tcedil;ioneze .</s>
+    <s>" Nu este nici un motiv legat de servici &icirc;n<EVENT aspect="NONE" class="OCCURRENCE" eid="e57" eiid="ei507" eventID="e57" polarity="POS" pos="NOUN" tense="NONE">plecarea</EVENT>mea , " &scedil;i nici vreun dezacord asupra politicii , a <EVENT aspect="NONE" class="REPORTING" eid="e14" eiid="ei508" eventID="e14" polarity="POS" pos="VERB" tense="PAST">ad&abreve;ugat</EVENT>el .</s>
+    <s>El<EVENT aspect="NONE" class="REPORTING" eid="e15" eiid="ei509" eventID="e15" polarity="POS" pos="VERB" tense="PAST">a respins</EVENT><EVENT aspect="NONE" class="REPORTING" eid="e58" eiid="ei510" eventID="e58" polarity="POS" pos="NOUN" tense="NONE">zvonurile</EVENT>c&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e59" eiid="ei511" eventID="e59" polarity="POS" pos="NOUN" tense="NONE">plecarea</EVENT>lui s- ar fi <EVENT aspect="NONE" class="I_ACTION" eid="e16" eiid="ei512" eventID="e16" polarity="POS" pos="VERB" tense="PAST">datorat</EVENT><EVENT aspect="NONE" class="I_STATE" eid="e17" eiid="ei513" eventID="e17" polarity="POS" pos="NOUN" tense="NONE">dezam&abreve;girii</EVENT>c&abreve;<EVENT aspect="NONE" class="STATE" eid="e359" eiid="ei550" eventID="e359" polarity="POS" pos="NOUN" tense="NONE">pozi&tcedil;ia</EVENT>de manager general nu a<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e69" eiid="ei515" eventID="e69" polarity="NEG" pos="VERB" tense="PAST">dus</EVENT>la o<EVENT aspect="NONE" class="OCCURRENCE" eid="e362" eiid="ei553" eventID="e362" polarity="POS" pos="NOUN" tense="NONE">pozi&tcedil;ie</EVENT> de director al consiliului de administra&tcedil;ie la organiza&tcedil;ia de &scedil;tiri cu sediul la <ENAMEX TYPE="LOCATION">Londra</ENAMEX>.</s>
+    <s><ENAMEX TYPE="PERSON">Dl . Reupke</ENAMEX>a fost unul dintre cei<CARDINAL>trei</CARDINAL>directori din comitetul de opt directori care nu au<EVENT aspect="NONE" class="STATE" eid="e21" eiid="ei517" eventID="e21" polarity="NEG" pos="NOUN" tense="PAST">f&abreve;cut</EVENT>parte &scedil;i din consiliul de administra&tcedil;ie al companiei .</s>
+    <s>" Dac&abreve; ar fi trebuit<EVENT aspect="NONE" class="ASPECTUAL" eid="e23" eiid="ei519" eventID="e23" polarity="POS" pos="VERB" tense="PAST">s&abreve; aleg</EVENT>oamenii de m&acirc;ine , a&scedil; fi<EVENT aspect="PERFECTIVE" class="ASPECTUAL" eid="e24" eiid="ei520" eventID="e24" modality="would" polarity="POS" pos="VERB" tense="NONE">ales</EVENT>oamenii care sunt<TIMEX3 anchorTimeID="t40" functionInDocument="NONE" temporalFunction="true" tid="t46" type="DATE" value="PRESENT_REF">acum</TIMEX3><EVENT aspect="NONE" class="STATE" eid="e363" eiid="ei554" eventID="e363" polarity="POS" pos="PREPOSITION" tense="PRESENT">&icirc;n</EVENT>conducere , "<EVENT aspect="NONE" class="REPORTING" eid="e27" eiid="ei522" eventID="e27" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>el .</s>
+    <s>Un purt&abreve;tor de cuv&acirc;nt<ENAMEX TYPE="ORGANIZATION">Reuters</ENAMEX><EVENT aspect="NONE" class="REPORTING" eid="e28" eiid="ei523" eventID="e28" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>c&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e65" eiid="ei524" eventID="e65" polarity="POS" pos="NOUN" tense="NONE">plecarea</EVENT>nu<EVENT aspect="NONE" class="I_STATE" eid="e29" eiid="ei525" eventID="e29" polarity="NEG" pos="VERB" tense="PRESENT">reflect&abreve;</EVENT>" nici o<EVENT aspect="NONE" class="OCCURRENCE" eid="e72" eiid="ei526" eventID="e72" polarity="NEG" pos="NOUN" tense="NONE">schimbare</EVENT>a<EVENT aspect="NONE" class="STATE" eid="e73" eiid="ei527" eventID="e73" polarity="POS" pos="NOUN" tense="NONE">strategiei</EVENT>sau<EVENT aspect="NONE" class="OCCURRENCE" eid="e74" eiid="ei528" eventID="e74" polarity="POS" pos="NOUN" tense="NONE">profiturilor</EVENT>. "</s>
+    <s><ENAMEX TYPE="PERSON">Mark Shepperd</ENAMEX>, un analist la<ENAMEX TYPE="ORGANIZATION">UBS Phillips amp Drew</ENAMEX>&icirc;n<ENAMEX TYPE="LOCATION">Londra</ENAMEX>,<EVENT aspect="NONE" class="REPORTING" eid="e30" eiid="ei529" eventID="e30" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>, " Eu<EVENT aspect="NONE" class="PERCEPTION" eid="e31" eiid="ei530" eventID="e31" polarity="POS" pos="VERB" tense="PRESENT">b&abreve;nuiesc</EVENT>c&abreve; (<EVENT aspect="NONE" class="OCCURRENCE" eid="e66" eiid="ei531" eventID="e66" polarity="POS" pos="NOUN" tense="NONE">plecarea</EVENT>) va fi destul de<EVENT aspect="NONE" class="STATE" eid="e67" eiid="ei532" eventID="e67" polarity="POS" pos="ADJECTIVE" tense="FUTURE">irelevant&abreve;</EVENT>pentru companie .</s>
+    <s>A&scedil; fi foarte<EVENT aspect="NONE" class="I_STATE" eid="e32" eiid="ei533" eventID="e32" modality="would" polarity="POS" pos="VERB" tense="NONE">surprins</EVENT><SIGNAL sid="s381">dac&abreve;</SIGNAL><EVENT aspect="NONE" class="OCCURRENCE" eid="e75" eiid="ei534" eventID="e75" polarity="POS" pos="NOUN" tense="NONE">plecarea</EVENT>lui<EVENT aspect="NONE" class="ASPECTUAL" eid="e76" eiid="ei535" eventID="e76" polarity="POS" pos="VERB" tense="PRESENT">ar semnala</EVENT>vreo<EVENT aspect="NONE" class="OCCURRENCE" eid="e77" eiid="ei536" eventID="e77" polarity="POS" pos="NOUN" tense="NONE">schimbare</EVENT>&icirc;n<EVENT aspect="NONE" class="STATE" eid="e78" eiid="ei537" eventID="e78" polarity="POS" pos="NOUN" tense="NONE">strategie</EVENT>sau<EVENT aspect="NONE" class="ASPECTUAL" eid="e79" eiid="ei538" eventID="e79" polarity="POS" pos="NOUN" tense="NONE">modificare</EVENT>a<EVENT aspect="NONE" class="I_STATE" eid="e81" eiid="ei540" eventID="e81" polarity="POS" pos="NOUN" tense="NONE">previziunilor</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e80" eiid="ei539" eventID="e80" polarity="POS" pos="NOUN" tense="NONE">profitului</EVENT>. "</s>
+    <s>Pe pia&tcedil;a de<ENAMEX TYPE="ORGANIZATION">schimb a ac&tcedil;iunilor din<ENAMEX TYPE="LOCATION">Londra</ENAMEX></ENAMEX>, ac&tcedil;iunile<ENAMEX TYPE="ORGANIZATION">Reuters</ENAMEX><EVENT aspect="NONE" class="I_ACTION" eid="e35" eiid="ei541" eventID="e35" polarity="POS" pos="VERB" tense="PAST">au crescut</EVENT><NUMEX TYPE="MONEY">cu cinci pence la 913 pence</NUMEX>(<NUMEX TYPE="MONEY">$ 14 . 43</NUMEX>) .</s>
+    <s>Pe pia&tcedil;a f&abreve;r&abreve; intermediary din SUA , ac&tcedil;iunile de deposit americane ale<ENAMEX TYPE="ORGANIZATION">Reuters</ENAMEX>, fiecare reprezent&acirc;nd<CARDINAL>trei</CARDINAL>ac&tcedil;iuni pe pia&tcedil;a<ENAMEX TYPE="LOCATION">din Londra</ENAMEX>,<EVENT aspect="NONE" class="OCCURRENCE" eid="e36" eiid="ei542" eventID="e36" polarity="POS" pos="VERB" tense="PAST">s- au &icirc;nchis</EVENT>neschimbate la<NUMEX TYPE="MONEY">$ 43 . 875</NUMEX>.</s>
+    <s>Ultimul dintre cei<CARDINAL>trei</CARDINAL>directori care va<EVENT aspect="NONE" class="I_ACTION" eid="e37" eiid="ei544" eventID="e37" polarity="POS" pos="VERB" tense="FUTURE">prelua</EVENT><EVENT aspect="NONE" class="STATE" eid="e358" eiid="ei545" eventID="e358" polarity="POS" pos="NOUN" tense="NONE">sarcinile</EVENT><ENAMEX TYPE="PERSON">dlui Reupke</ENAMEX>este<ENAMEX TYPE="PERSON">Nigel Judah ,</ENAMEX>de<ENAMEX TYPE="PERSON"><CARDINAL>58</CARDINAL></ENAMEX>de ani , director de finan&tcedil;e &scedil;i director &icirc;n consiliul<ENAMEX TYPE="ORGANIZATION">Reuters</ENAMEX>.</s>
+    <s><ENAMEX TYPE="PERSON">Peter Holland ,<CARDINAL>45</CARDINAL></ENAMEX>, manager general adjunct ,<EVENT aspect="NONE" class="ASPECTUAL" eid="e38" eiid="ei546" eventID="e38" polarity="POS" pos="VERB" tense="PRESENT">devine</EVENT>director de afaceri corporatiste .</s>
+    <s>&Scedil;i<ENAMEX TYPE="PERSON">Patrick Mannix ,<CARDINAL>46</CARDINAL></ENAMEX>, manager tehnic interna&tcedil;ional ,<EVENT aspect="NONE" class="OCCURRENCE" eid="e39" eiid="ei548" eventID="e39" polarity="POS" pos="VERB" tense="PRESENT">devine</EVENT>director al programelor de calitate .</s>
+  </TEXT>
+  <TLINK eventID="e81" lid="l76" relType="IS_INCLUDED" relatedToTime="t40"/>
+  <TLINK eventID="e363" lid="l75" relType="IS_INCLUDED" relatedToTime="t40"/>
+  <TLINK eventID="e21" lid="l74" relType="BEFORE" relatedToTime="t40"/>
+  <TLINK eventID="e69" lid="l73" relType="AFTER" relatedToEvent="e359"/>
+  <TLINK eventID="e362" lid="l72" relType="IS_INCLUDED" relatedToTime="t40"/>
+  <TLINK eventID="e359" lid="l71" relType="IDENTITY" relatedToEvent="e127"/>
+  <TLINK eventID="e7" lid="l70" relType="BEFORE" relatedToTime="t40"/>
+  <TLINK eventID="e157" lid="l69" relType="AFTER" relatedToEvent="e2"/>
+  <TLINK eventID="e127" lid="l68" relType="IDENTITY" relatedToEvent="e360"/>
+  <TLINK eventID="e360" lid="l67" relType="DURING" relatedToTime="t43"/>
+  <TLINK eventID="e97" lid="l1" relType="IDENTITY" relatedToEvent="e2"/>
+  <TLINK lid="l2" relType="SIMULTANEOUS" relatedToEvent="e47" timeID="t42"/>
+  <TLINK eventID="e51" lid="l3" relType="IAFTER" relatedToEvent="e6"/>
+  <TLINK eventID="e52" lid="l4" relType="SIMULTANEOUS" relatedToTime="t44"/>
+  <TLINK eventID="e9" lid="l5" relType="SIMULTANEOUS" relatedToEvent="e1"/>
+  <TLINK eventID="e9" lid="l6" relType="BEFORE" relatedToEvent="e8"/>
+  <TLINK eventID="e10" lid="l7" relType="BEFORE" relatedToTime="t40"/>
+  <TLINK eventID="e10" lid="l8" relType="AFTER" relatedToEvent="e55"/>
+  <TLINK eventID="e55" lid="l9" relType="IDENTITY" relatedToEvent="e2"/>
+  <TLINK eventID="e55" lid="l10" relType="IDENTITY" relatedToEvent="e57"/>
+  <TLINK eventID="e14" lid="l11" relType="AFTER" relatedToEvent="e10"/>
+  <TLINK eventID="e15" lid="l13" relType="AFTER" relatedToEvent="e10"/>
+  <TLINK eventID="e1" lid="l14" relType="BEFORE" relatedToTime="t40"/>
+  <TLINK eventID="e59" lid="l15" relType="IDENTITY" relatedToEvent="e55"/>
+  <TLINK eventID="e1" lid="l16" relType="AFTER" relatedToEvent="e2"/>
+  <TLINK eventID="e27" lid="l17" relType="SIMULTANEOUS" relatedToEvent="e10"/>
+  <TLINK eventID="e39" lid="l18" relType="AFTER" relatedToTime="t40"/>
+  <TLINK eventID="e38" lid="l19" relType="AFTER" relatedToTime="t40"/>
+  <TLINK lid="l20" relType="INCLUDES" relatedToEvent="e27" timeID="t46"/>
+  <TLINK eventID="e28" lid="l21" relType="SIMULTANEOUS" relatedToEvent="e1"/>
+  <TLINK eventID="e65" lid="l22" relType="IDENTITY" relatedToEvent="e55"/>
+  <TLINK eventID="e30" lid="l23" relType="AFTER" relatedToEvent="e28"/>
+  <TLINK eventID="e66" lid="l24" relType="IDENTITY" relatedToEvent="e57"/>
+  <TLINK eventID="e75" lid="l25" relType="IDENTITY" relatedToEvent="e55"/>
+  <TLINK eventID="e77" lid="l26" relType="SIMULTANEOUS" relatedToEvent="e79"/>
+  <TLINK eventID="e78" lid="l27" relType="IDENTITY" relatedToEvent="e73"/>
+  <TLINK eventID="e80" lid="l28" relType="IDENTITY" relatedToEvent="e74"/>
+  <TLINK eventID="e35" lid="l29" relType="BEFORE" relatedToTime="t40"/>
+  <TLINK eventID="e36" lid="l30" relType="BEFORE" relatedToTime="t40"/>
+  <TLINK eventID="e358" lid="l31" relType="IDENTITY" relatedToEvent="e168"/>
+  <TLINK eventID="e37" lid="l32" relType="AFTER" relatedToTime="t40"/>
+  <SLINK eventID="e37" lid="l66" relType="FACTIVE" subordinatedEvent="e358"/>
+  <SLINK eventID="e78" lid="l65" relType="FACTIVE" subordinatedEvent="e81"/>
+  <SLINK eventID="e77" lid="l64" relType="FACTIVE" subordinatedEvent="e78"/>
+  <SLINK eventID="e76" lid="l63" relType="CONDITIONAL" signalID="s381" subordinatedEvent="e32"/>
+  <SLINK eventID="e72" lid="l62" relType="FACTIVE" subordinatedEvent="e74"/>
+  <SLINK eventID="e72" lid="l61" relType="FACTIVE" subordinatedEvent="e73"/>
+  <SLINK eventID="e69" lid="l60" relType="MODAL" subordinatedEvent="e362"/>
+  <SLINK eventID="e10" lid="l59" relType="EVIDENTIAL" subordinatedEvent="e55"/>
+    <SLINK eventID="e9" lid="l58" relType="EVIDENTIAL" subordinatedEvent="e8"/>
+  <SLINK eventID="e7" lid="l57" relType="MODAL" subordinatedEvent="e157"/>
+  <SLINK eventID="e51" lid="l56" relType="MODAL" subordinatedEvent="e127"/>
+  <SLINK eventID="e1" lid="l55" relType="EVIDENTIAL" subordinatedEvent="e2"/>
+  <SLINK eventID="e15" lid="l33" relType="FACTIVE" subordinatedEvent="e58"/>
+  <SLINK eventID="e58" lid="l34" relType="EVIDENTIAL" subordinatedEvent="e16"/>
+  <SLINK eventID="e16" lid="l35" relType="MODAL" subordinatedEvent="e59"/>
+  <SLINK eventID="e27" lid="l36" relType="EVIDENTIAL" subordinatedEvent="e24"/>
+  <SLINK eventID="e23" lid="l37" relType="CONDITIONAL" subordinatedEvent="e24"/>
+  <SLINK eventID="e28" lid="l38" relType="EVIDENTIAL" subordinatedEvent="e29"/>
+  <SLINK eventID="e29" lid="l39" relType="FACTIVE" subordinatedEvent="e72"/>
+  <SLINK eventID="e30" lid="l40" relType="EVIDENTIAL" subordinatedEvent="e31"/>
+  <SLINK eventID="e31" lid="l41" relType="MODAL" subordinatedEvent="e67"/>
+  <SLINK eventID="e30" lid="l42" relType="EVIDENTIAL" subordinatedEvent="e32"/>
+  <SLINK eventID="e76" lid="l44" relType="MODAL" subordinatedEvent="e77"/>
+  <SLINK eventID="e81" lid="l45" relType="MODAL" subordinatedEvent="e80"/>
+</TimeML>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> WSJ891027-0144 </DOCNO>
+  <DD> = 891027 </DD>
+  <AN> 891027-0144. </AN>
+  <HL> Dime Savings Bank Purchase </HL>
+  <DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t23" type="DATE" value="1989-10-27">10/27/89</TIMEX3> </DD>
+  <SO> WALL STREET JOURNAL (J) </SO>
+  <CO> DME STPT </CO>
+  <IN> TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+SAVINGS AND LOANS, THRIFTS, CREDIT UNIONS (SAL) </IN>
+  <DATELINE> GARDEN CITY, N.Y.  </DATELINE>
+  <TEXT>
+    <s><ENAMEX TYPE="ORGANIZATION">Dime Savings Bank din New_York</ENAMEX>a fost<EVENT aspect="NONE" class="I_ACTION" eid="e1" eiid="ei138" eventID="e1" polarity="POS" pos="VERB" stem="clear" tense="PAST">autorizat&abreve;</EVENT>de<ENAMEX TYPE="ORGANIZATION">Federal Deposit Insurance Corp .</ENAMEX>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e3" eiid="ei139" eventID="e3" polarity="POS" pos="VERB" stem="acquire" tense="INFINITIVE">achizi&tcedil;ioneze</EVENT><ENAMEX TYPE="ORGANIZATION">Starpointe Savings Bank din Somerset</ENAMEX>,<ENAMEX TYPE="LOCATION">N.J.</ENAMEX>,<EVENT aspect="NONE" class="REPORTING" eid="e4" eiid="ei140" eventID="e4" polarity="POS" pos="VERB" stem="say" tense="PAST">a spus</EVENT>banca .</s>
+    <s>Ac&tcedil;ionarii<ENAMEX TYPE="ORGANIZATION">Starpointe</ENAMEX>, care<EVENT aspect="NONE" class="I_ACTION" eid="e5" eiid="ei141" eventID="e5" polarity="POS" pos="VERB" stem="approve" tense="PAST">au aprobat</EVENT><EVENT aspect="NONE" class="STATE" eid="e20" eiid="ei142" eventID="e20" polarity="POS" pos="NOUN" stem="plan" tense="NONE">planul</EVENT><TIMEX3 anchorTimeID="t23" functionInDocument="NONE" temporalFunction="true" tid="t24" type="DATE" value="1989-04">&icirc;n aprilie trecut</TIMEX3>, vor<EVENT aspect="NONE" class="OCCURRENCE" eid="e6" eiid="ei143" eventID="e6" polarity="POS" pos="VERB" stem="receive" tense="FUTURE">primi</EVENT><NUMEX TYPE="MONEY">$ 21</NUMEX>&icirc;n numerar pe ac&tcedil;iune , sau un total<NUMEX TYPE="MONEY">de $ 63 milioane</NUMEX>.</s>
+    <s>FDIC<EVENT aspect="NONE" class="I_ACTION" eid="e9" eiid="ei144" eventID="e9" polarity="POS" pos="VERB" stem="clear" tense="PAST">a aprobat</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e10" eiid="ei145" eventID="e10" polarity="POS" pos="NOUN" stem="move" tense="NONE">maneva</EVENT><TIMEX3 anchorTimeID="t23" functionInDocument="NONE" temporalFunction="true" tid="t25" type="DATE" value="1989-10-26">ieri</TIMEX3>, iar b&abreve;ncile trebuie<EVENT aspect="NONE" class="OCCURRENCE" eid="e11" eiid="ei146" eventID="e11" modality="must" polarity="POS" pos="VERB" stem="wait" tense="NONE">s&abreve; a&scedil;tepte</EVENT><TIMEX3 functionInDocument="NONE" mod="EQUAL_OR_MORE" temporalFunction="false" tid="t26" type="DURATION" value="P30D"><CARDINAL>cel_pu&tcedil;in</CARDINAL>30 de zile</TIMEX3>&icirc;nainte_de<EVENT aspect="NONE" class="ASPECTUAL" eid="e14" eiid="ei147" eventID="e14" polarity="POS" pos="VERB" stem="close" tense="NONE">a &icirc;ncheia</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e15" eiid="ei148" eventID="e15" polarity="POS" pos="NOUN" stem="purchase" tense="NONE">cump&abreve;rarea</EVENT>.</s>
+    <s>Nu a fost<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e16" eiid="ei149" eventID="e16" polarity="NEG" pos="VERB" stem="set" tense="PRESENT">fixat&abreve;</EVENT>o dat&abreve; de &icirc;ncheiere .</s>
+    <s>Asocia&tcedil;iile de economii<EVENT aspect="NONE" class="I_ACTION" eid="e18" eiid="ei150" eventID="e18" polarity="POS" pos="NOUN" stem="agree" tense="PAST">au fost de acord</EVENT>cu<EVENT aspect="NONE" class="OCCURRENCE" eid="e19" eiid="ei151" eventID="e19" polarity="POS" pos="NOUN" stem="transaction" tense="NONE">tranzac&tcedil;ia</EVENT><SIGNAL sid="s22">&icirc;n</SIGNAL><TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t27" type="DATE" value="1988-08">august_1988</TIMEX3>.</s>
+  </TEXT>
+  <TLINK eventID="e15" lid="l22" relType="IDENTITY" relatedToEvent="e3"/>
+  <TLINK eventID="e1" lid="l1" origin="USER" relType="BEFORE" relatedToTime="t23"/>
+  <TLINK eventID="e4" lid="l2" origin="USER" relType="BEFORE" relatedToTime="t23"/>
+  <TLINK eventID="e11" lid="l3" origin="USER" relType="ENDED_BY" relatedToEvent="e14"/>
+  <TLINK eventID="e5" lid="l5" origin="USER" relType="IS_INCLUDED" relatedToTime="t24"/>
+  <TLINK eventID="e16" lid="l6" origin="USER" relType="INCLUDES" relatedToTime="t23"/>
+  <TLINK eventID="e6" lid="l7" origin="USER" relType="AFTER" relatedToTime="t23"/>
+  <TLINK eventID="e9" lid="l8" origin="USER" relType="IDENTITY" relatedToEvent="e1"/>
+  <TLINK eventID="e10" lid="l9" origin="USER" relType="IDENTITY" relatedToEvent="e3"/>
+  <TLINK eventID="e18" lid="l10" origin="USER" relType="IS_INCLUDED" relatedToTime="t27" signalID="s22"/>
+  <TLINK eventID="e9" lid="l11" origin="USER" relType="IS_INCLUDED" relatedToTime="t25"/>
+  <TLINK eventID="e11" lid="l12" origin="USER" relType="DURING" relatedToTime="t26"/>
+  <TLINK eventID="e19" lid="l13" origin="USER" relType="INCLUDES" relatedToEvent="e3"/>
+  <TLINK eventID="e18" lid="l14" origin="USER" relType="INCLUDES" relatedToEvent="e5"/>
+  <TLINK eventID="e18" lid="l15" origin="USER" relType="BEFORE" relatedToTime="t23"/>
+  <SLINK eventID="e1" lid="l16" relType="MODAL" subordinatedEvent="e3"/>
+  <SLINK eventID="e4" lid="l17" relType="EVIDENTIAL" subordinatedEvent="e1"/>
+  <SLINK eventID="e5" lid="l18" relType="FACTIVE" subordinatedEvent="e20"/>
+  <SLINK eventID="e9" lid="l19" relType="MODAL" subordinatedEvent="e10"/>
+  <SLINK eventID="e18" lid="l20" relType="MODAL" subordinatedEvent="e19"/>
+  <ALINK eventID="e14" lid="l21" relType="CULMINATES" relatedToEvent="e15"/>
+</TimeML>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> ed<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t14" type="DATE" value="1998-01-11">980111</TIMEX3>.1130.0089 </DOCNO>
+  <DOCTYPE SOURCE="broadcast news">&Scedil;TIRI</DOCTYPE>
+  <BODY>
+    <bn_episode_trans air_date="" program="CNN_Headline_News">
+      <section endTime="169.690" startTime="89.143" type="report">
+        <TEXT>
+          <turn endTime="125.580" speaker="Sachi_Koto" spkrtype="female" startTime="89.143">
+            <s>Luminile sunt<EVENT aspect="NONE" class="STATE" eid="e21" eiid="ei152" eventID="e21" polarity="POS" pos="VERB" tense="PRESENT">stinse</EVENT>&scedil;i c&abreve;ldura este<EVENT aspect="NONE" class="STATE" eid="e22" eiid="ei153" eventID="e22" polarity="POS" pos="ADJECTIVE" tense="PRESENT">&icirc;ntrerupt&abreve;</EVENT>iar acele semne vitale nu sunt<EVENT aspect="NONE" class="STATE" eid="e25" eiid="ei154" eventID="e25" polarity="NEG" pos="ADJECTIVE" tense="PRESENT">probabile</EVENT>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e1" eiid="ei155" eventID="e1" polarity="POS" pos="VERB" tense="INFINITIVE">se schimbe</EVENT>mult<SIGNAL sid="s26">&icirc;n</SIGNAL><TIMEX3 beginPoint="t14" functionInDocument="NONE" temporalFunction="true" tid="t15" type="DURATION" value="PXD">urm&abreve;toarele c&acirc;teva zile</TIMEX3>pentru oamenii din p&abreve;r&tcedil;ile<ENAMEX TYPE="LOCATION">Americii nord-estice</ENAMEX>&scedil;i<ENAMEX TYPE="LOCATION">Canadei estice</ENAMEX>.</s>
+            <turn sec="99.933">
+              <s>O puternic&abreve; furtun&abreve; de ghea&tcedil;&abreve;<EVENT aspect="NONE" class="ASPECTUAL" eid="e2" eiid="ei156" eventID="e2" polarity="POS" pos="VERB" tense="PRESENT">continu&abreve;</EVENT>s&abreve; -&scedil;i<EVENT aspect="NONE" class="STATE" eid="e3" eiid="ei157" eventID="e3" polarity="POS" pos="VERB" tense="INFINITIVE">p&abreve;streze</EVENT><EVENT aspect="NONE" class="STATE" eid="e27" eiid="ei158" eventID="e27" polarity="POS" pos="NOUN" tense="NONE">puterea</EVENT>.</s>
+              <turn sec="103.294"><s><TIMEX3 anchorTimeID="t14" functionInDocument="NONE" temporalFunction="true" tid="t16" type="DATE" value="1998-01-10">Ieri</TIMEX3><ENAMEX TYPE="PERSON">guvernatorul<ENAMEX TYPE="LOCATION">New_York -ului</ENAMEX>George Pataki</ENAMEX><EVENT aspect="NONE" class="OCCURRENCE" eid="e4" eiid="ei159" eventID="e4" polarity="POS" pos="VERB" tense="PAST">a vizitat</EVENT><CARDINAL>cinci</CARDINAL>regiuni care au fost<EVENT aspect="PERFECTIVE" class="I_ACTION" eid="e5" eiid="ei160" eventID="e5" polarity="POS" pos="VERB" tense="PRESENT">declarate</EVENT>&icirc;n<EVENT aspect="NONE" class="STATE" eid="e34" eiid="ei170" eventID="e34" polarity="POS" pos="NOUN" tense="NONE">stare</EVENT>de urgen&tcedil;&abreve; .</s> <s>El<EVENT aspect="NONE" class="ASPECTUAL" eid="e6" eiid="ei162" eventID="e6" polarity="POS" pos="VERB" tense="PAST">a ad&abreve;ugat</EVENT>&icirc;nc&abreve; una<TIMEX3 anchorTimeID="t14" functionInDocument="NONE" temporalFunction="true" tid="t17" type="DATE" value="1998-01-11">ast&abreve;zi</TIMEX3>.</s><turn sec="111.361"><s>Elicopterele<EVENT aspect="PROGRESSIVE" class="OCCURRENCE" eid="e7" eiid="ei163" eventID="e7" polarity="POS" pos="VERB" tense="PRESENT">zboar&abreve;</EVENT>peste<ENAMEX TYPE="LOCATION">New_York -ul nordic</ENAMEX><TIMEX3 anchorTimeID="t14" functionInDocument="NONE" temporalFunction="true" tid="t18" type="DATE" value="1998-01-11">ast&abreve;zi</TIMEX3><EVENT aspect="NONE" class="I_ACTION" eid="e8" eiid="ei164" eventID="e8" polarity="POS" pos="VERB" tense="PRESPART">&icirc;ncerc&acirc;nd</EVENT>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e9" eiid="ei165" eventID="e9" polarity="POS" pos="VERB" tense="INFINITIVE">localizeze</EVENT>oamenii<EVENT aspect="NONE" class="OCCURRENCE" eid="e10" eiid="ei166" eventID="e10" polarity="POS" pos="VERB" tense="PASTPART">izola&tcedil;i</EVENT>f&abreve;r&abreve; m&acirc;ncare , c&abreve;ldur&abreve; sau medicamente .</s><turn sec="118.286"><s>&Icirc;n<ENAMEX TYPE="LOCATION">Maine</ENAMEX>, cam jum&abreve;tate de milion de oameni nu<EVENT aspect="NONE" class="STATE" eid="e32" eiid="ei167" eventID="e32" polarity="NEG" pos="VERB" tense="PRESENT">au</EVENT>&icirc;nc&abreve; energie &scedil;i vor trebui s&abreve;<EVENT aspect="NONE" class="STATE" eid="e12" eiid="ei169" eventID="e12" polarity="POS" pos="VERB" tense="FUTURE">tr&abreve;iasc&abreve;</EVENT>f&abreve;r&abreve; ea<SIGNAL sid="s36">pentru</SIGNAL><TIMEX3 anchorTimeID="t14" functionInDocument="NONE" temporalFunction="true" tid="t20" type="DURATION" value="PXD">o vreme</TIMEX3>.</s></turn></turn></turn>
+            </turn>
+          </turn>
+        </TEXT>
+      </section>
+    </bn_episode_trans>
+  </BODY>
+  <TLINK eventID="e6" lid="l23" relType="DURING" relatedToTime="t17"/>
+  <TLINK eventID="e34" lid="l22" relType="IS_INCLUDED" relatedToTime="t14"/>
+  <TLINK eventID="e32" lid="l1" relType="IS_INCLUDED" relatedToTime="t14"/>
+  <TLINK eventID="e12" lid="l2" relType="SIMULTANEOUS" relatedToTime="t20" signalID="s36"/>
+  <TLINK eventID="e12" lid="l3" relType="AFTER" relatedToTime="t14"/>
+  <TLINK eventID="e9" lid="l4" relType="AFTER" relatedToEvent="e10"/>
+  <TLINK lid="l5" relType="INCLUDES" relatedToEvent="e4" timeID="t16"/>
+  <TLINK eventID="e3" lid="l6" relType="IDENTITY" relatedToEvent="e27"/>
+  <TLINK eventID="e7" lid="l7" relType="SIMULTANEOUS" relatedToEvent="e8"/>
+  <TLINK eventID="e7" lid="l8" relType="IS_INCLUDED" relatedToTime="t18"/>
+  <TLINK eventID="e7" lid="l9" relType="IS_INCLUDED" relatedToTime="t14"/>
+  <TLINK lid="l10" relType="IDENTITY" relatedToTime="t14" timeID="t17"/>
+  <TLINK eventID="e21" lid="l11" relType="IS_INCLUDED" relatedToTime="t14"/>
+  <TLINK eventID="e22" lid="l12" relType="IS_INCLUDED" relatedToTime="t14"/>
+  <TLINK eventID="e5" lid="l13" relType="BEFORE" relatedToTime="t14"/>
+  <TLINK lid="l14" relType="BEFORE" relatedToTime="t14" timeID="t16"/>
+  <TLINK eventID="e25" lid="l15" relType="IS_INCLUDED" relatedToTime="t14"/>
+  <TLINK eventID="e1" lid="l16" relType="IS_INCLUDED" relatedToTime="t15" signalID="s26"/>
+  <TLINK eventID="e2" lid="l17" relType="IS_INCLUDED" relatedToTime="t14"/>
+  <SLINK eventID="e5" lid="l21" relType="EVIDENTIAL" subordinatedEvent="e34"/>
+  <SLINK eventID="e8" lid="l18" relType="MODAL" subordinatedEvent="e9"/>
+  <SLINK eventID="e25" lid="l19" relType="MODAL" subordinatedEvent="e1"/>
+  <ALINK eventID="e2" lid="l20" relType="CONTINUES" relatedToEvent="e3"/>
+</TimeML>

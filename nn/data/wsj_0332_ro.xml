@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> WSJ891101-0032 </DOCNO>
+  <DD> = 891101 </DD>
+  <AN> 891101-0032. </AN>
+  <HL> International Brief -- Coates Brothers PLC:
+@  Orkem Bids $7.43 a Share
+@  For Stake It Doesn't Own </HL>
+  <DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t39" type="DATE" value="1989-11-01">11/01/89</TIMEX3> </DD>
+  <SO> WALL STREET JOURNAL (J) </SO>
+  <CO> F.ORK EUROP U.CTB </CO>
+  <IN> TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+CHEMICALS, PLASTICS (CHM) </IN>
+  <TEXT>
+    <s><ENAMEX TYPE="ORGANIZATION">Orkem S.A.</ENAMEX>, un fabricant francez controlat de stat ,<EVENT aspect="PROGRESSIVE" class="OCCURRENCE" eid="e1" eiid="ei154" eventID="e1" polarity="POS" pos="VERB" stem="make" tense="PRESENT">face</EVENT>o<EVENT aspect="NONE" class="OCCURRENCE" eid="e2" eiid="ei155" eventID="e2" polarity="POS" pos="NOUN" stem="bid" tense="NONE">licita&tcedil;ie</EVENT>amical&abreve; de<NUMEX TYPE="MONEY">470 pence</NUMEX>(<NUMEX TYPE="MONEY">$ 7 , 43</NUMEX>) pe ac&tcedil;iune pentru<NUMEX TYPE="PERCENT">59 , 2%</NUMEX>din grupul chimic special<ENAMEX TYPE="LOCATION">din UK</ENAMEX>,<ENAMEX TYPE="ORGANIZATION">Coates Brothers PLC</ENAMEX>, pe care nu -l<EVENT aspect="NONE" class="STATE" eid="e3" eiid="ei156" eventID="e3" polarity="NEG" pos="VERB" stem="own" tense="PRESENT">de&tcedil;ine</EVENT><SIGNAL sid="s40">&icirc;nc&abreve;</SIGNAL>, au<EVENT aspect="NONE" class="REPORTING" eid="e5" eiid="ei157" eventID="e5" polarity="POS" pos="VERB" stem="say" tense="PAST">spus</EVENT>cele<CARDINAL>dou&abreve;</CARDINAL>p&abreve;r&tcedil;i .</s>
+    <s><EVENT aspect="NONE" class="OCCURRENCE" eid="e6" eiid="ei158" eventID="e6" polarity="POS" pos="NOUN" stem="offer" tense="NONE">Oferta</EVENT>, care evalueaz&abreve; &icirc;ntregul<ENAMEX TYPE="ORGANIZATION">Coates</ENAMEX>la 301 milioane , a fost <SIGNAL sid="s73">deja</SIGNAL> <EVENT aspect="PERFECTIVE" class="I_ACTION" eid="e8" eiid="ei159" eventID="e8" polarity="POS" pos="VERB" stem="accept" tense="PRESENT">acceptat&abreve;</EVENT> de executivii Coates &scedil;i de al&tcedil;i ac&tcedil;ionari de&tcedil;in&acirc;nd 12 , 4% din companie .</s>
+    <s><EVENT aspect="NONE" class="OCCURRENCE" eid="e10" eiid="ei160" eventID="e10" polarity="POS" pos="NOUN" stem="acceptance" tense="NONE">Aprob&abreve;rile</EVENT>&icirc;i<EVENT aspect="NONE" class="OCCURRENCE" eid="e11" eiid="ei161" eventID="e11" polarity="POS" pos="VERB" stem="give" tense="PRESENT">dau</EVENT><ENAMEX TYPE="ORGANIZATION">lui Orkem</ENAMEX>un<EVENT aspect="NONE" class="STATE" eid="e42" eiid="ei162" eventID="e42" polarity="POS" pos="NOUN" stem="stake" tense="NONE">stoc</EVENT><NUMEX TYPE="PERCENT">de 53 , 2%</NUMEX>cu putere de control din companie .</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Orkem</ENAMEX> &scedil;i <ENAMEX TYPE="ORGANIZATION">Coates</ENAMEX> au <EVENT aspect="NONE" class="REPORTING" eid="e12" eiid="ei163" eventID="e12" polarity="POS" pos="VERB" stem="spune" tense="PAST">spus</EVENT> <TIMEX3 anchorTimeID="t39" functionInDocument="NONE" temporalFunction="true" tid="t50" type="DATE" value="1989-10-25">miercurea trecut&abreve;</TIMEX3> c&abreve; cei doi se <EVENT aspect="PROGRESSIVE" class="I_STATE" eid="e13" eiid="ei164" eventID="e13" polarity="POS" pos="VERB" stem="g&acirc;ndi" tense="PAST">g&acirc;ndeau</EVENT> la o <EVENT aspect="NONE" class="OCCURRENCE" eid="e14" eiid="ei165" eventID="e14" polarity="POS" pos="NOUN" stem="fuziune" tense="NONE">fuziune</EVENT>, prin filiala britanic&abreve; a lui Orkem, Orkem Coatings U.K. Ltd. 
+
+   Orkem, al treilea mare grup chimic al Fran&tcedil;ei a <EVENT aspect="NONE" class="REPORTING" eid="e15" eiid="ei166" eventID="e15" polarity="POS" pos="VERB" stem="spune" tense="PAST">spus</EVENT> c&abreve; va <EVENT aspect="NONE" class="OCCURRENCE" eid="e16" eiid="ei167" eventID="e16" modality="would" polarity="POS" pos="VERB" stem="finan&tcedil;a" tense="NONE">finan&tcedil;a</EVENT> the <EVENT aspect="NONE" class="OCCURRENCE" eid="e18" eiid="ei168" eventID="e18" polarity="POS" pos="NOUN" stem="achizi&tcedil;ie" tense="NONE">achizi&tcedil;ia</EVENT> prin resurse interne.</s>
+    <s><EVENT aspect="NONE" class="OCCURRENCE" eid="e19" eiid="ei169" eventID="e19" polarity="POS" pos="NOUN" stem="takeover" tense="NONE">Preluarea</EVENT>ar fi<SIGNAL sid="s44">urmat&abreve;</SIGNAL>de o<EVENT aspect="NONE" class="OCCURRENCE" eid="e45" eiid="ei170" eventID="e45" modality="would" polarity="POS" pos="NOUN" stem="restructure" tense="NONE">restructurare</EVENT>a unit&abreve;&tcedil;ii<ENAMEX TYPE="ORGANIZATION">Orkem</ENAMEX><ENAMEX TYPE="LOCATION">din UK</ENAMEX>, inclusiv<EVENT aspect="NONE" class="OCCURRENCE" eid="e22" eiid="ei171" eventID="e22" polarity="POS" pos="NOUN" stem="addition" tense="NONE">ad&abreve;ugarea</EVENT>afacerilor &icirc;nrudite<ENAMEX TYPE="ORGANIZATION">ale Orkem</ENAMEX>&scedil;i posibilitatea altor<EVENT aspect="NONE" class="OCCURRENCE" eid="e24" eiid="ei172" eventID="e24" polarity="POS" pos="NOUN" stem="acquisition" tense="NONE">achizi&tcedil;ii</EVENT>.</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Orkem</ENAMEX><EVENT aspect="NONE" class="REPORTING" eid="e25" eiid="ei173" eventID="e25" polarity="POS" pos="VERB" stem="say" tense="PAST">a spus</EVENT>c&abreve; &icirc;n final va<EVENT aspect="NONE" class="I_ACTION" eid="e26" eiid="ei174" eventID="e26" modality="would" polarity="POS" pos="VERB" stem="seek" tense="NONE">c&abreve;uta</EVENT>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e29" eiid="ei175" eventID="e29" polarity="POS" pos="VERB" stem="make" tense="INFINITIVE">fac&abreve;</EVENT>o<EVENT aspect="NONE" class="OCCURRENCE" eid="e30" eiid="ei176" eventID="e30" polarity="POS" pos="NOUN" stem="offer" tense="NONE">ofert&abreve;</EVENT>public&abreve; de ac&tcedil;iuni din afacerea ei<ENAMEX TYPE="LOCATION">din UK</ENAMEX>.</s>
+  </TEXT>
+  <TLINK eventID="e5" lid="l1" relType="BEFORE" relatedToTime="t39"/>
+  <TLINK eventID="e1" lid="l2" relType="INCLUDES" relatedToTime="t39"/>
+  <TLINK eventID="e1" lid="l3" relType="IDENTITY" relatedToEvent="e2"/>
+  <TLINK eventID="e3" lid="l4" relType="INCLUDES" relatedToTime="t39" signalID="s40"/>
+  <TLINK eventID="e6" lid="l5" relType="INCLUDES" relatedToEvent="e2"/>
+   <TLINK eventID="e8" lid="l6" relType="INCLUDES" relatedToTime="t39" signalID="s73"/>
+   <TLINK eventID="e10" lid="l7" relType="IDENTITY" relatedToEvent="e8"/>
+  <TLINK eventID="e10" lid="l8" relType="IDENTITY" relatedToEvent="e11"/>
+  <TLINK eventID="e11" lid="l9" relType="BEFORE" relatedToEvent="e42"/>
+  <TLINK eventID="e12" lid="l10" relType="IS_INCLUDED" relatedToTime="t50"/>
+  <TLINK eventID="e15" lid="l11" relType="IDENTITY" relatedToEvent="e12"/>
+  <TLINK eventID="e16" lid="l12" relType="SIMULTANEOUS" relatedToEvent="e18"/>
+  <TLINK eventID="e19" lid="l13" relType="BEFORE" relatedToEvent="e45" signalID="s44"/>
+  <TLINK eventID="e45" lid="l14" relType="INCLUDES" relatedToEvent="e22"/>
+  <TLINK eventID="e45" lid="l15" relType="INCLUDES" relatedToEvent="e24"/>
+  <TLINK eventID="e25" lid="l16" relType="IDENTITY" relatedToEvent="e12"/>
+  <TLINK eventID="e29" lid="l17" relType="IDENTITY" relatedToEvent="e30"/>
+  <SLINK eventID="e5" lid="l18" relType="EVIDENTIAL" subordinatedEvent="e1"/>
+   <SLINK eventID="e8" lid="l19" relType="FACTIVE" subordinatedEvent="e6"/>
+   <SLINK eventID="e12" lid="l20" relType="EVIDENTIAL" subordinatedEvent="e13"/>
+  <SLINK eventID="e13" lid="l21" relType="MODAL" subordinatedEvent="e14"/>
+  <SLINK eventID="e15" lid="l22" relType="EVIDENTIAL" subordinatedEvent="e16"/>
+  <SLINK eventID="e25" lid="l23" relType="EVIDENTIAL" subordinatedEvent="e26"/>
+  <SLINK eventID="e26" lid="l24" relType="MODAL" subordinatedEvent="e29"/>
+</TimeML>

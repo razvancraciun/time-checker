@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> WSJ891030-0116 </DOCNO>
+  <DD> = 891030 </DD>
+  <AN> 891030-0116. </AN>
+  <HL> International:
+@  Polly Peck of U.K.
+@  To Buy 51% Stake
+@  In Japanese Firm
+@  ----
+@  By Urban C. Lehner
+@  Staff Reporter of The Wall Street Journal </HL>
+  <DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t199" type="DATE" value="1989-10-30">10/30/89</TIMEX3> </DD>
+  <SO> WALL STREET JOURNAL (J) </SO>
+  <CO> J.SNE </CO>
+  <IN> TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+HOME ELECTRONICS, FURNISHINGS, APPLIANCES (HMF) </IN>
+  <DATELINE> TOKYO  </DATELINE>
+  <TEXT>
+    <s><EVENT aspect="NONE" class="I_STATE" eid="e1" eiid="ei1990" eventID="e1" polarity="POS" pos="NOUN" tense="NONE">Acordul</EVENT><ENAMEX TYPE="ORGANIZATION">Polly Peck International Inc .</ENAMEX>de a<EVENT aspect="NONE" class="OCCURRENCE" eid="e3" eiid="ei1991" eventID="e3" polarity="POS" pos="VERB" tense="INFINITIVE">achizi&tcedil;iona</EVENT><NUMEX TYPE="PERCENT">51%</NUMEX>din<ENAMEX TYPE="ORGANIZATION">Sansui Electric Co.</ENAMEX>dovede&scedil;te c&abreve; companiile str&abreve;ine pot achizi&tcedil;iona companii japoneze -- dac&abreve; alternativa pentru compania japonez&abreve; este extinc&tcedil;ia .</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Polly Peck</ENAMEX>, un conglomerat britanic cu dezvoltare rapid&abreve; , va<EVENT aspect="NONE" class="OCCURRENCE" eid="e8" eiid="ei1992" eventID="e8" polarity="POS" pos="VERB" tense="FUTURE">pl&abreve;ti</EVENT><NUMEX TYPE="MONEY">15.6_miliarde_de_yeni</NUMEX>(<NUMEX TYPE="MONEY">$ 110 milioane</NUMEX>) pentru<CARDINAL>39_de_milioane</CARDINAL>de ac&tcedil;iuni noi ale<ENAMEX TYPE="ORGANIZATION">Sansui</ENAMEX>, un fabricant bine_cunoscut de echipament audio de &icirc;nalt&abreve; fidelitate care<EVENT aspect="NONE" class="I_STATE" eid="e9" eiid="ei1993" eventID="e9" polarity="POS" pos="VERB" tense="PAST">nu a reu&scedil;it</EVENT>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e11" eiid="ei1994" eventID="e11" polarity="POS" pos="VERB" tense="INFINITIVE">se adapteze</EVENT>la condi&tcedil;iile schimb&abreve;toare de pia&tcedil;&abreve; .</s>
+    <s>Oficiali ai guvernului japonez ,<EVENT aspect="NONE" class="I_STATE" eid="e193" eiid="ei1995" eventID="e193" polarity="POS" pos="ADJECTIVE" tense="NONE">dornici</EVENT>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e14" eiid="ei1996" eventID="e14" polarity="POS" pos="VERB" tense="INFINITIVE">resping&abreve;</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e195" eiid="ei1997" eventID="e195" polarity="POS" pos="NOUN" tense="NONE">critica</EVENT>str&abreve;in&abreve; a<EVENT aspect="NONE" class="OCCURRENCE" eid="e16" eiid="ei1998" eventID="e16" polarity="POS" pos="NOUN" tense="NONE">investi&tcedil;iilor</EVENT>japoneze peste hotare ,<EVENT aspect="NONE" class="I_ACTION" eid="e17" eiid="ei1999" eventID="e17" polarity="POS" pos="VERB" tense="PAST">au salutat</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e18" eiid="ei2000" eventID="e18" polarity="POS" pos="NOUN" tense="NONE">tranzac&tcedil;ia</EVENT>ca o dovad&abreve; c&abreve; str&abreve;inii pot face investi&tcedil;ii similare &icirc;n<ENAMEX TYPE="LOCATION">Japonia</ENAMEX>.</s>
+    <s><ENAMEX TYPE="PERSON">Pre&scedil;edintele<ENAMEX TYPE="ORGANIZATION">Polly Peck</ENAMEX>, Asil Nadir</ENAMEX>,<EVENT aspect="NONE" class="OCCURRENCE" eid="e22" eiid="ei2001" eventID="e22" polarity="POS" pos="VERB" tense="PAST">a reiterat</EVENT><EVENT aspect="NONE" class="STATE" eid="e197" eiid="ei2002" eventID="e197" polarity="POS" pos="NOUN" tense="NONE">viziunea</EVENT>japonez&abreve; oficial&abreve; asupra<EVENT aspect="NONE" class="STATE" eid="e198" eiid="ei2003" eventID="e198" polarity="POS" pos="NOUN" tense="NONE">acordului</EVENT>, care a fost<EVENT aspect="NONE" class="REPORTING" eid="e23" eiid="ei2004" eventID="e23" polarity="POS" pos="VERB" tense="PAST">anun&tcedil;at&abreve;</EVENT><TIMEX3 anchorTimeID="t199" functionInDocument="NONE" temporalFunction="true" tid="t200" type="DATE" value="1989-10-27">vineri</TIMEX3>.</s>
+    <s>" Miturile c&abreve;<ENAMEX TYPE="LOCATION">Japonia</ENAMEX>nu este deschis&abreve; concernelor din afar&abreve; au fost ,<EVENT aspect="NONE" class="I_STATE" eid="e26" eiid="ei2005" eventID="e26" polarity="POS" pos="VERB" tense="PRESENT">cred</EVENT>,<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e27" eiid="ei2006" eventID="e27" polarity="POS" pos="VERB" tense="PASTPART">demolate</EVENT>dintr- o lovitur&abreve; , "<EVENT aspect="NONE" class="REPORTING" eid="e30" eiid="ei2007" eventID="e30" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT><ENAMEX TYPE="PERSON">dl. Nadir</ENAMEX>.</s>
+    <s>Dar anali&scedil;tii<EVENT aspect="NONE" class="REPORTING" eid="e31" eiid="ei2008" eventID="e31" polarity="POS" pos="VERB" tense="PRESENT">spun</EVENT>c&abreve;<ENAMEX TYPE="ORGANIZATION">Sansui</ENAMEX>este un<EVENT aspect="NONE" class="STATE" eid="e202" eiid="ei2009" eventID="e202" polarity="POS" pos="NOUN" tense="PRESENT">caz</EVENT>special .</s>
+    <s><EVENT aspect="NONE" class="I_STATE" eid="e33" eiid="ei2010" eventID="e33" polarity="POS" pos="VERB" tense="PRESENT">Se a&scedil;teapt&abreve;</EVENT>s&abreve;<EVENT aspect="NONE" class="REPORTING" eid="e35" eiid="ei2011" eventID="e35" polarity="POS" pos="VERB" tense="INFINITIVE">anun&tcedil;e</EVENT>o<EVENT aspect="NONE" class="OCCURRENCE" eid="e36" eiid="ei2012" eventID="e36" polarity="POS" pos="NOUN" tense="NONE">pierdere</EVENT>de<NUMEX TYPE="MONEY">6.4_miliarde_de_yeni</NUMEX><SIGNAL sid="s203">pentru</SIGNAL><TIMEX3 endPoint="t205" functionInDocument="NONE" temporalFunction="true" tid="t204" type="DURATION" value="P1Y">anul</TIMEX3>care<SIGNAL sid="s206">se termin&abreve;</SIGNAL><TIMEX3 anchorTimeID="t199" functionInDocument="NONE" temporalFunction="true" tid="t205" type="DATE" value="1989-10-31">m&acirc;ine</TIMEX3>&scedil;i datoriile sale &icirc;i<EVENT aspect="NONE" class="STATE" eid="e39" eiid="ei2013" eventID="e39" polarity="POS" pos="VERB" tense="PRESENT">dep&abreve;&scedil;esc</EVENT><TIMEX3 anchorTimeID="t199" functionInDocument="NONE" temporalFunction="true" tid="t207" type="DATE" value="PRESENT_REF">actualmente</TIMEX3>activele cu aproximativ<NUMEX TYPE="MONEY">13.8_miliarde_de_yeni</NUMEX>.</s>
+    <s>"If you <EVENT aspect="NONE" class="OCCURRENCE" eid="e246" eiid="ei2078" eventID="e246" polarity="POS" pos="OTHER" tense="PRESENT">find</EVENT> sound, healthy companies in <ENAMEX TYPE="LOCATION">Japan</ENAMEX>, they are not  <EVENT aspect="NONE" class="STATE" eid="e247" eiid="ei2079" eventID="e247" polarity="NEG" pos="PREPOSITION" tense="PRESENT">for</EVENT> sale," <EVENT aspect="NONE" class="REPORTING" eid="e43" eiid="ei2016" eventID="e43" polarity="POS" pos="VERB" tense="PAST">said</EVENT> <ENAMEX TYPE="PERSON">George Watanabe</ENAMEX>, a management-consultant at <ENAMEX TYPE="LOCATION">Tokyo</ENAMEX>-based <ENAMEX TYPE="ORGANIZATION">Asia Advisory Services Inc.</ENAMEX> 
+
+   Statistics on acquisitions by foreigners vary in detail, because unlike <ENAMEX TYPE="ORGANIZATION">Sansui</ENAMEX>, which is listed on the <ENAMEX TYPE="LOCATION">Tokyo</ENAMEX> and <ENAMEX TYPE="LOCATION">Osaka</ENAMEX> stock exchanges, most of the Japanese companies acquired by foreigners are privately held.</s>
+    <s>Dar din ce se spune , companiile str&abreve;ine au<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e52" eiid="ei2017" eventID="e52" polarity="POS" pos="VERB" tense="PRESENT">cump&abreve;rat</EVENT>doar un num&abreve;r relativ de companii japoneze<TIMEX3 anchorTimeID="t199" functionInDocument="NONE" temporalFunction="true" tid="t211" type="DATE" value="1989">anul acesta</TIMEX3>, &icirc;n_timp_ce companiile japoneze au<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e54" eiid="ei2018" eventID="e54" polarity="POS" pos="VERB" tense="PRESENT">achizi&tcedil;ionat</EVENT>sute de companii str&abreve;ine .</s>
+    <s>Anali&scedil;tii nu<EVENT aspect="NONE" class="I_STATE" eid="e56" eiid="ei2019" eventID="e56" polarity="NEG" pos="VERB" tense="PRESENT">se a&scedil;teapt&abreve;</EVENT>nici ca afacerea<ENAMEX TYPE="ORGANIZATION">Sansui</ENAMEX>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e58" eiid="ei2020" eventID="e58" polarity="POS" pos="VERB" tense="INFINITIVE">provoace</EVENT>un val proasp&abreve;t de cump&abreve;r&abreve;ri str&abreve;ine .</s>
+    <s>Chiar dac&abreve; yenul puternic &scedil;i pre&tcedil;urile mari ale ac&tcedil;iunilor la companiile japoneze nu ar fi o piedic&abreve; suficient&abreve; , re&tcedil;elele de ac&tcedil;ionariat &icirc;ncruci&scedil;at &icirc;ntre companiile japoneze prietenoase &scedil;i atitudinile corporative japoneze puternic independente<EVENT aspect="NONE" class="OCCURRENCE" eid="e62" eiid="ei2021" eventID="e62" polarity="POS" pos="VERB" tense="PRESENT">&icirc;ndep&abreve;rteaz&abreve;</EVENT>majoritatea cump&abreve;r&abreve;torilor aspiran&tcedil;i .</s>
+    <s>De obicei c&acirc;nd o companie japonez&abreve; este gata s&abreve; v&acirc;nd&abreve; , &icirc;i r&abreve;m&acirc;n pu&tcedil;ine alternative , &scedil;i comportarea proast&abreve; a directorilor<ENAMEX TYPE="ORGANIZATION">Sansui</ENAMEX>la o conferin&tcedil;&abreve; de pres&abreve; comun&abreve; aici a l&abreve;sat pu&tcedil;ine &icirc;ndoieli c&abreve; acesta nu era cel mai bun moment al companiei .</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Sansui</ENAMEX>era odat&abreve; unul dintre primii produc&abreve;tori ai<ENAMEX TYPE="LOCATION">Japoniei</ENAMEX>de echipamente stereo scumpe , de mare calitate pentru audiofili .</s>
+    <s>Dar<SIGNAL sid="s215">&icirc;n</SIGNAL><TIMEX3 endPoint="t199" functionInDocument="NONE" temporalFunction="true" tid="t216" type="DATE" value="PXY">ultimii anii</TIMEX3>, pia&tcedil;a s-a<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e71" eiid="ei2022" eventID="e71" polarity="POS" pos="VERB" tense="PAST">mi&scedil;cat</EVENT>spre aparate cu " mini-componente " , amplificatoare miniaturizate &scedil;i receptoare &scedil;i playere mai pu&tcedil;in scumpe care ar putea fi a&scedil;ezate unul peste altul .</s>
+    <s>Unele din companiile de specialit&abreve;&tcedil;i audio pereche ale<ENAMEX TYPE="ORGANIZATION">Sansui</ENAMEX>, ca<ENAMEX TYPE="ORGANIZATION">Aiwa Co.</ENAMEX>&scedil;i<ENAMEX TYPE="ORGANIZATION">Pioneer Electric Corp .</ENAMEX>,<EVENT aspect="NONE" class="OCCURRENCE" eid="e75" eiid="ei2023" eventID="e75" polarity="POS" pos="VERB" tense="PAST">au r&abreve;spuns</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e76" eiid="ei2024" eventID="e76" polarity="POS" pos="NOUN" tense="NONE">provoc&abreve;rii</EVENT>prin<EVENT aspect="NONE" class="OCCURRENCE" eid="e77" eiid="ei2025" eventID="e77" polarity="POS" pos="NOUN" tense="PRESPART">scoaterea</EVENT>rapid&abreve; a unor produse proprii cu mini-componente , prin<EVENT aspect="NONE" class="OCCURRENCE" eid="e78" eiid="ei2026" eventID="e78" polarity="POS" pos="NOUN" tense="PRESPART">intrarea</EVENT>puternic&abreve; &icirc;n afacerea prosper&abreve; cu compact discuri sau prin<EVENT aspect="NONE" class="OCCURRENCE" eid="e81" eiid="ei2027" eventID="e81" polarity="POS" pos="NOUN" tense="PRESPART">diversificarea</EVENT>pentru alte domenii ale electronicii pentru consumatori , inclusiv discuri laser sau casetofoane portabile .</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Sansui</ENAMEX>a ajuns t&acirc;rziu &icirc;n afacerea cu mini-componente &scedil;i nu<EVENT aspect="NONE" class="I_STATE" eid="e85" eiid="ei2028" eventID="e85" polarity="POS" pos="VERB" tense="PAST">a reu&scedil;it</EVENT>s&abreve; se<EVENT aspect="NONE" class="OCCURRENCE" eid="e87" eiid="ei2029" eventID="e87" polarity="POS" pos="VERB" tense="INFINITIVE">ramifice</EVENT>&icirc;n alte noi afaceri .</s>
+    <s><SIGNAL sid="s220">Cum</SIGNAL>yenul<EVENT aspect="NONE" class="OCCURRENCE" eid="e90" eiid="ei2030" eventID="e90" polarity="POS" pos="VERB" tense="PAST">a urcat</EVENT><SIGNAL sid="s219">&icirc;n</SIGNAL><TIMEX3 anchorTimeID="t199" functionInDocument="NONE" temporalFunction="true" tid="t217" type="DATE" value="PAST_REF">ultimii ani</TIMEX3>, problemele financiare cresc&acirc;nde ale<ENAMEX TYPE="ORGANIZATION">Sansui</ENAMEX><EVENT aspect="NONE" class="I_STATE" eid="e92" eiid="ei2031" eventID="e92" polarity="POS" pos="VERB" tense="PAST">au devenit</EVENT>un cerc vicios .</s>
+    <s>&Icirc;n timp ce competitorii<EVENT aspect="NONE" class="OCCURRENCE" eid="e93" eiid="ei2033" eventID="e93" polarity="POS" pos="VERB" tense="PAST">au mutat</EVENT>produc&tcedil;ia peste ocean ca r&abreve;spuns la<EVENT aspect="NONE" class="STATE" eid="e221" eiid="ei2034" eventID="e221" polarity="POS" pos="NOUN" tense="NONE">competitivitatea</EVENT>sl&abreve;bit&abreve; a fabricilor japoneze ,<ENAMEX TYPE="ORGANIZATION">Sansui</ENAMEX><EVENT aspect="NONE" class="OCCURRENCE" eid="e95" eiid="ei2035" eventID="e95" polarity="POS" pos="VERB" tense="PAST">nu a avut</EVENT>banii ca s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e98" eiid="ei2036" eventID="e98" polarity="POS" pos="VERB" tense="INFINITIVE">construiasc&abreve;</EVENT>noi uzine &icirc;n<ENAMEX TYPE="LOCATION">Asia de sud-est</ENAMEX>.</s>
+    <s>" Compania noastr&abreve; nu a fost<EVENT aspect="PERFECTIVE" class="I_STATE" eid="e224" eiid="ei2037" eventID="e224" polarity="NEG" pos="ADJECTIVE" tense="PRESENT">capabil&abreve;</EVENT>s&abreve;<EVENT aspect="NONE" class="I_ACTION" eid="e225" eiid="ei2038" eventID="e225" polarity="POS" pos="NOUN" tense="INFINITIVE">fac&abreve; fa&tcedil;&abreve;</EVENT>foarte eficient "<EVENT aspect="NONE" class="OCCURRENCE" eid="e102" eiid="ei2039" eventID="e102" polarity="POS" pos="NOUN" tense="NONE">schimb&abreve;rilor</EVENT>de_pe pia&tcedil;&abreve; ,<EVENT aspect="NONE" class="REPORTING" eid="e105" eiid="ei2040" eventID="e105" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT><ENAMEX TYPE="PERSON">Ryosuke Ito , pre&scedil;edintele<ENAMEX TYPE="ORGANIZATION">Sansui</ENAMEX></ENAMEX>.</s>
+    <s>Dar chiar_&scedil;i o companie japonez&abreve; care pare un e&scedil;ec s- ar putea dovedi a fi o investi&tcedil;ie bun&abreve; pentru un concern str&abreve;in , sus&tcedil;in unii consultan&tcedil;i &icirc;n management .</s>
+    <s><ENAMEX TYPE="PERSON">Yoshihisa Murasawa</ENAMEX>, un consultant &icirc;n management<ENAMEX TYPE="ORGANIZATION">pentru Booz-Allen amp Hamilton (<ENAMEX TYPE="LOCATION">Japonia</ENAMEX>) Inc .</ENAMEX>,<EVENT aspect="NONE" class="REPORTING" eid="e113" eiid="ei2041" eventID="e113" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>c&abreve; firma sa va<EVENT aspect="PROGRESSIVE" class="OCCURRENCE" eid="e115" eiid="ei2042" eventID="e115" modality="none" polarity="POS" pos="VERB" tense="FUTURE">recomanda</EVENT>probabil<EVENT aspect="NONE" class="OCCURRENCE" eid="e116" eiid="ei2043" eventID="e116" polarity="POS" pos="NOUN" tense="NONE">achizi&tcedil;ionarea</EVENT>companiilor japoneze mai des clien&tcedil;ilor str&abreve;ini<SIGNAL sid="s227">&icirc;n</SIGNAL><TIMEX3 anchorTimeID="t199" functionInDocument="NONE" temporalFunction="true" tid="t228" type="DATE" value="FUTURE_REF">viitor</TIMEX3>.</s>
+    <s>" Atitudinile { fa&tcedil;&abreve;_de a fi achizi&tcedil;ionat } sunt &icirc;nc&abreve; negative , dar<EVENT aspect="PROGRESSIVE" class="I_STATE" eid="e119" eiid="ei2044" eventID="e119" polarity="POS" pos="VERB" tense="PRESENT">devin</EVENT>mai pozitive , "<EVENT aspect="NONE" class="REPORTING" eid="e120" eiid="ei2046" eventID="e120" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT><ENAMEX TYPE="PERSON">dl. Murasawa</ENAMEX>.</s>
+    <s>" &Icirc;n unele industrii , ca farmaceutica , achizi&tcedil;iile<EVENT aspect="NONE" class="STATE" eid="e249" eiid="ei2081" eventID="e249" polarity="POS" pos="VERB" tense="PRESENT">au</EVENT>sens . "</s>
+    <s>Dac&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e125" eiid="ei2049" eventID="e125" polarity="POS" pos="NOUN" tense="NONE">achizi&tcedil;ia</EVENT><ENAMEX TYPE="ORGANIZATION">Polly Peck</ENAMEX><EVENT aspect="NONE" class="STATE" eid="e248" eiid="ei2080" eventID="e248" polarity="POS" pos="VERB" tense="PRESENT">are</EVENT>sens<EVENT aspect="NONE" class="I_STATE" eid="e233" eiid="ei2051" eventID="e233" polarity="POS" pos="VERB" tense="PRESENT">r&abreve;m&acirc;ne</EVENT>de<EVENT aspect="NONE" class="PERCEPTION" eid="e130" eiid="ei2052" eventID="e130" polarity="POS" pos="VERB" tense="INFINITIVE">v&abreve;zut</EVENT>, dar la conferin&tcedil;a de pres&abreve; ,<ENAMEX TYPE="PERSON">dl. Nadir</ENAMEX><EVENT aspect="NONE" class="I_ACTION" eid="e131" eiid="ei2053" eventID="e131" polarity="POS" pos="ADJECTIVE" tense="PAST">era plin</EVENT>de &icirc;ncredere &icirc;n sine c&abreve; el poate<EVENT aspect="NONE" class="OCCURRENCE" eid="e132" eiid="ei2054" eventID="e132" modality="can" polarity="POS" pos="VERB" tense="NONE">redresa</EVENT><ENAMEX TYPE="ORGANIZATION">Sansui</ENAMEX>.</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Sansui</ENAMEX>, a spus el , este o potrivire perfect&abreve; pentru opera&tcedil;iunile cu electronice ale<ENAMEX TYPE="ORGANIZATION">Polly Peck</ENAMEX>, care fac televizoare , videorecordere , microunde &scedil;i alte produse pe o baz&abreve; " fabricant de echipamente originale " pentru v&acirc;nzare sub numele de m&abreve;rci ale altor companii .</s>
+    <s>El<EVENT aspect="NONE" class="REPORTING" eid="e140" eiid="ei2055" eventID="e140" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>c&abreve;<ENAMEX TYPE="ORGANIZATION">Polly Peck</ENAMEX>va<EVENT aspect="NONE" class="OCCURRENCE" eid="e141" eiid="ei2056" eventID="e141" polarity="POS" pos="VERB" tense="FUTURE">extinde</EVENT>mult linia de produse a<ENAMEX TYPE="ORGANIZATION">Sansui</ENAMEX>,<EVENT aspect="NONE" class="OCCURRENCE" eid="e143" eiid="ei2057" eventID="e143" polarity="POS" pos="VERB" tense="PRESPART">folosind</EVENT>inginerii<ENAMEX TYPE="ORGANIZATION">Sansui</ENAMEX>ca s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e145" eiid="ei2058" eventID="e145" polarity="POS" pos="VERB" tense="INFINITIVE">proiecteze</EVENT>noile produse , &scedil;i va<EVENT aspect="NONE" class="OCCURRENCE" eid="e146" eiid="ei2059" eventID="e146" polarity="POS" pos="VERB" tense="FUTURE">muta</EVENT>produc&tcedil;ia<ENAMEX TYPE="ORGANIZATION">Sansui</ENAMEX>a majorit&abreve;&tcedil;ii produselor &icirc;n_afar&abreve;_de echipamentele audio sofisticate peste ocean &icirc;n propriile fabrici ale<ENAMEX TYPE="ORGANIZATION">Polly Peck</ENAMEX>.</s>
+    <s>" De oric&acirc;t capital ar avea nevoie pentru a putea<EVENT aspect="NONE" class="OCCURRENCE" eid="e149" eiid="ei2060" eventID="e149" modality="can" polarity="POS" pos="VERB" tense="NONE">concura</EVENT>&scedil;i<EVENT aspect="NONE" class="OCCURRENCE" eid="e151" eiid="ei2061" eventID="e151" modality="can" polarity="POS" pos="VERB" tense="NONE">deveni</EVENT>o entitate total global&abreve; capabil&abreve; s&abreve; concureze cu cei mai buni din lume , acel capital va fi<EVENT aspect="NONE" class="OCCURRENCE" eid="e153" eiid="ei2062" eventID="e153" polarity="POS" pos="VERB" tense="FUTURE">injectat</EVENT>, "<EVENT aspect="NONE" class="REPORTING" eid="e154" eiid="ei2063" eventID="e154" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT><ENAMEX TYPE="PERSON">dl. Nadir</ENAMEX>.</s>
+    <s>&Scedil;i<SIGNAL sid="s669">&icirc;n_timp_ce</SIGNAL><ENAMEX TYPE="ORGANIZATION">Polly Peck</ENAMEX>nu<EVENT aspect="PROGRESSIVE" class="OCCURRENCE" eid="e156" eiid="ei2064" eventID="e156" polarity="NEG" pos="NOUN" tense="PRESENT">arunc&abreve; peste bord</EVENT>structura de management superior existent&abreve; a<ENAMEX TYPE="ORGANIZATION">Sansui</ENAMEX>,<EVENT aspect="PROGRESSIVE" class="OCCURRENCE" eid="e158" eiid="ei2065" eventID="e158" polarity="POS" pos="VERB" tense="PRESENT">aduce</EVENT>un<ENAMEX TYPE="ORGANIZATION">fost</ENAMEX>director<ENAMEX TYPE="ORGANIZATION">Toshiba Corp .</ENAMEX>ca vicepre&scedil;edinte executiv &scedil;i director operator &scedil;ef .</s>
+    <s>O asemenea asumare de risc este o chestiune cotidian&abreve; pentru &icirc;nfl&abreve;c&abreve;ratul<ENAMEX TYPE="PERSON">domn Nadir</ENAMEX>, care este<NUMEX TYPE="PERCENT">25%</NUMEX>proprietar al<ENAMEX TYPE="ORGANIZATION">Polly Peck</ENAMEX>ca_&scedil;i pre&scedil;edintele s&abreve;u .</s>
+    <s>El<EVENT aspect="NONE" class="OCCURRENCE" eid="e162" eiid="ei2066" eventID="e162" polarity="POS" pos="VERB" tense="PAST">a luat</EVENT><ENAMEX TYPE="ORGANIZATION">Polly Peck</ENAMEX>, odat&abreve; un mic angrosist de &tcedil;es&abreve;turi , &scedil;i<EVENT aspect="NONE" class="OCCURRENCE" eid="e163" eiid="ei2067" eventID="e163" polarity="POS" pos="VERB" tense="PAST">a folosit</EVENT>-o ca baz&abreve; ca s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e165" eiid="ei2068" eventID="e165" polarity="POS" pos="VERB" tense="INFINITIVE">construiasc&abreve;</EVENT>un conglomerat care &scedil;i- a<EVENT aspect="PERFECTIVE_PROGRESSIVE" class="OCCURRENCE" eid="e166" eiid="ei2069" eventID="e166" polarity="POS" pos="VERB" tense="PRESENT">dublat</EVENT>profiturile anual<SIGNAL sid="s236">din</SIGNAL><TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t235" type="DATE" value="1980">1980</TIMEX3>.</s>
+    <s><SIGNAL sid="s237">&Icirc;n</SIGNAL><TIMEX3 anchorTimeID="t199" functionInDocument="NONE" temporalFunction="true" tid="t239" type="DATE" value="1989-09">septembrie</TIMEX3>,<EVENT aspect="NONE" class="REPORTING" eid="e167" eiid="ei2070" eventID="e167" polarity="POS" pos="VERB" tense="PAST">a anun&tcedil;at</EVENT><EVENT aspect="NONE" class="I_STATE" eid="e240" eiid="ei2071" eventID="e240" polarity="POS" pos="NOUN" tense="NONE">planuri</EVENT>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e169" eiid="ei2072" eventID="e169" polarity="POS" pos="VERB" tense="INFINITIVE">cumpere</EVENT>afacerea cu fructe tropicale a unit&abreve;&tcedil;ii de alimente<ENAMEX TYPE="PERSON">din Del Monte a<ENAMEX TYPE="ORGANIZATION">RJR Nabisco Inc .</ENAMEX></ENAMEX>pentru 557 milioane ( $ 878 milioane ) .</s>
+    <s><TIMEX3 anchorTimeID="t199" functionInDocument="NONE" temporalFunction="true" tid="t241" type="DATE" value="1989-09">Luna trecut&abreve;</TIMEX3>,<ENAMEX TYPE="ORGANIZATION">Polly Peck</ENAMEX><EVENT aspect="NONE" class="REPORTING" eid="e171" eiid="ei2073" eventID="e171" polarity="POS" pos="VERB" tense="PAST">a anun&tcedil;at</EVENT>un<EVENT aspect="NONE" class="OCCURRENCE" eid="e172" eiid="ei2074" eventID="e172" polarity="POS" pos="NOUN" tense="NONE">salt</EVENT><NUMEX TYPE="PERCENT">de 38%</NUMEX>&icirc;n profiturile pre-tax&abreve; pentru prima jum&abreve;tate a<EVENT aspect="NONE" class="STATE" eid="e244" eiid="ei2075" eventID="e244" polarity="POS" pos="OTHER" tense="INFINITIVE">54 .<CARDINAL>8_milioane</CARDINAL></EVENT><SIGNAL sid="s243">din</SIGNAL><EVENT aspect="NONE" class="STATE" eid="e245" eiid="ei2076" eventID="e245" polarity="POS" pos="OTHER" tense="NONE">39 .<CARDINAL>8_milioane</CARDINAL></EVENT>la o<EVENT aspect="NONE" class="OCCURRENCE" eid="e174" eiid="ei2077" eventID="e174" polarity="POS" pos="NOUN" tense="NONE">cre&scedil;tere</EVENT>&icirc;n v&acirc;nz&abreve;ri<NUMEX TYPE="PERCENT">de 63%</NUMEX>.</s>
+    <s>Joann<ENAMEX TYPE="PERSON">S. Lublin</ENAMEX>din<ENAMEX TYPE="LOCATION">Londra</ENAMEX>a contribuit la acest articol .</s>
+  </TEXT>
+  <TLINK eventID="e248" lid="l103" relType="IS_INCLUDED" relatedToTime="t199"/>
+  <TLINK eventID="e131" lid="l102" relType="BEFORE" relatedToTime="t199"/>
+  <TLINK eventID="e233" lid="l101" relType="AFTER" relatedToEvent="e130"/>
+  <TLINK eventID="e125" lid="l100" relType="IDENTITY" relatedToEvent="e3"/>
+  <TLINK eventID="e249" lid="l99" relType="IS_INCLUDED" relatedToTime="t199"/>
+  <TLINK eventID="e247" lid="l98" relType="SIMULTANEOUS" relatedToEvent="e246"/>
+  <TLINK eventID="e43" lid="l97" relType="BEFORE" relatedToTime="t199"/>
+  <TLINK eventID="e246" lid="l96" relType="AFTER" relatedToTime="t199"/>
+  <TLINK eventID="e31" lid="l95" relType="IS_INCLUDED" relatedToTime="t199"/>
+  <TLINK eventID="e172" lid="l1" relType="IS_INCLUDED" relatedToEvent="e174"/>
+  <TLINK eventID="e1" lid="l2" relType="BEFORE" relatedToTime="t199"/>
+  <TLINK eventID="e8" lid="l3" relType="AFTER" relatedToTime="t199"/>
+  <TLINK eventID="e9" lid="l4" relType="BEFORE" relatedToEvent="e1"/>
+  <TLINK eventID="e193" lid="l5" relType="INCLUDES" relatedToTime="t199"/>
+  <TLINK eventID="e14" lid="l6" relType="AFTER" relatedToEvent="e195"/>
+  <TLINK eventID="e195" lid="l7" relType="AFTER" relatedToEvent="e16"/>
+  <TLINK eventID="e17" lid="l8" relType="AFTER" relatedToEvent="e1"/>
+  <TLINK eventID="e22" lid="l9" relType="AFTER" relatedToEvent="e17"/>
+  <TLINK eventID="e198" lid="l10" relType="IDENTITY" relatedToEvent="e1"/>
+  <TLINK eventID="e197" lid="l11" relType="INCLUDES" relatedToEvent="e17"/>
+  <TLINK eventID="e23" lid="l12" relType="IS_INCLUDED" relatedToTime="t200"/>
+  <TLINK eventID="e30" lid="l13" relType="IS_INCLUDED" relatedToEvent="e23"/>
+  <TLINK eventID="e36" lid="l14" relType="IS_INCLUDED" relatedToTime="t204" signalID="s203"/>
+  <TLINK lid="l15" relType="ENDED_BY" relatedToTime="t205" signalID="s206" timeID="t204"/>
+  <TLINK eventID="e39" lid="l16" relType="IS_INCLUDED" relatedToTime="t207"/>
+  <TLINK eventID="e52" lid="l17" relType="BEFORE" relatedToTime="t199"/>
+  <TLINK eventID="e52" lid="l18" relType="IS_INCLUDED" relatedToTime="t211"/>
+  <TLINK eventID="e54" lid="l19" relType="IS_INCLUDED" relatedToTime="t211"/>
+  <TLINK eventID="e54" lid="l20" relType="BEFORE" relatedToTime="t199"/>
+  <TLINK eventID="e56" lid="l21" relType="INCLUDES" relatedToTime="t199"/>
+  <TLINK eventID="e62" lid="l22" relType="INCLUDES" relatedToTime="t199"/>
+  <TLINK eventID="e71" lid="l23" relType="IS_INCLUDED" relatedToTime="t216" signalID="s215"/>
+  <TLINK eventID="e76" lid="l24" relType="BEFORE" relatedToEvent="e75"/>
+  <TLINK eventID="e75" lid="l25" relType="INCLUDES" relatedToEvent="e77"/>
+  <TLINK eventID="e75" lid="l26" relType="INCLUDES" relatedToEvent="e78"/>
+  <TLINK eventID="e75" lid="l27" relType="INCLUDES" relatedToEvent="e81"/>
+  <TLINK eventID="e75" lid="l28" relType="SIMULTANEOUS" relatedToEvent="e85"/>
+  <TLINK eventID="e75" lid="l29" relType="AFTER" relatedToEvent="e71"/>
+  <TLINK eventID="e90" lid="l30" relType="IS_INCLUDED" relatedToTime="t217" signalID="s219"/>
+  <TLINK eventID="e92" lid="l31" relType="SIMULTANEOUS" relatedToEvent="e90" signalID="s220"/>
+  <TLINK eventID="e221" lid="l32" relType="BEFORE" relatedToEvent="e93"/>
+  <TLINK eventID="e93" lid="l33" relType="SIMULTANEOUS" relatedToEvent="e95"/>
+  <TLINK eventID="e92" lid="l34" relType="SIMULTANEOUS" relatedToEvent="e95"/>
+  <TLINK eventID="e105" lid="l35" relType="AFTER" relatedToEvent="e95"/>
+  <TLINK eventID="e105" lid="l36" relType="BEFORE" relatedToTime="t199"/>
+  <TLINK eventID="e113" lid="l37" relType="BEFORE" relatedToTime="t199"/>
+  <TLINK eventID="e115" lid="l38" relType="IS_INCLUDED" relatedToTime="t228" signalID="s227"/>
+  <TLINK eventID="e120" lid="l39" relType="IDENTITY" relatedToEvent="e113"/>
+  <TLINK eventID="e130" lid="l40" relType="AFTER" relatedToTime="t199"/>
+  <TLINK eventID="e141" lid="l41" relType="AFTER" relatedToEvent="e143"/>
+  <TLINK eventID="e141" lid="l42" relType="AFTER" relatedToEvent="e145"/>
+  <TLINK eventID="e154" lid="l43" relType="IDENTITY" relatedToEvent="e140"/>
+  <TLINK eventID="e153" lid="l44" relType="AFTER" relatedToTime="t199"/>
+  <TLINK eventID="e158" lid="l45" relType="SIMULTANEOUS" relatedToEvent="e156" signalID="s669"/>
+  <TLINK eventID="e158" lid="l46" relType="INCLUDES" relatedToTime="t199"/>
+  <TLINK eventID="e162" lid="l47" relType="BEFORE" relatedToEvent="e1"/>
+  <TLINK eventID="e163" lid="l48" relType="AFTER" relatedToEvent="e162"/>
+  <TLINK eventID="e163" lid="l49" relType="BEFORE" relatedToEvent="e1"/>
+  <TLINK eventID="e165" lid="l50" relType="BEFORE" relatedToEvent="e166"/>
+  <TLINK eventID="e166" lid="l51" relType="BEGUN_BY" relatedToTime="t235" signalID="s236"/>
+  <TLINK eventID="e165" lid="l52" relType="BEFORE" relatedToEvent="e1"/>
+  <TLINK eventID="e166" lid="l53" relType="INCLUDES" relatedToTime="t199"/>
+  <TLINK eventID="e167" lid="l54" relType="IS_INCLUDED" relatedToTime="t239" signalID="s237"/>
+  <TLINK lid="l55" relType="INCLUDES" relatedToEvent="e171" timeID="t241"/>
+  <TLINK eventID="e172" lid="l56" relType="ENDED_BY" relatedToEvent="e244"/>
+  <TLINK eventID="e172" lid="l57" relType="BEGUN_BY" relatedToEvent="e245" signalID="s243"/>
+  <SLINK eventID="e75" lid="l94" relType="FACTIVE" subordinatedEvent="e76"/>
+  <SLINK eventID="e43" lid="l93" relType="EVIDENTIAL" subordinatedEvent="e247"/>
+  <SLINK eventID="e195" lid="l92" relType="FACTIVE" subordinatedEvent="e16"/>
+  <SLINK eventID="e14" lid="l91" relType="FACTIVE" subordinatedEvent="e195"/>
+  <SLINK eventID="e1" lid="l58" relType="MODAL" subordinatedEvent="e3"/>
+  <SLINK eventID="e9" lid="l59" relType="COUNTER_FACTIVE" subordinatedEvent="e11"/>
+  <SLINK eventID="e193" lid="l60" relType="MODAL" subordinatedEvent="e14"/>
+  <SLINK eventID="e17" lid="l61" relType="FACTIVE" subordinatedEvent="e18"/>
+  <SLINK eventID="e22" lid="l62" relType="FACTIVE" subordinatedEvent="e197"/>
+  <SLINK eventID="e23" lid="l63" relType="EVIDENTIAL" subordinatedEvent="e197"/>
+  <SLINK eventID="e30" lid="l64" relType="EVIDENTIAL" subordinatedEvent="e26"/>
+  <SLINK eventID="e26" lid="l65" relType="MODAL" subordinatedEvent="e27"/>
+  <SLINK eventID="e31" lid="l66" relType="EVIDENTIAL" subordinatedEvent="e202"/>
+  <SLINK eventID="e33" lid="l67" relType="MODAL" subordinatedEvent="e35"/>
+  <SLINK eventID="e35" lid="l69" relType="EVIDENTIAL" subordinatedEvent="e36"/>
+  <SLINK eventID="e31" lid="l70" relType="EVIDENTIAL" subordinatedEvent="e39"/>
+  <SLINK eventID="e56" lid="l71" relType="MODAL" subordinatedEvent="e58"/>
+  <SLINK eventID="e85" lid="l72" relType="COUNTER_FACTIVE" subordinatedEvent="e87"/>
+  <SLINK eventID="e95" lid="l73" relType="MODAL" subordinatedEvent="e98"/>
+  <SLINK eventID="e105" lid="l74" relType="EVIDENTIAL" subordinatedEvent="e224"/>
+  <SLINK eventID="e224" lid="l75" relType="MODAL" subordinatedEvent="e225"/>
+  <SLINK eventID="e225" lid="l76" relType="FACTIVE" subordinatedEvent="e102"/>
+  <SLINK eventID="e113" lid="l77" relType="EVIDENTIAL" subordinatedEvent="e115"/>
+  <SLINK eventID="e115" lid="l78" relType="MODAL" subordinatedEvent="e116"/>
+  <SLINK eventID="e120" lid="l79" relType="EVIDENTIAL" subordinatedEvent="e119"/>
+  <SLINK eventID="e131" lid="l80" relType="MODAL" subordinatedEvent="e132"/>
+  <SLINK eventID="e140" lid="l81" relType="EVIDENTIAL" subordinatedEvent="e141"/>
+  <SLINK eventID="e143" lid="l82" relType="MODAL" subordinatedEvent="e145"/>
+  <SLINK eventID="e140" lid="l83" relType="EVIDENTIAL" subordinatedEvent="e146"/>
+  <SLINK eventID="e154" lid="l84" relType="EVIDENTIAL" subordinatedEvent="e153"/>
+  <SLINK eventID="e153" lid="l85" relType="MODAL" subordinatedEvent="e149"/>
+  <SLINK eventID="e153" lid="l86" relType="MODAL" subordinatedEvent="e151"/>
+  <SLINK eventID="e163" lid="l87" relType="MODAL" subordinatedEvent="e165"/>
+  <SLINK eventID="e167" lid="l88" relType="EVIDENTIAL" subordinatedEvent="e240"/>
+  <SLINK eventID="e240" lid="l89" relType="MODAL" subordinatedEvent="e169"/>
+  <SLINK eventID="e171" lid="l90" relType="EVIDENTIAL" subordinatedEvent="e172"/>
+</TimeML>

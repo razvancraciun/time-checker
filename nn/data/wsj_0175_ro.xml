@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> WSJ891102-0015 </DOCNO>
+  <DD> = 891102 </DD>
+  <AN> 891102-0015. </AN>
+  <HL> Marketing Brief -- Sony Corp.:
+@  Japanese Concern Completes
+@  Offer for Columbia Pictures </HL>
+  <DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t32" type="DATE" value="1989-11-02">11/02/89</TIMEX3> </DD>
+  <SO> WALL STREET JOURNAL (J) </SO>
+  <CO> SNE KPE GPEC WCI TL </CO>
+  <IN> RECREATION, ENTERTAINMENT, TOYS, MOVIES, PHOTOGRAPHY, SPORTS (REC)
+TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+MEDIA, PUBLISHING, BROADCASTING, ELECTRONIC PUBLISHING (MED) </IN>
+  <TEXT>
+    <s><ENAMEX TYPE="ORGANIZATION">Sony Corp .</ENAMEX>&scedil;i-<EVENT aspect="NONE" class="ASPECTUAL" eid="e1" eiid="ei205" eventID="e1" polarity="POS" pos="VERB" tense="PAST">a &icirc;ncheiat</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e2" eiid="ei206" eventID="e2" polarity="POS" pos="NOUN" tense="NONE">oferta</EVENT>pentru<ENAMEX TYPE="ORGANIZATION">Columbia Pictures Entertainment Inc .</ENAMEX>, cu ac&tcedil;ionarii<ENAMEX TYPE="ORGANIZATION">Columbia</ENAMEX><EVENT aspect="NONE" class="OCCURRENCE" eid="e3" eiid="ei207" eventID="e3" polarity="POS" pos="VERB" tense="PRESPART">oferind</EVENT><NUMEX TYPE="PERCENT">99 , 3%</NUMEX>din toate ac&tcedil;iunile comune extraordinare<SIGNAL sid="s39">p&acirc;n&abreve;_la</SIGNAL>termenul<TIMEX3 anchorTimeID="t32" functionInDocument="NONE" temporalFunction="true" tid="t38" type="DATE" value="1989-10-31">de mar&tcedil;i</TIMEX3>.</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Sony Columbia Acquisition Corp .</ENAMEX>,<EVENT aspect="NONE" class="OCCURRENCE" eid="e4" eiid="ei208" eventID="e4" polarity="POS" pos="VERB" tense="PASTPART">format&abreve;</EVENT>pentru afacerea<ENAMEX TYPE="ORGANIZATION">Columbia</ENAMEX>, va<EVENT aspect="NONE" class="I_ACTION" eid="e5" eiid="ei209" eventID="e5" polarity="POS" pos="VERB" tense="FUTURE">prelua</EVENT>oficial<EVENT aspect="NONE" class="STATE" eid="e6" eiid="ei210" eventID="e6" polarity="POS" pos="NOUN" tense="NONE">conducerea</EVENT>studioului de filme<SIGNAL sid="s33">mai t&acirc;rziu</SIGNAL><TIMEX3 anchorTimeID="t32" functionInDocument="NONE" temporalFunction="true" tid="t34" type="DATE" value="1989-11">luna aceasta</TIMEX3>,<EVENT aspect="NONE" class="REPORTING" eid="e7" eiid="ei211" eventID="e7" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>un purt&abreve;tor de cuv&acirc;nt .</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Sony</ENAMEX><EVENT aspect="PROGRESSIVE" class="OCCURRENCE" eid="e8" eiid="ei212" eventID="e8" polarity="POS" pos="VERB" tense="PRESENT">pl&abreve;te&scedil;te</EVENT><NUMEX TYPE="MONEY">$ 27</NUMEX>pe ac&tcedil;iune , sau<NUMEX TYPE="MONEY">$ 3 , 55_miliarde</NUMEX>, numerar , &scedil;i<EVENT aspect="PROGRESSIVE" class="OCCURRENCE" eid="e10" eiid="ei213" eventID="e10" polarity="POS" pos="VERB" tense="PRESENT">preia</EVENT><NUMEX TYPE="MONEY">$ 1 , 4_miliarde</NUMEX>din datoria pe termen lung .</s>
+    <s><SIGNAL sid="s103">&Icirc;nc&abreve;</SIGNAL><EVENT aspect="NONE" class="STATE" eid="e35" eiid="ei214" eventID="e35" polarity="POS" pos="ADJECTIVE" tense="NONE">nehot&abreve;r&acirc;t</EVENT>este<EVENT aspect="NONE" class="I_ACTION" eid="e11" eiid="ei215" eventID="e11" polarity="POS" pos="NOUN" tense="NONE">efortul</EVENT>lui<ENAMEX TYPE="ORGANIZATION">Sony</ENAMEX>de a<EVENT aspect="NONE" class="I_ACTION" eid="e13" eiid="ei216" eventID="e13" polarity="POS" pos="VERB" tense="INFINITIVE">angaja</EVENT>produc&abreve;torii<ENAMEX TYPE="PERSON">Jon Peters</ENAMEX>&scedil;i<ENAMEX TYPE="PERSON">Peter Guber</ENAMEX>pentru a<EVENT aspect="NONE" class="STATE" eid="e15" eiid="ei217" eventID="e15" polarity="POS" pos="VERB" tense="INFINITIVE">conduce</EVENT>studioul .</s>
+    <s><EVENT aspect="NONE" class="OCCURRENCE" eid="e16" eiid="ei219" eventID="e16" polarity="POS" pos="NOUN" tense="NONE">Achizi&tcedil;ia</EVENT><EVENT aspect="NONE" class="I_ACTION" eid="e36" eiid="ei218" eventID="e36" polarity="POS" pos="VERB" tense="NONE">pl&abreve;nuit&abreve;</EVENT>de<ENAMEX TYPE="ORGANIZATION">Sony</ENAMEX>a lui<ENAMEX TYPE="ORGANIZATION">Guber / Peters Entertainment Co.</ENAMEX>pentru<NUMEX TYPE="MONEY">$ 200 milioane</NUMEX>este<EVENT aspect="NONE" class="I_STATE" eid="e17" eiid="ei220" eventID="e17" polarity="POS" pos="VERB" tense="PRESENT">programat&abreve;</EVENT>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e19" eiid="ei221" eventID="e19" polarity="POS" pos="VERB" tense="INFINITIVE">se &icirc;ncheie</EVENT><TIMEX3 anchorTimeID="t32" functionInDocument="NONE" temporalFunction="true" tid="t40" type="DATE" value="1989-11-06">luni</TIMEX3></s>
+    <s><ENAMEX TYPE="ORGANIZATION">Guber / Peters</ENAMEX>a fost<EVENT aspect="PERFECTIVE" class="STATE" eid="e20" eiid="ei222" eventID="e20" polarity="POS" pos="VERB" tense="PRESENT">prins&abreve;</EVENT>&icirc;n<EVENT aspect="NONE" class="I_ACTION" eid="e21" eiid="ei223" eventID="e21" polarity="POS" pos="NOUN" tense="NONE">litigiu</EVENT>cu<ENAMEX TYPE="ORGANIZATION">Warner Communications Inc .</ENAMEX>&icirc;ntr- o<EVENT aspect="NONE" class="I_ACTION" eid="e22" eiid="ei224" eventID="e22" polarity="POS" pos="NOUN" tense="NONE">&icirc;ncercare</EVENT>de a<EVENT aspect="NONE" class="OCCURRENCE" eid="e25" eiid="ei225" eventID="e25" polarity="POS" pos="VERB" tense="INFINITIVE">ie&scedil;i</EVENT>dintr- o contract exclusiv de produc&tcedil;ie cu<ENAMEX TYPE="ORGANIZATION">Warner</ENAMEX>.</s>
+    <s>Ambele p&abreve;r&tcedil;i poart&abreve;<EVENT aspect="NONE" class="I_ACTION" eid="e27" eiid="ei226" eventID="e27" polarity="POS" pos="NOUN" tense="NONE">discu&tcedil;ii</EVENT>pentru a<EVENT aspect="NONE" class="ASPECTUAL" eid="e30" eiid="ei227" eventID="e30" polarity="POS" pos="VERB" tense="INFINITIVE">calma</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e31" eiid="ei228" eventID="e31" polarity="POS" pos="NOUN" tense="NONE">disputa</EVENT>.</s>
+  </TEXT>
+  <TLINK eventID="e31" lid="l34" relType="IDENTITY" relatedToEvent="e21"/>
+  <TLINK eventID="e36" lid="l33" relType="BEFORE" relatedToTime="t32"/>
+  <TLINK eventID="e17" lid="l32" relType="IS_INCLUDED" relatedToTime="t32"/>
+  <TLINK eventID="e7" lid="l31" relType="BEFORE" relatedToTime="t32"/>
+  <TLINK eventID="e6" lid="l30" relType="DURING" relatedToTime="t34"/>
+  <TLINK eventID="e1" lid="l1" relType="BEFORE" relatedToTime="t32"/>
+  <TLINK eventID="e3" lid="l2" relType="SIMULTANEOUS" relatedToEvent="e2"/>
+  <TLINK eventID="e3" lid="l3" relType="BEFORE" relatedToTime="t38" signalID="s39"/>
+  <TLINK lid="l4" relType="BEFORE" relatedToTime="t32" timeID="t38"/>
+  <TLINK eventID="e4" lid="l5" relType="BEFORE" relatedToEvent="e2"/>
+  <TLINK eventID="e5" lid="l6" relType="SIMULTANEOUS" relatedToTime="t34" signalID="s33"/>
+  <TLINK eventID="e8" lid="l7" relType="BEFORE" relatedToEvent="e5"/>
+  <TLINK eventID="e10" lid="l8" relType="IS_INCLUDED" relatedToEvent="e5"/>
+  <TLINK lid="l9" relType="BEFORE" relatedToTime="t34" signalID="s33" timeID="t32"/>
+  <TLINK eventID="e35" lid="l10" relType="INCLUDES" relatedToTime="t32" signalID="s103"/>
+  <TLINK eventID="e35" lid="l11" relType="SIMULTANEOUS" relatedToEvent="e11"/>
+  <TLINK eventID="e19" lid="l12" relType="IS_INCLUDED" relatedToTime="t40"/>
+  <TLINK lid="l13" relType="AFTER" relatedToTime="t32" timeID="t40"/>
+  <TLINK eventID="e20" lid="l14" relType="INCLUDES" relatedToTime="t32"/>
+  <TLINK eventID="e20" lid="l15" relType="SIMULTANEOUS" relatedToEvent="e21"/>
+  <TLINK eventID="e27" lid="l16" relType="INCLUDES" relatedToTime="t32"/>
+  <SLINK eventID="e7" lid="l17" relType="EVIDENTIAL" subordinatedEvent="e5"/>
+  <SLINK eventID="e11" lid="l18" relType="MODAL" subordinatedEvent="e13"/>
+  <SLINK eventID="e13" lid="l19" relType="MODAL" subordinatedEvent="e15"/>
+  <SLINK eventID="e36" lid="l20" relType="MODAL" subordinatedEvent="e16"/>
+  <SLINK eventID="e17" lid="l21" relType="MODAL" subordinatedEvent="e19"/>
+  <SLINK eventID="e21" lid="l22" relType="MODAL" subordinatedEvent="e22"/>
+  <SLINK eventID="e22" lid="l23" relType="MODAL" subordinatedEvent="e25"/>
+  <SLINK eventID="e27" lid="l24" relType="MODAL" subordinatedEvent="e30"/>
+  <ALINK eventID="e30" lid="l25" relType="CULMINATES" relatedToEvent="e31"/>
+  <ALINK eventID="e1" lid="l26" relType="CULMINATES" relatedToEvent="e2"/>
+  <ALINK eventID="e5" lid="l27" relType="INITIATES" relatedToEvent="e6"/>
+  <ALINK eventID="e19" lid="l28" relType="CULMINATES" relatedToEvent="e16"/>
+</TimeML>

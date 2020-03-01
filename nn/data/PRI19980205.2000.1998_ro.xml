@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> PRI<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t37" type="DATE" value="1998-02-05">19980205</TIMEX3>.2000.1998 </DOCNO>
+  <DOCTYPE SOURCE="broadcast news">&Scedil;TIRI</DOCTYPE>
+  <BODY>
+    <bn_episode_trans air_date="19980205:2000" program="PRI_The_World">
+      <section endTime="2041.08" startTime="1998.07" type="report">
+        <TEXT>
+          <turn endTime="2010.218" speaker="unknown" spkrType="unknown" startTime="1998.07">
+            <s>Mii de oameni din<ENAMEX TYPE="LOCATION">Germania</ENAMEX>au<EVENT aspect="PERFECTIVE_PROGRESSIVE" class="OCCURRENCE" eid="e1" eiid="ei2001" eventID="e1" polarity="POS" pos="VERB" tense="PRESENT">demonstrat</EVENT><TIMEX3 anchorTimeID="t37" functionInDocument="NONE" temporalFunction="true" tid="t38" type="DATE" value="1998-02-05">ast&abreve;zi</TIMEX3>&icirc;mpotriva<EVENT aspect="NONE" class="STATE" eid="e50" eiid="ei2020" eventID="e50" polarity="POS" pos="NOUN" tense="NONE">nivelului</EVENT>mare al &scedil;omajului &icirc;n &tcedil;ar&abreve; .</s>
+            <s>Ultimele cifre arat&abreve; o<EVENT aspect="NONE" class="OCCURRENCE" eid="e4" eiid="ei2003" eventID="e4" polarity="POS" pos="NOUN" tense="NONE">cre&scedil;tere</EVENT>brusc&abreve; , cu aproape<CARDINAL>cinci_milioane</CARDINAL><ENAMEX TYPE="LOCATION">de germani</ENAMEX>f&abreve;r&abreve; lucru .</s>
+            <s><ENAMEX TYPE="PERSON">Caroline Wyatt</ENAMEX>relateaz&abreve; .</s>
+          </turn>
+          <turn endTime="2041.08" speaker="unknown" spkrType="unknown" startTime="2010.218">
+            <s><EVENT aspect="NONE" class="OCCURRENCE" eid="e6" eiid="ei2005" eventID="e6" polarity="POS" pos="VERB" tense="PRESPART">Scand&acirc;nd</EVENT><ENAMEX TYPE="PERSON">Helmut Kohl</ENAMEX>trebuie<EVENT aspect="NONE" class="OCCURRENCE" eid="e7" eiid="ei2006" eventID="e7" modality="must" polarity="POS" pos="VERB" tense="NONE">s&abreve; plece</EVENT>&scedil;omerii<EVENT aspect="NONE" class="OCCURRENCE" eid="e9" eiid="ei2007" eventID="e9" polarity="POS" pos="VERB" tense="PAST">au ie&scedil;it</EVENT>pe str&abreve;zile capitalei germane ,<ENAMEX TYPE="LOCATION">Berlin</ENAMEX>,<EVENT aspect="NONE" class="I_ACTION" eid="e41" eiid="ei2008" eventID="e41" polarity="POS" pos="VERB" tense="PRESPART">oglindind</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e10" eiid="ei2009" eventID="e10" polarity="POS" pos="NOUN" tense="NONE">protestele</EVENT>din toat&abreve; &tcedil;ara .</s>
+            <s>Lipsa de posturi este<TIMEX3 anchorTimeID="t37" functionInDocument="NONE" temporalFunction="true" tid="t42" type="DATE" value="PRESENT_REF">acum</TIMEX3><EVENT aspect="NONE" class="STATE" eid="e51" eiid="ei2021" eventID="e51" polarity="POS" pos="PREPOSITION" tense="PRESENT">la</EVENT>cel mai &icirc;nalt nivel al s&abreve;u &icirc;n<ENAMEX TYPE="LOCATION">Germania</ENAMEX>de_la al doilea<EVENT aspect="NONE" class="OCCURRENCE" eid="e12" eiid="ei2011" eventID="e12" polarity="POS" pos="ADJECTIVE" tense="NONE">r&abreve;zboi mondial</EVENT>.</s>
+            <s>Cu<EVENT aspect="NONE" class="OCCURRENCE" eid="e14" eiid="ei2012" eventID="e14" polarity="POS" pos="ADJECTIVE" tense="NONE">alegerile generale</EVENT>planificate<TIMEX3 anchorTimeID="t37" functionInDocument="NONE" temporalFunction="true" tid="t44" type="DATE" value="1998-09">&icirc;n septembrie</TIMEX3>, cifrele record nu ar fi putut<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e19" eiid="ei2013" eventID="e19" polarity="POS" pos="VERB" tense="PRESENT">veni</EVENT>la un moment mai prost pentru<ENAMEX TYPE="PERSON">cancelarul Kohl</ENAMEX>.</s>
+            <s><EVENT aspect="NONE" class="I_ACTION" eid="e22" eiid="ei2015" eventID="e22" polarity="POS" pos="NOUN" tense="NONE">Promisiunea</EVENT>lui de a<EVENT aspect="NONE" class="OCCURRENCE" eid="e24" eiid="ei2016" eventID="e24" polarity="POS" pos="VERB" tense="INFINITIVE">&icirc;njum&abreve;t&abreve;&tcedil;i</EVENT>&scedil;omajul<SIGNAL sid="s46">p&acirc;n&abreve;_&icirc;n</SIGNAL><TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t45" type="DATE" value="2000">anul dou&abreve;_mii</TIMEX3>a fost<TIMEX3 anchorTimeID="t37" functionInDocument="NONE" temporalFunction="true" tid="t47" type="DATE" value="PRESENT_REF">acum</TIMEX3><EVENT aspect="PERFECTIVE" class="ASPECTUAL" eid="e25" eiid="ei2017" eventID="e25" polarity="POS" pos="ADJECTIVE" tense="PRESENT">abandonat&abreve;</EVENT>.</s>
+            <s>Iar electoratul german pare din_ce_&icirc;n_ce_mai<EVENT aspect="NONE" class="I_STATE" eid="e49" eiid="ei2018" eventID="e49" polarity="POS" pos="ADJECTIVE" tense="NONE">dornic</EVENT>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e28" eiid="ei2019" eventID="e28" polarity="POS" pos="VERB" tense="INFINITIVE">se descotoroseasc&abreve;</EVENT>de serviciile celui mai longeviv lider<ENAMEX TYPE="LOCATION">european</ENAMEX>.</s>
+            <s><ENAMEX TYPE="PERSON">Caroline Wyatt</ENAMEX>, &scedil;tirile<ENAMEX TYPE="ORGANIZATION">BBC</ENAMEX>,<ENAMEX TYPE="LOCATION">Bonn</ENAMEX>.</s>
+          </turn>
+        </TEXT>
+      </section>
+    </bn_episode_trans>
+  </BODY>
+  <TLINK eventID="e22" lid="l24" relType="BEFORE" relatedToTime="t37"/>
+  <TLINK eventID="e51" lid="l22" relType="AFTER" relatedToEvent="e4"/>
+  <TLINK eventID="e12" lid="l21" relType="BEFORE" relatedToTime="t37"/>
+  <TLINK eventID="e4" lid="l20" relType="BEFORE" relatedToEvent="e50"/>
+  <TLINK eventID="e50" lid="l19" relType="IS_INCLUDED" relatedToTime="t38"/>
+  <TLINK eventID="e1" lid="l1" relType="IS_INCLUDED" relatedToTime="t38"/>
+  <TLINK lid="l2" relType="IDENTITY" relatedToTime="t37" timeID="t38"/>
+  <TLINK eventID="e9" lid="l3" relType="IDENTITY" relatedToEvent="e1"/>
+  <TLINK eventID="e6" lid="l4" relType="IS_INCLUDED" relatedToEvent="e9"/>
+  <TLINK eventID="e9" lid="l5" relType="DURING" relatedToEvent="e41"/>
+  <TLINK eventID="e14" lid="l6" relType="IS_INCLUDED" relatedToTime="t44"/>
+  <TLINK lid="l7" relType="BEFORE" relatedToTime="t44" timeID="t38"/>
+  <TLINK eventID="e19" lid="l8" relType="BEFORE" relatedToEvent="e14"/>
+  <TLINK eventID="e19" lid="l9" relType="BEFORE" relatedToTime="t38"/>
+  <TLINK lid="l10" relType="IDENTITY" relatedToTime="t42" timeID="t47"/>
+  <TLINK lid="l11" relType="INCLUDES" relatedToEvent="e25" timeID="t47"/>
+  <TLINK eventID="e24" lid="l12" relType="ENDED_BY" relatedToTime="t45" signalID="s46"/>
+  <TLINK eventID="e49" lid="l13" relType="DURING" relatedToTime="t47"/>
+  <SLINK eventID="e49" lid="l14" relType="MODAL" subordinatedEvent="e28"/>
+  <SLINK eventID="e6" lid="l15" relType="EVIDENTIAL" subordinatedEvent="e7"/>
+  <SLINK eventID="e41" lid="l16" relType="FACTIVE" subordinatedEvent="e10"/>
+  <SLINK eventID="e22" lid="l17" relType="MODAL" subordinatedEvent="e24"/>
+  <ALINK eventID="e25" lid="l18" relType="TERMINATES" relatedToEvent="e22"/>
+</TimeML>

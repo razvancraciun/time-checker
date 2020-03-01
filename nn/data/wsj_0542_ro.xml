@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> WSJ891030-0159 </DOCNO>
+  <DD> = 891030 </DD>
+  <AN> 891030-0159. </AN>
+  <HL> Dow Jones Extends
+@  Tender Offer for Rest
+@  Of Telerate to Nov. 6 </HL>
+  <DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t86" type="DATE" value="1989-10-30">10/30/89</TIMEX3> </DD>
+  <SO> WALL STREET JOURNAL (J) </SO>
+  <CO> DJ TLR </CO>
+  <IN> TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+MEDIA, PUBLISHING, BROADCASTING, ELECTRONIC PUBLISHING (MED) </IN>
+  <DATELINE> NEW YORK  </DATELINE>
+  <TEXT>
+    <s><ENAMEX TYPE="ORGANIZATION">Dow Jones amp Co.</ENAMEX>&scedil;i-<EVENT aspect="NONE" class="I_ACTION" eid="e1" eiid="ei357" eventID="e1" polarity="POS" pos="VERB" tense="PAST">a extins</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e2" eiid="ei358" eventID="e2" polarity="POS" pos="NOUN" tense="NONE">propunerea</EVENT>de ofert&abreve; de<NUMEX TYPE="MONEY">$ 18</NUMEX>pe ac&tcedil;iune , sau circa<NUMEX TYPE="MONEY">$ 576 milioane</NUMEX>, pentru cei<NUMEX TYPE="PERCENT">33%</NUMEX>din<ENAMEX TYPE="ORGANIZATION">Telerate Inc .</ENAMEX>pe care<SIGNAL sid="s84">&icirc;nc&abreve;</SIGNAL>nu le<EVENT aspect="NONE" class="OCCURRENCE" eid="e3" eiid="ei359" eventID="e3" polarity="NEG" pos="VERB" tense="PRESENT">de&tcedil;ine</EVENT><SIGNAL sid="s85">p&acirc;n&abreve;_la</SIGNAL><TIMEX3 anchorTimeID="t86" functionInDocument="NONE" temporalFunction="true" tid="t87" type="TIME" value="1989-11-06T17">5_p.m. EST , 6_nov.</TIMEX3></s>
+    <s><EVENT aspect="NONE" class="OCCURRENCE" eid="e5" eiid="ei360" eventID="e5" polarity="POS" pos="NOUN" tense="NONE">Oferta</EVENT>, pe care<CARDINAL>doi</CARDINAL>directori independen&tcedil;i ai<ENAMEX TYPE="ORGANIZATION">Telerate</ENAMEX>au<EVENT aspect="PERFECTIVE" class="I_ACTION" eid="e6" eiid="ei361" eventID="e6" polarity="POS" pos="VERB" tense="PRESENT">respins</EVENT>-o ca inadecvat&abreve; , fusese<SIGNAL sid="s88">anterior</SIGNAL><EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e7" eiid="ei362" eventID="e7" polarity="POS" pos="ADJECTIVE" tense="PAST">programat&abreve;</EVENT>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e9" eiid="ei363" eventID="e9" polarity="POS" pos="VERB" tense="INFINITIVE">expire</EVENT><TIMEX3 anchorTimeID="t86" functionInDocument="NONE" temporalFunction="true" tid="t90" type="TIME" value="1989-10-27T24">vineri la miezul nop&tcedil;ii</TIMEX3>.</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Dow Jones</ENAMEX><EVENT aspect="NONE" class="REPORTING" eid="e10" eiid="ei364" eventID="e10" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>c&abreve;<EVENT aspect="NONE" class="I_ACTION" eid="e11" eiid="ei365" eventID="e11" polarity="POS" pos="VERB" tense="PAST">a extins</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e12" eiid="ei366" eventID="e12" polarity="POS" pos="NOUN" tense="NONE">oferta</EVENT>pentru a<EVENT aspect="NONE" class="I_STATE" eid="e14" eiid="ei367" eventID="e14" polarity="POS" pos="OTHER" tense="INFINITIVE">da</EVENT>timp ac&tcedil;ionarilor s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e17" eiid="ei368" eventID="e17" polarity="POS" pos="VERB" tense="INFINITIVE">revizuiasc&abreve;</EVENT>o anex&abreve; la prospectul propunerii de ofert&abreve;<ENAMEX TYPE="ORGANIZATION">a Dow Jones</ENAMEX>pe care<EVENT aspect="NONE" class="OCCURRENCE" eid="e19" eiid="ei369" eventID="e19" polarity="POS" pos="VERB" tense="PAST">a trimis</EVENT>-o<TIMEX3 anchorTimeID="t86" functionInDocument="NONE" temporalFunction="true" tid="t91" type="DATE" value="1989-10-27">vinerea trecut&abreve;</TIMEX3>.</s>
+    <s>Anexa con&tcedil;ine informa&tcedil;ii variate care au fost<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e23" eiid="ei370" eventID="e23" polarity="POS" pos="VERB" tense="PRESENT">completate</EVENT>cu<ENAMEX TYPE="ORGANIZATION">Comisia de garan&tcedil;ii &scedil;i schimb</ENAMEX><SIGNAL sid="s92">de_c&acirc;nd</SIGNAL><ENAMEX TYPE="ORGANIZATION">Dow Jones</ENAMEX><EVENT aspect="NONE" class="OCCURRENCE" eid="e24" eiid="ei371" eventID="e24" polarity="POS" pos="VERB" tense="PAST">a lansat</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e25" eiid="ei372" eventID="e25" polarity="POS" pos="NOUN" tense="NONE">oferta</EVENT><SIGNAL sid="s93">&icirc;n</SIGNAL><TIMEX3 anchorTimeID="t86" functionInDocument="NONE" temporalFunction="true" tid="t94" type="DATE" value="1989-09-26">26_septembrie</TIMEX3>, dar nu<EVENT aspect="NONE" class="OCCURRENCE" eid="e26" eiid="ei373" eventID="e26" polarity="NEG" pos="VERB" tense="PRESENT">schimb&abreve;</EVENT>termenii &scedil;i condi&tcedil;iile<EVENT aspect="NONE" class="OCCURRENCE" eid="e28" eiid="ei374" eventID="e28" polarity="POS" pos="NOUN" tense="NONE">ofertei</EVENT>cu_excep&tcedil;ia <EVENT aspect="NONE" class="OCCURRENCE" eid="e30" eiid="ei375" eventID="e30" polarity="POS" pos="NOUN" tense="NONE">extinderii</EVENT> datei sale de expirare .</s>
+    <s>&Icirc;ntr- un litigiu la<ENAMEX TYPE="ORGANIZATION">Curtea Cancelarului din Delaware</ENAMEX>,<ENAMEX TYPE="ORGANIZATION">Telerate</ENAMEX>a<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e31" eiid="ei376" eventID="e31" polarity="POS" pos="VERB" tense="PRESENT">criticat</EVENT><ENAMEX TYPE="ORGANIZATION">Dow Jones</ENAMEX>c&abreve; nu<EVENT aspect="NONE" class="I_ACTION" eid="e32" eiid="ei377" eventID="e32" polarity="NEG" pos="ADJECTIVE" tense="PRESPART">a f&abreve;cut cunoscut</EVENT>c&abreve; managementul<ENAMEX TYPE="ORGANIZATION">Telerate</ENAMEX><EVENT aspect="NONE" class="I_STATE" eid="e34" eiid="ei378" eventID="e34" polarity="POS" pos="VERB" tense="PRESENT">se a&scedil;teapt&abreve;</EVENT>ca venitul companiei s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e36" eiid="ei379" eventID="e36" polarity="POS" pos="VERB" tense="INFINITIVE">creasc&abreve;</EVENT>cu<NUMEX TYPE="PERCENT">20%</NUMEX>anual , &icirc;n_timp_ce<ENAMEX TYPE="ORGANIZATION">Dow Jones</ENAMEX>&scedil;i-<EVENT aspect="NONE" class="OCCURRENCE" eid="e38" eiid="ei380" eventID="e38" polarity="POS" pos="VERB" tense="PAST">a bazat</EVENT>planurile despre performan&tcedil;a<ENAMEX TYPE="ORGANIZATION">Telerate</ENAMEX>pe o previziune de cre&scedil;tere a venitului<NUMEX TYPE="PERCENT">de 12%</NUMEX>.</s>
+    <s>&Icirc;n anexa propunerii de ofert&abreve; , Dow<ENAMEX TYPE="ORGANIZATION">Jones</ENAMEX><EVENT aspect="NONE" class="I_ACTION" eid="e44" eiid="ei381" eventID="e44" polarity="POS" pos="ADJECTIVE" tense="PRESENT">face cunoscute</EVENT>diferitele<EVENT aspect="NONE" class="OCCURRENCE" eid="e45" eiid="ei382" eventID="e45" polarity="POS" pos="NOUN" tense="NONE">previziuni</EVENT>de cre&scedil;tere dar<EVENT aspect="NONE" class="REPORTING" eid="e46" eiid="ei383" eventID="e46" polarity="POS" pos="VERB" tense="PRESENT">spune</EVENT>c&abreve;<EVENT aspect="NONE" class="I_STATE" eid="e47" eiid="ei384" eventID="e47" polarity="POS" pos="VERB" tense="PRESENT">vede</EVENT>rata de cre&scedil;tere<NUMEX TYPE="PERCENT">de 20%</NUMEX>" ca un<EVENT aspect="NONE" class="OCCURRENCE" eid="e104" eiid="ei400" eventID="e104" polarity="POS" pos="NOUN" tense="NONE">obiectiv</EVENT>de perspectiv&abreve; " a managementului<ENAMEX TYPE="ORGANIZATION">Telerate</ENAMEX>" &scedil;i nu ca o baz&abreve; real&abreve; pe care s&abreve; se planifice performan&tcedil;a viitoare posibil&abreve; a companiei . "</s>
+    <s>Ac&tcedil;iunile<ENAMEX TYPE="ORGANIZATION">Telerate</ENAMEX><EVENT aspect="NONE" class="OCCURRENCE" eid="e52" eiid="ei386" eventID="e52" polarity="POS" pos="VERB" tense="PAST">au sc&abreve;zut</EVENT><NUMEX TYPE="MONEY">50 de cen&tcedil;i</NUMEX><TIMEX3 anchorTimeID="t86" functionInDocument="NONE" temporalFunction="true" tid="t98" type="DATE" value="1989-10-27">Friday</TIMEX3>pentru a<EVENT aspect="NONE" class="OCCURRENCE" eid="e54" eiid="ei387" eventID="e54" polarity="POS" pos="VERB" tense="INFINITIVE">se &icirc;nchide</EVENT>la<EVENT aspect="NONE" class="STATE" eid="e99" eiid="ei388" eventID="e99" polarity="POS" pos="OTHER" tense="NONE"><NUMEX TYPE="MONEY">$ 20</NUMEX></EVENT>fiecare &icirc;n tranzac&tcedil;iile mixte<ENAMEX TYPE="ORGANIZATION">de_la Bursa de Valori din New_York</ENAMEX>.</s>
+    <s>Ac&tcedil;iunile<ENAMEX TYPE="ORGANIZATION">Dow Jones</ENAMEX><EVENT aspect="NONE" class="OCCURRENCE" eid="e55" eiid="ei389" eventID="e55" polarity="POS" pos="VERB" tense="PAST">au sc&abreve;zut</EVENT>de_asemenea<NUMEX TYPE="MONEY">50 de cen&tcedil;i</NUMEX>pentru a<EVENT aspect="NONE" class="OCCURRENCE" eid="e57" eiid="ei390" eventID="e57" polarity="POS" pos="VERB" tense="INFINITIVE">se &icirc;nchide</EVENT>la<EVENT aspect="NONE" class="STATE" eid="e100" eiid="ei391" eventID="e100" polarity="POS" pos="OTHER" tense="NONE"><NUMEX TYPE="MONEY">$ 36 . 125</NUMEX></EVENT>&icirc;n tranzac&tcedil;iile mixte<ENAMEX TYPE="ORGANIZATION">din Marele Consiliu</ENAMEX>.</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Dow Jones</ENAMEX><EVENT aspect="PERFECTIVE" class="REPORTING" eid="e58" eiid="ei392" eventID="e58" polarity="POS" pos="VERB" tense="PRESENT">spusese</EVENT>c&abreve;<EVENT aspect="NONE" class="I_STATE" eid="e59" eiid="ei393" eventID="e59" polarity="POS" pos="VERB" tense="PRESENT">crede</EVENT>c&abreve; pre&tcedil;ul de $ 18-per-ac&tcedil;iune este<EVENT aspect="NONE" class="STATE" eid="e101" eiid="ei394" eventID="e101" polarity="POS" pos="OTHER" tense="PRESENT">echitabil</EVENT>pentru ac&tcedil;ionarii minoritari ai<ENAMEX TYPE="ORGANIZATION">Telerate</ENAMEX>.</s>
+    <s><TIMEX3 anchorTimeID="t86" functionInDocument="NONE" mod="END" temporalFunction="true" tid="t102" type="DATE" value="1989-WXX">S&abreve;pt&abreve;m&acirc;na trecut&abreve; t&acirc;rziu</TIMEX3>,<ENAMEX TYPE="PERSON">reprezentan&tcedil;i ai Dow Jones</ENAMEX>&scedil;i<ENAMEX TYPE="ORGANIZATION">Telerate</ENAMEX><EVENT aspect="NONE" class="ASPECTUAL" eid="e60" eiid="ei395" eventID="e60" polarity="POS" pos="VERB" tense="PAST">au &icirc;nceput</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e61" eiid="ei396" eventID="e61" polarity="POS" pos="NOUN" tense="NONE">negocierile</EVENT>asupra termenilor<EVENT aspect="NONE" class="OCCURRENCE" eid="e103" eiid="ei397" eventID="e103" polarity="POS" pos="NOUN" tense="NONE">ofertei</EVENT>, dar acele<EVENT aspect="NONE" class="OCCURRENCE" eid="e63" eiid="ei398" eventID="e63" polarity="POS" pos="NOUN" tense="NONE">discu&tcedil;ii</EVENT>nu au condus la nici o<EVENT aspect="NONE" class="OCCURRENCE" eid="e66" eiid="ei399" eventID="e66" polarity="NEG" pos="NOUN" tense="NONE">modificare</EVENT>&icirc;n ofert&abreve; .</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Telerate</ENAMEX>furnizeaz&abreve; informa&tcedil;ii despre pie&tcedil;ele financiare printr- o re&tcedil;ea electronic&abreve; .</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Dow Jones</ENAMEX>, care de&tcedil;ine<NUMEX TYPE="PERCENT">67%</NUMEX>din<ENAMEX TYPE="ORGANIZATION">Telerate</ENAMEX>, public&abreve; The<ENAMEX TYPE="ORGANIZATION">Wall Street Journal</ENAMEX>, magazinul<ENAMEX TYPE="PERSON">Barron</ENAMEX>, ziare locale &scedil;i operez&abreve; servicii de &scedil;tiri financiare &scedil;i baze de date computerizate .</s>
+  </TEXT>
+  <TLINK eventID="e58" lid="l58" relType="BEFORE" relatedToTime="t86"/>
+  <TLINK eventID="e6" lid="l57" relType="AFTER" relatedToEvent="e1"/>
+  <TLINK eventID="e1" lid="l1" relType="BEFORE" relatedToTime="t86"/>
+  <TLINK eventID="e3" lid="l2" relType="BEFORE" relatedToEvent="e1"/>
+  <TLINK eventID="e3" lid="l3" relType="INCLUDES" relatedToTime="t86" signalID="s84"/>
+  <TLINK eventID="e3" lid="l4" relType="ENDED_BY" relatedToTime="t87" signalID="s85"/>
+  <TLINK eventID="e5" lid="l5" relType="IDENTITY" relatedToEvent="e2"/>
+  <TLINK eventID="e5" lid="l6" relType="ENDED_BY" relatedToEvent="e9"/>
+  <TLINK eventID="e9" lid="l7" relType="IS_INCLUDED" relatedToTime="t90" />
+  <TLINK eventID="e7" lid="l8" relType="BEFORE" relatedToEvent="e1" signalID="s88"/>
+  <TLINK eventID="e10" lid="l9" relType="BEFORE" relatedToTime="t86"/>
+  <TLINK eventID="e10" lid="l10" relType="AFTER" relatedToEvent="e1"/>
+  <TLINK eventID="e12" lid="l11" relType="IDENTITY" relatedToEvent="e2"/>
+  <TLINK eventID="e19" lid="l12" relType="BEFORE" relatedToEvent="e11"/>
+  <TLINK eventID="e19" lid="l13" relType="BEFORE" relatedToEvent="e10"/>
+  <TLINK eventID="e19" lid="l14" relType="IS_INCLUDED" relatedToTime="t91"/>
+  <TLINK eventID="e23" lid="l15" relType="BEFORE" relatedToTime="t86"/>
+  <TLINK eventID="e23" lid="l16" relType="AFTER" relatedToEvent="e24" signalID="s92"/>
+  <TLINK eventID="e24" lid="l17" relType="BEGINS" relatedToEvent="e25"/>
+  <TLINK eventID="e24" lid="l18" relType="IS_INCLUDED" relatedToTime="t94" signalID="s93"/>
+  <TLINK eventID="e23" lid="l19" relType="BEFORE" relatedToEvent="e26"/>
+    <TLINK eventID="e23" lid="l20" relType="BEFORE" relatedToEvent="e30"/>
+  <TLINK eventID="e26" lid="l21" relType="SIMULTANEOUS" relatedToEvent="e30"/>
+
+  <TLINK eventID="e38" lid="l22" relType="BEFORE" relatedToEvent="e36"/>
+  <TLINK eventID="e44" lid="l23" relType="AFTER" relatedToEvent="e31"/>
+  <TLINK eventID="e46" lid="l24" relType="SIMULTANEOUS" relatedToEvent="e44"/>
+ <TLINK eventID="e52" lid="l25" relType="IS_INCLUDED" relatedToTime="t98" />
+  <TLINK eventID="e52" lid="l26" relType="ENDED_BY" relatedToEvent="e54"/>
+  <TLINK eventID="e54" lid="l27" relType="INCLUDES" relatedToEvent="e99"/>
+  <TLINK eventID="e55" lid="l28" relType="IS_INCLUDED" relatedToTime="t98" />
+  <TLINK eventID="e55" lid="l29" relType="ENDED_BY" relatedToEvent="e57"/>
+  <TLINK eventID="e57" lid="l30" relType="INCLUDES" relatedToEvent="e100"/>
+  <TLINK lid="l31" relType="INCLUDES" relatedToEvent="e60" timeID="t102"/>
+  <TLINK eventID="e103" lid="l32" relType="IDENTITY" relatedToEvent="e2"/>
+  <TLINK eventID="e63" lid="l33" relType="INCLUDES" relatedToEvent="e61"/>
+  <TLINK eventID="e63" lid="l34" relType="IS_INCLUDED" relatedToTime="t102"/>
+  <TLINK eventID="e63" lid="l35" relType="BEFORE" relatedToEvent="e66"/>
+  <SLINK eventID="e26" lid="l56" relType="FACTIVE" subordinatedEvent="e28"/>
+  <SLINK eventID="e24" lid="l55" relType="FACTIVE" subordinatedEvent="e25"/>
+  <SLINK eventID="e1" lid="l36" relType="FACTIVE" subordinatedEvent="e2"/>
+  <SLINK eventID="e6" lid="l37" relType="FACTIVE" subordinatedEvent="e5"/>
+  <SLINK eventID="e7" lid="l38" relType="MODAL" subordinatedEvent="e9"/>
+  <SLINK eventID="e10" lid="l39" relType="EVIDENTIAL" subordinatedEvent="e11"/>
+  <SLINK eventID="e11" lid="l40" relType="FACTIVE" subordinatedEvent="e12"/>
+  <SLINK eventID="e11" lid="l41" relType="MODAL" subordinatedEvent="e14"/>
+  <SLINK eventID="e14" lid="l42" relType="MODAL" subordinatedEvent="e17"/>
+    <SLINK eventID="e30" lid="l43" relType="FACTIVE" subordinatedEvent="e28"/>
+  <SLINK eventID="e31" lid="l44" relType="FACTIVE" subordinatedEvent="e32"/>
+  <SLINK eventID="e32" lid="l45" relType="FACTIVE" subordinatedEvent="e34"/>
+  <SLINK eventID="e34" lid="l46" relType="MODAL" subordinatedEvent="e36"/>
+  <SLINK eventID="e44" lid="l47" relType="FACTIVE" subordinatedEvent="e45"/>
+  <SLINK eventID="e46" lid="l48" relType="EVIDENTIAL" subordinatedEvent="e47"/>
+  <SLINK eventID="e58" lid="l49" relType="EVIDENTIAL" subordinatedEvent="e59"/>
+  <SLINK eventID="e59" lid="l50" relType="MODAL" subordinatedEvent="e101"/>
+  <SLINK eventID="e61" lid="l51" relType="FACTIVE" subordinatedEvent="e103"/>
+  <SLINK eventID="e47" lid="l52" relType="MODAL" subordinatedEvent="e104"/>
+  <ALINK eventID="e24" lid="l54" relType="INITIATES" relatedToEvent="e25"/>
+  <ALINK eventID="e60" lid="l53" relType="INITIATES" relatedToEvent="e61"/>
+</TimeML>

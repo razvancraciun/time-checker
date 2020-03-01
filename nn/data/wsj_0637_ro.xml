@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> WSJ891030-0061 </DOCNO>
+  <DD> = 891030 </DD>
+  <AN> 891030-0061. </AN>
+  <HL> Labatt Plans to Place
+@  New Preferred Shares </HL>
+  <DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t34" type="DATE" value="1989-10-30">10/30/89</TIMEX3> </DD>
+  <SO> WALL STREET JOURNAL (J) </SO>
+  <CO> T.LBT </CO>
+  <DATELINE> LONDON, Ontario  </DATELINE>
+  <TEXT>
+    <s><ENAMEX TYPE="ORGANIZATION">John Labatt Ltd .</ENAMEX><EVENT aspect="NONE" class="REPORTING" eid="e1" eiid="ei1995" eventID="e1" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>c&abreve;<EVENT aspect="NONE" class="I_STATE" eid="e2" eiid="ei1996" eventID="e2" polarity="POS" pos="VERB" tense="PRESENT">pl&abreve;nuie&scedil;te</EVENT>un<EVENT aspect="NONE" class="OCCURRENCE" eid="e3" eiid="ei1997" eventID="e3" polarity="POS" pos="NOUN" tense="NONE">plasament</EVENT>privat de<NUMEX TYPE="MONEY">150_milioane_dolari canadieni</NUMEX>(<ENAMEX TYPE="LOCATION">US&dollar;127</ENAMEX><NUMEX TYPE="MONEY">, 5_milioane</NUMEX>) &icirc;n ac&tcedil;iuni preferen&tcedil;iale , pentru a fi<EVENT aspect="NONE" class="ASPECTUAL" eid="e6" eiid="ei1998" eventID="e6" modality="none" polarity="POS" pos="VERB" tense="INFINITIVE">&icirc;ncheiat</EVENT><TIMEX3 anchorTimeID="t34" functionInDocument="NONE" mod="APPROX" temporalFunction="true" tid="t72" type="DATE" value="1989-11-01">&icirc;n_jur_de 1_noiembrie</TIMEX3>.</s>
+    <s>C&acirc;&scedil;tigurile vor fi<EVENT aspect="NONE" class="I_ACTION" eid="e7" eiid="ei1999" eventID="e7" polarity="POS" pos="VERB" tense="FUTURE">folosite</EVENT>pentru a<EVENT aspect="NONE" class="OCCURRENCE" eid="e9" eiid="ei2000" eventID="e9" polarity="POS" pos="VERB" tense="INFINITIVE">reduce</EVENT>datoria pe termen scurt la concernul de bere &scedil;i alimente ,<EVENT aspect="NONE" class="REPORTING" eid="e10" eiid="ei2001" eventID="e10" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT><ENAMEX TYPE="PERSON">Robert Vaux</ENAMEX>, vicepre&scedil;edinte ,<ENAMEX TYPE="ORGANIZATION">finan&tcedil;e</ENAMEX>.</s>
+    <s>Ac&tcedil;iunile preferen&tcedil;iale vor<EVENT aspect="NONE" class="OCCURRENCE" eid="e12" eiid="ei2002" eventID="e12" polarity="POS" pos="VERB" tense="FUTURE">avea</EVENT>un dividend anual flexibil egal cu<NUMEX TYPE="PERCENT">72%</NUMEX>din rata de acceptare de 30 de zile a b&abreve;ncii<SIGNAL sid="s36">p&acirc;n&abreve;</SIGNAL><TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t37" type="DATE" value="1994-12-31">pe 31 decembrie 1994</TIMEX3>.</s>
+    <s><SIGNAL sid="s38">Dup&abreve; aceea</SIGNAL>, rata va fi<EVENT aspect="NONE" class="OCCURRENCE" eid="e13" eiid="ei2003" eventID="e13" polarity="POS" pos="VERB" tense="FUTURE">renegociat&abreve;</EVENT>.</s>
+    <s><ENAMEX TYPE="PERSON">D- l Vaux</ENAMEX><EVENT aspect="NONE" class="REPORTING" eid="e14" eiid="ei2004" eventID="e14" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>c&abreve;<SIGNAL sid="s15">dac&abreve;</SIGNAL>nu<EVENT aspect="NONE" class="OCCURRENCE" eid="e17" eiid="ei2006" eventID="e17" polarity="POS" pos="VERB" tense="PRESENT">se ajunge</EVENT>la nici un<EVENT aspect="NONE" class="OCCURRENCE" eid="e16" eiid="ei2005" eventID="e16" polarity="NEG" pos="NOUN" tense="NONE">acord</EVENT>, al&tcedil;i cump&abreve;r&abreve;tori vor fi<EVENT aspect="NONE" class="I_ACTION" eid="e18" eiid="ei2007" eventID="e18" polarity="POS" pos="VERB" tense="FUTURE">c&abreve;uta&tcedil;i</EVENT>prin<EVENT aspect="NONE" class="OCCURRENCE" eid="e19" eiid="ei2008" eventID="e19" polarity="POS" pos="NOUN" tense="NONE">oferte</EVENT>sau<EVENT aspect="NONE" class="OCCURRENCE" eid="e20" eiid="ei2009" eventID="e20" polarity="POS" pos="NOUN" tense="NONE">licita&tcedil;ii</EVENT>.</s>
+    <s>Ac&tcedil;iunile pot fi<EVENT aspect="NONE" class="STATE" eid="e41" eiid="ei2010" eventID="e41" polarity="POS" pos="VERB" tense="PRESENT">r&abreve;scump&abreve;rate</EVENT><SIGNAL sid="s40">dup&abreve;</SIGNAL><TIMEX3 functionInDocument="NONE" mod="END" temporalFunction="false" tid="t42" type="DATE" value="1994">sf&acirc;r&scedil;itul lui 1994</TIMEX3>.</s>
+    <s><ENAMEX TYPE="PERSON">D- l Vaux</ENAMEX><EVENT aspect="NONE" class="REPORTING" eid="e21" eiid="ei2011" eventID="e21" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>c&abreve; emisia de ac&tcedil;iuni este parte a<EVENT aspect="NONE" class="I_STATE" eid="e43" eiid="ei2012" eventID="e43" polarity="POS" pos="NOUN" tense="PRESENT">strategiei</EVENT>de a<EVENT aspect="NONE" class="OCCURRENCE" eid="e23" eiid="ei2013" eventID="e23" polarity="POS" pos="VERB" tense="INFINITIVE">&icirc;nt&abreve;ri</EVENT>bilan&tcedil;ul contabil al lui<ENAMEX TYPE="ORGANIZATION">Labatt</ENAMEX><SIGNAL sid="s169">&icirc;n anticiparea</SIGNAL> <EVENT aspect="NONE" class="OCCURRENCE" eid="e25" eiid="ei2014" eventID="e25" polarity="POS" pos="NOUN" tense="NONE">achizi&tcedil;iei</EVENT>care va fi<EVENT aspect="NONE" class="OCCURRENCE" eid="e27" eiid="ei2015" eventID="e27" modality="none" polarity="POS" pos="VERB" tense="INFINITIVE">f&abreve;cut&abreve;</EVENT><SIGNAL sid="s45">&icirc;n</SIGNAL><TIMEX3 beginPoint="t34" functionInDocument="NONE" temporalFunction="true" tid="t46" type="DURATION" value="PXM">urm&abreve;toarele<CARDINAL>12</CARDINAL>p&acirc;n&abreve;_la<CARDINAL>18_luni</CARDINAL></TIMEX3>.</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Labatt</ENAMEX>nu<EVENT aspect="NONE" class="STATE" eid="e28" eiid="ei2016" eventID="e28" polarity="POS" pos="VERB" tense="PRESENT">are</EVENT>nici o ofert&abreve; extraordinar&abreve; de preluare<TIMEX3 anchorTimeID="t34" functionInDocument="NONE" temporalFunction="true" tid="t49" type="DATE" value="PRESENT_REF">&icirc;n prezent</TIMEX3>,<EVENT aspect="NONE" class="REPORTING" eid="e30" eiid="ei2017" eventID="e30" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>el .</s>
+    <s>Garantul principal al emisiei este<ENAMEX TYPE="ORGANIZATION">Toronto Dominion Securities Inc .</ENAMEX></s>
+  </TEXT>
+  <TLINK eventID="e28" lid="l1" relType="IS_INCLUDED" relatedToTime="t49"/>
+  <TLINK eventID="e1" lid="l2" relType="BEFORE" relatedToTime="t34"/>
+  <TLINK eventID="e6" lid="l3" relType="IS_INCLUDED" relatedToTime="t72"/>
+  <TLINK eventID="e7" lid="l4" relType="AFTER" relatedToTime="t34"/>
+  <TLINK eventID="e10" lid="l5" relType="IDENTITY" relatedToEvent="e1"/>
+  <TLINK eventID="e3" lid="l6" relType="SIMULTANEOUS" relatedToEvent="e7"/>
+  <TLINK eventID="e12" lid="l7" relType="AFTER" relatedToTime="t34"/>
+  <TLINK eventID="e12" lid="l8" relType="ENDED_BY" relatedToTime="t37" signalID="s36"/>
+  <TLINK eventID="e13" lid="l9" relType="AFTER" relatedToTime="t37" signalID="s38"/>
+  <TLINK eventID="e14" lid="l10" relType="IDENTITY" relatedToEvent="e10"/>
+  <TLINK eventID="e16" lid="l11" relType="IDENTITY" relatedToEvent="e17"/>
+  <TLINK eventID="e16" lid="l12" relType="BEFORE" relatedToEvent="e18"/>
+  <TLINK eventID="e18" lid="l13" relType="INCLUDES" relatedToEvent="e19"/>
+  <TLINK eventID="e18" lid="l14" relType="INCLUDES" relatedToEvent="e20"/>
+  <TLINK eventID="e41" lid="l15" relType="AFTER" relatedToTime="t42" signalID="s40"/>
+  <TLINK eventID="e21" lid="l16" relType="IDENTITY" relatedToEvent="e10"/>
+    <TLINK eventID="e23" lid="l17" relType="BEFORE" relatedToEvent="e25" signalID="s169"/>
+  <TLINK eventID="e25" lid="l18" relType="IDENTITY" relatedToEvent="e27"/>
+  <TLINK eventID="e27" lid="l19" relType="DURING" relatedToTime="t46" signalID="s45"/>
+  <TLINK eventID="e30" lid="l20" relType="IDENTITY" relatedToEvent="e21"/>
+    <SLINK eventID="e25" lid="l31" relType="MODAL" subordinatedEvent="e27"/>
+  <SLINK eventID="e2" lid="l30" relType="MODAL" subordinatedEvent="e3"/>
+  <SLINK eventID="e16" lid="l21" relType="CONDITIONAL" signalID="s15" subordinatedEvent="e18"/>
+  <SLINK eventID="e1" lid="l22" relType="EVIDENTIAL" subordinatedEvent="e2"/>
+  <SLINK eventID="e7" lid="l23" relType="MODAL" subordinatedEvent="e9"/>
+  <SLINK eventID="e10" lid="l24" relType="EVIDENTIAL" subordinatedEvent="e7"/>
+  <SLINK eventID="e14" lid="l25" relType="EVIDENTIAL" subordinatedEvent="e18"/>
+  <SLINK eventID="e21" lid="l26" relType="EVIDENTIAL" subordinatedEvent="e43"/>
+  <SLINK eventID="e43" lid="l27" relType="MODAL" subordinatedEvent="e23"/>
+  <SLINK eventID="e30" lid="l28" relType="EVIDENTIAL" subordinatedEvent="e28"/>
+  <ALINK eventID="e6" lid="l29" relType="CULMINATES" relatedToEvent="e3"/>
+</TimeML>

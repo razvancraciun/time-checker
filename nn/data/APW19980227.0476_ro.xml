@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> APW19980227.0476 </DOCNO>
+  <DOCTYPE SOURCE="newswire">&Scedil;TIRI</DOCTYPE>
+  <DATE_TIME> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t19" type="TIME" value="1998-02-27T08:02:00">02/27/1998 08:02:00</TIMEX3> </DATE_TIME>
+  <HEADER>
+w2381 Cx1f wstm-
+u i Cx13  Cx11  BC-WorldCourt-Lockerbie 5thLd   02-27 0169
+</HEADER>
+  <BODY><SLUG> BC-World Court-Lockerbie, 5th Ld </SLUG><HEADLINE>
+World Court declares jurisdiction in Lockerbie dispute
+</HEADLINE>
+UR Eds: RECASTS lead to clarify; ADDS detail of U.S. and British
+objections in 3rd graf. QL
+UR AP Photo staffing QL
+UR By MIKE CORDER QC
+UR Associated Press Writer QC
+
+<TEXT><s>HAGA ,<ENAMEX TYPE="LOCATION">Olanda</ENAMEX>(<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ <TIMEX3 anchorTimeID="t19" functionInDocument="NONE" temporalFunction="true" tid="t21" type="DATE" value="1998-02-27">Vineri</TIMEX3> Curtea Interna&tcedil;ional&abreve; a <EVENT aspect="NONE" class="OCCURRENCE" eid="e1" eiid="ei2091" eventID="e1" polarity="POS" pos="VERB" stem="respinge" tense="PAST">respins</EVENT> <EVENT aspect="NONE" class="OCCURRENCE" eid="e1996" eiid="ei2092" eventID="e1996" polarity="POS" pos="NOUN" stem="obiec&tcedil;ie" tense="NONE">obiec&tcedil;iile</EVENT> SUA &scedil;i britanice &icirc;mpotriva unui caz al unei Cur&tcedil;i Interna&tcedil;ionale libaneze care a <EVENT aspect="PERFECTIVE" class="I_ACTION" eid="e2" eiid="ei2093" eventID="e2" polarity="POS" pos="VERB" stem="bloca" tense="PAST">blocat</EVENT> <EVENT aspect="NONE" class="OCCURRENCE" eid="e1997" eiid="ei2094" eventID="e1997" polarity="POS" pos="NOUN" stem="proces" tense="NONE">procesul</EVENT> a doi libanezi <EVENT aspect="NONE" class="I_STATE" eid="e3" eiid="ei2095" eventID="e3" polarity="POS" pos="VERB" stem="suspecta" tense="PASTPART">suspecta&tcedil;i</EVENT> c&abreve; au <EVENT aspect="NONE" class="OCCURRENCE" eid="e4" eiid="ei2096" eventID="e4" polarity="POS" pos="VERB" stem="blow" tense="PRESPART">aruncat</EVENT> &icirc;n aer un avion cu reac&tcedil;ie Pan Am deasupra Sco&tcedil;iei &icirc;n <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t22" type="DATE" value="1988">1988</TIMEX3> .</s>
+<s><ENAMEX TYPE="LOCATION">Libia</ENAMEX>, care a<EVENT aspect="NONE" class="OCCURRENCE" eid="e5" eiid="ei2097" eventID="e5" polarity="POS" pos="VERB" stem="bring" tense="PAST">dus</EVENT>cazul la cel mai &icirc;nalt for judiciar al<ENAMEX TYPE="ORGANIZATION">Na&tcedil;iunilor Unite</ENAMEX>&icirc;n<EVENT aspect="NONE" class="OCCURRENCE" eid="e6" eiid="ei2098" eventID="e6" polarity="POS" pos="NOUN" stem="dispute" tense="NONE">disputa</EVENT>sa cu<ENAMEX TYPE="LOCATION">Statele_Unite</ENAMEX>&icirc;n<ENAMEX TYPE="LOCATION">Marea_Britanie</ENAMEX>,a <EVENT aspect="NONE" class="I_ACTION" eid="e8" eiid="ei2099" eventID="e8" polarity="POS" pos="VERB" stem="saluta" tense="PAST">salutat</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e1998" eiid="ei2100" eventID="e1998" polarity="POS" pos="NOUN" stem="conducere" tense="NONE">conducerea</EVENT>&scedil;i a <EVENT aspect="NONE" class="REPORTING" eid="e9" eiid="ei2101" eventID="e9" polarity="POS" pos="VERB" stem="say" tense="PAST">spus</EVENT>c&abreve; va <EVENT aspect="NONE" class="I_ACTION" eid="e10" eiid="ei2102" eventID="e10" modality="would" polarity="POS" pos="VERB" stem="face" tense="FUTURE">face</EVENT>noi presiuni  pentru un<EVENT aspect="NONE" class="OCCURRENCE" eid="e1999" eiid="ei2103" eventID="e1999" polarity="POS" pos="NOUN" stem="proces" tense="NONE">proces</EVENT>&icirc;ntr- o a treia &tcedil;ar&abreve; neutr&abreve; .</s>
+<s>At&acirc;t oficiali<ENAMEX TYPE="LOCATION">SUA</ENAMEX>c&acirc;t &scedil;i britanici<EVENT aspect="NONE" class="OCCURRENCE" eid="e12" eiid="ei2104" eventID="e12" polarity="POS" pos="VERB" stem="file" tense="PAST">au depus</EVENT>obiec&tcedil;ii la jurisdic&tcedil;ia cur&tcedil;ii &icirc;n<TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t23" type="DATE" value="1995">1995</TIMEX3>,<EVENT aspect="NONE" class="I_ACTION" eid="e13" eiid="ei2105" eventID="e13" polarity="POS" pos="VERB" stem="claim" tense="PRESPART">pretinz&acirc;nd</EVENT>c&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e2078" eiid="ei2106" eventID="e2078" polarity="POS" pos="NOUN" stem="resolution" tense="NONE">rezolu&tcedil;iile</EVENT><ENAMEX TYPE="ORGANIZATION">Consiliului de Securitate</ENAMEX><EVENT aspect="NONE" class="OCCURRENCE" eid="e14" eiid="ei2107" eventID="e14" polarity="POS" pos="VERB" stem="impose" tense="PAST">impuse</EVENT>Libiei pentru a<EVENT aspect="NONE" class="OCCURRENCE" eid="e15" eiid="ei2108" eventID="e15" polarity="POS" pos="VERB" stem="force" tense="INFINITIVE">for&tcedil;a</EVENT>extr&abreve;darea suspec&tcedil;ilor<EVENT aspect="NONE" class="OCCURRENCE" eid="e16" eiid="ei2109" eventID="e16" polarity="POS" pos="VERB" stem="overrule" tense="PAST">&icirc;nc&abreve;lca</EVENT>o conven&tcedil;ie<TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t24" type="DATE" value="1971">din 1971</TIMEX3>care d&abreve;<ENAMEX TYPE="LOCATION">Libiei</ENAMEX>dreptul s&abreve; &icirc;ncerce b&abreve;rba&tcedil;ii .</s>
+<s>Decizia ,<ENAMEX TYPE="PERSON">3</ENAMEX>graf pvs .</s>
+</TEXT>
+(PROFILE
+(WS SL:BC-World Court-Lockerbie, 5th Ld; CT:i;
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:ENGL;)
+(LANG:ENGLISH;))
+)
+</BODY>
+  <TRAILER>
+    <s>AP-NY-02-27-98 0802EST</s>
+  </TRAILER>
+  <TLINK eventID="e8" lid="l21" relType="IS_INCLUDED" relatedToEvent="e8"/>
+  <TLINK eventID="e9" lid="l1" origin="USER" relType="BEFORE" relatedToTime="t19"/>
+  <TLINK eventID="e2078" lid="l2" origin="USER" relType="BEFORE" relatedToEvent="e12"/>
+  <TLINK eventID="e14" lid="l3" origin="USER" relType="SIMULTANEOUS" relatedToEvent="e2078"/>
+  <TLINK lid="l4" origin="USER" relType="INCLUDES" relatedToEvent="e1" timeID="t21"/>
+  <TLINK eventID="e1996" lid="l5" origin="USER" relType="BEFORE" relatedToEvent="e1"/>
+  <TLINK eventID="e2" lid="l6" origin="USER" relType="DURING" relatedToEvent="e1996"/>
+  <TLINK eventID="e3" lid="l7" origin="USER" relType="INCLUDES" relatedToEvent="e1996"/>
+  <TLINK lid="l8" origin="USER" relType="INCLUDES" relatedToEvent="e4" timeID="t22"/>
+  <TLINK eventID="e5" lid="l9" origin="USER" relType="IS_INCLUDED" relatedToEvent="e6"/>
+  <TLINK eventID="e1998" lid="l10" origin="USER" relType="IDENTITY" relatedToEvent="e1"/>
+  <TLINK eventID="e12" lid="l11" origin="USER" relType="IS_INCLUDED" relatedToTime="t23"/>
+  <TLINK eventID="e13" lid="l12" origin="USER" relType="IS_INCLUDED" relatedToEvent="e12"/>
+  <SLINK eventID="e1" lid="l20" relType="FACTIVE" subordinatedEvent="e1996"/>
+  <SLINK eventID="e14" lid="l13" relType="MODAL" subordinatedEvent="e15"/>
+  <SLINK eventID="e13" lid="l14" relType="EVIDENTIAL" subordinatedEvent="e16"/>
+  <SLINK eventID="e2" lid="l15" relType="FACTIVE" subordinatedEvent="e1997"/>
+  <SLINK eventID="e3" lid="l16" relType="MODAL" subordinatedEvent="e4"/>
+  <SLINK eventID="e8" lid="l17" relType="FACTIVE" subordinatedEvent="e1998"/>
+  <SLINK eventID="e9" lid="l18" relType="EVIDENTIAL" subordinatedEvent="e10"/>
+  <SLINK eventID="e10" lid="l19" relType="MODAL" subordinatedEvent="e1999"/>
+</TimeML>

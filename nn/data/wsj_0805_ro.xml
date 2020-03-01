@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> WSJ891027-0090 </DOCNO>
+  <DD> = 891027 </DD>
+  <AN> 891027-0090. </AN>
+  <HL> Dividend News:
+@  CMS Energy Corp. </HL>
+  <DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t13" type="DATE" value="1989-10-27">10/27/89</TIMEX3> </DD>
+  <SO> WALL STREET JOURNAL (J) </SO>
+  <CO> CMS </CO>
+  <IN> DIVIDENDS (DIV)
+EARNINGS (ERN) </IN>
+  <TEXT>
+    <s><ENAMEX TYPE="ORGANIZATION">CMS ENERGY Corp .</ENAMEX><EVENT aspect="NONE" class="REPORTING" eid="e1" eiid="ei159" eventID="e1" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>c&abreve; administra&tcedil;ia avea<EVENT aspect="NONE" class="I_ACTION" eid="e3" eiid="ei160" eventID="e3" modality="would" polarity="POS" pos="VERB" tense="NONE">s&abreve; recomande</EVENT>consiliului s&abreve;u<TIMEX3 anchorTimeID="t13" functionInDocument="NONE" temporalFunction="true" tid="t14" type="DATE" value="1989-10-27">ast&abreve;zi</TIMEX3>ca dividendul s&abreve;u de ac&tcedil;iuni comune s&abreve; fie<EVENT aspect="NONE" class="OCCURRENCE" eid="e5" eiid="ei161" eventID="e5" polarity="POS" pos="VERB" tense="PRESENT">restabilit</EVENT>la un " nivel modest "<TIMEX3 anchorTimeID="t13" functionInDocument="NONE" mod="ON_OR_AFTER" temporalFunction="true" tid="t77" type="DATE" value="1989-11-01">mai t&acirc;rziu anul acesta</TIMEX3>.</s>
+    <s>Compania de energie<ENAMEX TYPE="LOCATION">din Dearborn</ENAMEX>,<ENAMEX TYPE="LOCATION">Mich .</ENAMEX><EVENT aspect="NONE" class="ASPECTUAL" eid="e6" eiid="ei162" eventID="e6" polarity="POS" pos="VERB" tense="PAST">a &icirc;ncetat</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e7" eiid="ei163" eventID="e7" polarity="POS" pos="VERB" tense="PRESPART">s&abreve; pl&abreve;teasc&abreve;</EVENT>un dividend<SIGNAL sid="s68">&icirc;n</SIGNAL><TIMEX3 anchorTimeID="t13" functionInDocument="NONE" temporalFunction="true" tid="t69" type="DATE" value="1984-Q3">al treilea trimestru din 1984</TIMEX3>din_cauza<EVENT aspect="NONE" class="OCCURRENCE" eid="e8" eiid="ei164" eventID="e8" polarity="POS" pos="NOUN" tense="NONE">unor probleme</EVENT>la uzina sa nuclear&abreve;<ENAMEX TYPE="LOCATION">din mijlocul t&abreve;rii</ENAMEX>.</s>
+    <s>&Icirc;n plus ,<ENAMEX TYPE="ORGANIZATION">CMS</ENAMEX><EVENT aspect="NONE" class="REPORTING" eid="e10" eiid="ei165" eventID="e10" polarity="POS" pos="VERB" tense="PAST">a raportat</EVENT>un net<TIMEX3 anchorTimeID="t13" functionInDocument="NONE" temporalFunction="true" tid="t15" type="DATE" value="1989-Q3">pe al treilea trimestru</TIMEX3>de<NUMEX TYPE="MONEY"><EVENT aspect="NONE" class="STATE" eid="e144" eiid="ei169" eventID="e144" polarity="POS" pos="OTHER" tense="NONE">$ 68 . 2_milioane</EVENT></NUMEX>, sau<NUMEX TYPE="MONEY">83 cen&tcedil;i</NUMEX>ac&tcedil;iunea ,<EVENT aspect="NONE" class="STATE" eid="e121" eiid="ei167" eventID="e121" polarity="POS" pos="NOUN" tense="NONE">&icirc;n cre&scedil;tere</EVENT>de_la<NUMEX TYPE="MONEY"><EVENT aspect="NONE" class="STATE" eid="e145" eiid="ei170" eventID="e145" polarity="POS" pos="OTHER" tense="NONE">$ 66 . 8_milioane</EVENT></NUMEX>, sau<NUMEX TYPE="MONEY">81 cen&tcedil;i</NUMEX>ac&tcedil;iunea ,<TIMEX3 anchorTimeID="t15" functionInDocument="NONE" temporalFunction="true" tid="t21" type="DATE" value="1988-Q3">acum un an</TIMEX3>.</s>
+  </TEXT>
+  <TLINK eventID="e121" lid="l18" relType="AFTER" relatedToEvent="e145"/>
+  <TLINK eventID="e144" lid="l17" relType="IS_INCLUDED" relatedToTime="t15"/>
+  <TLINK eventID="e145" lid="l16" relType="IS_INCLUDED" relatedToTime="t21"/>
+  <TLINK eventID="e7" lid="l15" relType="IS_INCLUDED" relatedToTime="t69"/>
+  <TLINK lid="l1" relType="BEFORE" relatedToTime="t15" timeID="t21"/>
+  <TLINK eventID="e1" lid="l2" relType="BEFORE" relatedToTime="t13"/>
+  <TLINK eventID="e3" lid="l3" relType="IS_INCLUDED" relatedToTime="t13"/>
+  <TLINK lid="l4" relType="IDENTITY" relatedToTime="t13" timeID="t14"/>
+  <TLINK eventID="e5" lid="l5" relType="IS_INCLUDED" relatedToTime="t77"/>
+  <TLINK lid="l6" relType="AFTER" relatedToTime="t77" timeID="t13"/>
+  <TLINK lid="l7" relType="BEFORE" relatedToTime="t13" timeID="t69"/>
+  <TLINK eventID="e6" lid="l8" relType="IS_INCLUDED" relatedToTime="t69" signalID="s68"/>
+  <TLINK eventID="e8" lid="l9" relType="BEFORE" relatedToEvent="e6"/>
+  <TLINK eventID="e10" lid="l10" relType="BEFORE" relatedToTime="t13"/>
+  <SLINK eventID="e10" lid="l14" relType="EVIDENTIAL" subordinatedEvent="e144"/>
+  <SLINK eventID="e1" lid="l11" relType="EVIDENTIAL" subordinatedEvent="e3"/>
+  <SLINK eventID="e3" lid="l12" relType="MODAL" subordinatedEvent="e5"/>
+  <ALINK eventID="e6" lid="l13" relType="TERMINATES" relatedToEvent="e7"/>
+</TimeML>

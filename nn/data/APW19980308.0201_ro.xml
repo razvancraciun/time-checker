@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> APW19980308.0201 </DOCNO>
+  <DOCTYPE SOURCE="newswire">&Scedil;TIRI</DOCTYPE>
+  <DATE_TIME> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="true" tid="t63" type="TIME" value="1998-03-08T06:26:00">03/08/1998 06:26:00</TIMEX3></DATE_TIME>
+  <HEADER>
+w2106 Cx1f wstm-
+r i Cx13  Cx11  BC-Turkey-Yugoslavia-Kos     03-08 0243
+</HEADER>
+  <BODY><SLUG> BC-Turkey-Yugoslavia-Kosovo,0242 </SLUG><HEADLINE>
+Ethnic Albanians in Turkey protest Serb attacks in Kosovo
+</HEADLINE>
+UR AP Photos IST101-102 QL
+
+<TEXT><s><ENAMEX TYPE="LOCATION">ISTANBUL</ENAMEX>,<ENAMEX TYPE="LOCATION">Turcia</ENAMEX>(<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ Aproximativ 1.500 etnici albanezi au <EVENT aspect="NONE" class="OCCURRENCE" eid="e2" eiid="ei193" eventID="e2" polarity="POS" pos="VERB" tense="PAST">participat</EVENT> <TIMEX3 anchorTimeID="t63" functionInDocument="NONE" temporalFunction="true" tid="t68" type="DATE" value="1998-03-08">duminic&abreve;</TIMEX3> la un mar&scedil; &icirc;n centrul Istanbulului , <EVENT aspect="NONE" class="I_ACTION" eid="e62" eiid="ei194" eventID="e62" polarity="POS" pos="VERB" tense="PRESPART">arz&acirc;nd</EVENT> steaguri s&acirc;rbe pentru a <EVENT aspect="NONE" class="I_STATE" eid="e47" eiid="ei195" eventID="e47" polarity="POS" pos="VERB" tense="INFINITIVE">protesta</EVENT> &icirc;mpotriva <EVENT aspect="NONE" class="OCCURRENCE" eid="e75" eiid="ei196" eventID="e75" polarity="POS" pos="NOUN" tense="NONE">uciderilor</EVENT> de etnici albanezi de_c&abreve;tre poli&tcedil;ia s&acirc;rb&abreve; &icirc;n sudul provinciei s&acirc;rbe Kosovo .</s>
+<s>Poli&tcedil;ia a <EVENT aspect="NONE" class="I_ACTION" eid="e76" eiid="ei197" eventID="e76" polarity="POS" pos="VERB" tense="PAST">blocat</EVENT>mul&tcedil;imea s&abreve; <EVENT aspect="NONE" class="OCCURRENCE" eid="e49" eiid="ei198" eventID="e49" polarity="POS" pos="VERB" tense="PRESPART">ajung&abreve;</EVENT>la consulatul yugoslav din centrul<ENAMEX TYPE="LOCATION">Istanbulului</ENAMEX>, dar le-a<EVENT aspect="NONE" class="I_ACTION" eid="e77" eiid="ei199" eventID="e77" polarity="POS" pos="VERB" tense="PAST">permis</EVENT>s&abreve;<EVENT aspect="NONE" class="STATE" eid="e13" eiid="ei200" eventID="e13" polarity="POS" pos="VERB" tense="INFINITIVE">demonstreze</EVENT>pe str&abreve;zile din apropiere .</s>
+<s>"<EVENT aspect="NONE" class="ASPECTUAL" eid="e14" eiid="ei201" eventID="e14" polarity="POS" pos="VERB" tense="PRESENT">Opri&tcedil;i</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e50" eiid="ei202" eventID="e50" polarity="POS" pos="NOUN" tense="NONE">v&abreve;rsarea de s&acirc;nge</EVENT>&icirc;n<ENAMEX TYPE="LOCATION">Kosovo</ENAMEX>" ,<EVENT aspect="NONE" class="REPORTING" eid="e116" eiid="ei203" eventID="e116" polarity="POS" pos="VERB" tense="PAST">scandau</EVENT>protestatarii .</s><s><TIMEX3 anchorTimeID="t68" functionInDocument="NONE" temporalFunction="true" tid="t69" type="DATE" value="PRESENT_REF">&Icirc;ntre timp</TIMEX3>&icirc;n capital&abreve; ,<ENAMEX TYPE="LOCATION">Ankara</ENAMEX>, c&acirc;teva<CARDINAL>sute</CARDINAL>de etnici albanezi<EVENT aspect="NONE" class="OCCURRENCE" eid="e18" eiid="ei204" eventID="e18" polarity="POS" pos="VERB" tense="PAST">au &icirc;ntins</EVENT>o cunun&abreve; neagr&abreve; la poarta ambasadei iugoslave .</s><s>Etnicii albanezi formeaz&abreve;<NUMEX TYPE="PERCENT">90 la sut&abreve;</NUMEX>din popula&tcedil;ia<ENAMEX TYPE="ORGANIZATION">din Kosovo</ENAMEX>, dar s&acirc;rbii men&tcedil;in controlul printr- o prezen&tcedil;&abreve; militar&abreve; &scedil;i poli&tcedil;ieneasc&abreve; mare .</s> <s>Poli&tcedil;ia s&acirc;rb&abreve;<EVENT aspect="NONE" class="REPORTING" eid="e22" eiid="ei205" eventID="e22" polarity="POS" pos="VERB" tense="PRESENT">spune</EVENT>c&abreve;<EVENT aspect="PROGRESSIVE" class="I_ACTION" eid="e23" eiid="ei206" eventID="e23" polarity="POS" pos="VERB" tense="PRESENT">&icirc;ncearc&abreve;</EVENT>s&abreve;<EVENT aspect="NONE" class="ASPECTUAL" eid="e25" eiid="ei207" eventID="e25" polarity="POS" pos="VERB" tense="INFINITIVE">elimine</EVENT><ENAMEX TYPE="ORGANIZATION">armata de eliberare</ENAMEX>pro-independen&tcedil;&abreve;<ENAMEX TYPE="ORGANIZATION">din Kosovo</ENAMEX>&scedil;i<EVENT aspect="NONE" class="ASPECTUAL" eid="e27" eiid="ei208" eventID="e27" polarity="POS" pos="VERB" tense="PRESENT">s&abreve; reinstaureze</EVENT><EVENT aspect="NONE" class="STATE" eid="e28" eiid="ei209" eventID="e28" polarity="POS" pos="NOUN" tense="NONE">ordinea</EVENT>.</s><s><CARDINAL>Cel pu&tcedil;in 51</CARDINAL>de oameni au fost<EVENT aspect="NONE" class="REPORTING" eid="e29" eiid="ei210" eventID="e29" polarity="POS" pos="VERB" tense="PAST">raporta&tcedil;i</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e30" eiid="ei211" eventID="e30" polarity="POS" pos="VERB" tense="PASTPART">uci&scedil;i</EVENT><SIGNAL sid="s32">&icirc;n</SIGNAL><EVENT aspect="NONE" class="OCCURRENCE" eid="e31" eiid="ei212" eventID="e31" polarity="POS" pos="NOUN" tense="NONE">&icirc;nfrunt&abreve;rile</EVENT>dintre poli&tcedil;ia s&acirc;rb&abreve; &scedil;i etnicii albanezi &icirc;n regiunile tulburate &icirc;n<TIMEX3 anchorTimeID="t68" functionInDocument="NONE" temporalFunction="true" tid="t71" type="DATE" value="PAST_REF">ultimele zile</TIMEX3>.</s><s><ENAMEX TYPE="LOCATION">Turcia</ENAMEX>,<EVENT aspect="NONE" class="I_STATE" eid="e34" eiid="ei213" eventID="e34" polarity="POS" pos="ADJECTIVE" tense="PASTPART">&icirc;ngrijorat&abreve;</EVENT>c&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e35" eiid="ei214" eventID="e35" polarity="POS" pos="ADJECTIVE" tense="NONE">r&abreve;zboiul civil</EVENT>din<ENAMEX TYPE="LOCATION">Kosovo</ENAMEX><EVENT aspect="NONE" class="ASPECTUAL" eid="e72" eiid="ei215" eventID="e72" polarity="POS" pos="VERB" tense="PRESPART">s- ar &icirc;ntinde</EVENT>la to&tcedil;i locuitorii<ENAMEX TYPE="LOCATION">din Balcani</ENAMEX>,<EVENT aspect="NONE" class="I_ACTION" eid="e36" eiid="ei216" eventID="e36" polarity="POS" pos="VERB" tense="PAST">a &icirc;ndemnat</EVENT>toate statele balcanice s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e38" eiid="ei217" eventID="e38" polarity="POS" pos="VERB" tense="INFINITIVE">semneze</EVENT>o<EVENT aspect="NONE" class="OCCURRENCE" eid="e39" eiid="ei218" eventID="e39" polarity="POS" pos="NOUN" tense="NONE">declara&tcedil;ie</EVENT>unit&abreve; ca criza<ENAMEX TYPE="LOCATION">din Kosovo</ENAMEX> s&abreve; fie<EVENT aspect="NONE" class="OCCURRENCE" eid="e40" eiid="ei219" eventID="e40" polarity="POS" pos="VERB" tense="PRESENT">rezolvat&abreve;</EVENT>pa&scedil;nic &scedil;i f&abreve;r&abreve; orice<EVENT aspect="NONE" class="OCCURRENCE" eid="e41" eiid="ei220" eventID="e41" polarity="POS" pos="NOUN" tense="NONE">schimbare</EVENT>a grani&tcedil;elor .</s><s>Turcii simt c&abreve; au leg&abreve;turi speciale cu &icirc;ntreaga regiune , pe care au condus -o timp de sute de ani &icirc;n timpul Imperiului Otoman .</s> <s>De asemenea au &icirc;n_comun Islamul cu etnicii albanezi .</s></TEXT>
+(PROFILE
+(WS SL:BC-Turkey-Yugoslavia-Kosovo; CT:i;
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:ENGL;)
+(REG:MEST;)
+(LANG:ENGLISH;))
+)
+</BODY>
+  <TRAILER>
+    <s>AP-NY-03-08-98 0626EST</s>
+  </TRAILER>
+  <TLINK eventID="e35" lid="l31" relType="INCLUDES" relatedToTime="t63"/>
+  <TLINK eventID="e29" lid="l30" relType="IS_INCLUDED" relatedToTime="t71"/>
+  <TLINK eventID="e22" lid="l29" relType="IS_INCLUDED" relatedToTime="t63"/>
+  <TLINK eventID="e28" lid="l28" relType="AFTER" relatedToEvent="e27"/>
+  <TLINK eventID="e50" lid="l27" relType="IDENTITY" relatedToEvent="e75"/>
+  <TLINK eventID="e116" lid="l26" relType="DURING" relatedToEvent="e47"/>
+  <TLINK eventID="e2" lid="l1" relType="IS_INCLUDED" relatedToTime="t68"/>
+  <TLINK eventID="e2" lid="l2" relType="SIMULTANEOUS" relatedToEvent="e62"/>
+  <TLINK eventID="e76" lid="l3" relType="SIMULTANEOUS" relatedToEvent="e77"/>
+  <TLINK eventID="e40" lid="l4" relType="INCLUDES" relatedToEvent="e41"/>
+  <TLINK eventID="e18" lid="l5" relType="IS_INCLUDED" relatedToTime="t69"/>
+  <TLINK eventID="e25" lid="l6" relType="SIMULTANEOUS" relatedToEvent="e27"/>
+  <TLINK eventID="e30" lid="l7" relType="IS_INCLUDED" relatedToEvent="e31" signalID="s32"/>
+  <TLINK eventID="e31" lid="l8" relType="IS_INCLUDED" relatedToTime="t71"/>
+  <TLINK eventID="e34" lid="l9" relType="INCLUDES" relatedToEvent="e36"/>
+  <TLINK eventID="e39" lid="l10" relType="INCLUDES" relatedToEvent="e40"/>
+  <SLINK eventID="e23" lid="l25" relType="MODAL" subordinatedEvent="e27"/>
+  <SLINK eventID="e62" lid="l11" relType="MODAL" subordinatedEvent="e47"/>
+  <SLINK eventID="e47" lid="l12" relType="FACTIVE" subordinatedEvent="e75"/>
+  <SLINK eventID="e76" lid="l13" relType="COUNTER_FACTIVE" subordinatedEvent="e49"/>
+  <SLINK eventID="e77" lid="l14" relType="MODAL" subordinatedEvent="e13"/>
+  <SLINK eventID="e116" lid="l15" relType="EVIDENTIAL" subordinatedEvent="e14"/>
+  <SLINK eventID="e22" lid="l16" relType="EVIDENTIAL" subordinatedEvent="e23"/>
+  <SLINK eventID="e23" lid="l17" relType="MODAL" subordinatedEvent="e25"/>
+  <SLINK eventID="e29" lid="l18" relType="EVIDENTIAL" subordinatedEvent="e30"/>
+  <SLINK eventID="e36" lid="l19" relType="MODAL" subordinatedEvent="e38"/>
+  <SLINK eventID="e38" lid="l20" relType="MODAL" subordinatedEvent="e39"/>
+  <SLINK eventID="e34" lid="l21" relType="MODAL" subordinatedEvent="e72"/>
+  <ALINK eventID="e14" lid="l22" relType="TERMINATES" relatedToEvent="e50"/>
+  <ALINK eventID="e27" lid="l23" relType="REINITIATES" relatedToEvent="e28"/>
+  <ALINK eventID="e35" lid="l24" relType="INITIATES" relatedToEvent="e72"/>
+</TimeML>

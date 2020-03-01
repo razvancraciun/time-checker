@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> APW19980301.0720 </DOCNO>
+  <DOCTYPE SOURCE="newswire">&Scedil;TIRI</DOCTYPE>
+  <DATE_TIME> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t122" type="TIME" value="1998-03-01T14:11:00">03/01/1998 14:11:00</TIMEX3> </DATE_TIME>
+  <HEADER>
+w1219 Cx1f wstm-
+u i Cx13  Cx11  BC-Israel-Lebanon     03-01 0570
+</HEADER>
+  <BODY><SLUG> BC-Israel-Lebanon </SLUG><HEADLINE>
+Political momentum gathers for Israeli pullout from Lebanon
+</HEADLINE>
+UR Eds: INCORPORATES Israel-Syria; ADDS background and additional
+comment Sunday QL
+
+<TEXT><s><ENAMEX TYPE="LOCATION">IERUSALIM</ENAMEX>(<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ &Icirc;nal&tcedil;i oficiali israelieni au <EVENT aspect="NONE" class="OCCURRENCE" eid="e1" eiid="ei1998" eventID="e1" polarity="POS" pos="VERB" tense="PAST">trimis</EVENT> <TIMEX3 anchorTimeID="t122" functionInDocument="NONE" temporalFunction="true" tid="t123" type="DATE" value="1998-03-01">duminic&abreve;</TIMEX3> noi <EVENT aspect="NONE" class="I_ACTION" eid="e124" eiid="ei1999" eventID="e124" polarity="POS" pos="NOUN" tense="NONE">semnale</EVENT> puternice c&abreve; Israelul <EVENT aspect="NONE" class="I_STATE" eid="e3" eiid="ei2000" eventID="e3" polarity="POS" pos="VERB" tense="PRESENT">vrea</EVENT> s&abreve; se <EVENT aspect="NONE" class="OCCURRENCE" eid="e5" eiid="ei2001" eventID="e5" polarity="POS" pos="VERB" tense="INFINITIVE">retrag&abreve;</EVENT> din sudul Libanului , unde un costisitor <EVENT aspect="NONE" class="OCCURRENCE" eid="e6" eiid="ei2002" eventID="e6" polarity="POS" pos="NOUN" tense="NONE">r&abreve;zboi</EVENT> de uzur&abreve; <EVENT aspect="PERFECTIVE_PROGRESSIVE" class="I_ACTION" eid="e7" eiid="ei2003" eventID="e7" polarity="POS" pos="VERB" tense="PRESENT">cost&abreve;</EVENT> constant vie&tcedil;ile solda&tcedil;ilor .</s>
+<s><TIMEX3 anchorTimeID="t122" functionInDocument="NONE" temporalFunction="true" tid="t125" type="DATE" value="1998-03-01">Duminic&abreve;</TIMEX3>,<ENAMEX TYPE="PERSON">primul ministru Benjamin Netanyahu</ENAMEX>a <EVENT aspect="NONE" class="REPORTING" eid="e8" eiid="ei2004" eventID="e8" polarity="POS" pos="VERB" tense="PAST">spus</EVENT><ENAMEX TYPE="LOCATION">Cabinetului</ENAMEX>s&abreve;u c&abreve;<ENAMEX TYPE="LOCATION">Israelul</ENAMEX>era<EVENT aspect="NONE" class="I_STATE" eid="e1990" eiid="ei2005" eventID="e1990" polarity="POS" pos="VERB" tense="PAST">dispus</EVENT>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e10" eiid="ei2006" eventID="e10" polarity="POS" pos="VERB" tense="INFINITIVE">se retrag&abreve;</EVENT>din<ENAMEX TYPE="LOCATION">sudul Libanului</ENAMEX>cu condi&tcedil;ia ca frontiera nordic&abreve; a<ENAMEX TYPE="LOCATION">Israelului</ENAMEX>s&abreve; poat&abreve; fi<EVENT aspect="NONE" class="OCCURRENCE" eid="e12" eiid="ei2007" eventID="e12" modality="could" polarity="POS" pos="VERB" tense="NONE">securizat&abreve;</EVENT>.</s>
+<s>" Dac&abreve; guvernul libanez va<EVENT aspect="NONE" class="OCCURRENCE" eid="e14" eiid="ei2008" eventID="e14" polarity="POS" pos="VERB" tense="FUTURE">coopera</EVENT>cu noi la<EVENT aspect="NONE" class="OCCURRENCE" eid="e16" eiid="ei2009" eventID="e16" polarity="POS" pos="NOUN" tense="PRESPART">elaborarea</EVENT>m&abreve;surilor de securitate adecvate &icirc;n<ENAMEX TYPE="LOCATION">sudul Libanului</ENAMEX>, noi vom fi ferici&tcedil;i s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e18" eiid="ei2010" eventID="e18" polarity="POS" pos="VERB" tense="INFINITIVE">plec&abreve;m</EVENT>din<ENAMEX TYPE="LOCATION">Liban</ENAMEX>&icirc;n cadrul aplic&abreve;rii<ENAMEX TYPE="ORGANIZATION">Rezolu&tcedil;iei</ENAMEX><CARDINAL>425</CARDINAL><ENAMEX TYPE="ORGANIZATION">a ONU</ENAMEX>, "<ENAMEX TYPE="PERSON">Netanyahu</ENAMEX><EVENT aspect="NONE" class="REPORTING" eid="e20" eiid="ei2011" eventID="e20" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>mini&scedil;trilor s&abreve;i .</s>
+<s>Acea<EVENT aspect="NONE" class="OCCURRENCE" eid="e21" eiid="ei2012" eventID="e21" polarity="POS" pos="NOUN" tense="NONE">rezolu&tcedil;ie</EVENT><TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t128" type="DATE" value="1978">din 1978</TIMEX3><EVENT aspect="NONE" class="OCCURRENCE" eid="e22" eiid="ei2013" eventID="e22" polarity="POS" pos="VERB" tense="PRESENT">cere</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e23" eiid="ei2014" eventID="e23" polarity="POS" pos="NOUN" tense="NONE">retragerea</EVENT>necondi&tcedil;ionat&abreve; a<ENAMEX TYPE="LOCATION">Israelului</ENAMEX>din autodeclarata zon&abreve; de securitate pe care o<EVENT aspect="NONE" class="OCCURRENCE" eid="e24" eiid="ei2015" eventID="e24" polarity="POS" pos="VERB" tense="PRESENT">ocup&abreve;</EVENT>&icirc;n<ENAMEX TYPE="LOCATION">sudul Libanului</ENAMEX>, &scedil;i<EVENT aspect="NONE" class="OCCURRENCE" eid="e25" eiid="ei2016" eventID="e25" polarity="POS" pos="NOUN" tense="NONE">desf&abreve;&scedil;urarea</EVENT>armatei libaneze &scedil;i a for&tcedil;elor<ENAMEX TYPE="ORGANIZATION">ONU</ENAMEX>pentru a<EVENT aspect="NONE" class="OCCURRENCE" eid="e27" eiid="ei2017" eventID="e27" polarity="POS" pos="VERB" tense="INFINITIVE">asigura</EVENT>securitatea de- a lungul grani&tcedil;ei libanezo-israeliene .</s>
+<s><TIMEX3 anchorTimeID="t122" functionInDocument="NONE" temporalFunction="true" tid="t127" type="DATE" value="1998-02-27">Vineri</TIMEX3>,<ENAMEX TYPE="PERSON">Netanyahu</ENAMEX> a<EVENT aspect="NONE" class="REPORTING" eid="e29" eiid="ei2018" eventID="e29" polarity="POS" pos="VERB" tense="PAST">spus</EVENT>c&abreve; nu<EVENT aspect="NONE" class="OCCURRENCE" eid="e30" eiid="ei2019" eventID="e30" polarity="POS" pos="VERB" tense="PAST">avea</EVENT>" nici o ezitare " privind<EVENT aspect="NONE" class="OCCURRENCE" eid="e32" eiid="ei2020" eventID="e32" polarity="POS" pos="NOUN" tense="PRESPART">aplicarea</EVENT>rezolu&tcedil;iei<ENAMEX TYPE="ORGANIZATION">ONU</ENAMEX>, at&acirc;ta_timp_c&acirc;t<ENAMEX TYPE="LOCATION">Israelul</ENAMEX><EVENT aspect="NONE" class="OCCURRENCE" eid="e33" eiid="ei2021" eventID="e33" polarity="POS" pos="VERB" tense="PAST">avea</EVENT>" garan&tcedil;iile de securitate necesare . "</s>
+<s><TIMEX3 anchorTimeID="t122" functionInDocument="NONE" temporalFunction="true" tid="t129" type="DATE" value="1998-03-01">Duminic&abreve;</TIMEX3>,<ENAMEX TYPE="PERSON">ministrul din Cabinet Michael Eitan</ENAMEX><EVENT aspect="NONE" class="REPORTING" eid="e35" eiid="ei2022" eventID="e35" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>c&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e36" eiid="ei2023" eventID="e36" polarity="POS" pos="NOUN" tense="NONE">remarcile</EVENT>lui<ENAMEX TYPE="PERSON">Netanyahu</ENAMEX><EVENT aspect="NONE" class="OCCURRENCE" eid="e37" eiid="ei2024" eventID="e37" polarity="POS" pos="VERB" tense="PAST">au marcat</EVENT>o<EVENT aspect="NONE" class="OCCURRENCE" eid="e38" eiid="ei2025" eventID="e38" polarity="POS" pos="NOUN" tense="NONE">schimbare</EVENT>substan&tcedil;ial&abreve; &icirc;n pozi&tcedil;ia<ENAMEX TYPE="LOCATION">Israelului</ENAMEX>.</s>
+<s>" Ne vom<EVENT aspect="NONE" class="OCCURRENCE" eid="e39" eiid="ei2026" eventID="e39" polarity="POS" pos="VERB" tense="FUTURE">ap&abreve;ra</EVENT>nordul de frontiera interna&tcedil;ional&abreve; , "<EVENT aspect="NONE" class="REPORTING" eid="e40" eiid="ei2027" eventID="e40" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT><ENAMEX TYPE="PERSON">Eitan , ministrul &scedil;tiin&tcedil;ei</ENAMEX>.</s>
+ <s>" Nimeni nu<EVENT aspect="NONE" class="I_STATE" eid="e41" eiid="ei2028" eventID="e41" polarity="NEG" pos="VERB" tense="PRESENT">vrea</EVENT>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e43" eiid="ei2029" eventID="e43" polarity="POS" pos="VERB" tense="INFINITIVE">r&abreve;m&acirc;n&abreve;</EVENT>&icirc;n<ENAMEX TYPE="LOCATION">Liban</ENAMEX>; a&scedil;adar<EVENT aspect="NONE" class="I_STATE" eid="e44" eiid="ei2030" eventID="e44" polarity="POS" pos="VERB" tense="PRESENT">credem</EVENT>c&abreve; e<EVENT aspect="NONE" class="I_STATE" eid="e131" eiid="ei2031" eventID="e131" polarity="POS" pos="OTHER" tense="NONE">mai bine</EVENT>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e46" eiid="ei2032" eventID="e46" polarity="POS" pos="VERB" tense="INFINITIVE">ne retragem</EVENT>. "</s>
+ <s><ENAMEX TYPE="PERSON">Uri Lubrani</ENAMEX>, cel mai &icirc;nalt oficial<ENAMEX TYPE="LOCATION">israelian</ENAMEX>pentru probleme<ENAMEX TYPE="LOCATION">cu Libanul</ENAMEX> a mai<EVENT aspect="NONE" class="OCCURRENCE" eid="e47" eiid="ei2033" eventID="e47" polarity="POS" pos="VERB" tense="PAST">sugerat</EVENT>de_asemenea c&abreve;<ENAMEX TYPE="LOCATION">Israelul</ENAMEX>era<EVENT aspect="NONE" class="I_STATE" eid="e132" eiid="ei2034" eventID="e132" polarity="POS" pos="VERB" tense="PAST">dispus</EVENT>s&abreve; -&scedil;i<EVENT aspect="NONE" class="OCCURRENCE" eid="e49" eiid="ei2035" eventID="e49" polarity="POS" pos="VERB" tense="INFINITIVE">schimbe</EVENT>obiectivele politice &icirc;n<ENAMEX TYPE="LOCATION">Liban</ENAMEX>.</s>
+ <s>" Acesta e un lucru nou ... &icirc;nseamn&abreve; c&abreve;<TIMEX3 anchorTimeID="t122" functionInDocument="NONE" temporalFunction="true" tid="t134" type="DATE" value="1998-03-01">ast&abreve;zi</TIMEX3>suntem<EVENT aspect="NONE" class="I_STATE" eid="e133" eiid="ei2036" eventID="e133" polarity="POS" pos="VERB" tense="PRESENT">dispu&scedil;i</EVENT>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e54" eiid="ei2037" eventID="e54" polarity="POS" pos="VERB" tense="INFINITIVE">discut&abreve;m</EVENT>_punct _ despre securitate , " a <EVENT aspect="NONE" class="REPORTING" eid="e57" eiid="ei2038" eventID="e57" polarity="POS" pos="VERB" tense="PAST">spus</EVENT> Lubrani Canalului Unu din Israel .</s> 
+<s>" Am<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e58" eiid="ei2039" eventID="e58" polarity="POS" pos="VERB" tense="PRESENT">terminat</EVENT>cu problema p&abreve;cii , cu problema normaliz&abreve;rii . "</s>
+<s>Cum bilan&tcedil;ul mor&tcedil;ilor &icirc;n<ENAMEX TYPE="LOCATION">Liban</ENAMEX>a<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e60" eiid="ei2040" eventID="e60" polarity="POS" pos="VERB" tense="PRESENT">sporit</EVENT>, guvernul israelian s-a<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e61" eiid="ei2041" eventID="e61" polarity="POS" pos="VERB" tense="PAST">confruntat</EVENT>cu o<EVENT aspect="NONE" class="OCCURRENCE" eid="e62" eiid="ei2042" eventID="e62" polarity="POS" pos="NOUN" tense="NONE">mi&scedil;care</EVENT>popular&abreve; &icirc;n cre&scedil;tere<EVENT aspect="NONE" class="OCCURRENCE" eid="e63" eiid="ei2043" eventID="e63" polarity="POS" pos="VERB" tense="PRESPART">solicit&acirc;nd</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e64" eiid="ei2044" eventID="e64" polarity="POS" pos="NOUN" tense="NONE">retragerea</EVENT>unilateral&abreve; a<ENAMEX TYPE="LOCATION">Israelului</ENAMEX>din<ENAMEX TYPE="LOCATION">Liban</ENAMEX>.</s>
+<s>Din<TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t1979" type="DATE" value="1985">1985 _</TIMEX3><SIGNAL sid="s65">c&acirc;nd</SIGNAL> israelienii au<EVENT aspect="NONE" class="OCCURRENCE" eid="e66" eiid="ei2045" eventID="e66" polarity="POS" pos="VERB" tense="PAST">creat</EVENT>o zon&abreve; de securitate tampon<ENAMEX TYPE="LOCATION">&icirc;n sudul Libanului _</ENAMEX>aproape<CARDINAL>200</CARDINAL>de solda&tcedil;i israelieni au fost<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e67" eiid="ei2046" eventID="e67" polarity="POS" pos="VERB" tense="PRESENT">uci&scedil;i</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e68" eiid="ei2047" eventID="e68" polarity="POS" pos="VERB" tense="PRESPART">lupt&acirc;nd</EVENT><ENAMEX TYPE="ORGANIZATION">cu Hezbollah</ENAMEX>&scedil;i alte gherile .</s>
+ <s><TIMEX3 anchorTimeID="t122" functionInDocument="NONE" temporalFunction="true" tid="t1980" type="DATE" value="1998-W08">S&abreve;pt&abreve;m&acirc;na trecut&abreve;</TIMEX3>, lupt&abreve;torii<ENAMEX TYPE="ORGANIZATION">Hezbollah</ENAMEX><EVENT aspect="NONE" class="OCCURRENCE" eid="e69" eiid="ei2048" eventID="e69" polarity="POS" pos="VERB" tense="PAST">au ucis</EVENT><CARDINAL>trei</CARDINAL>solda&tcedil;i israelieni &scedil;i<EVENT aspect="NONE" class="OCCURRENCE" eid="e70" eiid="ei2049" eventID="e70" polarity="POS" pos="VERB" tense="PAST">au r&abreve;nit</EVENT>grav al&tcedil;i<CARDINAL>&scedil;ase</CARDINAL>.</s>
+ <s>Israelienii<EVENT aspect="NONE" class="OCCURRENCE" eid="e71" eiid="ei2050" eventID="e71" polarity="POS" pos="VERB" tense="PAST">au suferit</EVENT>un record<CARDINAL>de 39</CARDINAL><EVENT aspect="NONE" class="OCCURRENCE" eid="e73" eiid="ei2051" eventID="e73" polarity="POS" pos="NOUN" tense="NONE">de mor&tcedil;i</EVENT>&icirc;n<ENAMEX TYPE="LOCATION">sudul Libanului</ENAMEX><TIMEX3 anchorTimeID="t122" functionInDocument="NONE" temporalFunction="true" tid="t1981" type="DURATION" value="1997">anul trecut</TIMEX3>.</s>
+ <s>&Icirc;n plus ,<CARDINAL>73</CARDINAL>de solda&tcedil;i au fost<EVENT aspect="NONE" class="OCCURRENCE" eid="e75" eiid="ei2052" eventID="e75" polarity="POS" pos="VERB" tense="PAST">uci&scedil;i</EVENT>&icirc;n drum spre<ENAMEX TYPE="LOCATION">Liban</ENAMEX>c&acirc;nd<CARDINAL>dou&abreve;</CARDINAL>elicoptere militare<EVENT aspect="NONE" class="OCCURRENCE" eid="e77" eiid="ei2053" eventID="e77" polarity="POS" pos="VERB" tense="PAST">s- au pr&abreve;bu&scedil;it</EVENT><TIMEX3 anchorTimeID="t122" functionInDocument="NONE" temporalFunction="true" tid="t1982" type="DATE" value="1997-02">&icirc;n februarie trecut</TIMEX3>.</s>
+ <s><TIMEX3 anchorTimeID="t122" functionInDocument="NONE" temporalFunction="true" tid="t1983" type="DATE" value="1998-03-01">Duminic&abreve;</TIMEX3>, ziarul Maariv<EVENT aspect="NONE" class="REPORTING" eid="e78" eiid="ei2054" eventID="e78" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>c&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e79" eiid="ei2055" eventID="e79" polarity="POS" pos="NOUN" tense="NONE">comentariile</EVENT>lui<ENAMEX TYPE="PERSON">Netanyahu</ENAMEX><TIMEX3 anchorTimeID="t122" functionInDocument="NONE" temporalFunction="true" tid="t1985" type="DATE" value="1998-W08">de s&abreve;pt&abreve;m&acirc;na trecut&abreve;</TIMEX3>au fost ca r&abreve;spuns la<EVENT aspect="NONE" class="OCCURRENCE" eid="e80" eiid="ei2056" eventID="e80" polarity="POS" pos="NOUN" tense="INFINITIVE">semnalele</EVENT>din<ENAMEX TYPE="LOCATION">Siria</ENAMEX>c&abreve; aceasta<EVENT aspect="NONE" class="I_STATE" eid="e81" eiid="ei2057" eventID="e81" polarity="POS" pos="VERB" tense="PRESENT">vrea</EVENT>s&abreve;<EVENT aspect="NONE" class="ASPECTUAL" eid="e83" eiid="ei2058" eventID="e83" polarity="POS" pos="VERB" tense="INFINITIVE">re&icirc;nnoiasc&abreve;</EVENT>mult tergiversatele<EVENT aspect="NONE" class="OCCURRENCE" eid="e84" eiid="ei2059" eventID="e84" polarity="POS" pos="NOUN" tense="NONE">tratative</EVENT>de pace &icirc;ntre cele<CARDINAL>dou&abreve;</CARDINAL>&tcedil;&abreve;ri .</s>
+ <s>Ziarul ,<EVENT aspect="NONE" class="OCCURRENCE" eid="e85" eiid="ei2060" eventID="e85" polarity="POS" pos="VERB" tense="PRESPART">cit&acirc;nd</EVENT>"<EVENT aspect="NONE" class="OCCURRENCE" eid="e86" eiid="ei2061" eventID="e86" polarity="POS" pos="NOUN" tense="NONE">rapoarte</EVENT>secrete " ,<EVENT aspect="NONE" class="REPORTING" eid="e87" eiid="ei2062" eventID="e87" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>c&abreve;<ENAMEX TYPE="LOCATION">Siria</ENAMEX>&icirc;&scedil;i<EVENT aspect="PERFECTIVE" class="I_ACTION" eid="e88" eiid="ei2063" eventID="e88" polarity="POS" pos="VERB" tense="PAST">manifestase</EVENT>interesul pentru<EVENT aspect="NONE" class="OCCURRENCE" eid="e90" eiid="ei2064" eventID="e90" polarity="POS" pos="NOUN" tense="PRESPART">reluarea</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e91" eiid="ei2065" eventID="e91" polarity="POS" pos="NOUN" tense="NONE">tratativelor</EVENT>&icirc;n<EVENT aspect="NONE" class="OCCURRENCE" eid="e92" eiid="ei2066" eventID="e92" polarity="POS" pos="NOUN" tense="NONE">remarci</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e94" eiid="ei2067" eventID="e94" polarity="POS" pos="ADJECTIVE" tense="PAST">f&abreve;cute</EVENT><TIMEX3 anchorTimeID="t122" functionInDocument="NONE" temporalFunction="true" tid="t1986" type="DATE" value="1998-W08">s&abreve;pt&abreve;m&acirc;na trecut&abreve;</TIMEX3>de_c&abreve;tre<ENAMEX TYPE="PERSON">ambasadorul sirian la<ENAMEX TYPE="LOCATION">Washington</ENAMEX>, Walid Mualem</ENAMEX>, &icirc;ntr- o<EVENT aspect="NONE" class="OCCURRENCE" eid="e95" eiid="ei2068" eventID="e95" polarity="POS" pos="NOUN" tense="NONE">prelegere</EVENT>cu o audien&tcedil;&abreve; restr&acirc;ns&abreve; &icirc;n<ENAMEX TYPE="LOCATION">Baltimore</ENAMEX>.</s>
+ <s><CARDINAL>Doi</CARDINAL>adjunc&tcedil;i importan&tcedil;i ai lui<ENAMEX TYPE="PERSON">Netanyahu</ENAMEX>,<ENAMEX TYPE="PERSON">consilierul</ENAMEX>politic<ENAMEX TYPE="PERSON">Uzi Arad</ENAMEX>&scedil;i<ENAMEX TYPE="PERSON">secretarul guvernamental Danny Naveh</ENAMEX>,<EVENT aspect="NONE" class="OCCURRENCE" eid="e97" eiid="ei2069" eventID="e97" polarity="POS" pos="VERB" tense="PAST">au plecat</EVENT>&icirc;n<ENAMEX TYPE="LOCATION">Europa</ENAMEX><TIMEX3 anchorTimeID="t122" functionInDocument="NONE" temporalFunction="true" tid="t1987" type="DATE" value="1998-03-01">duminic&abreve;</TIMEX3>, aparent pentru a<EVENT aspect="NONE" class="I_ACTION" eid="e98" eiid="ei2070" eventID="e98" polarity="POS" pos="VERB" tense="INFINITIVE">investiga</EVENT>problema sirian&abreve; ,<EVENT aspect="NONE" class="REPORTING" eid="e99" eiid="ei2071" eventID="e99" polarity="POS" pos="VERB" tense="PAST">a relatat</EVENT>ziarul .</s>
+ <s><EVENT aspect="NONE" class="OCCURRENCE" eid="e100" eiid="ei2072" eventID="e100" polarity="POS" pos="NOUN" tense="NONE">Tratativele</EVENT>israeliano-siriene au fost<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e101" eiid="ei2073" eventID="e101" polarity="POS" pos="VERB" tense="PRESENT">&icirc;ntrerupte</EVENT>pentru<TIMEX3 functionInDocument="NONE" mod="EQUAL_OR_LESS" temporalFunction="false" tid="t1988" type="DURATION" value="P2Y">aproape<CARDINAL>doi</CARDINAL>ani</TIMEX3>.</s>
+ <s><ENAMEX TYPE="PERSON">Ministrul<ENAMEX TYPE="ORGANIZATION">Ap&abreve;r&abreve;rii</ENAMEX>Yitzak Mordechai</ENAMEX>a fost primul oficial superior israelian care s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e102" eiid="ei2074" eventID="e102" polarity="POS" pos="VERB" tense="PRESENT">se refere</EVENT>la rezolu&tcedil;ia<CARDINAL>425</CARDINAL><ENAMEX TYPE="ORGANIZATION">ah ONU</ENAMEX>&icirc;ntr- un<EVENT aspect="NONE" class="OCCURRENCE" eid="e103" eiid="ei2075" eventID="e103" polarity="POS" pos="NOUN" tense="NONE">discurs</EVENT><TIMEX3 anchorTimeID="t122" functionInDocument="NONE" temporalFunction="true" tid="t1989" type="DATE" value="1998-W02">acum &scedil;ase s&abreve;pt&abreve;m&acirc;ni</TIMEX3>,<EVENT aspect="NONE" class="REPORTING" eid="e105" eiid="ei2076" eventID="e105" polarity="POS" pos="VERB" tense="PRESPART">spun&acirc;nd</EVENT><TIMEX3 anchorTimeID="t1989" functionInDocument="NONE" temporalFunction="true" tid="t1993" type="DATE" value="PAST_REF">atunci</TIMEX3>c&abreve; era<EVENT aspect="NONE" class="I_STATE" eid="e1994" eiid="ei2077" eventID="e1994" polarity="POS" pos="VERB" tense="PAST">dispus</EVENT>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e109" eiid="ei2078" eventID="e109" polarity="POS" pos="VERB" tense="INFINITIVE">retrag&abreve;</EVENT>trupe<EVENT aspect="NONE" class="OCCURRENCE" eid="e110" eiid="ei2079" eventID="e110" polarity="POS" pos="PREPOSITION" tense="NONE">&icirc;n_schimbul</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e112" eiid="ei2080" eventID="e112" polarity="POS" pos="NOUN" tense="NONE">unor garan&tcedil;ii</EVENT>c&abreve;<ENAMEX TYPE="LOCATION">Israelul</ENAMEX>nu avea s&abreve; fie<EVENT aspect="NONE" class="OCCURRENCE" eid="e113" eiid="ei2081" eventID="e113" modality="would" polarity="POS" pos="VERB" tense="NONE">atacat</EVENT>.</s>
+ </TEXT>
+UR (pvs-dh-lk)
+(PROFILE
+(WS SL:BC-Israel-Lebanon; CT:i;
+(REG:MEST;)
+(REG:ENGL;)
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(LANG:ENGLISH;))
+)
+</BODY>
+  <TRAILER>
+    <s>AP-NY-03-01-98 1411EST</s>
+  </TRAILER>
+  <TLINK eventID="e100" lid="l100" relType="IDENTITY" relatedToEvent="e100"/>
+  <TLINK eventID="e99" lid="l99" relType="IS_INCLUDED" relatedToTime="t1986"/>
+  <TLINK eventID="e84" lid="l98" relType="BEFORE" relatedToTime="t125"/>
+  <TLINK eventID="e57" lid="l97" relType="IS_INCLUDED" relatedToTime="t129"/>
+  <TLINK eventID="e47" lid="l96" relType="IS_INCLUDED" relatedToTime="t129"/>
+  <TLINK eventID="e131" lid="l95" relType="AFTER" relatedToEvent="e46"/>
+  <TLINK eventID="e40" lid="l94" relType="IS_INCLUDED" relatedToTime="t129"/>
+  <TLINK eventID="e20" lid="l93" relType="IS_INCLUDED" relatedToTime="t125"/>
+  <TLINK eventID="e7" lid="l92" relType="IS_INCLUDED" relatedToEvent="e6"/>
+  <TLINK eventID="e124" lid="l1" relType="AFTER" relatedToEvent="e1"/>
+  <TLINK eventID="e112" lid="l2" relType="SIMULTANEOUS" relatedToEvent="e109"/>
+  <TLINK eventID="e110" lid="l3" relType="SIMULTANEOUS" relatedToEvent="e109"/>
+  <TLINK eventID="e105" lid="l4" relType="IS_INCLUDED" relatedToTime="t1993"/>
+  <TLINK eventID="e105" lid="l5" relType="SIMULTANEOUS" relatedToEvent="e102"/>
+  <TLINK lid="l6" relType="INCLUDES" relatedToEvent="e103" timeID="t1989"/>
+  <TLINK eventID="e103" lid="l7" relType="INCLUDES" relatedToEvent="e102"/>
+  <TLINK eventID="e101" lid="l8" relType="DURING" relatedToTime="t1988"/>
+  <TLINK lid="l9" relType="INCLUDES" relatedToEvent="e97" timeID="t1987"/>
+  <TLINK lid="l10" relType="INCLUDES" relatedToEvent="e95" timeID="t1986"/>
+  <TLINK eventID="e95" lid="l11" relType="INCLUDES" relatedToEvent="e92"/>
+  <TLINK lid="l12" relType="INCLUDES" relatedToEvent="e92" timeID="t1986"/>
+  <TLINK eventID="e94" lid="l13" relType="SIMULTANEOUS" relatedToEvent="e92"/>
+  <TLINK eventID="e92" lid="l14" relType="INCLUDES" relatedToEvent="e88"/>
+  <TLINK eventID="e90" lid="l15" relType="AFTER" relatedToEvent="e88"/>
+  <TLINK eventID="e86" lid="l16" relType="BEFORE" relatedToEvent="e85"/>
+  <TLINK eventID="e87" lid="l17" relType="SIMULTANEOUS" relatedToEvent="e85"/>
+  <TLINK eventID="e81" lid="l18" relType="DURING" relatedToEvent="e80"/>
+  <TLINK eventID="e80" lid="l19" relType="BEFORE" relatedToEvent="e79"/>
+  <TLINK lid="l20" relType="INCLUDES" relatedToEvent="e79" timeID="t1985"/>
+  <TLINK lid="l21" relType="INCLUDES" relatedToEvent="e78" timeID="t1983"/>
+  <TLINK lid="l22" relType="INCLUDES" relatedToEvent="e75" timeID="t1982"/>
+  <TLINK eventID="e77" lid="l23" relType="SIMULTANEOUS" relatedToEvent="e75"/>
+  <TLINK lid="l24" relType="INCLUDES" relatedToEvent="e71" timeID="t1981"/>
+  <TLINK eventID="e73" lid="l25" relType="SIMULTANEOUS" relatedToEvent="e71"/>
+  <TLINK eventID="e70" lid="l26" relType="IS_INCLUDED" relatedToTime="t1980"/>
+  <TLINK eventID="e69" lid="l27" relType="IS_INCLUDED" relatedToTime="t1980"/>
+  <TLINK eventID="e68" lid="l28" relType="SIMULTANEOUS" relatedToEvent="e67"/>
+  <TLINK eventID="e67" lid="l29" relType="AFTER" relatedToTime="t1979"/>
+  <TLINK eventID="e66" lid="l30" relType="IS_INCLUDED" relatedToTime="t1979" signalID="s65"/>
+  <TLINK eventID="e63" lid="l31" relType="SIMULTANEOUS" relatedToEvent="e62"/>
+  <TLINK eventID="e62" lid="l32" relType="DURING" relatedToTime="t122"/>
+  <TLINK lid="l33" relType="DURING" relatedToEvent="e61" timeID="t122"/>
+  <TLINK eventID="e61" lid="l34" relType="AFTER" relatedToEvent="e60"/>
+  <TLINK lid="l35" relType="AFTER" relatedToEvent="e60" timeID="t122"/>
+  <TLINK lid="l36" relType="BEFORE" relatedToEvent="e58" timeID="t122"/>
+  <TLINK lid="l37" relType="INCLUDES" relatedToEvent="e54" timeID="t134"/>
+  <TLINK eventID="e38" lid="l38" relType="SIMULTANEOUS" relatedToEvent="e37"/>
+  <TLINK eventID="e37" lid="l39" relType="SIMULTANEOUS" relatedToEvent="e36"/>
+  <TLINK eventID="e35" lid="l40" relType="IS_INCLUDED" relatedToTime="t129"/>
+  <TLINK eventID="e33" lid="l41" relType="SIMULTANEOUS" relatedToEvent="e32"/>
+  <TLINK eventID="e29" lid="l42" relType="IS_INCLUDED" relatedToTime="t127"/>
+  <TLINK eventID="e27" lid="l43" relType="AFTER" relatedToEvent="e25"/>
+  <TLINK eventID="e24" lid="l44" relType="DURING" relatedToTime="t122"/>
+  <TLINK eventID="e22" lid="l45" relType="DURING" relatedToTime="t122"/>
+  <TLINK eventID="e21" lid="l46" relType="IS_INCLUDED" relatedToTime="t128"/>
+  <TLINK eventID="e18" lid="l47" relType="AFTER" relatedToEvent="e14"/>
+  <TLINK eventID="e16" lid="l48" relType="SIMULTANEOUS" relatedToEvent="e14"/>
+  <TLINK lid="l49" relType="BEFORE" relatedToEvent="e14" timeID="t122"/>
+  <TLINK eventID="e12" lid="l50" relType="SIMULTANEOUS" relatedToEvent="e1990"/>
+  <TLINK lid="l51" relType="INCLUDES" relatedToEvent="e8" timeID="t125"/>
+  <TLINK eventID="e6" lid="l52" relType="INCLUDES" relatedToTime="t122"/>
+  <TLINK eventID="e3" lid="l53" relType="DURING" relatedToTime="t122"/>
+  <TLINK lid="l54" relType="INCLUDES" relatedToEvent="e1" timeID="t123"/>
+  <SLINK eventID="e80" lid="l91" relType="EVIDENTIAL" subordinatedEvent="e81"/>
+  <SLINK eventID="e78" lid="l90" relType="EVIDENTIAL" subordinatedEvent="e80"/>
+  <SLINK eventID="e61" lid="l89" relType="FACTIVE" subordinatedEvent="e62"/>
+  <SLINK eventID="e57" lid="l88" relType="EVIDENTIAL" subordinatedEvent="e58"/>
+  <SLINK eventID="e131" lid="l87" relType="MODAL" subordinatedEvent="e46"/>
+  <SLINK eventID="e33" lid="l86" relType="CONDITIONAL" subordinatedEvent="e30"/>
+  <SLINK eventID="e25" lid="l85" relType="MODAL" subordinatedEvent="e27"/>
+  <SLINK eventID="e14" lid="l84" relType="MODAL" subordinatedEvent="e16"/>
+  <SLINK eventID="e1994" lid="l55" relType="MODAL" subordinatedEvent="e109"/>
+  <SLINK eventID="e105" lid="l56" relType="EVIDENTIAL" subordinatedEvent="e1994"/>
+  <SLINK eventID="e99" lid="l57" relType="EVIDENTIAL" subordinatedEvent="e98"/>
+  <SLINK eventID="e99" lid="l58" relType="EVIDENTIAL" subordinatedEvent="e97"/>
+  <SLINK eventID="e97" lid="l59" relType="MODAL" subordinatedEvent="e98"/>
+  <SLINK eventID="e87" lid="l60" relType="EVIDENTIAL" subordinatedEvent="e88"/>
+  <SLINK eventID="e81" lid="l61" relType="MODAL" subordinatedEvent="e83"/>
+  <SLINK eventID="e78" lid="l62" relType="EVIDENTIAL" subordinatedEvent="e79"/>
+  <SLINK eventID="e63" lid="l63" relType="MODAL" subordinatedEvent="e64"/>
+  <SLINK eventID="e57" lid="l64" relType="EVIDENTIAL" subordinatedEvent="e133"/>
+  <SLINK eventID="e132" lid="l65" relType="MODAL" subordinatedEvent="e49"/>
+  <SLINK eventID="e47" lid="l66" relType="MODAL" subordinatedEvent="e132"/>
+  <SLINK eventID="e40" lid="l67" relType="EVIDENTIAL" subordinatedEvent="e44"/>
+  <SLINK eventID="e40" lid="l68" relType="EVIDENTIAL" subordinatedEvent="e41"/>
+  <SLINK eventID="e41" lid="l69" relType="MODAL" subordinatedEvent="e43"/>
+  <SLINK eventID="e40" lid="l70" relType="EVIDENTIAL" subordinatedEvent="e39"/>
+  <SLINK eventID="e35" lid="l71" relType="EVIDENTIAL" subordinatedEvent="e37"/>
+  <SLINK eventID="e29" lid="l72" relType="EVIDENTIAL" subordinatedEvent="e32"/>
+  <SLINK eventID="e29" lid="l73" relType="EVIDENTIAL" subordinatedEvent="e30"/>
+  <SLINK eventID="e22" lid="l74" relType="MODAL" subordinatedEvent="e25"/>
+  <SLINK eventID="e22" lid="l75" relType="MODAL" subordinatedEvent="e23"/>
+  <SLINK eventID="e1990" lid="l76" relType="MODAL" subordinatedEvent="e10"/>
+  <SLINK eventID="e3" lid="l77" relType="MODAL" subordinatedEvent="e5"/>
+  <SLINK eventID="e133" lid="l78" relType="MODAL" subordinatedEvent="e54"/>
+  <SLINK eventID="e8" lid="l79" relType="EVIDENTIAL" subordinatedEvent="e1990"/>
+  <SLINK eventID="e44" lid="l80" relType="MODAL" subordinatedEvent="e131"/>
+  <ALINK eventID="e101" lid="l81" relType="TERMINATES" relatedToEvent="e100"/>
+  <ALINK eventID="e90" lid="l82" relType="REINITIATES" relatedToEvent="e91"/>
+  <ALINK eventID="e83" lid="l83" relType="REINITIATES" relatedToEvent="e84"/>
+</TimeML>

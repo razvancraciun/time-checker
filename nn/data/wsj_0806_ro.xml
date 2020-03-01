@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> WSJ891027-0089 </DOCNO>
+  <DD> = 891027 </DD>
+  <AN> 891027-0089. </AN>
+  <HL> Financing Business:
+@  Healthdyne Inc. </HL>
+  <DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t22" type="DATE" value="1989-10-27">10/27/89</TIMEX3> </DD>
+  <SO> WALL STREET JOURNAL (J) </SO>
+  <CO> HDYN </CO>
+  <IN> STOCK MARKET, OFFERINGS (STK)
+INITIAL STOCK OFFERINGS (INI) </IN>
+  <TEXT>
+    <s><ENAMEX TYPE="ORGANIZATION">HEALTHDYNE Inc .</ENAMEX>,<ENAMEX TYPE="LOCATION">Atlanta</ENAMEX>,<EVENT aspect="NONE" class="REPORTING" eid="e1" eiid="ei112" eventID="e1" polarity="POS" pos="VERB" stem="say" tense="PAST">a spus</EVENT>c&abreve; filiala ei ,<ENAMEX TYPE="ORGANIZATION">Home Nutritional Services Inc .</ENAMEX>,<EVENT aspect="NONE" class="OCCURRENCE" eid="e2" eiid="ei113" eventID="e2" polarity="POS" pos="VERB" stem="register" tense="PAST">a &icirc;nregistrat</EVENT>la<ENAMEX TYPE="ORGANIZATION">Comisia de investi&tcedil;ii &scedil;i schimburi</ENAMEX>o<EVENT aspect="NONE" class="OCCURRENCE" eid="e3" eiid="ei114" eventID="e3" polarity="POS" pos="NOUN" stem="offer" tense="NONE">ofert&abreve;</EVENT>public&abreve; ini&tcedil;ial&abreve; de<CARDINAL>patru_milioane</CARDINAL>de ac&tcedil;iuni comune .</s>
+    <s>Furnizorul de servicii medicale interne<EVENT aspect="NONE" class="REPORTING" eid="e4" eiid="ei115" eventID="e4" polarity="POS" pos="VERB" stem="say" tense="PAST">a spus</EVENT>c&abreve; va<EVENT aspect="NONE" class="OCCURRENCE" eid="e5" eiid="ei116" eventID="e5" polarity="POS" pos="VERB" stem="sell" tense="FUTURE">vinde</EVENT><CARDINAL>1 , 8_milioane</CARDINAL>din noile ac&tcedil;iuni , &icirc;n_timp_ce<ENAMEX TYPE="ORGANIZATION">Home Nutritional Services</ENAMEX>va<EVENT aspect="NONE" class="OCCURRENCE" eid="e7" eiid="ei117" eventID="e7" polarity="POS" pos="VERB" stem="sell" tense="FUTURE">vinde</EVENT>restul de<CARDINAL>2 , 2_milioane</CARDINAL>.</s>
+    <s>Compania<EVENT aspect="NONE" class="I_STATE" eid="e8" eiid="ei118" eventID="e8" polarity="POS" pos="VERB" stem="estimate" tense="PRESENT">estimeaz&abreve;</EVENT>pre&tcedil;ul de ofert&abreve;<EVENT aspect="NONE" class="STATE" eid="e21" eiid="ei119" eventID="e21" polarity="POS" pos="OTHER" stem="between " tense="NONE">de_la<NUMEX TYPE="MONEY">$ 14</NUMEX>la<NUMEX TYPE="MONEY">$ 16</NUMEX></EVENT>pe ac&tcedil;iune .</s>
+    <s>Compania<EVENT aspect="NONE" class="REPORTING" eid="e9" eiid="ei120" eventID="e9" polarity="POS" pos="VERB" stem="say" tense="PAST">a spus</EVENT>c&abreve;<EVENT aspect="NONE" class="I_STATE" eid="e10" eiid="ei121" eventID="e10" polarity="POS" pos="VERB" stem="expect" tense="PRESENT">se a&scedil;teapt&abreve;</EVENT>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e12" eiid="ei122" eventID="e12" polarity="POS" pos="VERB" stem="use" tense="INFINITIVE">foloseasc&abreve;</EVENT>beneficiile pentru a<EVENT aspect="NONE" class="OCCURRENCE" eid="e14" eiid="ei123" eventID="e14" polarity="POS" pos="VERB" stem="repay" tense="INFINITIVE">pl&abreve;ti</EVENT>o parte din datoria bancar&abreve; &scedil;i pentru scopuri corporate generale , inclusiv<EVENT aspect="NONE" class="OCCURRENCE" eid="e15" eiid="ei124" eventID="e15" polarity="POS" pos="NOUN" stem="establish" tense="NONE">stabilirea</EVENT>de noi centre opera&tcedil;ionale &scedil;i posibile<EVENT aspect="NONE" class="OCCURRENCE" eid="e16" eiid="ei125" eventID="e16" polarity="POS" pos="NOUN" stem="acquisition" tense="NONE">achizi&tcedil;ii</EVENT>.</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Home Nutritional</ENAMEX><EVENT aspect="NONE" class="STATE" eid="e17" eiid="ei126" eventID="e17" polarity="POS" pos="VERB" stem="have" tense="PRESENT">are</EVENT><TIMEX3 anchorTimeID="t22" functionInDocument="NONE" temporalFunction="true" tid="t23" type="DATE" value="PRESENT_REF">&icirc;n prezent</TIMEX3><CARDINAL>10_milioane</CARDINAL>de ac&tcedil;iuni extraordinare .</s>
+    <s>Va<EVENT aspect="NONE" class="STATE" eid="e24" eiid="ei127" eventID="e24" polarity="POS" pos="VERB" stem="have" tense="FUTURE">avea</EVENT><CARDINAL>11 , 8_milioane</CARDINAL>de ac&tcedil;iuni extraordinare<SIGNAL sid="s19">dup&abreve;</SIGNAL><EVENT aspect="NONE" class="OCCURRENCE" eid="e18" eiid="ei128" eventID="e18" polarity="POS" pos="NOUN" stem="offer" tense="NONE">ofert&abreve;</EVENT>, cu<ENAMEX TYPE="ORGANIZATION">Healthdyne</ENAMEX><EVENT aspect="NONE" class="STATE" eid="e20" eiid="ei129" eventID="e20" polarity="POS" pos="VERB" stem="own" tense="NONE">de&tcedil;in&acirc;nd</EVENT>aproximativ<NUMEX TYPE="PERCENT">65%</NUMEX>din total .</s>
+  </TEXT>
+  <TLINK eventID="e20" lid="l1" relType="SIMULTANEOUS" relatedToEvent="e24"/>
+  <TLINK eventID="e1" lid="l2" relType="BEFORE" relatedToTime="t22"/>
+  <TLINK eventID="e2" lid="l3" relType="BEGINS" relatedToEvent="e3"/>
+  <TLINK eventID="e4" lid="l4" relType="IDENTITY" relatedToEvent="e1"/>
+  <TLINK eventID="e5" lid="l5" relType="SIMULTANEOUS" relatedToEvent="e7"/>
+  <TLINK eventID="e8" lid="l6" relType="INCLUDES" relatedToTime="t22"/>
+  <TLINK eventID="e9" lid="l7" relType="IDENTITY" relatedToEvent="e1"/>
+  <TLINK eventID="e17" lid="l8" relType="IS_INCLUDED" relatedToTime="t23"/>
+  <TLINK eventID="e24" lid="l9" relType="AFTER" relatedToEvent="e18" signalID="s19"/>
+  <TLINK eventID="e24" lid="l10" relType="AFTER" relatedToEvent="e17"/>
+  <TLINK eventID="e20" lid="l11" relType="AFTER" relatedToEvent="e18" signalID="s19"/>
+  <SLINK eventID="e1" lid="l12" relType="EVIDENTIAL" subordinatedEvent="e2"/>
+  <SLINK eventID="e4" lid="l13" relType="EVIDENTIAL" subordinatedEvent="e5"/>
+  <SLINK eventID="e8" lid="l14" relType="MODAL" subordinatedEvent="e21"/>
+  <SLINK eventID="e9" lid="l15" relType="EVIDENTIAL" subordinatedEvent="e10"/>
+  <SLINK eventID="e10" lid="l16" relType="MODAL" subordinatedEvent="e12"/>
+  <SLINK eventID="e12" lid="l17" relType="MODAL" subordinatedEvent="e14"/>
+  <SLINK eventID="e12" lid="l18" relType="MODAL" subordinatedEvent="e15"/>
+  <SLINK eventID="e12" lid="l19" relType="MODAL" subordinatedEvent="e16"/>
+</TimeML>

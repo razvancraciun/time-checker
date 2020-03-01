@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> WSJ891102-0047 </DOCNO>
+  <DD> = 891102 </DD>
+  <AN> 891102-0047. </AN>
+  <HL> Travelers Profit Rose
+@  11% in Third Quarter
+@  Despite Hugo Claims </HL>
+  <DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t27" type="DATE" value="1989-11-02">11/02/89</TIMEX3> </DD>
+  <SO> WALL STREET JOURNAL (J) </SO>
+  <CO> TIC </CO>
+  <IN> EARNINGS (ERN) </IN>
+  <DATELINE> HARTFORD, Conn.  </DATELINE>
+  <TEXT>
+    <s>Venitul net al lui<ENAMEX TYPE="ORGANIZATION">Travelers Corp .</ENAMEX><TIMEX3 anchorTimeID="t27" functionInDocument="NONE" temporalFunction="true" tid="t28" type="DATE" value="1989-Q3">pe al treilea trimestru</TIMEX3><EVENT aspect="NONE" class="OCCURRENCE" eid="e1" eiid="ei2202" eventID="e1" polarity="POS" pos="VERB" tense="PAST">a crescut</EVENT><NUMEX TYPE="PERCENT">cu 11%</NUMEX>, chiar_dac&abreve; afirma&tcedil;iile provenite de_la Hurricane Hugo<EVENT aspect="NONE" class="OCCURRENCE" eid="e4" eiid="ei2203" eventID="e4" polarity="POS" pos="VERB" tense="PAST">au redus</EVENT>rezultatele<NUMEX TYPE="MONEY">la $ 40 milioane</NUMEX>.</s>
+    <s>Netul<EVENT aspect="NONE" class="OCCURRENCE" eid="e6" eiid="ei2204" eventID="e6" polarity="POS" pos="VERB" tense="PAST">a avansat</EVENT>la<NUMEX TYPE="MONEY"><EVENT aspect="NONE" class="STATE" eid="e2163" eiid="ei2228" eventID="e2163" polarity="POS" pos="OTHER" tense="NONE">$ 94 ,</EVENT>2_milioane</NUMEX>, sau<NUMEX TYPE="MONEY">89 cen&tcedil;i</NUMEX>pe ac&tcedil;iune , de_la<NUMEX TYPE="MONEY"><EVENT aspect="NONE" class="STATE" eid="e2164" eiid="ei2229" eventID="e2164" polarity="POS" pos="OTHER" tense="NONE">$ 85</EVENT>milioane</NUMEX>, sau<NUMEX TYPE="MONEY">83 de cen&tcedil;i</NUMEX>pe ac&tcedil;iune , incluz&acirc;nd<EVENT aspect="NONE" class="OCCURRENCE" eid="e33" eiid="ei2207" eventID="e33" polarity="POS" pos="NOUN" tense="NONE">c&acirc;&scedil;tigurile</EVENT>nete realizate din investi&tcedil;ii de<NUMEX TYPE="MONEY">&dollar;31_milioane</NUMEX>,<EVENT aspect="NONE" class="OCCURRENCE" eid="e34" eiid="ei2208" eventID="e34" polarity="POS" pos="NOUN" tense="NONE">&icirc;n cre&scedil;tere</EVENT>de_la<NUMEX TYPE="MONEY"><EVENT aspect="NONE" class="STATE" eid="e2165" eiid="ei2230" eventID="e2165" polarity="POS" pos="OTHER" tense="NONE">$ 10</EVENT>milioane</NUMEX><TIMEX3 anchorTimeID="t28" functionInDocument="NONE" temporalFunction="true" tid="t40" type="DATE" value="1988-Q3">anul trecut</TIMEX3>.</s>
+    <s>Dar venitul<EVENT aspect="NONE" class="OCCURRENCE" eid="e8" eiid="ei2210" eventID="e8" polarity="POS" pos="VERB" tense="PAST">a sc&abreve;zut</EVENT>la<NUMEX TYPE="MONEY"><EVENT aspect="NONE" class="STATE" eid="e2166" eiid="ei2231" eventID="e2166" polarity="POS" pos="OTHER" tense="NONE">$ 3</EVENT>milarde</NUMEX>de_la<NUMEX TYPE="MONEY"><EVENT aspect="NONE" class="STATE" eid="e2167" eiid="ei2232" eventID="e2167" polarity="POS" pos="OTHER" tense="NONE">$ 3 , 2</EVENT>milarde</NUMEX>.</s>
+    <s>Travelers<EVENT aspect="NONE" class="I_ACTION" eid="e45" eiid="ei2213" eventID="e45" polarity="POS" pos="VERB" tense="PAST">a estimat</EVENT>c&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e46" eiid="ei2214" eventID="e46" polarity="POS" pos="NOUN" tense="NONE">cutremurul</EVENT><ENAMEX TYPE="LOCATION">din California</ENAMEX><TIMEX3 anchorTimeID="t27" functionInDocument="NONE" temporalFunction="true" tid="t47" type="DATE" value="1989-10">de luna trecut&abreve;</TIMEX3>va<EVENT aspect="NONE" class="ASPECTUAL" eid="e10" eiid="ei2215" eventID="e10" polarity="POS" pos="NOUN" tense="FUTURE">avea ca rezultat</EVENT>o<EVENT aspect="NONE" class="OCCURRENCE" eid="e49" eiid="ei2216" eventID="e49" polarity="POS" pos="NOUN" tense="NONE">tax&abreve;</EVENT>pre-impozitar&abreve; mai mic&abreve; de<NUMEX TYPE="MONEY">$ 10 milioane</NUMEX><TIMEX3 anchorTimeID="t27" functionInDocument="NONE" temporalFunction="true" tid="t48" type="DATE" value="1989-Q4">&icirc;n al patrulea trimestru</TIMEX3>.</s>
+    <s>C&acirc;&scedil;tigurile asiguratorului din asigurarea de propriet&abreve;&tcedil;i &scedil;i accidente<EVENT aspect="NONE" class="OCCURRENCE" eid="e12" eiid="ei2217" eventID="e12" polarity="POS" pos="VERB" tense="PAST">au sc&abreve;zut</EVENT><NUMEX TYPE="PERCENT">cu 59%</NUMEX><SIGNAL sid="s2115">&icirc;n</SIGNAL><TIMEX3 anchorTimeID="t28" functionInDocument="NONE" temporalFunction="true" tid="t52" type="DATE" value="1989-Q3">ultimul trimestru</TIMEX3>, &icirc;n_timp_ce<EVENT aspect="NONE" class="OCCURRENCE" eid="e14" eiid="ei2218" eventID="e14" polarity="POS" pos="VERB" tense="PAST">a pierdut</EVENT><NUMEX TYPE="MONEY">$ 7 , 2_milioane</NUMEX>&icirc;n afacerile personale de propriet&abreve;&tcedil;i &scedil;i accidente , &icirc;n_compara&tcedil;ie_cu c&acirc;&scedil;tigurile de<NUMEX TYPE="MONEY"><EVENT aspect="NONE" class="STATE" eid="e2169" eiid="ei2234" eventID="e2169" polarity="POS" pos="OTHER" tense="NONE">$ 6 ,</EVENT>1_milioane</NUMEX><TIMEX3 anchorTimeID="t28" functionInDocument="NONE" temporalFunction="true" tid="t51" type="DATE" value="1988-Q3">anul trecut</TIMEX3>.</s>
+    <s>Grupul de beneficii pentru angaja&tcedil;i ai lui Travelers , care include opera&tcedil;iunile de asigur&abreve;ri de s&abreve;n&abreve;tate pentru grupuri ,<EVENT aspect="NONE" class="REPORTING" eid="e19" eiid="ei2220" eventID="e19" polarity="POS" pos="VERB" tense="PAST">a &icirc;nregistrat</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e2162" eiid="ei2227" eventID="e2162" polarity="POS" pos="NOUN" tense="NONE">c&acirc;&scedil;tiguri</EVENT>de<NUMEX TYPE="MONEY">$ 24 milioane</NUMEX>, fa&tcedil;&abreve;_de o<EVENT aspect="NONE" class="OCCURRENCE" eid="e21" eiid="ei2222" eventID="e21" polarity="POS" pos="NOUN" tense="NONE">pierdere</EVENT>de<NUMEX TYPE="MONEY"><EVENT aspect="NONE" class="STATE" eid="e2170" eiid="ei2235" eventID="e2170" polarity="POS" pos="OTHER" tense="NONE">$ 3</EVENT>milioane</NUMEX><TIMEX3 anchorTimeID="t28" functionInDocument="NONE" temporalFunction="true" tid="t56" type="DATE" value="1988-Q3">anul trecut</TIMEX3>.</s>
+    <s>&Icirc;n<TIMEX3 beginPoint="t59" functionInDocument="NONE" temporalFunction="true" tid="t58" type="DURATION" value="P9M">primele<CARDINAL>nou&abreve;</CARDINAL>luni</TIMEX3>, netul a fost<NUMEX TYPE="MONEY"><EVENT aspect="NONE" class="STATE" eid="e2171" eiid="ei2236" eventID="e2171" polarity="POS" pos="OTHER" tense="PAST">de $ 306</EVENT>milioane</NUMEX>, fa&tcedil;&abreve;_de o<EVENT aspect="NONE" class="OCCURRENCE" eid="e23" eiid="ei2224" eventID="e23" polarity="POS" pos="NOUN" tense="NONE">pierdere</EVENT>de<NUMEX TYPE="MONEY">$ 195 milioane</NUMEX><SIGNAL sid="s2174">&icirc;n</SIGNAL><TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t59" type="DATE" value="1988">perioada din 1988</TIMEX3>.</s>
+    <s><EVENT aspect="NONE" class="OCCURRENCE" eid="e24" eiid="ei2225" eventID="e24" polarity="POS" pos="NOUN" tense="NONE">Rezultatele</EVENT><TIMEX3 anchorTimeID="t62" functionInDocument="NONE" temporalFunction="true" tid="t60" type="DATE" value="1988">de anul trecut</TIMEX3>au inclus o<EVENT aspect="NONE" class="OCCURRENCE" eid="e61" eiid="ei2226" eventID="e61" polarity="POS" pos="NOUN" tense="NONE">tax&abreve;</EVENT><NUMEX TYPE="MONEY">de $ 415 milioane</NUMEX><SIGNAL sid="s2197">&icirc;n</SIGNAL><TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t62" type="DATE" value="1988-Q2">al doilea trimestru din 1988</TIMEX3>pentru slaba performan&tcedil;&abreve; a &icirc;mprumuturilor pentru propriet&abreve;&tcedil;i imobilare &scedil;i ipoteci .</s>
+  </TEXT>
+  <TLINK eventID="e2171" lid="l45" relType="IS_INCLUDED" relatedToTime="t58"/>
+  <TLINK eventID="e2170" lid="l44" relType="IS_INCLUDED" relatedToTime="t56"/>
+  <TLINK eventID="e2169" lid="l43" relType="IS_INCLUDED" relatedToTime="t51"/>
+  <TLINK eventID="e2167" lid="l42" relType="BEFORE" relatedToEvent="e8"/>
+  <TLINK eventID="e2166" lid="l41" relType="IAFTER" relatedToEvent="e8"/>
+  <TLINK eventID="e2164" lid="l40" relType="BEFORE" relatedToEvent="e2163"/>
+  <TLINK eventID="e2163" lid="l39" relType="IAFTER" relatedToEvent="e6"/>
+  <TLINK eventID="e2165" lid="l38" relType="IS_INCLUDED" relatedToTime="t40"/>
+  <TLINK eventID="e61" lid="l1" relType="IS_INCLUDED" relatedToTime="t62" signalID="s2197"/>
+  <TLINK eventID="e1" lid="l2" relType="BEFORE" relatedToTime="t27"/>
+  <TLINK eventID="e1" lid="l3" relType="IS_INCLUDED" relatedToTime="t28"/>
+  <TLINK lid="l5" relType="BEFORE" relatedToTime="t27" timeID="t28"/>
+  <TLINK eventID="e6" lid="l6" relType="SIMULTANEOUS" relatedToEvent="e1"/>
+  <TLINK lid="l9" relType="BEFORE" relatedToTime="t28" timeID="t40"/>
+  <TLINK eventID="e8" lid="l10" relType="SIMULTANEOUS" relatedToEvent="e6"/>
+  <TLINK eventID="e45" lid="l11" relType="BEFORE" relatedToTime="t27"/>
+  <TLINK eventID="e46" lid="l12" relType="IS_INCLUDED" relatedToTime="t47"/>
+  <TLINK lid="l13" relType="BEFORE" relatedToTime="t27" timeID="t47"/>
+  <TLINK lid="l14" relType="AFTER" relatedToTime="t28" timeID="t47"/>
+  <TLINK eventID="e46" lid="l15" relType="BEFORE" relatedToEvent="e10"/>
+  <TLINK eventID="e49" lid="l16" relType="IS_INCLUDED" relatedToTime="t48"/>
+  <TLINK eventID="e6" lid="l17" relType="IS_INCLUDED" relatedToTime="t28"/>
+  <TLINK eventID="e12" lid="l18" relType="IS_INCLUDED" relatedToTime="t28"/>
+  <TLINK lid="l19" relType="IDENTITY" relatedToTime="t28" timeID="t52"/>
+  <TLINK lid="l20" relType="AFTER" relatedToTime="t28" timeID="t48"/>
+  <TLINK eventID="e14" lid="l21" relType="SIMULTANEOUS" relatedToEvent="e12"/>
+  <TLINK eventID="e12" lid="l22" relType="IS_INCLUDED" relatedToTime="t52" signalID="s2115"/>
+  <TLINK lid="l24" relType="BEFORE" relatedToTime="t52" timeID="t51"/>
+  <TLINK eventID="e19" lid="l25" relType="BEFORE" relatedToTime="t27"/>
+  <TLINK eventID="e21" lid="l27" relType="SIMULTANEOUS" relatedToTime="t56"/>
+  <TLINK lid="l28" relType="BEFORE" relatedToTime="t28" timeID="t56"/>
+  <TLINK lid="l29" relType="IBEFORE" relatedToTime="t48" timeID="t58"/>
+  <TLINK lid="l30" relType="AFTER" relatedToTime="t59" timeID="t58"/>
+  <TLINK eventID="e23" lid="l31" relType="SIMULTANEOUS" relatedToTime="t59" signalID="s2174"/>
+  <TLINK lid="l32" relType="IDENTITY" relatedToTime="t59" timeID="t60"/>
+  <TLINK eventID="e24" lid="l33" relType="ENDED_BY" relatedToTime="t60"/>
+  <SLINK eventID="e45" lid="l35" relType="MODAL" subordinatedEvent="e10"/>
+  <SLINK eventID="e19" lid="l36" relType="EVIDENTIAL" subordinatedEvent="e2162"/>
+  <ALINK eventID="e10" lid="l37" relType="INITIATES" relatedToEvent="e49"/>
+</TimeML>

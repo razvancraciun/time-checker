@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> WSJ891102-0069 </DOCNO>
+  <DD> = 891102 </DD>
+  <AN> 891102-0069. </AN>
+  <HL> Young's Market Co. to Merge </HL>
+  <DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t15" type="DATE" value="1989-11-02">11/02/89 </TIMEX3></DD>
+  <SO> WALL STREET JOURNAL (J) </SO>
+  <IN> TENDER OFFERS, MERGERS, ACQUISITIONS (TNM) </IN>
+  <DATELINE> LOS ANGELES  </DATELINE>
+  <TEXT>
+    <s>Young's<ENAMEX TYPE="ORGANIZATION">Market Co.</ENAMEX>, un angrosist de b&abreve;uturi alcoolice , vinuri &scedil;i alte bunuri ,<EVENT aspect="NONE" class="REPORTING" eid="e1" eiid="ei81" eventID="e1" polarity="POS" pos="VERB" stem="say" tense="PAST">a spus</EVENT>c&abreve; va<EVENT aspect="NONE" class="OCCURRENCE" eid="e2" eiid="ei82" eventID="e2" polarity="POS" pos="VERB" stem="merge" tense="FUTURE">fuziona</EVENT>cu o_nou&abreve; corpora&tcedil;ie<EVENT aspect="NONE" class="OCCURRENCE" eid="e3" eiid="ei83" eventID="e3" polarity="POS" pos="VERB" stem="form" tense="PASTPART">format&abreve;</EVENT>de familia<ENAMEX TYPE="PERSON">Underwood</ENAMEX>, care controleaz&abreve;<ENAMEX TYPE="LOCATION">Young's</ENAMEX>.</s>
+    <s>&Icirc;n termenii<EVENT aspect="NONE" class="OCCURRENCE" eid="e11" eiid="ei84" eventID="e11" polarity="POS" pos="NOUN" stem="agreement" tense="NONE">acordului</EVENT>, ac&tcedil;ionarii al&tcedil;ii dec&acirc;t familia Underwood vor<EVENT aspect="NONE" class="OCCURRENCE" eid="e5" eiid="ei85" eventID="e5" polarity="POS" pos="VERB" stem="receive" tense="FUTURE">primi</EVENT><NUMEX TYPE="MONEY">$ 3 , 500</NUMEX>ac&tcedil;iunea la<EVENT aspect="NONE" class="OCCURRENCE" eid="e6" eiid="ei86" eventID="e6" polarity="POS" pos="NOUN" stem="close" tense="NONE">&icirc;nchidere</EVENT>, care este<EVENT aspect="NONE" class="OCCURRENCE" eid="e8" eiid="ei87" eventID="e8" polarity="POS" pos="VERB" stem="expect" tense="PRESENT">a&scedil;teptat&abreve;</EVENT>&icirc;n<TIMEX3 anchorTimeID="t15" functionInDocument="NONE" temporalFunction="true" tid="t13" type="DATE" value="1989-12">decembrie</TIMEX3>.</s>
+    <s>Familia<ENAMEX TYPE="PERSON">Underwood</ENAMEX><EVENT aspect="NONE" class="REPORTING" eid="e9" eiid="ei88" eventID="e9" polarity="POS" pos="VERB" stem="say" tense="PAST">a spus</EVENT>c&abreve; de&tcedil;in&abreve;torii a mai mult de o majoritate a ac&tcedil;iunilor companiei au<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e10" eiid="ei89" eventID="e10" polarity="POS" pos="VERB" stem="approve" tense="PRESENT">aprobat</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e14" eiid="ei90" eventID="e14" polarity="POS" pos="NOUN" stem="transaction" tense="NONE">tranzac&tcedil;ia</EVENT>prin consim&tcedil;&abreve;m&acirc;nt scris .</s>
+  </TEXT>
+  <TLINK eventID="e11" lid="l15" relType="IS_INCLUDED" relatedToTime="t15"/>
+  <TLINK eventID="e8" lid="l14" relType="IS_INCLUDED" relatedToTime="t15"/>
+  <TLINK eventID="e14" lid="l1" relType="SIMULTANEOUS" relatedToEvent="e2"/>
+  <TLINK eventID="e10" lid="l2" relType="BEFORE" relatedToEvent="e9"/>
+  <TLINK eventID="e9" lid="l3" relType="SIMULTANEOUS" relatedToEvent="e1"/>
+  <TLINK eventID="e1" lid="l4" relType="BEFORE" relatedToTime="t15"/>
+  <TLINK lid="l5" relType="INCLUDES" relatedToEvent="e6" timeID="t13"/>
+  <TLINK eventID="e5" lid="l6" relType="IAFTER" relatedToEvent="e6"/>
+  <TLINK eventID="e2" lid="l7" relType="AFTER" relatedToEvent="e3"/>
+  <SLINK eventID="e9" lid="l13" relType="EVIDENTIAL" subordinatedEvent="e10"/>
+  <SLINK eventID="e8" lid="l12" relType="MODAL" subordinatedEvent="e6"/>
+  <SLINK eventID="e10" lid="l8" relType="MODAL" subordinatedEvent="e14"/>
+  <SLINK eventID="e11" lid="l10" relType="MODAL" subordinatedEvent="e5"/>
+  <SLINK eventID="e1" lid="l11" relType="EVIDENTIAL" subordinatedEvent="e2"/>
+</TimeML>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> APW19980227.0489 </DOCNO>
+  <DOCTYPE SOURCE="newswire">&Scedil;TIRI</DOCTYPE>
+  <DATE_TIME> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t40" type="TIME" value="1998-02-27T08:13:00">02/27/1998 08:13:00</TIMEX3> </DATE_TIME>
+  <HEADER>
+w2394 Cx1f wstm-
+u i Cx13  Cx11  BC-OAU-Rwanda     02-27 0216
+</HEADER>
+  <BODY><SLUG> BC-OAU-Rwanda </SLUG><HEADLINE>
+OAU to investigate Rwandan genocide
+</HEADLINE><TEXT><s><NG><HEAD><ENAMEX TYPE="LOCATION">ADDIS ABABA</ENAMEX></HEAD></NG>,<NG><HEAD><ENAMEX TYPE="LOCATION">Etiopia</ENAMEX></HEAD></NG>(<NG><HEAD><ENAMEX TYPE="ORGANIZATION">AP</ENAMEX></HEAD></NG>) _ Organiza&tcedil;ia<NG><HEAD><ENAMEX TYPE="ORGANIZATION">Unit&abreve;&tcedil;ii Africane</ENAMEX></HEAD></NG><EVENT aspect="NONE" class="REPORTING" eid="e2" eiid="ei2055" eventID="e2" polarity="POS" pos="VERB" stem="say" tense="PAST"><VG>a spus</VG></EVENT><TIMEX3 anchorTimeID="t40" functionInDocument="NONE" temporalFunction="true" tid="t41" type="DATE" value="1998-02-27"><NG><TIMEX TYPE="DATE">vineri</TIMEX></NG></TIMEX3>c&abreve;<VG>va<EVENT aspect="NONE" class="I_ACTION" eid="e3" eiid="ei2056" eventID="e3" modality="would" polarity="POS" pos="VERB" stem="investigate" tense="NONE">investiga</EVENT></VG><NG><EVENT aspect="NONE" class="OCCURRENCE" eid="e4" eiid="ei2057" eventID="e4" polarity="POS" pos="NOUN" stem="genocide" tense="NONE"><HEAD>genocidul</HEAD></EVENT></NG><PG>a</PG><NG><CARDINAL>mai mult de 500.000</CARDINAL>minoritari<HEAD>Tutsi</HEAD></NG>,<NG>organizat de Hutu</NG><PG>&icirc;n</PG><NG><HEAD><ENAMEX TYPE="LOCATION">Rwanda</ENAMEX></HEAD></NG><TIMEX3 anchorTimeID="t40" functionInDocument="NONE" mod="APPROX" temporalFunction="true" tid="t42" type="DATE" value="1994"><NG><TIMEX TYPE="DATE">acum</TIMEX></NG><RG>aproape</RG><NG><TIMEX TYPE="DATE">patru ani</TIMEX></NG></TIMEX3>.</s><s><NG><HEAD>Mini&scedil;trii de externe</HEAD></NG><PG>ai</PG><NG>statelor membre</NG>care<NG><EVENT aspect="NONE" class="OCCURRENCE" eid="e5" eiid="ei2058" eventID="e5" polarity="POS" pos="VERB" stem="meet" tense="PRESPART"><HEAD>s- au &icirc;nt&acirc;lnit</HEAD></EVENT></NG><PG>&icirc;n</PG><NG><HEAD>capitala</HEAD>etiopian&abreve;</NG><EVENT aspect="NONE" class="I_ACTION" eid="e6" eiid="ei2059" eventID="e6" polarity="POS" pos="NOUN" stem="agree" tense="PAST"><VG>au fost de acord</VG></EVENT><VG-INF>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e7" eiid="ei2060" eventID="e7" polarity="POS" pos="VERB" stem="set" tense="INFINITIVE">formeze</EVENT></VG-INF>un<NG><HEAD>comitet</HEAD></NG>care<VG-INF>s&abreve;<EVENT aspect="NONE" class="I_ACTION" eid="e8" eiid="ei2061" eventID="e8" polarity="POS" pos="VERB" stem="investigate" tense="INFINITIVE">investigheze</EVENT></VG-INF>cine<VG><EVENT aspect="NONE" class="OCCURRENCE" eid="e9" eiid="ei2062" eventID="e9" polarity="POS" pos="VERB" stem="shoot" tense="PAST">a dobor&acirc;t</EVENT></VG><NG><HEAD>avionul<ENAMEX TYPE="PERSON">pre&scedil;edintelui Rwandei Juvenal Habyarimana</ENAMEX></HEAD></NG><SIGNAL sid="s48"><PG>pe</PG></SIGNAL><TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t43" type="DATE" value="1994-04-06"><NG><TIMEX TYPE="DATE">6_aprilie_1995</TIMEX></NG></TIMEX3>.</s><s><NG><EVENT aspect="NONE" class="OCCURRENCE" eid="e10" eiid="ei2063" eventID="e10" polarity="POS" pos="NOUN" stem="assassination" tense="NONE"><HEAD>Asasinatul</HEAD></EVENT></NG><VG><EVENT aspect="NONE" class="I_ACTION" eid="e11" eiid="ei2064" eventID="e11" polarity="POS" pos="VERB" stem="touch" tense="PAST">a antrenat</EVENT></VG><NG>o<HEAD><EVENT aspect="NONE" class="OCCURRENCE" eid="e12" eiid="ei2065" eventID="e12" polarity="POS" pos="NOUN" stem="rampage" tense="NONE">furie</EVENT></HEAD>ucig&abreve;toare</NG><PG>a</PG><NG><HEAD>for&tcedil;elor de securitate</HEAD></NG>&scedil;i<NG><HEAD>a civililor</HEAD>Hutu</NG>, care<VG-VBN><EVENT aspect="NONE" class="OCCURRENCE" eid="e14" eiid="ei2066" eventID="e14" polarity="POS" pos="VERB" stem="slaughter" tense="PAST">au m&abreve;cel&abreve;rit</EVENT>&icirc;n_principal</VG-VBN><NG><HEAD>Tutsi</HEAD></NG>dar<NG>&scedil;i<HEAD>Hutu</HEAD></NG>care<EVENT aspect="NONE" class="I_STATE" eid="e15" eiid="ei2067" eventID="e15" polarity="POS" pos="VERB" stem="favour" tense="PAST"><VG>favorizau</VG></EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e16" eiid="ei2068" eventID="e16" polarity="POS" pos="NOUN" stem="reconciliation" tense="NONE"><NG><HEAD>reconcilierea</HEAD></NG></EVENT><PG>cu</PG><NG><HEAD>minoritatea</HEAD></NG>.</s> <s><VG>De asemenea</VG>,<VG><EVENT aspect="NONE" class="ASPECTUAL" eid="e17" eiid="ei2069" eventID="e17" polarity="POS" pos="VERB" stem="reignite" tense="PAST">a reaprins</EVENT></VG><NG><EVENT aspect="NONE" class="OCCURRENCE" eid="e18" eiid="ei2070" eventID="e18" polarity="POS" pos="ADJECTIVE" stem="war" tense="NONE"><HEAD>r&abreve;zboiul civil</HEAD></EVENT></NG>.</s><s><NG><HEAD>Comitetul</HEAD></NG><VG>va<EVENT aspect="NONE" class="I_ACTION" eid="e19" eiid="ei2071" eventID="e19" polarity="POS" pos="VERB" stem="look" tense="FUTURE">examina</EVENT>&scedil;i</VG><NG><EVENT aspect="NONE" class="OCCURRENCE" eid="e20" eiid="ei2072" eventID="e20" polarity="POS" pos="NOUN" stem="exodus" tense="NONE"><HEAD>exodul</HEAD></EVENT></NG><PG>a</PG><NG><CARDINAL>aproximativ 2_milioane</CARDINAL><HEAD>de Hutu din Rwanda</HEAD></NG><PG>&icirc;n</PG><NG><HEAD>&tcedil;&abreve;rile</HEAD></NG><VG-VBG>&icirc;nvecinate</VG-VBG>unde<EVENT aspect="NONE" class="STATE" eid="e22" eiid="ei2073" eventID="e22" polarity="POS" pos="VERB" stem="live" tense="PAST"><VG>au locuit</VG></EVENT><PG>&icirc;n</PG><NG><HEAD>tabere</HEAD>de refugia&tcedil;i<ENAMEX TYPE="LOCATION">ONU</ENAMEX></NG><SIGNAL sid="s49"><PG>timp de</PG></SIGNAL><TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t44" type="DURATION" value="P2Y6M"><CARDINAL>2</CARDINAL><NG><CARDINAL>&frac12;</CARDINAL><HEAD>ani</HEAD></NG></TIMEX3>.</s><s><NG><EVENT aspect="NONE" class="OCCURRENCE" eid="e24" eiid="ei2074" eventID="e24" polarity="POS" pos="NOUN" stem="investigation" tense="NONE"><HEAD>Investiga&tcedil;iile</HEAD></EVENT></NG><VG>vor<EVENT aspect="NONE" class="I_ACTION" eid="e25" eiid="ei2075" eventID="e25" polarity="POS" pos="NOUN" stem="consider" tense="FUTURE">avea &icirc;n vedere</EVENT></VG><NG><EVENT aspect="NONE" class="STATE" eid="e26" eiid="ei2087" eventID="e26" polarity="POS" pos="NOUN" stem="role" tense="NONE"><HEAD>rolul</HEAD></EVENT></NG>"<NG><HEAD>for&tcedil;elor</HEAD>interne &scedil;i externe</NG><SIGNAL sid="s51"><PG>anterioare</PG></SIGNAL><NG><EVENT aspect="NONE" class="OCCURRENCE" eid="e27" eiid="ei2077" eventID="e27" polarity="POS" pos="NOUN" stem="genocide" tense="NONE"><HEAD>genocidului</HEAD></EVENT></NG>&scedil;i<SIGNAL sid="s52"><RG>urm&abreve;toare</RG></SIGNAL>, &scedil;i<NG><EVENT aspect="NONE" class="STATE" eid="e28" eiid="ei2078" eventID="e28" polarity="POS" pos="NOUN" stem="role" tense="NONE"><HEAD>rolul</HEAD></EVENT><HEAD><ENAMEX TYPE="ORGANIZATION">Na&tcedil;iunilor Unite</ENAMEX></HEAD></NG>&scedil;i<NG><HEAD>ale agen&tcedil;iilor</HEAD>lor</NG>&scedil;i<NG>al<HEAD><ENAMEX TYPE="ORGANIZATION">OUA</ENAMEX></HEAD></NG><SIGNAL sid="s53"><RG>&icirc;nainte</RG>,<PG>&icirc;n timpul</PG>&scedil;i<PG>dup&abreve;</PG></SIGNAL><NG><EVENT aspect="NONE" class="OCCURRENCE" eid="e29" eiid="ei2079" eventID="e29" polarity="POS" pos="NOUN" stem="genocide" tense="NONE"><HEAD>genocid</HEAD></EVENT></NG>" ,<EVENT aspect="NONE" class="REPORTING" eid="e30" eiid="ei2080" eventID="e30" polarity="POS" pos="VERB" stem="say" tense="PAST"><VG>a spus</VG></EVENT><NG><HEAD><ENAMEX TYPE="ORGANIZATION">OUA</ENAMEX></HEAD></NG>.</s><s><NG><HEAD>Comitetul</HEAD></NG><VG>va<EVENT aspect="NONE" class="STATE" eid="e31" eiid="ei2081" eventID="e31" polarity="POS" pos="NOUN" stem="base" tense="FUTURE">avea sediul</EVENT></VG><PG>&icirc;n</PG><NG><HEAD><ENAMEX TYPE="LOCATION">Addis Ababa</ENAMEX></HEAD></NG>, &scedil;i<NG>&icirc;&scedil;i</NG><VG>va<EVENT aspect="NONE" class="ASPECTUAL" eid="e32" eiid="ei2082" eventID="e32" polarity="POS" pos="VERB" stem="finish" tense="FUTURE">termina</EVENT></VG><NG><EVENT aspect="NONE" class="OCCURRENCE" eid="e33" eiid="ei2083" eventID="e33" polarity="POS" pos="NOUN" stem="investigation" tense="NONE"><HEAD>investiga&tcedil;iile</HEAD></EVENT></NG><SIGNAL sid="s54"><PG>&icirc;n decurs de</PG></SIGNAL><TIMEX3 functionInDocument="NONE" mod="EQUAL_OR_LESS" temporalFunction="false" tid="t45" type="DURATION" value="P1Y"><NG>un<HEAD>an</HEAD></NG></TIMEX3>,<EVENT aspect="NONE" class="REPORTING" eid="e34" eiid="ei2084" eventID="e34" polarity="POS" pos="VERB" stem="say" tense="PAST"><VG>a spus</VG></EVENT>ea .</s> <s><VG>Va</VG><VG-INF>fi<EVENT aspect="NONE" class="STATE" eid="e35" eiid="ei2085" eventID="e35" polarity="POS" pos="VERB" stem="fund" tense="FUTURE">finan&tcedil;at</EVENT></VG-INF><PG>de</PG><NG><EVENT aspect="NONE" class="OCCURRENCE" eid="e36" eiid="ei2086" eventID="e36" polarity="POS" pos="NOUN" stem="contribution" tense="NONE"><HEAD>contribu&tcedil;ii</HEAD></EVENT>voluntare</NG><PG>din&abreve;untrul</PG>&scedil;i<PG>din afara</PG><NG><HEAD>continentului</HEAD></NG>.</s><s>(<NG><HEAD>aa-kjd</HEAD></NG>)</s></TEXT>
+(PROFILE
+(WS SL:BC-OAU-Rwanda; CT:i;
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:ENGL;)
+(REG:AFRI;)
+(LANG:ENGLISH;))
+)
+</BODY>
+  <TRAILER>
+    <s>
+      <NG>AP-NY-02-27-98<TIMEX TYPE="TIME">0813EST</TIMEX></NG>
+    </s>
+  </TRAILER>
+  <TLINK eventID="e30" lid="l42" relType="IS_INCLUDED" relatedToTime="t41"/>
+  <TLINK eventID="e4" lid="l2" relType="IS_INCLUDED" relatedToEvent="e5"/>
+  <TLINK eventID="e5" lid="l3" relType="INCLUDES" relatedToEvent="e2"/>
+  <TLINK eventID="e5" lid="l4" relType="INCLUDES" relatedToEvent="e6"/>
+  <TLINK eventID="e9" lid="l5" relType="IS_INCLUDED" relatedToEvent="e10" signalID="s48"/>
+  <TLINK eventID="e10" lid="l7" relType="IDENTITY" relatedToEvent="e11"/>
+  <TLINK eventID="e11" lid="l8" relType="BEFORE" relatedToEvent="e12"/>
+  <TLINK eventID="e12" lid="l9" relType="INCLUDES" relatedToEvent="e14"/>
+  <TLINK eventID="e15" lid="l10" relType="BEFORE" relatedToEvent="e12"/>
+  <TLINK eventID="e10" lid="l11" relType="IDENTITY" relatedToEvent="e17"/>
+  <TLINK eventID="e17" lid="l12" relType="BEFORE" relatedToEvent="e18"/>
+  <TLINK eventID="e20" lid="l13" relType="BEFORE" relatedToEvent="e22"/>
+  <TLINK eventID="e22" lid="l14" relType="DURING" relatedToEvent="e24" signalID="s49"/>
+  <TLINK eventID="e24" lid="l15" relType="INCLUDES" relatedToEvent="e8"/>
+  <TLINK eventID="e24" lid="l16" relType="INCLUDES" relatedToEvent="e19"/>
+  <TLINK eventID="e24" lid="l17" relType="INCLUDES" relatedToEvent="e25"/>
+  <TLINK eventID="e26" lid="l18" relType="BEFORE" relatedToEvent="e27" signalID="s51"/>
+  <TLINK eventID="e26" lid="l19" relType="AFTER" relatedToEvent="e27" signalID="s52"/>
+  <TLINK eventID="e28" lid="l20" relType="INCLUDES" relatedToEvent="e29" signalID="s53"/>
+  <TLINK eventID="e31" lid="l21" relType="AFTER" relatedToTime="t40"/>
+  <TLINK eventID="e32" lid="l22" relType="AFTER" relatedToTime="t40"/>
+  <TLINK eventID="e33" lid="l23" relType="DURING" relatedToEvent="e34" signalID="s54"/>
+  <TLINK eventID="e33" lid="l24" relType="IDENTITY" relatedToEvent="e24"/>
+  <TLINK eventID="e35" lid="l25" relType="AFTER" relatedToTime="t40"/>
+  <TLINK eventID="e35" lid="l26" relType="INCLUDES" relatedToEvent="e36"/>
+  <SLINK eventID="e25" lid="l41" relType="FACTIVE" subordinatedEvent="e28"/>
+  <SLINK eventID="e2" lid="l27" relType="EVIDENTIAL" subordinatedEvent="e3"/>
+  <SLINK eventID="e3" lid="l28" relType="FACTIVE" subordinatedEvent="e4"/>
+  <SLINK eventID="e6" lid="l29" relType="MODAL" subordinatedEvent="e7"/>
+  <SLINK eventID="e7" lid="l30" relType="MODAL" subordinatedEvent="e8"/>
+  <SLINK eventID="e8" lid="l31" relType="FACTIVE" subordinatedEvent="e9"/>
+  <SLINK eventID="e15" lid="l32" relType="MODAL" subordinatedEvent="e16"/>
+  <SLINK eventID="e19" lid="l33" relType="FACTIVE" subordinatedEvent="e20"/>
+  <SLINK eventID="e25" lid="l34" relType="FACTIVE" subordinatedEvent="e26"/>
+  <SLINK eventID="e30" lid="l35" relType="EVIDENTIAL" subordinatedEvent="e25"/>
+  <SLINK eventID="e34" lid="l36" relType="EVIDENTIAL" subordinatedEvent="e31"/>
+  <SLINK eventID="e34" lid="l37" relType="EVIDENTIAL" subordinatedEvent="e32"/>
+  <ALINK eventID="e17" lid="l40" relType="REINITIATES" relatedToEvent="e18"/>
+  <ALINK eventID="e11" lid="l39" relType="INITIATES" relatedToEvent="e12"/>
+  <ALINK eventID="e32" lid="l38" relType="CULMINATES" relatedToEvent="e33"/>
+</TimeML>
