@@ -29,34 +29,22 @@ def words_from_file(filepath):
         tree = et.fromstring(text)
         timexs = []
         notimexs = []
-        textNode = tree.findall(f'.//TEXT')[0]
         for tag in TAGS:
             timexs += tree.findall(f'.//{tag}')
         
         timexs = list(map(lambda ex: deepcopy(ex), timexs))
+        timex_text = [' '.join(timex.itertext()) for timex in timexs]
+        time_words = []
+        for text in timex_text:
+            for word in text.split():
+                time_words.append(word)
 
-        for tag in TAGS:
-            parents = tree.findall(f'.//{tag}/..')
-            for parent in parents:
-                for timex in timexs:
-                    try:
-                        parent.remove(timex)
-                    except:
-                        pass              
-        timexs = [timex for timex in timexs if timex]
-        notimexs = [notimex for notimex in notimexs if notimex]  
-        return (timexs, notimexs)
+        return (time_words, notimexs)
 
 def corpus_to_class_files():
-    (timexs, notimexs) = extract_data()
-    print(len(timexs))
-    timex_text = [''.join(timex.itertext()) for timex in timexs]
-    timex_text = [text for text in timex_text if text != '']
-    timex_text = '\n'.join(timex_text)
-
-
-    with open(DATA_PATH + 'TIMEXS_RAW.txt', 'w') as f:
-        f.write(timex_text)
+    (time_words, other_words) = extract_data()
+    print(time_words)
+    print(len(time_words))
 
 
 corpus_to_class_files()
