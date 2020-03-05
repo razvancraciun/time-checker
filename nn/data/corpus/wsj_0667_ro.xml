@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> WSJ891030-0030 </DOCNO>
+  <DD> = 891030 </DD>
+  <AN> 891030-0030. </AN>
+  <HL> Shoney's to Report
+@  Write-Off in Quarter
+@  Totaling $2.5 Million </HL>
+  <DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t40" type="DATE" value="1989-10-30">10/30/89</TIMEX3> </DD>
+  <SO> WALL STREET JOURNAL (J) </SO>
+  <CO> SHN </CO>
+  <DATELINE> NASHVILLE, Tenn.  </DATELINE>
+  <TEXT>
+    <s><ENAMEX TYPE="ORGANIZATION">Shoney's Inc .</ENAMEX>a <EVENT aspect="NONE" class="REPORTING" eid="e1" eiid="ei1991" eventID="e1" polarity="POS" pos="VERB" tense="PAST">spus</EVENT>c&abreve; va<EVENT aspect="NONE" class="REPORTING" eid="e2" eiid="ei1992" eventID="e2" polarity="POS" pos="VERB" tense="FUTURE">raporta</EVENT>o<EVENT aspect="NONE" class="OCCURRENCE" eid="e3" eiid="ei1993" eventID="e3" polarity="POS" pos="NOUN" tense="NONE">pierdere</EVENT>de<NUMEX TYPE="MONEY">$ 2 , 5_milioane</NUMEX>, sau<NUMEX TYPE="MONEY">&scedil;apte cen&tcedil;i</NUMEX>pe ac&tcedil;iune , pentru<TIMEX3 anchorTimeID="t40" functionInDocument="NONE" temporalFunction="true" tid="t41" type="DATE" value="1989-Q4">al patrulea trimestru</TIMEX3> al s&abreve;u<SIGNAL sid="s43">&icirc;ncheiat</SIGNAL><TIMEX3 anchorTimeID="t40" functionInDocument="NONE" temporalFunction="true" tid="t42" type="DATE" value="1989-10-29">ieri</TIMEX3>.</s>
+    <s>Operatorul de restaurante a<EVENT aspect="NONE" class="REPORTING" eid="e5" eiid="ei1994" eventID="e5" polarity="POS" pos="VERB" tense="PAST">citat</EVENT><EVENT aspect="NONE" class="STATE" eid="e44" eiid="ei1995" eventID="e44" polarity="POS" pos="NOUN" tense="NONE">costurile</EVENT>tranzac&tcedil;iei &icirc;n_urma<EVENT aspect="NONE" class="OCCURRENCE" eid="e45" eiid="ei1996" eventID="e45" polarity="POS" pos="NOUN" tense="NONE">recapitaliz&abreve;rii</EVENT>sale<TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t47" type="DATE" value="1988">din 1988</TIMEX3>ca rezultat al unei<EVENT aspect="NONE" class="OCCURRENCE" eid="e46" eiid="ei1997" eventID="e46" polarity="POS" pos="NOUN" tense="NONE">restructur&abreve;ri</EVENT><NUMEX TYPE="MONEY">de $ 160 milioane</NUMEX>a datoriei bancare .</s>
+    <s><EVENT aspect="NONE" class="OCCURRENCE" eid="e8" eiid="ei1998" eventID="e8" polarity="POS" pos="NOUN" tense="NONE">Pierderea</EVENT>va fi<EVENT aspect="PERFECTIVE" class="REPORTING" eid="e9" eiid="ei1999" eventID="e9" polarity="POS" pos="VERB" tense="FUTURE">raportat&abreve;</EVENT>ca ceva ie&scedil;it din comun &icirc;n<EVENT aspect="NONE" class="STATE" eid="e10" eiid="ei2001" eventID="e10" polarity="POS" pos="NOUN" tense="NONE">rezultatele</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e48" eiid="ei2000" eventID="e48" polarity="POS" pos="ADJECTIVE" tense="NONE">opera&tcedil;ionale</EVENT><TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t49" type="DATE" value="1989">pe 1989</TIMEX3>ale companiei .</s>
+    <s>&Icirc;n plus ,<EVENT aspect="NONE" class="STATE" eid="e51" eiid="ei2002" eventID="e51" polarity="POS" pos="NOUN" tense="NONE">rata</EVENT>efectiv&abreve; a dob&acirc;nzii la restul total<NUMEX TYPE="MONEY">de $ 410 milioane</NUMEX>al datoriei bancare<SIGNAL sid="s12">dup&abreve;</SIGNAL><EVENT aspect="NONE" class="OCCURRENCE" eid="e50" eiid="ei2003" eventID="e50" polarity="POS" pos="NOUN" tense="NONE">restructurare</EVENT>este<NUMEX TYPE="PERCENT">de 10 , 66%</NUMEX>.</s>
+    <s><EVENT aspect="NONE" class="STATE" eid="e52" eiid="ei2004" eventID="e52" polarity="POS" pos="NOUN" tense="NONE">Efectul</EVENT>combinat al acestor<EVENT aspect="NONE" class="OCCURRENCE" eid="e13" eiid="ei2005" eventID="e13" polarity="POS" pos="NOUN" tense="NONE">schimb&abreve;ri</EVENT><EVENT aspect="PERFECTIVE" class="I_STATE" eid="e14" eiid="ei2006" eventID="e14" polarity="POS" pos="VERB" tense="PRESENT">se a&scedil;teapt&abreve;</EVENT>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e16" eiid="ei2007" eventID="e16" polarity="POS" pos="VERB" tense="NONE">ajute</EVENT>compania s&abreve; economiseasc&abreve; aproximativ<NUMEX TYPE="MONEY">$ 4 milioane</NUMEX>din cheltuielile pentru dob&acirc;nd&abreve;<TIMEX3 anchorTimeID="t40" functionInDocument="NONE" temporalFunction="true" tid="t53" type="DATE" value="1990">anul viitor</TIMEX3>, sau<NUMEX TYPE="MONEY">&scedil;ase cen&tcedil;i</NUMEX>pe ac&tcedil;iune .</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Shoney's</ENAMEX><EVENT aspect="NONE" class="REPORTING" eid="e19" eiid="ei2008" eventID="e19" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>c&abreve; ultima<EVENT aspect="NONE" class="OCCURRENCE" eid="e57" eiid="ei2009" eventID="e57" polarity="POS" pos="NOUN" tense="NONE">restructurare</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e58" eiid="ei2010" eventID="e58" polarity="POS" pos="VERB" tense="PAST">a afectat</EVENT>datoria fa&tcedil;&abreve;_de banc&abreve; , care<EVENT aspect="NONE" class="OCCURRENCE" eid="e22" eiid="ei2011" eventID="e22" polarity="POS" pos="VERB" tense="PAST">trebuia</EVENT>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e24" eiid="ei2012" eventID="e24" polarity="POS" pos="VERB" tense="INFINITIVE">finan&tcedil;eze</EVENT><NUMEX TYPE="MONEY">$ 585 milioane</NUMEX>din<EVENT aspect="NONE" class="OCCURRENCE" eid="e56" eiid="ei2013" eventID="e56" polarity="POS" pos="NOUN" tense="NONE">recapitalizarea</EVENT><NUMEX TYPE="MONEY">de $ 728 milioane</NUMEX>a companiei care<EVENT aspect="NONE" class="OCCURRENCE" eid="e198" eiid="ei2014" eventID="e198" polarity="POS" pos="VERB" tense="PAST">a avut</EVENT>loc<SIGNAL sid="s55">&icirc;n</SIGNAL><TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t54" type="DATE" value="1988">1988</TIMEX3>.</s>
+    <s>Compania a<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e26" eiid="ei2015" eventID="e26" polarity="POS" pos="VERB" tense="PRESENT">f&abreve;cut</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e27" eiid="ei2016" eventID="e27" polarity="POS" pos="NOUN" tense="NONE">pl&abreve;&tcedil;i</EVENT>de<NUMEX TYPE="MONEY">$ 175 milioane</NUMEX>fa&tcedil;&abreve;_de cele<NUMEX TYPE="MONEY">$ 585 milioane</NUMEX>de datorii bancare originale care<EVENT aspect="NONE" class="OCCURRENCE" eid="e28" eiid="ei2017" eventID="e28" polarity="POS" pos="VERB" tense="PASTPART">trebuiau pl&abreve;tite</EVENT>pe_l&acirc;ng&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e59" eiid="ei2018" eventID="e59" polarity="POS" pos="NOUN" tense="NONE">recapitalizare</EVENT>.</s>
+    <s>Aceste pl&abreve;&tcedil;i au constat &icirc;n<NUMEX TYPE="MONEY">$ 54 milioane</NUMEX>&icirc;n pl&abreve;&tcedil;i planificate &scedil;i<NUMEX TYPE="MONEY">$ 121 milioane</NUMEX>&icirc;n pre-pl&abreve;&tcedil;i , finan&tcedil;ate de<NUMEX TYPE="MONEY">$ 82 , 2_milioane</NUMEX>din circuitul financiar opera&tcedil;ional , datoria subordonat&abreve; de cupon zero &scedil;i v&acirc;nzarea de active .</s>
+  </TEXT>
+  <TLINK eventID="e14" lid="l35" relType="AFTER" relatedToTime="t40"/>
+  <TLINK eventID="e59" lid="l1" relType="BEFORE" relatedToEvent="e28"/>
+  <TLINK eventID="e1" lid="l2" relType="BEFORE" relatedToTime="t40"/>
+  <TLINK eventID="e3" lid="l3" relType="IS_INCLUDED" relatedToTime="t41"/>
+  <TLINK lid="l4" relType="ENDED_BY" relatedToTime="t42" signalID="s43" timeID="t41"/>
+  <TLINK eventID="e5" lid="l5" relType="IS_INCLUDED" relatedToEvent="e1"/>
+  <TLINK eventID="e44" lid="l6" relType="AFTER" relatedToEvent="e45"/>
+  <TLINK eventID="e45" lid="l7" relType="IS_INCLUDED" relatedToTime="t47"/>
+  <TLINK eventID="e46" lid="l8" relType="BEFORE" relatedToEvent="e45"/>
+  <TLINK eventID="e8" lid="l9" relType="IDENTITY" relatedToEvent="e3"/>
+  <TLINK eventID="e9" lid="l10" relType="AFTER" relatedToTime="t40"/>
+  <TLINK eventID="e48" lid="l11" relType="BEFORE" relatedToEvent="e10"/>
+  <TLINK eventID="e48" lid="l12" relType="DURING" relatedToTime="t49"/>
+  <TLINK eventID="e8" lid="l13" relType="IS_INCLUDED" relatedToEvent="e10"/>
+  <TLINK eventID="e51" lid="l14" relType="AFTER" relatedToEvent="e50" signalID="s12"/>
+  <TLINK eventID="e13" lid="l15" relType="BEFORE" relatedToEvent="e52"/>
+  <TLINK eventID="e13" lid="l16" relType="INCLUDES" relatedToEvent="e8"/>
+  <TLINK eventID="e13" lid="l17" relType="INCLUDES" relatedToEvent="e51"/>
+  <TLINK eventID="e16" lid="l18" relType="IS_INCLUDED" relatedToTime="t53"/>
+  <TLINK eventID="e19" lid="l19" relType="IDENTITY" relatedToEvent="e1"/>
+  <TLINK eventID="e57" lid="l20" relType="BEFORE" relatedToEvent="e58"/>
+  <TLINK eventID="e58" lid="l21" relType="BEFORE" relatedToEvent="e22"/>
+  <TLINK eventID="e56" lid="l22" relType="IS_INCLUDED" relatedToTime="t54" signalID="s55"/>
+  <TLINK eventID="e56" lid="l23" relType="IDENTITY" relatedToEvent="e198"/>
+  <TLINK eventID="e26" lid="l24" relType="IDENTITY" relatedToEvent="e27"/>
+  <TLINK eventID="e28" lid="l25" relType="BEFORE" relatedToEvent="e26"/>
+  <SLINK eventID="e1" lid="l26" relType="EVIDENTIAL" subordinatedEvent="e2"/>
+  <SLINK eventID="e2" lid="l27" relType="EVIDENTIAL" subordinatedEvent="e3"/>
+  <SLINK eventID="e5" lid="l28" relType="EVIDENTIAL" subordinatedEvent="e44"/>
+  <SLINK eventID="e9" lid="l29" relType="EVIDENTIAL" subordinatedEvent="e8"/>
+  <SLINK eventID="e14" lid="l31" relType="MODAL" subordinatedEvent="e16"/>
+  <SLINK eventID="e19" lid="l32" relType="EVIDENTIAL" subordinatedEvent="e58"/>
+  <SLINK eventID="e22" lid="l33" relType="MODAL" subordinatedEvent="e24"/>
+  <SLINK eventID="e24" lid="l34" relType="FACTIVE" subordinatedEvent="e56"/>
+</TimeML>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> WSJ891026-0025 </DOCNO>
+  <DD> = 891026 </DD>
+  <AN> 891026-0025. </AN>
+  <HL> Business Brief -- Philip Morris Cos.:
+@  Defense Measure Is Adopted
+@  By Foods, Tobacco Concern </HL>
+  <DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t23" type="DATE" value="1989-10-26">10/26/89</TIMEX3> </DD>
+  <SO> WALL STREET JOURNAL (J) </SO>
+  <CO> MO </CO>
+  <IN> TOBACCO PRODUCTS (TOB)
+FOOD PRODUCTS (FOD) </IN>
+  <TEXT>
+    <s><ENAMEX TYPE="ORGANIZATION">Philip Morris Cos .</ENAMEX>,<ENAMEX TYPE="LOCATION">New_York</ENAMEX>,<EVENT aspect="NONE" class="OCCURRENCE" eid="e1" eiid="ei55" eventID="e1" polarity="POS" pos="VERB" stem="adopt" tense="PAST">a adoptat</EVENT>o m&abreve;sur&abreve; de ap&abreve;rare<EVENT aspect="NONE" class="OCCURRENCE" eid="e3" eiid="ei56" eventID="e3" polarity="POS" pos="ADJECTIVE" stem="design" tense="PASTPART">conceput&abreve;</EVENT>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e5" eiid="ei57" eventID="e5" polarity="POS" pos="VERB" stem="make" tense="INFINITIVE">fac&abreve;</EVENT>o<EVENT aspect="NONE" class="OCCURRENCE" eid="e6" eiid="ei58" eventID="e6" polarity="POS" pos="NOUN" stem="takeover" tense="NONE">preluare</EVENT>ostil&abreve; prohibitiv de scump&abreve; .</s>
+    <s>Gigantica companie de alimente , tutun &scedil;i bere<EVENT aspect="NONE" class="REPORTING" eid="e7" eiid="ei59" eventID="e7" polarity="POS" pos="VERB" stem="say" tense="PAST">a spus</EVENT>c&abreve; va<EVENT aspect="NONE" class="OCCURRENCE" eid="e8" eiid="ei60" eventID="e8" polarity="POS" pos="VERB" stem="issue" tense="FUTURE">emite</EVENT>drepturi de cump&abreve;rare a ac&tcedil;iunilor comune c&abreve;tre ac&tcedil;ionarii din<EVENT aspect="NONE" class="OCCURRENCE" eid="e9" eiid="ei61" eventID="e9" polarity="POS" pos="NOUN" stem="record" tense="NONE">registrul</EVENT><TIMEX3 anchorTimeID="t23" functionInDocument="NONE" temporalFunction="true" tid="t24" type="DATE" value="1989-11-08">8 . nov</TIMEX3>.</s>
+    <s>&Icirc;n anumite condi&tcedil;ii , drepturile vor<EVENT aspect="NONE" class="I_STATE" eid="e10" eiid="ei62" eventID="e10" modality="would" polarity="POS" pos="VERB" stem="entitle" tense="NONE">&icirc;ndrept&abreve;&tcedil;i</EVENT>ac&tcedil;ionarii<ENAMEX TYPE="ORGANIZATION">Philip Morris</ENAMEX>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e13" eiid="ei63" eventID="e13" polarity="POS" pos="VERB" stem="buy" tense="INFINITIVE">cumpere</EVENT>ac&tcedil;iuni ori ale companiei ori ale cump&abreve;r&abreve;torului s&abreve;u pentru jum&abreve;tate de pre&tcedil; .</s>
+    <s>Consiliul nu este<EVENT aspect="NONE" class="STATE" eid="e27" eiid="ei64" eventID="e27" polarity="NEG" pos="ADJECTIVE" stem="aware" tense="PRESENT">con&scedil;tient</EVENT>de nici o<EVENT aspect="NONE" class="I_ACTION" eid="e15" eiid="ei65" eventID="e15" polarity="POS" pos="NOUN" stem="attempt" tense="NONE">tentativ&abreve;</EVENT>de a<EVENT aspect="NONE" class="OCCURRENCE" eid="e17" eiid="ei66" eventID="e17" polarity="POS" pos="VERB" stem="take" tense="INFINITIVE">prelua</EVENT>Philip<ENAMEX TYPE="ORGANIZATION">Morris</ENAMEX>,<EVENT aspect="NONE" class="REPORTING" eid="e18" eiid="ei67" eventID="e18" polarity="POS" pos="VERB" stem="say" tense="PAST">a spus</EVENT>compania .</s>
+    <s>&Icirc;ncep&acirc;nd din<TIMEX3 anchorTimeID="t23" functionInDocument="NONE" temporalFunction="true" tid="t25" type="DATE" value="1989-09-30">30_sept.</TIMEX3>,<ENAMEX TYPE="ORGANIZATION">Philip Morris</ENAMEX><EVENT aspect="NONE" class="STATE" eid="e28" eiid="ei68" eventID="e28" polarity="POS" pos="VERB" stem="have" tense="PAST">a avut</EVENT><CARDINAL>926_milioane</CARDINAL>de ac&tcedil;iuni restante .</s>
+    <s>&Icirc;n tranzac&tcedil;iile mixte de_la<ENAMEX TYPE="ORGANIZATION">Bursa de Valori din New_York</ENAMEX>, ac&tcedil;iunile<ENAMEX TYPE="ORGANIZATION">Philip Morris</ENAMEX><EVENT aspect="NONE" class="OCCURRENCE" eid="e20" eiid="ei69" eventID="e20" polarity="POS" pos="VERB" stem="close" tense="PAST">s- au &icirc;nchis</EVENT><TIMEX3 anchorTimeID="t23" functionInDocument="NONE" temporalFunction="true" tid="t26" type="DATE" value="1989-10-25">ieri</TIMEX3>la<NUMEX TYPE="MONEY">$ 43 . 50</NUMEX>fiecare , &icirc;n sc&abreve;dere<NUMEX TYPE="MONEY">cu $ 1</NUMEX>.</s>
+  </TEXT>
+  <TLINK eventID="e18" lid="l16" relType="IS_INCLUDED" relatedToTime="t23"/>
+  <TLINK eventID="e10" lid="l15" relType="AFTER" relatedToEvent="e1"/>
+  <TLINK eventID="e3" lid="l14" relType="BEFORE" relatedToEvent="e1"/>
+  <TLINK eventID="e1" lid="l1" relType="BEFORE" relatedToTime="t23"/>
+  <TLINK lid="l2" relType="INCLUDES" relatedToEvent="e20" timeID="t26"/>
+  <TLINK eventID="e28" lid="l3" relType="IS_INCLUDED" relatedToTime="t25"/>
+  <TLINK eventID="e15" lid="l4" relType="SIMULTANEOUS" relatedToEvent="e27"/>
+  <TLINK lid="l5" relType="INCLUDES" relatedToEvent="e9" timeID="t24"/>
+  <TLINK lid="l6" relType="AFTER" relatedToEvent="e7" timeID="t23"/>
+  <TLINK eventID="e6" lid="l7" relType="AFTER" relatedToEvent="e5"/>
+  <SLINK eventID="e27" lid="l13" relType="MODAL" subordinatedEvent="e15"/>
+  <SLINK eventID="e18" lid="l8" relType="EVIDENTIAL" subordinatedEvent="e27"/>
+  <SLINK eventID="e15" lid="l9" relType="MODAL" subordinatedEvent="e17"/>
+  <SLINK eventID="e10" lid="l10" relType="MODAL" subordinatedEvent="e13"/>
+  <SLINK eventID="e7" lid="l11" relType="EVIDENTIAL" subordinatedEvent="e8"/>
+  <SLINK eventID="e3" lid="l12" relType="MODAL" subordinatedEvent="e5"/>
+</TimeML>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> WSJ891027-0127 </DOCNO>
+  <DD> = 891027 </DD>
+  <AN> 891027-0127. </AN>
+  <HL> Mutual Funds:
+@  Investors Yank Billions From Junk Funds
+@  ----
+@  By Michael Siconolfi
+@  Staff Reporter of The Wall Street Journal </HL>
+  <DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="true" tid="t173" type="DATE" value="1989-10-27">10/27/89</TIMEX3> </DD>
+  <SO> WALL STREET JOURNAL (J) </SO>
+  <CO> TROW </CO>
+  <IN> MUTUAL AND MONEY-MARKET FUNDS (FND)
+BOND MARKET NEWS (BON) </IN>
+  <DATELINE> NEW YORK  </DATELINE>
+  <TEXT>
+    <s>Miliarde din dolarii investitorilor<EVENT aspect="PROGRESSIVE" class="OCCURRENCE" eid="e2" eiid="ei2578" eventID="e2" polarity="POS" pos="VERB" tense="PRESENT">curg</EVENT>din fondurile mutuale de obliga&tcedil;iuni de risc ale na&tcedil;iunii ,<EVENT aspect="NONE" class="OCCURRENCE" eid="e3" eiid="ei2579" eventID="e3" polarity="POS" pos="VERB" tense="PRESPART">submin&acirc;nd</EVENT>un st&acirc;lp de sus&tcedil;inere &icirc;n deja oscilanta pia&tcedil;&abreve; de risc .</s>
+    <s>Numai<TIMEX3 anchorTimeID="t173" functionInDocument="NONE" temporalFunction="true" tid="t174" type="DATE" value="1989-WXX">s&abreve;pt&abreve;m&acirc;na trecut&abreve;</TIMEX3>,<NUMEX TYPE="MONEY">$ 1 . 6_miliarde</NUMEX>uimitori<EVENT aspect="NONE" class="OCCURRENCE" eid="e7" eiid="ei2580" eventID="e7" polarity="POS" pos="VERB" tense="PAST">s- au scurs</EVENT>din fondurile de risc , sau aproape<NUMEX TYPE="PERCENT">5%</NUMEX>din activele lor totale ,<EVENT aspect="NONE" class="REPORTING" eid="e167" eiid="ei2581" eventID="e167" polarity="POS" pos="PREPOSITION" tense="PRESPART">potrivit</EVENT>estim&abreve;rilor de_c&abreve;tre<ENAMEX TYPE="ORGANIZATION">Dalbar Financial Services Inc .</ENAMEX>, o firm&abreve; de cercetare<ENAMEX TYPE="LOCATION">din Boston</ENAMEX>.</s>
+    <s><SIGNAL sid="s171">&Icirc;n</SIGNAL><TIMEX3 endPoint="t173" functionInDocument="NONE" temporalFunction="true" tid="t175" type="DURATION" value="P2M">ultimele dou&abreve; luni</TIMEX3>cele<CARDINAL>88</CARDINAL>de fonduri de risc ale na&tcedil;iunii au<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e9" eiid="ei2582" eventID="e9" polarity="POS" pos="VERB" tense="PRESENT">pierdut</EVENT>un total de aproximativ<NUMEX TYPE="MONEY">$ 6 miliarde</NUMEX>-- mai mult de<NUMEX TYPE="PERCENT">15%</NUMEX>din active -- prin<EVENT aspect="NONE" class="OCCURRENCE" eid="e168" eiid="ei2583" eventID="e168" polarity="POS" pos="NOUN" tense="NONE">v&acirc;nz&abreve;ri</EVENT>sau<EVENT aspect="NONE" class="OCCURRENCE" eid="e169" eiid="ei2584" eventID="e169" polarity="POS" pos="NOUN" tense="NONE">transferuri</EVENT>de ac&tcedil;iuni din fondurile de risc ,<EVENT aspect="NONE" class="REPORTING" eid="e11" eiid="ei2585" eventID="e11" polarity="POS" pos="VERB" tense="PRESENT">spune</EVENT><ENAMEX TYPE="ORGANIZATION">Dalbar</ENAMEX>.</s>
+    <s>A f&abreve;cut estim&abreve;rile baz&acirc;ndu -se pe datele colectate din mai mult de o duzin&abreve; de fonduri de risc mari .</s>
+    <s><EVENT aspect="NONE" class="OCCURRENCE" eid="e16" eiid="ei2586" eventID="e16" polarity="POS" pos="NOUN" tense="NONE">Interviurile</EVENT>cu<CARDINAL>trei</CARDINAL>grupuri de fonduri majore --<ENAMEX TYPE="ORGANIZATION">Fidelity Investments</ENAMEX>,<ENAMEX TYPE="ORGANIZATION">Vanguard Group Inc .</ENAMEX>&scedil;i<ENAMEX TYPE="ORGANIZATION">T. Rowe Price Associates Inc .</ENAMEX>--<EVENT aspect="NONE" class="REPORTING" eid="e17" eiid="ei2587" eventID="e17" polarity="POS" pos="VERB" tense="PRESENT">au confirmat</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e170" eiid="ei2588" eventID="e170" polarity="POS" pos="NOUN" tense="NONE">orientarea</EVENT>.</s>
+    <s>Fondurile lor de risc combinate au avut<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e19" eiid="ei2589" eventID="e19" polarity="POS" pos="NOUN" tense="PRESENT">scurgeri</EVENT>nete totaliz&acirc;nd aproape<NUMEX TYPE="MONEY">$ 500 milioane</NUMEX>, sau cam<NUMEX TYPE="PERCENT">13%</NUMEX>din activele lor din fondurile de risc ,<SIGNAL sid="s172">&icirc;n</SIGNAL><TIMEX3 endPoint="t173" functionInDocument="NONE" temporalFunction="true" tid="t176" type="DURATION" value="P2M">ultimele luni</TIMEX3>.</s>
+    <s>Unii directori de fonduri<EVENT aspect="NONE" class="REPORTING" eid="e22" eiid="ei2590" eventID="e22" polarity="POS" pos="VERB" tense="PRESENT">spun</EVENT>c&abreve; publicitatea negativ&abreve; a<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e24" eiid="ei2591" eventID="e24" polarity="POS" pos="VERB" tense="PRESENT">exacerbat</EVENT>&icirc;ngrijorarea investitorilor privind<EVENT aspect="NONE" class="OCCURRENCE" eid="e179" eiid="ei2592" eventID="e179" polarity="POS" pos="NOUN" tense="NONE">declinul</EVENT><TIMEX3 anchorTimeID="t173" functionInDocument="NONE" temporalFunction="true" tid="t185" type="DATE" value="PAST_REF">recent</TIMEX3>&icirc;n pre&tcedil;ul obliga&tcedil;iunilor de risc .</s>
+    <s>" Oamenii au v&abreve;zut titlu dup&abreve; titlu dup&abreve; titlu &scedil;i au spus : ' Nu mai support -- eu ies , ' "<EVENT aspect="NONE" class="REPORTING" eid="e37" eiid="ei2593" eventID="e37" polarity="POS" pos="VERB" tense="PRESENT">spune</EVENT><ENAMEX TYPE="PERSON">Kurt Brouwer de_la<ENAMEX TYPE="ORGANIZATION">Brouwer amp Janachowski</ENAMEX></ENAMEX>, un consilier &icirc;n investi&tcedil;ii<ENAMEX TYPE="LOCATION">din San Francisco</ENAMEX>.</s>
+    <s><EVENT aspect="NONE" class="OCCURRENCE" eid="e38" eiid="ei2594" eventID="e38" polarity="POS" pos="NOUN" tense="NONE">Retragerile</EVENT>ar putea<EVENT aspect="NONE" class="STATE" eid="e39" eiid="ei2595" eventID="e39" modality="could" polarity="POS" pos="VERB" tense="NONE">anun&tcedil;a</EVENT><EVENT aspect="NONE" class="STATE" eid="e41" eiid="ei2596" eventID="e41" polarity="POS" pos="NOUN" tense="NONE">necazuri</EVENT>pentru pia&tcedil;a de risc<NUMEX TYPE="MONEY">de $ 200 miliarde</NUMEX>.</s>
+    <s><SIGNAL sid="s2121">Dac&abreve;</SIGNAL><EVENT aspect="NONE" class="OCCURRENCE" eid="e43" eiid="ei2597" eventID="e43" polarity="POS" pos="NOUN" tense="NONE">scurgerile</EVENT>puternice<EVENT aspect="NONE" class="ASPECTUAL" eid="e44" eiid="ei2598" eventID="e44" polarity="POS" pos="VERB" tense="PRESENT">continu&abreve;</EVENT>, directorii de fonduri vor<EVENT aspect="NONE" class="I_ACTION" eid="e46" eiid="ei2599" eventID="e46" polarity="POS" pos="NOUN" tense="FUTURE">face fa&tcedil;&abreve;</EVENT><EVENT aspect="NONE" class="STATE" eid="e180" eiid="ei2600" eventID="e180" polarity="POS" pos="NOUN" tense="NONE">presiunii</EVENT>cresc&acirc;nde de a<EVENT aspect="NONE" class="OCCURRENCE" eid="e49" eiid="ei2601" eventID="e49" polarity="POS" pos="VERB" tense="INFINITIVE">vinde</EVENT>ceva din resturile lor ca s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e51" eiid="ei2602" eventID="e51" polarity="POS" pos="VERB" tense="INFINITIVE">pl&abreve;teasc&abreve;</EVENT>investitorii care pleac&abreve;<SIGNAL sid="s183">&icirc;n</SIGNAL><TIMEX3 beginPoint="t173" functionInDocument="NONE" temporalFunction="true" tid="t186" type="DURATION" value="PXW">s&abreve;pt&abreve;m&acirc;nile urm&abreve;toare</TIMEX3>.</s>
+    <s>Asemenea<EVENT aspect="NONE" class="OCCURRENCE" eid="e53" eiid="ei2603" eventID="e53" polarity="POS" pos="NOUN" tense="NONE">v&acirc;nz&abreve;ri</EVENT>ar putea<EVENT aspect="NONE" class="OCCURRENCE" eid="e54" eiid="ei2604" eventID="e54" modality="could" polarity="POS" pos="VERB" tense="NONE">eroda</EVENT>pre&tcedil;urile obliga&tcedil;iunilor de risc de mare randament ,<SIGNAL sid="s184">deja</SIGNAL><EVENT aspect="NONE" class="OCCURRENCE" eid="e57" eiid="ei2605" eventID="e57" polarity="POS" pos="VERB" tense="PASTPART">sl&abreve;bite</EVENT>de o<EVENT aspect="NONE" class="OCCURRENCE" eid="e182" eiid="ei2606" eventID="e182" polarity="POS" pos="NOUN" tense="NONE">erup&tcedil;ie</EVENT>de probleme cu creditele corporative .</s>
+    <s>Grupurile de fonduri mutuale nu au<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e58" eiid="ei2607" eventID="e58" polarity="NEG" pos="VERB" tense="PRESENT">pierdut</EVENT>controlul majorit&abreve;&tcedil;ii banilor care ies ,<EVENT aspect="NONE" class="REPORTING" eid="e61" eiid="ei2608" eventID="e61" polarity="POS" pos="VERB" tense="PRESENT">spune</EVENT><ENAMEX TYPE="PERSON">Louis Harvey , pre&scedil;edintele<ENAMEX TYPE="ORGANIZATION">Dalbar</ENAMEX></ENAMEX>.</s>
+    <s>Oficialii fondurilor mutuale<EVENT aspect="NONE" class="REPORTING" eid="e62" eiid="ei2609" eventID="e62" polarity="POS" pos="VERB" tense="PRESENT">spun</EVENT>c&abreve; investitorii au<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e63" eiid="ei2610" eventID="e63" polarity="POS" pos="VERB" tense="PRESENT">transferat</EVENT>mare parte din ei &icirc;n conturile lor de_pe pia&tcedil;a valutei , &scedil;i &icirc;ntr- o m&abreve;sur&abreve; mai mic&abreve; , fonduri de obliga&tcedil;iuni guvernamentale .</s>
+    <s>A&scedil;adar<EVENT aspect="NONE" class="OCCURRENCE" eid="e66" eiid="ei2611" eventID="e66" polarity="POS" pos="NOUN" tense="NONE">impactul</EVENT>asupra industriei<NUMEX TYPE="MONEY">de $ 950 miliarde</NUMEX>a fondurilor mutuale ca un tot va fi probabil slab .</s>
+    <s>Dar sunt probabile trepida&tcedil;ii &icirc;n pia&tcedil;a obliga&tcedil;iunilor de risc , care a<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e70" eiid="ei2612" eventID="e70" polarity="POS" pos="VERB" tense="PRESENT">ajutat</EVENT>la<EVENT aspect="NONE" class="I_ACTION" eid="e72" eiid="ei2613" eventID="e72" polarity="POS" pos="NOUN" tense="INFINITIVE">finan&tcedil;area</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e73" eiid="ei2614" eventID="e73" polarity="POS" pos="NOUN" tense="NONE">exploziei</EVENT>de prelu&abreve;ri din<TIMEX3 anchorTimeID="t173" functionInDocument="NONE" temporalFunction="true" tid="t196" type="DATE" value="PAST_REF">ultimii ani</TIMEX3>.</s>
+    <s>Fondurile mutuale sunt printre cei mai mari de&tcedil;in&abreve;tori de riscuri , const&acirc;nd &icirc;n mai mult de un sfert din &icirc;ntreaga pia&tcedil;&abreve; cu risc mare &scedil;i randament mare .</s>
+    <s>Cele<CARDINAL>88</CARDINAL>de fonduri mutuale investind numai &icirc;n obliga&tcedil;iuni de risc de&tcedil;in active de aproximativ<NUMEX TYPE="MONEY">$ 32 miliarde</NUMEX>.</s>
+    <s>&Scedil;i alte fonduri de&tcedil;in o spoial&abreve; de obliga&tcedil;iuni de risc .</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Fidelity High Income Fund</ENAMEX><NUMEX TYPE="MONEY">de $ 1 . 5_miliarde</NUMEX>a avut o<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e82" eiid="ei2615" eventID="e82" polarity="POS" pos="NOUN" tense="PRESENT">scurgere</EVENT>net&abreve; de aproximativ<NUMEX TYPE="MONEY">$ 150 milioane</NUMEX><SIGNAL sid="s197">&icirc;n</SIGNAL><TIMEX3 endPoint="t173" functionInDocument="NONE" mod="BEFORE" temporalFunction="true" tid="t198" type="DURATION" value="P2M">ultimele dou&abreve; luni</TIMEX3>.</s>
+    <s>Cam<NUMEX TYPE="MONEY">$ 60 milioane</NUMEX><EVENT aspect="NONE" class="OCCURRENCE" eid="e83" eiid="ei2616" eventID="e83" polarity="POS" pos="VERB" tense="PAST">s- au scurs</EVENT>doar<TIMEX3 anchorTimeID="t173" functionInDocument="NONE" temporalFunction="true" tid="t199" type="DATE" value="1989-WXX">s&abreve;pt&abreve;m&acirc;na trecut&abreve;</TIMEX3>,<EVENT aspect="NONE" class="STATE" eid="e188" eiid="ei2617" eventID="e188" polarity="POS" pos="NOUN" tense="PRESENT">dublul</EVENT><EVENT aspect="NONE" class="STATE" eid="e190" eiid="ei2618" eventID="e190" polarity="POS" pos="NOUN" tense="NONE">nivelului</EVENT>de<TIMEX3 anchorTimeID="t200" functionInDocument="NONE" temporalFunction="true" tid="t201" type="DATE" value="1989-WXX">s&abreve;pt&abreve;m&acirc;na</TIMEX3><SIGNAL sid="s202">urm&abreve;toare</SIGNAL><EVENT aspect="NONE" class="OCCURRENCE" eid="e189" eiid="ei2619" eventID="e189" polarity="POS" pos="NOUN" tense="NONE">limit&abreve;rii</EVENT>creditului<ENAMEX TYPE="ORGANIZATION">Campeau Corp .</ENAMEX>de<TIMEX3 anchorTimeID="t173" functionInDocument="NONE" temporalFunction="true" tid="t200" type="DATE" value="1989-09"><ENAMEX TYPE="ORGANIZATION">luna trecut&abreve;</ENAMEX></TIMEX3>.</s>
+    <s>Cam<NUMEX TYPE="PERCENT">98%</NUMEX>din scurgere a fost<EVENT aspect="NONE" class="OCCURRENCE" eid="e86" eiid="ei2620" eventID="e86" polarity="POS" pos="VERB" tense="PAST">transferat</EVENT>&icirc;n alte fonduri<ENAMEX TYPE="ORGANIZATION">Fidelity</ENAMEX>,<EVENT aspect="NONE" class="REPORTING" eid="e87" eiid="ei2621" eventID="e87" polarity="POS" pos="VERB" tense="PRESENT">spune</EVENT><ENAMEX TYPE="PERSON">Neal Litvack</ENAMEX>, un vicepre&scedil;edinte<ENAMEX TYPE="ORGANIZATION">Fidelity</ENAMEX>, marketing , cu majoritatea<EVENT aspect="NONE" class="OCCURRENCE" eid="e89" eiid="ei2622" eventID="e89" polarity="POS" pos="VERB" tense="PRESPART">merg&acirc;nd</EVENT>&icirc;n fondurile pie&tcedil;ei valutei .</s>
+    <s>" Prime&scedil;ti un articol de &scedil;tiri , love&scedil;te , faci desp&abreve;gubiri puternice &icirc;n ziua aceea &scedil;i &icirc;n zilele urm&abreve;toare -- apoi revii la_normal , "<EVENT aspect="NONE" class="REPORTING" eid="e96" eiid="ei2623" eventID="e96" polarity="POS" pos="VERB" tense="PRESENT">spune</EVENT><ENAMEX TYPE="PERSON">dl. Litvack</ENAMEX>.</s>
+    <s>Fondul , cu un tampon de numerar de mai mult de<NUMEX TYPE="PERCENT">10%</NUMEX>, a "<EVENT aspect="NONE" class="OCCURRENCE" eid="e98" eiid="ei2624" eventID="e98" polarity="POS" pos="VERB" tense="PRESENT">satisf&abreve;cut</EVENT>toate<EVENT aspect="NONE" class="OCCURRENCE" eid="e2524" eiid="ei2666" eventID="e2524" polarity="POS" pos="NOUN" tense="NONE">desp&abreve;gubirile</EVENT>f&abreve;r&abreve; a trebui s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e102" eiid="ei2625" eventID="e102" modality="having to" polarity="NEG" pos="VERB" tense="PRESPART">v&acirc;nd&abreve;</EVENT>un lucru , "<EVENT aspect="NONE" class="REPORTING" eid="e104" eiid="ei2626" eventID="e104" polarity="POS" pos="VERB" tense="PRESENT">spune</EVENT><ENAMEX TYPE="PERSON">dl. Litvack</ENAMEX>.</s>
+    <s>El<EVENT aspect="NONE" class="REPORTING" eid="e105" eiid="ei2627" eventID="e105" polarity="POS" pos="VERB" tense="PRESENT">adaug&abreve;</EVENT>: " Fondul nostru a avut<EVENT aspect="NONE" class="STATE" eid="e195" eiid="ei2628" eventID="e195" polarity="POS" pos="NOUN" tense="NONE">v&acirc;nz&abreve;ri</EVENT>nete { pozitive }<TIMEX3 functionInDocument="NONE" quant="EVERY" temporalFunction="false" tid="t2332" type="SET" value="P1M">&icirc;n fiecare lun&abreve;</TIMEX3><SIGNAL sid="s193">pentru</SIGNAL><TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t204" type="DURATION" value="P3Y">ultimii trei ani</TIMEX3>--<SIGNAL sid="s194">p&acirc;n&abreve;</SIGNAL><TIMEX3 anchorTimeID="t173" functionInDocument="NONE" temporalFunction="true" tid="t205" type="DATE" value="1989-10">luna aceasta</TIMEX3>. "</s>
+    <s><ENAMEX TYPE="ORGANIZATION">High Yield Bond Portfolio</ENAMEX><NUMEX TYPE="MONEY">de $ 1 miliard</NUMEX>al<ENAMEX TYPE="ORGANIZATION">Vanguard</ENAMEX>a<EVENT aspect="PERFECTIVE" class="PERCEPTION" eid="e109" eiid="ei2629" eventID="e109" polarity="POS" pos="VERB" tense="PRESENT">v&abreve;zut</EVENT><NUMEX TYPE="MONEY">$ 161 milioane</NUMEX><EVENT aspect="NONE" class="OCCURRENCE" eid="e110" eiid="ei2630" eventID="e110" polarity="POS" pos="VERB" tense="PAST">curg&acirc;nd</EVENT><SIGNAL sid="s207">de_la</SIGNAL><TIMEX3 anchorTimeID="t173" functionInDocument="NONE" mod="START" temporalFunction="true" tid="t206" type="DATE" value="1989-09">&icirc;nceputul lui septembrie</TIMEX3>;<NUMEX TYPE="MONEY">$ 14 milioane</NUMEX>din ace&scedil;tia<EVENT aspect="NONE" class="OCCURRENCE" eid="e208" eiid="ei2631" eventID="e208" polarity="POS" pos="VERB" tense="PAST">s- au prelins</EVENT>doar<TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t210" type="DATE" value="1989-10-13">vineri 13_oct.</TIMEX3></s>
+    <s>Totu&scedil;i , dou&abreve; treimi din<EVENT aspect="NONE" class="OCCURRENCE" eid="e2371" eiid="ei2632" eventID="e2371" polarity="POS" pos="NOUN" tense="NONE">scurgere</EVENT>au fost<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e112" eiid="ei2633" eventID="e112" polarity="POS" pos="VERB" tense="PRESENT">dirijate</EVENT>&icirc;n alte portofolii<ENAMEX TYPE="ORGANIZATION">Vanguard</ENAMEX>,<EVENT aspect="NONE" class="REPORTING" eid="e113" eiid="ei2634" eventID="e113" polarity="POS" pos="VERB" tense="PRESENT">spune</EVENT><ENAMEX TYPE="PERSON">Brian Mattes</ENAMEX>, un vicepre&scedil;edinte .</s>
+    <s>Fondul<EVENT aspect="NONE" class="STATE" eid="e116" eiid="ei2635" eventID="e116" polarity="POS" pos="VERB" tense="PRESENT">de&tcedil;ine</EVENT><TIMEX3 anchorTimeID="t173" functionInDocument="NONE" temporalFunction="true" tid="t211" type="DATE" value="PRESENT_REF">acum</TIMEX3>o pozi&tcedil;ie a numerarului de<NUMEX TYPE="PERCENT">15%</NUMEX>.</s>
+    <s>La<ENAMEX TYPE="ORGANIZATION">fondul T. Rowe Price High Yield</ENAMEX><NUMEX TYPE="MONEY">de $ 932 milioane</NUMEX>, investitorii<EVENT aspect="NONE" class="OCCURRENCE" eid="e117" eiid="ei2636" eventID="e117" polarity="POS" pos="VERB" tense="PAST">au preluat</EVENT>cam<NUMEX TYPE="MONEY">$ 182 milioane</NUMEX><SIGNAL sid="s212">&icirc;n</SIGNAL><TIMEX3 endPoint="t173" functionInDocument="NONE" temporalFunction="true" tid="t213" type="DURATION" value="P2M">ultimele dou&abreve; luni</TIMEX3>.</s>
+    <s>Acele<EVENT aspect="NONE" class="OCCURRENCE" eid="e118" eiid="ei2637" eventID="e118" polarity="POS" pos="NOUN" tense="NONE">retrageri</EVENT>, din care majoritatea au fost<EVENT aspect="NONE" class="OCCURRENCE" eid="e119" eiid="ei2638" eventID="e119" polarity="POS" pos="VERB" tense="PAST">transferate</EVENT>&icirc;n alte fonduri T. Rowe Price ,<SIGNAL sid="s209">au urmat</SIGNAL><EVENT aspect="NONE" class="OCCURRENCE" eid="e121" eiid="ei2639" eventID="e121" polarity="POS" pos="NOUN" tense="NONE">schimb&abreve;ri</EVENT>pu&tcedil;ine &icirc;n tabloul v&acirc;nz&abreve;rilor fondului<TIMEX3 anchorTimeID="t173" functionInDocument="NONE" temporalFunction="true" tid="t214" type="DATE" value="1989">anul acesta</TIMEX3><SIGNAL sid="s215">din</SIGNAL><TIMEX3 anchorTimeID="t173" functionInDocument="NONE" temporalFunction="true" tid="t216" type="DATE" value="1989-08">august</TIMEX3>.</s>
+    <s>"<TIMEX3 endPoint="t173" functionInDocument="NONE" temporalFunction="true" tid="t217" type="DURATION" value="P2M">Ultimele dou&abreve; luni</TIMEX3>au fost toat&abreve;<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e124" eiid="ei2640" eventID="e124" polarity="POS" pos="NOUN" tense="PRESENT">distrac&tcedil;ia</EVENT>, "<EVENT aspect="NONE" class="REPORTING" eid="e125" eiid="ei2641" eventID="e125" polarity="POS" pos="VERB" tense="PRESENT">spune</EVENT><ENAMEX TYPE="PERSON">Steven Norwitz</ENAMEX>, un vicepre&scedil;edinte .</s>
+    <s>Ac&tcedil;ionarii la fondurile de risc abia &scedil;i- au<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e127" eiid="ei2642" eventID="e127" polarity="POS" pos="NOUN" tense="PRESENT">p&abreve;strat echilibrul</EVENT><TIMEX3 anchorTimeID="t173" functionInDocument="NONE" temporalFunction="true" tid="t1997" type="DATE" value="1989">anul acesta</TIMEX3>,<SIGNAL sid="s2438">deoarece</SIGNAL>pl&abreve;&tcedil;ile dob&acirc;nzilor mari abia<EVENT aspect="NONE" class="OCCURRENCE" eid="e129" eiid="ei2643" eventID="e129" polarity="POS" pos="VERB" tense="PASTPART">au reu&scedil;it</EVENT>s&abreve; compnseze pre&tcedil;urile &icirc;n declin .</s>
+    <s><SIGNAL sid="s1999">Pe</SIGNAL><TIMEX3 anchorTimeID="t173" functionInDocument="NONE" temporalFunction="true" tid="t1998" type="DATE" value="1989-10-19">19_octombrie</TIMEX3>, fondurile de mare randament<EVENT aspect="NONE" class="STATE" eid="e1992" eiid="ei2644" eventID="e1992" polarity="POS" pos="VERB" tense="PAST">au avut</EVENT>un retur mediu total<NUMEX TYPE="PERCENT">de 0.85%</NUMEX>( schimbarea pre&tcedil;ului plus dividendele pentru ac&tcedil;iunile<ENAMEX TYPE="ORGANIZATION">fondului</ENAMEX>) ,<EVENT aspect="NONE" class="REPORTING" eid="e1993" eiid="ei2645" eventID="e1993" polarity="POS" pos="PREPOSITION" tense="PRESPART">potrivit</EVENT>Lipper<ENAMEX TYPE="ORGANIZATION">Analytical Services Inc .</ENAMEX>Asta e chiar mai pu&tcedil;in de returul total<NUMEX TYPE="PERCENT">de 4.35%</NUMEX>al<ENAMEX TYPE="PERSON">indexului Merrill Lynch High-Yield</ENAMEX>.</s>
+    <s>Fondul de risc al<ENAMEX TYPE="ORGANIZATION">Fidelity</ENAMEX>a<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e133" eiid="ei2646" eventID="e133" polarity="POS" pos="VERB" tense="PRESENT">sc&abreve;zut</EVENT><NUMEX TYPE="PERCENT">cu 2.08%</NUMEX><TIMEX3 anchorTimeID="t173" functionInDocument="NONE" temporalFunction="true" tid="t2000" type="DATE" value="1989">anul acesta</TIMEX3><SIGNAL sid="s2002">pe</SIGNAL><TIMEX3 anchorTimeID="t173" functionInDocument="NONE" temporalFunction="true" tid="t2001" type="DATE" value="1989-10-19">19_oct.</TIMEX3>,<EVENT aspect="NONE" class="REPORTING" eid="e134" eiid="ei2647" eventID="e134" polarity="POS" pos="VERB" tense="PRESENT">spune</EVENT><ENAMEX TYPE="ORGANIZATION">Lipper</ENAMEX>; fondul<ENAMEX TYPE="ORGANIZATION">Vanguard</ENAMEX><EVENT aspect="NONE" class="OCCURRENCE" eid="e135" eiid="ei2648" eventID="e135" polarity="POS" pos="VERB" tense="PAST">s- a ridicat</EVENT><NUMEX TYPE="PERCENT">cu 1.48%</NUMEX>; iar fondul T. Rowe Price<EVENT aspect="NONE" class="OCCURRENCE" eid="e137" eiid="ei2649" eventID="e137" polarity="POS" pos="VERB" tense="PAST">a avansat</EVENT><NUMEX TYPE="PERCENT">cu 0.66%</NUMEX>.</s>
+    <s>Oamenii care<EVENT aspect="NONE" class="STATE" eid="e138" eiid="ei2650" eventID="e138" polarity="POS" pos="VERB" tense="PRESENT">r&abreve;m&acirc;n</EVENT><TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t2003" type="DATE" value="PRESENT_REF">acum</TIMEX3>&icirc;n fonduri de risc ar putea<EVENT aspect="NONE" class="OCCURRENCE" eid="e140" eiid="ei2651" eventID="e140" modality="could" polarity="POS" pos="VERB" tense="NONE">fi</EVENT>din_nou<EVENT aspect="NONE" class="STATE" eid="e142" eiid="ei2652" eventID="e142" polarity="POS" pos="ADJECTIVE" tense="PASTPART">lovi&tcedil;i</EVENT>,<EVENT aspect="NONE" class="REPORTING" eid="e143" eiid="ei2653" eventID="e143" polarity="POS" pos="VERB" tense="PRESENT">spun</EVENT>unii anali&scedil;ti &scedil;i speciali&scedil;ti &icirc;n fonduri .</s>
+    <s>Multe fonduri<SIGNAL sid="s2005">&icirc;n</SIGNAL><TIMEX3 anchorTimeID="t173" functionInDocument="NONE" temporalFunction="true" tid="t2004" type="DATE" value="PAST_REF">ultimele s&abreve;pt&abreve;m&acirc;ni &scedil;i luni</TIMEX3>&scedil;i- au<EVENT aspect="PERFECTIVE_PROGRESSIVE" class="OCCURRENCE" eid="e144" eiid="ei2654" eventID="e144" polarity="POS" pos="VERB" tense="PRESENT">v&acirc;ndut</EVENT>emisiunile de risc de cea mai &icirc;nalt&abreve; calitate , ca<ENAMEX TYPE="ORGANIZATION">RJR Nabisco</ENAMEX>, ca s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e146" eiid="ei2655" eventID="e146" polarity="POS" pos="VERB" tense="INFINITIVE">str&acirc;ng&abreve;</EVENT><EVENT aspect="NONE" class="STATE" eid="e2523" eiid="ei2656" eventID="e2523" polarity="POS" pos="NOUN" tense="NONE">numerar</EVENT>pentru a<EVENT aspect="NONE" class="OCCURRENCE" eid="e149" eiid="ei2657" eventID="e149" polarity="POS" pos="VERB" tense="INFINITIVE">satisface</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e150" eiid="ei2659" eventID="e150" polarity="POS" pos="NOUN" tense="NONE">desp&abreve;gubirile</EVENT><EVENT aspect="NONE" class="I_STATE" eid="e1994" eiid="ei2658" eventID="e1994" polarity="POS" pos="ADJECTIVE" tense="PASTPART">a&scedil;teptate</EVENT>.</s>
+    <s>Fondurile ar putea fi<EVENT aspect="NONE" class="I_STATE" eid="e152" eiid="ei2660" eventID="e152" modality="might" polarity="POS" pos="VERB" tense="NONE">for&tcedil;ate</EVENT>s&abreve;<EVENT aspect="NONE" class="I_ACTION" eid="e155" eiid="ei2661" eventID="e155" polarity="POS" pos="VERB" tense="INFINITIVE">accepte</EVENT><EVENT aspect="NONE" class="STATE" eid="e1995" eiid="ei2662" eventID="e1995" polarity="POS" pos="NOUN" tense="NONE">pre&tcedil;uri</EVENT>mai joase<SIGNAL sid="s2554">dac&abreve;</SIGNAL>&icirc;&scedil;i<EVENT aspect="NONE" class="I_ACTION" eid="e157" eiid="ei2663" eventID="e157" polarity="POS" pos="VERB" tense="PRESENT">extind</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e1996" eiid="ei2664" eventID="e1996" polarity="POS" pos="NOUN" tense="NONE">v&acirc;nzarea</EVENT>la valorile debitorilor mai pu&tcedil;in demni de credite .</s>
+    <s>&Scedil;i<SIGNAL sid="s2571">atunci</SIGNAL>, valorile active ale fondurilor ar putea<EVENT aspect="NONE" class="OCCURRENCE" eid="e160" eiid="ei2665" eventID="e160" modality="could" polarity="POS" pos="VERB" tense="NONE">sc&abreve;dea</EVENT>mai mult dec&acirc;t au f&abreve;cut -o p&acirc;na acum .</s>
+    <s><ENAMEX TYPE="PERSON">Michael Hirsch</ENAMEX>, director de investi&tcedil;ii &scedil;ef al<ENAMEX TYPE="ORGANIZATION">B&abreve;ncii Na&tcedil;ionale a Republicii</ENAMEX>&scedil;i manager al<ENAMEX TYPE="ORGANIZATION">Grupului FundTrust</ENAMEX>din<ENAMEX TYPE="LOCATION">New_York</ENAMEX>, spune : " Este o bomb&abreve; cu ceas a&scedil;tept&acirc;nd numai s&abreve; explodeze . "</s>
+  </TEXT>
+  <TLINK eventID="e143" lid="l119" relType="IS_INCLUDED" relatedToTime="t173"/>
+  <TLINK eventID="e125" lid="l118" relType="IS_INCLUDED" relatedToTime="t173"/>
+  <TLINK eventID="e113" lid="l117" relType="IS_INCLUDED" relatedToTime="t173"/>
+  <TLINK eventID="e102" lid="l116" relType="BEFORE" relatedToTime="t173"/>
+  <TLINK eventID="e62" lid="l115" relType="IS_INCLUDED" relatedToTime="t173"/>
+  <TLINK eventID="e61" lid="l114" relType="IS_INCLUDED" relatedToTime="t173"/>
+  <TLINK eventID="e11" lid="l113" relType="IS_INCLUDED" relatedToTime="t173"/>
+  <TLINK eventID="e167" lid="l112" relType="IS_INCLUDED" relatedToTime="t173"/>
+  <TLINK eventID="e152" lid="l1" relType="BEFORE" relatedToEvent="e160" signalID="s2571"/>
+  <TLINK eventID="e2" lid="l2" relType="INCLUDES" relatedToTime="t173"/>
+  <TLINK eventID="e2" lid="l3" relType="SIMULTANEOUS" relatedToEvent="e3"/>
+  <TLINK lid="l4" relType="INCLUDES" relatedToEvent="e7" timeID="t174"/>
+  <TLINK eventID="e7" lid="l5" relType="BEFORE" relatedToTime="t173"/>
+  <TLINK eventID="e9" lid="l6" relType="IS_INCLUDED" relatedToTime="t175" signalID="s171"/>
+  <TLINK eventID="e168" lid="l7" relType="BEFORE" relatedToEvent="e9"/>
+  <TLINK eventID="e169" lid="l8" relType="BEFORE" relatedToEvent="e9"/>
+  <TLINK eventID="e9" lid="l9" relType="BEFORE" relatedToTime="t173"/>
+  <TLINK eventID="e16" lid="l10" relType="BEFORE" relatedToTime="t173"/>
+  <TLINK eventID="e16" lid="l11" relType="BEGINS" relatedToEvent="e17"/>
+  <TLINK eventID="e19" lid="l12" relType="IS_INCLUDED" relatedToTime="t176" signalID="s172"/>
+  <TLINK eventID="e19" lid="l13" relType="BEFORE" relatedToTime="t173"/>
+  <TLINK eventID="e179" lid="l14" relType="IS_INCLUDED" relatedToTime="t185"/>
+  <TLINK eventID="e179" lid="l15" relType="BEFORE" relatedToEvent="e24"/>
+  <TLINK eventID="e22" lid="l16" relType="INCLUDES" relatedToEvent="e37"/>
+  <TLINK eventID="e38" lid="l17" relType="IDENTITY" relatedToEvent="e2"/>
+  <TLINK eventID="e38" lid="l18" relType="BEFORE" relatedToEvent="e39"/>
+  <TLINK eventID="e39" lid="l19" relType="IDENTITY" relatedToEvent="e41"/>
+  <TLINK eventID="e43" lid="l20" relType="IS_INCLUDED" relatedToEvent="e38"/>
+  <TLINK eventID="e19" lid="l21" relType="IS_INCLUDED" relatedToEvent="e38"/>
+  <TLINK eventID="e44" lid="l22" relType="BEFORE" relatedToEvent="e46"/>
+  <TLINK eventID="e51" lid="l23" relType="IS_INCLUDED" relatedToTime="t186" signalID="s183"/>
+  <TLINK eventID="e39" lid="l24" relType="AFTER" relatedToTime="t173"/>
+  <TLINK eventID="e53" lid="l25" relType="IDENTITY" relatedToEvent="e49"/>
+  <TLINK eventID="e53" lid="l26" relType="BEFORE" relatedToEvent="e54"/>
+  <TLINK eventID="e57" lid="l27" relType="BEFORE" relatedToTime="t173" signalID="s184"/>
+  <TLINK eventID="e57" lid="l28" relType="AFTER" relatedToEvent="e182"/>
+  <TLINK eventID="e58" lid="l29" relType="BEFORE" relatedToTime="t173"/>
+  <TLINK eventID="e66" lid="l30" relType="AFTER" relatedToTime="t173"/>
+  <TLINK eventID="e70" lid="l31" relType="BEFORE" relatedToTime="t173"/>
+  <TLINK eventID="e72" lid="l32" relType="BEFORE" relatedToEvent="e73"/>
+  <TLINK eventID="e73" lid="l33" relType="IS_INCLUDED" relatedToTime="t196"/>
+  <TLINK eventID="e82" lid="l34" relType="IS_INCLUDED" relatedToTime="t198" signalID="s197"/>
+  <TLINK eventID="e82" lid="l35" relType="BEFORE" relatedToTime="t173"/>
+  <TLINK eventID="e83" lid="l36" relType="IS_INCLUDED" relatedToTime="t199"/>
+  <TLINK eventID="e188" lid="l37" relType="INCLUDES" relatedToTime="t173"/>
+  <TLINK eventID="e188" lid="l38" relType="AFTER" relatedToEvent="e190"/>
+  <TLINK eventID="e189" lid="l39" relType="IS_INCLUDED" relatedToTime="t200"/>
+  <TLINK eventID="e190" lid="l40" relType="AFTER" relatedToEvent="e189" signalID="s202"/>
+  <TLINK eventID="e82" lid="l41" relType="INCLUDES" relatedToEvent="e86"/>
+  <TLINK eventID="e96" lid="l42" relType="SIMULTANEOUS" relatedToEvent="e87"/>
+  <TLINK eventID="e104" lid="l43" relType="SIMULTANEOUS" relatedToEvent="e96"/>
+  <TLINK eventID="e105" lid="l44" relType="SIMULTANEOUS" relatedToEvent="e104"/>
+  <TLINK eventID="e195" lid="l45" relType="ENDED_BY" relatedToTime="t205" signalID="s194"/>
+  <TLINK eventID="e195" lid="l46" relType="IS_INCLUDED" relatedToTime="t2332"/>
+  <TLINK lid="l47" relType="IS_INCLUDED" relatedToTime="t204" signalID="s193" timeID="t2332"/>
+  <TLINK eventID="e109" lid="l48" relType="BEGINS" relatedToTime="t206" signalID="s207"/>
+  <TLINK eventID="e110" lid="l49" relType="INCLUDES" relatedToEvent="e208"/>
+  <TLINK eventID="e208" lid="l50" relType="IS_INCLUDED" relatedToTime="t210"/>
+  <TLINK eventID="e112" lid="l51" relType="IS_INCLUDED" relatedToEvent="e110"/>
+  <TLINK eventID="e2371" lid="l52" relType="IDENTITY" relatedToEvent="e110"/>
+  <TLINK eventID="e116" lid="l53" relType="AFTER" relatedToEvent="e2371"/>
+  <TLINK eventID="e116" lid="l54" relType="SIMULTANEOUS" relatedToTime="t211"/>
+  <TLINK eventID="e116" lid="l55" relType="INCLUDES" relatedToTime="t173"/>
+  <TLINK eventID="e117" lid="l56" relType="IS_INCLUDED" relatedToTime="t213" signalID="s212"/>
+  <TLINK eventID="e118" lid="l57" relType="IDENTITY" relatedToEvent="e117"/>
+  <TLINK eventID="e119" lid="l58" relType="IS_INCLUDED" relatedToEvent="e118"/>
+  <TLINK eventID="e118" lid="l59" relType="AFTER" relatedToEvent="e121" signalID="s209"/>
+  <TLINK eventID="e121" lid="l60" relType="IS_INCLUDED" relatedToTime="t214"/>
+  <TLINK eventID="e121" lid="l61" relType="ENDS" relatedToTime="t216" signalID="s215"/>
+  <TLINK eventID="e124" lid="l62" relType="DURING" relatedToTime="t217"/>
+  <TLINK eventID="e127" lid="l63" relType="IS_INCLUDED" relatedToTime="t1997"/>
+  <TLINK eventID="e127" lid="l64" relType="SIMULTANEOUS" relatedToEvent="e129" signalID="s2438"/>
+  <TLINK eventID="e1992" lid="l65" relType="ENDS" relatedToTime="t1998" signalID="s1999"/>
+  <TLINK eventID="e134" lid="l66" relType="SIMULTANEOUS" relatedToEvent="e1993"/>
+  <TLINK eventID="e133" lid="l67" relType="IS_INCLUDED" relatedToTime="t2000"/>
+  <TLINK eventID="e133" lid="l68" relType="ENDS" relatedToTime="t2001" signalID="s2002"/>
+  <TLINK eventID="e135" lid="l69" relType="SIMULTANEOUS" relatedToEvent="e137"/>
+  <TLINK eventID="e135" lid="l70" relType="BEFORE" relatedToTime="t173"/>
+  <TLINK eventID="e138" lid="l71" relType="SIMULTANEOUS" relatedToTime="t2003"/>
+  <TLINK eventID="e138" lid="l72" relType="BEFORE" relatedToEvent="e140"/>
+  <TLINK eventID="e140" lid="l73" relType="BEGINS" relatedToEvent="e142"/>
+  <TLINK eventID="e144" lid="l74" relType="IS_INCLUDED" relatedToTime="t2004" signalID="s2005"/>
+  <TLINK eventID="e146" lid="l75" relType="BEFORE" relatedToEvent="e2523"/>
+  <TLINK eventID="e1994" lid="l76" relType="BEFORE" relatedToEvent="e150"/>
+  <TLINK eventID="e189" lid="l77" relType="BEGINS" relatedToTime="t201" signalID="s202"/>
+  <TLINK eventID="e190" lid="l78" relType="ENDS" relatedToTime="t201" signalID="s202"/>
+  <SLINK eventID="e157" lid="l111" relType="CONDITIONAL" signalID="s2554" subordinatedEvent="e152"/>
+  <SLINK eventID="e1994" lid="l110" relType="MODAL" subordinatedEvent="e150"/>
+  <SLINK eventID="e72" lid="l109" relType="FACTIVE" subordinatedEvent="e73"/>
+  <SLINK eventID="e44" lid="l79" relType="CONDITIONAL" signalID="s2121" subordinatedEvent="e46"/>
+  <SLINK eventID="e167" lid="l80" relType="EVIDENTIAL" subordinatedEvent="e7"/>
+  <SLINK eventID="e11" lid="l81" relType="EVIDENTIAL" subordinatedEvent="e9"/>
+  <SLINK eventID="e17" lid="l82" relType="EVIDENTIAL" subordinatedEvent="e170"/>
+  <SLINK eventID="e22" lid="l83" relType="EVIDENTIAL" subordinatedEvent="e24"/>
+  <SLINK eventID="e46" lid="l84" relType="FACTIVE" subordinatedEvent="e180"/>
+  <SLINK eventID="e180" lid="l85" relType="MODAL" subordinatedEvent="e49"/>
+  <SLINK eventID="e49" lid="l86" relType="MODAL" subordinatedEvent="e51"/>
+  <SLINK eventID="e61" lid="l87" relType="EVIDENTIAL" subordinatedEvent="e58"/>
+  <SLINK eventID="e62" lid="l88" relType="EVIDENTIAL" subordinatedEvent="e63"/>
+  <SLINK eventID="e70" lid="l89" relType="FACTIVE" subordinatedEvent="e72"/>
+  <SLINK eventID="e87" lid="l90" relType="EVIDENTIAL" subordinatedEvent="e86"/>
+  <SLINK eventID="e87" lid="l91" relType="EVIDENTIAL" subordinatedEvent="e89"/>
+  <SLINK eventID="e104" lid="l92" relType="EVIDENTIAL" subordinatedEvent="e98"/>
+  <SLINK eventID="e105" lid="l93" relType="EVIDENTIAL" subordinatedEvent="e195"/>
+  <SLINK eventID="e109" lid="l94" relType="EVIDENTIAL" subordinatedEvent="e110"/>
+  <SLINK eventID="e113" lid="l95" relType="EVIDENTIAL" subordinatedEvent="e112"/>
+  <SLINK eventID="e125" lid="l96" relType="EVIDENTIAL" subordinatedEvent="e124"/>
+  <SLINK eventID="e1993" lid="l97" relType="EVIDENTIAL" subordinatedEvent="e1992"/>
+  <SLINK eventID="e134" lid="l98" relType="EVIDENTIAL" subordinatedEvent="e133"/>
+  <SLINK eventID="e143" lid="l99" relType="EVIDENTIAL" subordinatedEvent="e140"/>
+  <SLINK eventID="e144" lid="l100" relType="MODAL" subordinatedEvent="e146"/>
+  <SLINK eventID="e146" lid="l101" relType="MODAL" subordinatedEvent="e149"/>
+  <SLINK eventID="e149" lid="l102" relType="FACTIVE" subordinatedEvent="e150"/>
+  <SLINK eventID="e152" lid="l103" relType="MODAL" subordinatedEvent="e155"/>
+  <SLINK eventID="e155" lid="l104" relType="FACTIVE" subordinatedEvent="e1995"/>
+  <SLINK eventID="e155" lid="l105" relType="MODAL" signalID="s2554" subordinatedEvent="e157"/>
+  <SLINK eventID="e157" lid="l106" relType="FACTIVE" subordinatedEvent="e1996"/>
+  <SLINK eventID="e98" lid="l107" relType="MODAL" subordinatedEvent="e2524"/>
+  <ALINK eventID="e44" lid="l108" relType="CONTINUES" relatedToEvent="e43"/>
+</TimeML>

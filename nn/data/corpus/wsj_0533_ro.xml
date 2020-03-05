@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> WSJ891030-0168 </DOCNO>
+  <DD> = 891030 </DD>
+  <AN> 891030-0168. </AN>
+  <HL> Two Rival Bidders
+@  Extend Offers
+@  To Buy Connaught
+@  ----
+@  By Suzanne McGee
+@  Staff Reporter of The Wall Street Journal </HL>
+  <DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t101" type="DATE" value="1989-10-30">10/30/89</TIMEX3> </DD>
+  <SO> WALL STREET JOURNAL (J) </SO>
+  <CO> CSESF F.INM Z.CIG CHIR EUROP RHPOY CANDA </CO>
+  <IN> TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+MEDICAL AND BIOTECHNOLOGY (MTC) </IN>
+  <DATELINE> TORONTO  </DATELINE>
+  <TEXT>
+    <s><CARDINAL>Doi</CARDINAL>ofertan&tcedil;i rivali pentru<ENAMEX TYPE="ORGANIZATION">Connaught BioSciences</ENAMEX>&scedil;i-<EVENT aspect="NONE" cardinality="2" class="OCCURRENCE" eid="e1" eiid="ei478" eventID="e1" polarity="POS" pos="VERB" tense="PAST">au extins</EVENT><EVENT aspect="NONE" cardinality="2" class="I_ACTION" eid="e2" eiid="ei479" eventID="e2" polarity="POS" pos="NOUN" tense="NONE">ofertele</EVENT><TIMEX3 anchorTimeID="t101" functionInDocument="NONE" temporalFunction="true" tid="t102" type="DATE" value="1989-10-27">vineri</TIMEX3>pentru a<EVENT aspect="NONE" class="OCCURRENCE" eid="e4" eiid="ei480" eventID="e4" polarity="POS" pos="VERB" tense="INFINITIVE">achizi&tcedil;iona</EVENT>produc&abreve;torul de vaccinuri<ENAMEX TYPE="ORGANIZATION">cu sediul la Toronto</ENAMEX>.</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Institut Merieux S.A.</ENAMEX>, care<EVENT aspect="NONE" class="OCCURRENCE" eid="e5" eiid="ei481" eventID="e5" polarity="POS" pos="VERB" tense="PAST">a oferit</EVENT><NUMEX TYPE="MONEY">942_milioane_dolari canadieni</NUMEX>(<ENAMEX TYPE="LOCATION">US&dollar;801</ENAMEX><NUMEX TYPE="MONEY">. 2_milioane</NUMEX>) , sau<CARDINAL>C&dollar;37</CARDINAL>pe ac&tcedil;iune pentru<ENAMEX TYPE="ORGANIZATION">Connaught</ENAMEX>,<EVENT aspect="NONE" class="REPORTING" eid="e6" eiid="ei482" eventID="e6" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>c&abreve; &scedil;i- ar<EVENT aspect="NONE" class="OCCURRENCE" eid="e7" eiid="ei483" eventID="e7" modality="would" polarity="POS" pos="VERB" tense="NONE">extinde</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e9" eiid="ei484" eventID="e9" polarity="POS" pos="NOUN" tense="NONE">oferta</EVENT>,<EVENT aspect="NONE" class="I_STATE" eid="e108" eiid="ei485" eventID="e108" polarity="POS" pos="NOUN" tense="NONE">cu termen</EVENT>de<EVENT aspect="NONE" class="OCCURRENCE" eid="e109" eiid="ei486" eventID="e109" polarity="POS" pos="NOUN" tense="INFINITIVE">expirare</EVENT><TIMEX3 anchorTimeID="t101" functionInDocument="NONE" temporalFunction="true" tid="t103" type="DATE" value="1989-10-26">joia trecut&abreve;</TIMEX3>,<TIMEX3 anchorTimeID="t101" functionInDocument="NONE" temporalFunction="true" tid="t104" type="DATE" value="1989-11-06">6_noiembrie</TIMEX3>.</s>
+    <s>O<EVENT aspect="NONE" class="OCCURRENCE" eid="e12" eiid="ei487" eventID="e12" polarity="POS" pos="NOUN" tense="NONE">ofert&abreve;</EVENT>de C&dollar;30 de ac&tcedil;iune de_la<ENAMEX TYPE="ORGANIZATION">Ciba-Geigy Ltd .</ENAMEX>, o companie farmaceutic&abreve; cu sediul la<ENAMEX TYPE="LOCATION">Basel</ENAMEX>,<ENAMEX TYPE="LOCATION">Elve&tcedil;ia</ENAMEX>, &scedil;i Chiron<ENAMEX TYPE="ORGANIZATION">Corp .</ENAMEX>, un concern de bio-cercetare<ENAMEX TYPE="LOCATION">cu sediul &icirc;n California</ENAMEX>, a fost<EVENT aspect="NONE" class="OCCURRENCE" eid="e14" eiid="ei488" eventID="e14" polarity="POS" pos="VERB" tense="PAST">extins&abreve;</EVENT>p&acirc;n&abreve;_&icirc;n<TIMEX3 anchorTimeID="t101" functionInDocument="NONE" temporalFunction="true" tid="t107" type="DATE" value="1989-11-16">16_nov.</TIMEX3></s>
+    <s>Ar fi<EVENT aspect="PERFECTIVE" class="I_STATE" eid="e110" eiid="ei489" eventID="e110" polarity="POS" pos="VERB" tense="PAST">trebuit</EVENT>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e111" eiid="ei490" eventID="e111" polarity="POS" pos="VERB" tense="INFINITIVE">expire</EVENT><TIMEX3 anchorTimeID="t101" functionInDocument="NONE" temporalFunction="true" tid="t112" type="TIME" value="1989-10-27TEV">vineri seara</TIMEX3>.</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Merieux</ENAMEX>a <EVENT aspect="NONE" class="REPORTING" eid="e17" eiid="ei491" eventID="e17" polarity="POS" pos="VERB" tense="PAST">spus</EVENT><SIGNAL sid="s280">&icirc;nainte</SIGNAL>c&abreve; ar fi<EVENT aspect="NONE" class="I_ACTION" eid="e18" eiid="ei492" eventID="e18" modality="would" polarity="POS" pos="VERB" tense="NONE">asigurat</EVENT>ca oferta sa s&abreve; <EVENT aspect="NONE" class="ASPECTUAL" eid="e21" eiid="ei493" eventID="e21" polarity="POS" pos="VERB" tense="PAST">r&abreve;m&acirc;n&abreve;</EVENT><EVENT aspect="NONE" class="STATE" eid="e116" eiid="ei494" eventID="e116" polarity="POS" pos="ADJECTIVE" tense="NONE">valabil&abreve;</EVENT><SIGNAL sid="s299">&icirc;n a&scedil;teptarea</SIGNAL>unei<EVENT aspect="NONE" class="I_ACTION" eid="e118" eiid="ei495" eventID="e118" polarity="POS" pos="ADJECTIVE" tense="NONE">decizii</EVENT>finale a regulatorilor canadieni dac&abreve; s&abreve;<EVENT aspect="NONE" class="I_ACTION" eid="e119" eiid="ei496" eventID="e119" polarity="POS" pos="VERB" tense="INFINITIVE">aprobe</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e26" eiid="ei497" eventID="e26" polarity="POS" pos="NOUN" tense="NONE">preluarea</EVENT>.</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Merieux</ENAMEX>, o companie de vaccinuri &scedil;i bio-cercetare cu sediul la  <ENAMEX TYPE="LOCATION">Lyon</ENAMEX>, <ENAMEX TYPE="LOCATION">Fran&tcedil;a</ENAMEX>, este controlat&abreve; <NUMEX TYPE="PERCENT">50.1%</NUMEX> de compania de stat <ENAMEX TYPE="ORGANIZATION">Rhone Poulenc S.A.</ENAMEX> 
+
+   Guvernul canadian a <EVENT aspect="NONE" class="REPORTING" eid="e30" eiid="ei498" eventID="e30" polarity="POS" pos="VERB" tense="PAST">declarat</EVENT> <SIGNAL sid="s314">anterior</SIGNAL> c&abreve; suma licitat&abreve; de Merieux nu a <EVENT aspect="NONE" class="I_STATE" eid="e32" eiid="ei499" eventID="e32" polarity="NEG" pos="VERB" tense="PAST">oferit</EVENT> suficient <EVENT aspect="NONE" class="STATE" eid="e121" eiid="ei500" eventID="e121" polarity="POS" pos="NOUN" tense="NONE">beneficiu</EVENT> net pentru <ENAMEX TYPE="LOCATION">Canada</ENAMEX> ca s&abreve; fie aprobat&abreve; &scedil;i a <EVENT aspect="NONE" class="OCCURRENCE" eid="e36" eiid="ei501" eventID="e36" polarity="POS" pos="VERB" tense="PAST">dat</EVENT> c&abreve;tre <ENAMEX TYPE="ORGANIZATION">Merieux</ENAMEX> un termen <SIGNAL sid="s123">p&acirc;n&abreve;_la</SIGNAL> <TIMEX3 anchorTimeID="t101" functionInDocument="NONE" mod="MID" temporalFunction="true" tid="t122" type="DATE" value="1989-11">mijlocul lui noiembrie</TIMEX3> pentru a <EVENT aspect="NONE" class="OCCURRENCE" eid="e38" eiid="ei502" eventID="e38" polarity="POS" pos="VERB" tense="INFINITIVE">depune</EVENT> informa&tcedil;ii suplimentare.</s>
+    <s>Oficiali Merieux<EVENT aspect="NONE" class="REPORTING" eid="e40" eiid="ei503" eventID="e40" polarity="POS" pos="VERB" tense="PAST">au spus</EVENT><TIMEX3 anchorTimeID="t101" functionInDocument="NONE" temporalFunction="true" tid="t124" type="DATE" value="1989-WXX">s&abreve;pt&abreve;m&acirc;na trecut&abreve;</TIMEX3>c&abreve; ei sunt " puternic<EVENT aspect="NONE" class="I_STATE" eid="e125" eiid="ei504" eventID="e125" polarity="POS" pos="ADJECTIVE" tense="PRESENT">&icirc;ncrez&abreve;tori</EVENT>" c&abreve; oferta va fi<EVENT aspect="NONE" class="OCCURRENCE" eid="e42" eiid="ei505" eventID="e42" polarity="POS" pos="VERB" tense="FUTURE">aprobat&abreve;</EVENT><SIGNAL sid="s126">&icirc;ndat&abreve;_ce</SIGNAL><EVENT aspect="NONE" class="OCCURRENCE" eid="e43" eiid="ei506" eventID="e43" polarity="POS" pos="VERB" tense="PRESENT">va submite</EVENT>detalii despre investi&tcedil;iile propuse ale sale la regulatorii federali .</s>
+    <s>Ambele<EVENT aspect="NONE" cardinality="2" class="OCCURRENCE" eid="e46" eiid="ei507" eventID="e46" polarity="POS" pos="NOUN" tense="NONE">oferte</EVENT>sunt condi&tcedil;ionate de aprob&abreve;ri regulatorii &scedil;i ac&tcedil;iuni suficiente fiind oferite pentru a da ofertan&tcedil;ilor o majoritate a ac&tcedil;iunilor nerezolvate ale<ENAMEX TYPE="ORGANIZATION">Connaught</ENAMEX>.</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Institut Merieux</ENAMEX>, care de&tcedil;ine deja un depozit<NUMEX TYPE="PERCENT">de 12 . 5%</NUMEX>&icirc;n<ENAMEX TYPE="ORGANIZATION">Connaught</ENAMEX>,<EVENT aspect="NONE" class="REPORTING" eid="e54" eiid="ei508" eventID="e54" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>c&abreve; la<EVENT aspect="NONE" class="ASPECTUAL" eid="e55" eiid="ei509" eventID="e55" polarity="POS" pos="NOUN" tense="NONE">&icirc;nchiderea</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e57" eiid="ei510" eventID="e57" polarity="POS" pos="NOUN" tense="NONE">tranzac&tcedil;iilor</EVENT><TIMEX3 anchorTimeID="t101" functionInDocument="NONE" temporalFunction="true" tid="t127" type="DATE" value="1989-10-26">joi</TIMEX3>,<CARDINAL>5.745.188</CARDINAL>de ac&tcedil;iuni<ENAMEX TYPE="ORGANIZATION">ale Connaught</ENAMEX>&scedil;i C&dollar;44 . 3_milioane capital cu dob&acirc;nda la vedere &icirc;n obliga&tcedil;iuni , convertibile la 1.826.596 ac&tcedil;iuni comune , au fost <EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e60" eiid="ei511" eventID="e60" polarity="POS" pos="VERB" tense="PAST">depuse</EVENT> pentru <EVENT aspect="NONE" class="OCCURRENCE" eid="e61" eiid="ei512" eventID="e61" polarity="POS" pos="NOUN" tense="NONE">oferta</EVENT> sa .</s>
+    <s>La<EVENT aspect="NONE" class="ASPECTUAL" eid="e62" eiid="ei513" eventID="e62" polarity="POS" pos="NOUN" tense="NONE">&icirc;nchiderea</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e63" eiid="ei514" eventID="e63" polarity="POS" pos="NOUN" tense="NONE">tranzac&tcedil;iilor</EVENT><TIMEX3 anchorTimeID="t101" functionInDocument="NONE" temporalFunction="true" tid="t128" type="DATE" value="1989-10-26">joi</TIMEX3>,<ENAMEX TYPE="ORGANIZATION">Ciba-Geigy</ENAMEX>&scedil;i<ENAMEX TYPE="ORGANIZATION">Chiron</ENAMEX><EVENT aspect="NONE" class="REPORTING" eid="e64" eiid="ei515" eventID="e64" polarity="POS" pos="VERB" tense="PAST">au spus</EVENT>c&abreve;<CARDINAL>11 . 580</CARDINAL>ac&tcedil;iuni comune au fost<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e65" eiid="ei516" eventID="e65" polarity="POS" pos="VERB" tense="PAST">depuse</EVENT>pentru<EVENT aspect="NONE" class="OCCURRENCE" eid="e66" eiid="ei517" eventID="e66" polarity="POS" pos="NOUN" tense="NONE">oferta</EVENT>lor .</s>
+    <s>La ultimul<EVENT aspect="NONE" class="REPORTING" eid="e67" eiid="ei518" eventID="e67" polarity="POS" pos="NOUN" tense="NONE">raport</EVENT>,<ENAMEX TYPE="ORGANIZATION">Connaught</ENAMEX><EVENT aspect="NONE" class="STATE" eid="e129" eiid="ei519" eventID="e129" polarity="POS" pos="VERB" tense="PAST">avea</EVENT><CARDINAL>21.8_milioane</CARDINAL>ac&tcedil;iuni de rezolvat .</s>
+    <s>Separat<ENAMEX TYPE="ORGANIZATION">Curtea Suprem&abreve; de justi&tcedil;ie din Ontario</ENAMEX><EVENT aspect="NONE" class="REPORTING" eid="e68" eiid="ei521" eventID="e68" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>c&abreve; va<EVENT aspect="NONE" class="I_ACTION" eid="e69" eiid="ei522" eventID="e69" polarity="POS" pos="VERB" tense="FUTURE">am&acirc;na</EVENT>nedefinit o<EVENT aspect="NONE" class="STATE" eid="e70" eiid="ei523" eventID="e70" polarity="POS" pos="NOUN" tense="NONE">decizie</EVENT>&icirc;n procesul<EVENT aspect="NONE" class="OCCURRENCE" eid="e73" eiid="ei524" eventID="e73" polarity="POS" pos="VERB" tense="PASTPART">deschis</EVENT>de<ENAMEX TYPE="ORGANIZATION">Universitatea din Toronto</ENAMEX>&icirc;mpotriva<ENAMEX TYPE="ORGANIZATION">Connaught</ENAMEX>&icirc;n leg&abreve;tur&abreve; cu oferta<ENAMEX TYPE="ORGANIZATION">Merieux</ENAMEX>.</s>
+    <s>&Icirc;ntr- o declara&tcedil;ie preg&abreve;tit&abreve; de avoca&tcedil;i pentru universitate &scedil;i<ENAMEX TYPE="ORGANIZATION">Connaught</ENAMEX>, p&abreve;r&tcedil;ile<EVENT aspect="NONE" class="REPORTING" eid="e78" eiid="ei525" eventID="e78" polarity="POS" pos="VERB" tense="PAST">au spus</EVENT>c&abreve;<EVENT aspect="NONE" class="I_ACTION" eid="e79" eiid="ei526" eventID="e79" polarity="POS" pos="NOUN" tense="PAST">au c&abreve;zut de acord</EVENT>c&abreve; &icirc;n chip de rezultat al<EVENT aspect="NONE" class="I_STATE" eid="e81" eiid="ei527" eventID="e81" polarity="POS" pos="NOUN" tense="PRESPART">ob&tcedil;inerii</EVENT>unui<EVENT aspect="NONE" class="STATE" eid="e131" eiid="ei528" eventID="e131" polarity="POS" pos="NOUN" tense="NONE">acord</EVENT>de cercetare de C&dollar;415 milioane , " Nu este necesar s&abreve; fie o judecat&abreve; asupra meritelor { cazului } de aceast&abreve; dat&abreve; . "</s>
+    <s>Avoca&tcedil;ii celor<CARDINAL>dou&abreve;</CARDINAL>p&abreve;r&tcedil;i nu au fost imediat disponibili pentru comentarii .</s>
+    <s>Universitatea<EVENT aspect="PERFECTIVE" class="I_ACTION" eid="e88" eiid="ei529" eventID="e88" polarity="POS" pos="VERB" tense="PAST">ceruse</EVENT>o hot&abreve;r&acirc;re judec&abreve;toreasc&abreve;<EVENT aspect="NONE" class="I_ACTION" eid="e90" eiid="ei530" eventID="e90" polarity="POS" pos="NOUN" tense="PRESPART">pentru blocarea</EVENT>consiliului<ENAMEX TYPE="ORGANIZATION">Connaught</ENAMEX>de_la<EVENT aspect="NONE" class="I_ACTION" eid="e92" eiid="ei531" eventID="e92" polarity="POS" pos="NOUN" tense="PRESPART">recomandarea</EVENT>sau<EVENT aspect="NONE" class="I_ACTION" eid="e93" eiid="ei532" eventID="e93" polarity="POS" pos="NOUN" tense="PRESPART">sprijinirea</EVENT>unei<EVENT aspect="NONE" class="OCCURRENCE" eid="e94" eiid="ei533" eventID="e94" polarity="POS" pos="NOUN" tense="NONE">oferte</EVENT>pentru companie din partea<ENAMEX TYPE="ORGANIZATION">Merieux</ENAMEX>.</s>
+  </TEXT>
+  <TLINK eventID="e88" lid="l76" relType="BEFORE" relatedToTime="t101"/>
+  <TLINK eventID="e78" lid="l75" relType="BEFORE" relatedToTime="t101"/>
+  <TLINK eventID="e131" lid="l74" relType="IS_INCLUDED" relatedToEvent="e81"/>
+  <TLINK eventID="e68" lid="l73" relType="BEFORE" relatedToTime="t101"/>
+  <TLINK eventID="e67" lid="l72" relType="BEFORE" relatedToTime="t101"/>
+  <TLINK eventID="e54" lid="l71" relType="BEFORE" relatedToTime="t101"/>
+  <TLINK eventID="e1" lid="l1" relType="BEFORE" relatedToTime="t101"/>
+  <TLINK eventID="e1" lid="l2" relType="IS_INCLUDED" relatedToTime="t102"/>
+  <TLINK eventID="e5" lid="l3" relType="IS_INCLUDED" relatedToEvent="e2"/>
+  <TLINK eventID="e6" lid="l4" relType="BEFORE" relatedToTime="t101"/>
+  <TLINK eventID="e5" lid="l5" relType="BEFORE" relatedToEvent="e6"/>
+  <TLINK eventID="e7" lid="l6" relType="IS_INCLUDED" relatedToEvent="e1"/>
+  <TLINK eventID="e9" lid="l7" relType="IDENTITY" relatedToEvent="e5"/>
+  <TLINK eventID="e9" lid="l8" relType="INCLUDES" relatedToEvent="e108"/>
+  <TLINK eventID="e109" lid="l9" relType="IS_INCLUDED" relatedToTime="t103"/>
+  <TLINK eventID="e9" lid="l10" relType="ENDED_BY" relatedToEvent="e109"/>
+  <TLINK eventID="e109" lid="l11" relType="IS_INCLUDED" relatedToTime="t104"/>
+  <TLINK eventID="e12" lid="l12" relType="IS_INCLUDED" relatedToEvent="e2"/>
+  <TLINK eventID="e14" lid="l13" relType="IS_INCLUDED" relatedToEvent="e1"/>
+  <TLINK eventID="e12" lid="l14" relType="INCLUDES" relatedToEvent="e110"/>
+  <TLINK eventID="e111" lid="l15" relType="IS_INCLUDED" relatedToTime="t112"/>
+  <TLINK eventID="e111" lid="l16" relType="IS_INCLUDED" relatedToTime="t107"/>
+  <TLINK eventID="e108" lid="l17" relType="ENDED_BY" relatedToTime="t102"/>
+  <TLINK eventID="e110" lid="l19" relType="ENDED_BY" relatedToTime="t102"/>
+  <TLINK eventID="e17" lid="l21" relType="BEFORE" relatedToEvent="e6" signalID="s280"/>
+  <TLINK eventID="e116" lid="l22" relType="BEFORE" relatedToEvent="e118" signalID="s299"/>
+  <TLINK eventID="e30" lid="l23" relType="BEFORE" relatedToEvent="e17" signalID="s314"/>
+  <TLINK eventID="e30" lid="l24" relType="SIMULTANEOUS" relatedToEvent="e36"/>
+  <TLINK eventID="e38" lid="l25" relType="BEFORE" relatedToTime="t122" signalID="s123"/>
+  <TLINK eventID="e40" lid="l26" relType="IS_INCLUDED" relatedToTime="t124"/>
+  <TLINK eventID="e42" lid="l27" relType="AFTER" relatedToEvent="e43" signalID="s126"/>
+  <TLINK eventID="e46" lid="l28" relType="IDENTITY" relatedToEvent="e2"/>
+  <TLINK eventID="e60" lid="l29" relType="SIMULTANEOUS" relatedToEvent="e55"/>
+  <TLINK eventID="e63" lid="l30" relType="IS_INCLUDED" relatedToTime="t128"/>
+  <TLINK eventID="e62" lid="l31" relType="IS_INCLUDED" relatedToTime="t128"/>
+  <TLINK eventID="e55" lid="l32" relType="IS_INCLUDED" relatedToTime="t127"/>
+  <TLINK eventID="e57" lid="l33" relType="IS_INCLUDED" relatedToTime="t127"/>
+  <TLINK eventID="e64" lid="l34" relType="IS_INCLUDED" relatedToEvent="e62"/>
+  <TLINK eventID="e69" lid="l35" relType="AFTER" relatedToEvent="e73"/>
+  <TLINK eventID="e79" lid="l36" relType="AFTER" relatedToEvent="e81"/>
+  <SLINK eventID="e92" lid="l37" relType="MODAL" subordinatedEvent="e94"/>
+  <SLINK eventID="e1" lid="l38" relType="FACTIVE" subordinatedEvent="e2"/>
+  <SLINK eventID="e2" lid="l39" relType="MODAL" subordinatedEvent="e4"/>
+  <SLINK eventID="e6" lid="l40" relType="EVIDENTIAL" subordinatedEvent="e7"/>
+  <SLINK eventID="e7" lid="l41" relType="FACTIVE" subordinatedEvent="e9"/>
+  <SLINK eventID="e14" lid="l42" relType="FACTIVE" subordinatedEvent="e12"/>
+  <SLINK eventID="e108" lid="l43" relType="MODAL" subordinatedEvent="e109"/>
+  <SLINK eventID="e110" lid="l45" relType="MODAL" subordinatedEvent="e111"/>
+  <SLINK eventID="e17" lid="l47" relType="EVIDENTIAL" subordinatedEvent="e18"/>
+  <SLINK eventID="e18" lid="l48" relType="MODAL" subordinatedEvent="e21"/>
+  <SLINK eventID="e118" lid="l49" relType="MODAL" subordinatedEvent="e119"/>
+  <SLINK eventID="e119" lid="l50" relType="MODAL" subordinatedEvent="e26"/>
+  <SLINK eventID="e30" lid="l51" relType="EVIDENTIAL" subordinatedEvent="e32"/>
+  <SLINK eventID="e32" lid="l52" relType="MODAL" subordinatedEvent="e121"/>
+  <SLINK eventID="e36" lid="l53" relType="MODAL" subordinatedEvent="e38"/>
+  <SLINK eventID="e40" lid="l54" relType="EVIDENTIAL" subordinatedEvent="e125"/>
+  <SLINK eventID="e125" lid="l55" relType="MODAL" subordinatedEvent="e42"/>
+    <SLINK eventID="e54" lid="l56" relType="EVIDENTIAL" subordinatedEvent="e60"/>
+  <SLINK eventID="e60" lid="l57" relType="FACTIVE" subordinatedEvent="e61"/>
+  <SLINK eventID="e64" lid="l58" relType="EVIDENTIAL" subordinatedEvent="e65"/>
+  <SLINK eventID="e65" lid="l59" relType="FACTIVE" subordinatedEvent="e66"/>
+  <SLINK eventID="e67" lid="l60" relType="EVIDENTIAL" subordinatedEvent="e129"/>
+  <SLINK eventID="e68" lid="l61" relType="EVIDENTIAL" subordinatedEvent="e69"/>
+  <SLINK eventID="e69" lid="l62" relType="MODAL" subordinatedEvent="e70"/>
+  <SLINK eventID="e78" lid="l63" relType="EVIDENTIAL" subordinatedEvent="e79"/>
+  <SLINK eventID="e88" lid="l64" relType="MODAL" subordinatedEvent="e90"/>
+  <SLINK eventID="e90" lid="l65" relType="COUNTER_FACTIVE" subordinatedEvent="e92"/>
+  <SLINK eventID="e90" lid="l66" relType="COUNTER_FACTIVE" subordinatedEvent="e93"/>
+  <SLINK eventID="e93" lid="l67" relType="FACTIVE" subordinatedEvent="e94"/>
+  <ALINK eventID="e62" lid="l70" relType="TERMINATES" relatedToEvent="e63"/>
+  <ALINK eventID="e21" lid="l68" relType="CONTINUES" relatedToEvent="e116"/>
+  <ALINK eventID="e55" lid="l69" relType="TERMINATES" relatedToEvent="e57"/>
+</TimeML>

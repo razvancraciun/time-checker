@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> WSJ891031-0138 </DOCNO>
+  <DD> = 891031 </DD>
+  <AN> 891031-0138. </AN>
+  <HL> International:
+@  Courtaulds PLC
+@  Plans to Spin Off
+@  Textiles Business
+@  ----
+@  By Craig Forman
+@  Staff Reporter of The Wall Street Journal </HL>
+  <DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t89" type="DATE" value="1989-10-31">10/31/89</TIMEX3> </DD>
+  <SO> WALL STREET JOURNAL (J) </SO>
+  <CO> COU </CO>
+  <IN> DIVIDENDS (DIV)
+STOCK MARKET, OFFERINGS (STK)
+TEXTILES AND APPAREL (TEX) </IN>
+  <DATELINE> LONDON  </DATELINE>
+  <TEXT>
+    <s><ENAMEX TYPE="ORGANIZATION">Courtaulds PLC</ENAMEX><EVENT aspect="NONE" class="I_ACTION" eid="e1" eiid="ei1989" eventID="e1" polarity="POS" pos="VERB" tense="PAST">a anun&tcedil;at</EVENT><EVENT aspect="NONE" class="I_STATE" eid="e85" eiid="ei1990" eventID="e85" polarity="POS" pos="NOUN" tense="NONE">planuri</EVENT>de<EVENT aspect="NONE" class="OCCURRENCE" eid="e3" eiid="ei1991" eventID="e3" polarity="POS" pos="NOUN" tense="INFINITIVE">divizare</EVENT>a opera&tcedil;iunilor textile la ac&tcedil;ionarii existen&tcedil;i &icirc;n cadrul unei<EVENT aspect="NONE" class="OCCURRENCE" eid="e86" eiid="ei1992" eventID="e86" polarity="POS" pos="NOUN" tense="NONE">restructur&abreve;ri</EVENT>care s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e8" eiid="ei1993" eventID="e8" polarity="POS" pos="VERB" tense="INFINITIVE">creasc&abreve;</EVENT>valoarea ac&tcedil;iunilor .</s>
+    <s>Planul companiei britanice de chimicale &scedil;i textile , care necesit&abreve; aprobarea ac&tcedil;ionarilor , ar<EVENT aspect="NONE" class="OCCURRENCE" eid="e11" eiid="ei1994" eventID="e11" modality="would" polarity="POS" pos="VERB" tense="NONE">crea</EVENT>o_nou&abreve; ac&tcedil;iune &icirc;nregistrat&abreve;<ENAMEX TYPE="LOCATION">&icirc;n U.K.</ENAMEX>cu o capitalizare pe pia&tcedil;&abreve; probabil&abreve; &icirc;ntre 300 milioane ( $ 473<CARDINAL>milioane</CARDINAL>) &scedil;i 400 milioane , au <EVENT aspect="NONE" class="REPORTING" eid="e15" eiid="ei1995" eventID="e15" polarity="POS" pos="VERB" tense="PAST">spus</EVENT> anali&scedil;tii .</s>
+    <s><EVENT aspect="NONE" class="OCCURRENCE" eid="e16" eiid="ei1996" eventID="e16" modality="none" polarity="POS" pos="NOUN" tense="NONE">&Icirc;nfiin&tcedil;area</EVENT>companiei separate , ce se va numi<ENAMEX TYPE="ORGANIZATION">Courtaulds Textiles</ENAMEX>, ar putea fi efectiv&abreve;<SIGNAL sid="s88">cel mai devreme</SIGNAL><TIMEX3 anchorTimeID="t89" functionInDocument="NONE" temporalFunction="true" tid="t90" type="DATE" value="1990-Q1">&icirc;n primul trimestru al anului viitor</TIMEX3>.</s>
+    <s>Investitorii<EVENT aspect="NONE" class="OCCURRENCE" eid="e20" eiid="ei1997" eventID="e20" polarity="POS" pos="VERB" tense="PAST">au salutat</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e21" eiid="ei1998" eventID="e21" polarity="POS" pos="NOUN" tense="NONE">mi&scedil;carea</EVENT>.</s>
+    <s>Ac&tcedil;iunile<ENAMEX TYPE="ORGANIZATION">Courtaulds</ENAMEX><EVENT aspect="NONE" class="OCCURRENCE" eid="e22" eiid="ei1999" eventID="e22" polarity="POS" pos="VERB" tense="PAST">au crescut</EVENT><NUMEX TYPE="MONEY">15 pence la<EVENT aspect="NONE" class="STATE" eid="e120" eiid="ei2034" eventID="e120" polarity="POS" pos="OTHER" tense="NONE">362</EVENT>pence</NUMEX>, valor&acirc;nd &icirc;ntreaga companie la circa 1 . 44 bilioane .</s>
+    <s><EVENT aspect="NONE" class="OCCURRENCE" eid="e93" eiid="ei2001" eventID="e93" polarity="POS" pos="NOUN" tense="NONE">Divizarea</EVENT><ENAMEX TYPE="ORGANIZATION">Courtaulds</ENAMEX>reflect&abreve; presiunea asupra industriei britanice de a cre&scedil;te pre&tcedil;ul ac&tcedil;iunilor dincolo_de nivelul operatorilor corporati&scedil;ti .</s>
+    <s><EVENT aspect="NONE" class="OCCURRENCE" eid="e94" eiid="ei2002" eventID="e94" polarity="POS" pos="NOUN" tense="NONE">Restructurarea</EVENT><ENAMEX TYPE="ORGANIZATION">Courtaulds</ENAMEX>este printre cele mai mari de p&acirc;n&abreve; acum din<ENAMEX TYPE="LOCATION">Marea_Britanie</ENAMEX>, de&scedil;i este &icirc;mpiedicat&abreve; de<EVENT aspect="NONE" class="I_STATE" eid="e95" eiid="ei2003" eventID="e95" polarity="POS" pos="NOUN" tense="NONE">planurile</EVENT><ENAMEX TYPE="ORGANIZATION">B.A.T Industries PLC</ENAMEX>de a<EVENT aspect="NONE" class="OCCURRENCE" eid="e31" eiid="ei2004" eventID="e31" polarity="POS" pos="VERB" tense="INFINITIVE">&icirc;mp&abreve;r&tcedil;i</EVENT>aproximativ 4 bilioane &icirc;n bunuri pentru a <EVENT aspect="NONE" class="I_ACTION" eid="e33" eiid="ei2005" eventID="e33" polarity="POS" pos="VERB" tense="INFINITIVE">ajuta</EVENT> <EVENT aspect="NONE" class="OCCURRENCE" eid="e34" eiid="ei2006" eventID="e34" polarity="POS" pos="VERB" tense="INFINITIVE">respingerea</EVENT> unei licita&tcedil;ii de preluare a bancherului anglo-francez Sir James Goldsmith .</s>
+    <s>Opera&tcedil;iunile textile de deposedare<ENAMEX TYPE="ORGANIZATION">ale Courtaulds</ENAMEX>au <EVENT aspect="NONE" class="STATE" eid="e96" eiid="ei2007" eventID="e96" polarity="POS" pos="VERB" tense="PAST">avut</EVENT>un<EVENT aspect="NONE" class="STATE" eid="e97" eiid="ei2008" eventID="e97" polarity="POS" pos="NOUN" tense="NONE">profit</EVENT>operator de 50 milioane la 980 milioane &icirc;n beneficiu <SIGNAL sid="s98">&icirc;n</SIGNAL> <TIMEX3 endPoint="t100" functionInDocument="NONE" temporalFunction="true" tid="t99" type="DURATION" value="P1Y">anul</TIMEX3> <SIGNAL sid="s101">&icirc;ncheiat la</SIGNAL> <TIMEX3 anchorTimeID="t89" functionInDocument="NONE" temporalFunction="true" tid="t100" type="DATE" value="1989-03-31">31 martie</TIMEX3>.</s>
+    <s>Unii anali&scedil;ti<EVENT aspect="PERFECTIVE" class="REPORTING" eid="e37" eiid="ei2009" eventID="e37" polarity="POS" pos="VERB" tense="PRESENT">spuseser&abreve;</EVENT>c&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e38" eiid="ei2010" eventID="e38" polarity="POS" pos="NOUN" tense="NONE">mi&scedil;c&abreve;rile</EVENT><ENAMEX TYPE="ORGANIZATION">Courtaulds</ENAMEX>ar fi putut<EVENT aspect="NONE" class="OCCURRENCE" eid="e39" eiid="ei2011" eventID="e39" modality="could" polarity="POS" pos="VERB" tense="NONE">cre&scedil;te</EVENT>valoarea companiei cu<NUMEX TYPE="PERCENT">5%</NUMEX>p&acirc;n&abreve;_la<NUMEX TYPE="PERCENT">10%</NUMEX>, deoarece separate cele<CARDINAL>dou&abreve;</CARDINAL>entit&abreve;&tcedil;i ar<EVENT aspect="NONE" class="OCCURRENCE" eid="e41" eiid="ei2013" eventID="e41" polarity="POS" pos="VERB" tense="FUTURE">avea</EVENT>un pre&tcedil; mai mare c&acirc;&scedil;tiguri multiple dec&acirc;t au<EVENT aspect="NONE" class="OCCURRENCE" eid="e42" eiid="ei2014" eventID="e42" polarity="POS" pos="VERB" tense="PAST">avut</EVENT><EVENT aspect="NONE" class="STATE" eid="e103" eiid="ei2015" eventID="e103" polarity="POS" pos="NOUN" tense="PASTPART">combinate</EVENT>.</s>
+    <s>&Icirc;n plus ,<ENAMEX TYPE="ORGANIZATION">Courtaulds</ENAMEX>a <EVENT aspect="NONE" class="REPORTING" eid="e45" eiid="ei2016" eventID="e45" polarity="POS" pos="VERB" tense="PAST">spus</EVENT>c&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e46" eiid="ei2017" eventID="e46" polarity="POS" pos="NOUN" tense="NONE">mi&scedil;c&abreve;rile</EVENT>sunt logice deoarece ele vor<EVENT aspect="NONE" class="I_STATE" eid="e47" eiid="ei2018" eventID="e47" polarity="POS" pos="VERB" tense="FUTURE">permite</EVENT>ambelor afaceri chimice &scedil;i de textile s&abreve; se<EVENT aspect="NONE" class="OCCURRENCE" eid="e104" eiid="ei2019" eventID="e104" polarity="POS" pos="VERB" tense="INFINITIVE">concentreze</EVENT>mai &icirc;ndeaproape pe activit&abreve;&tcedil;i esen&tcedil;iale .</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Courtaulds</ENAMEX>fusese<EVENT aspect="PERFECTIVE" class="STATE" eid="e119" eiid="ei2033" eventID="e119" polarity="POS" pos="PREPOSITION" tense="PRESENT">sub</EVENT>presiune de a<EVENT aspect="NONE" class="OCCURRENCE" eid="e54" eiid="ei2021" eventID="e54" polarity="POS" pos="VERB" tense="INFINITIVE">&icirc;mbun&abreve;t&abreve;&tcedil;i</EVENT>valoarea ac&tcedil;iunilor de_c&acirc;nd speculan&tcedil;i ai prelu&abreve;rii -- incluz&icirc;nd bancherul australian<ENAMEX TYPE="PERSON">Kerry Packer</ENAMEX>--<EVENT aspect="NONE" class="OCCURRENCE" eid="e55" eiid="ei2022" eventID="e55" polarity="POS" pos="NOUN" tense="PAST">au ie&scedil;it la suprafa&tcedil;&abreve;</EVENT>prelu&acirc;nd mici stocuri<TIMEX3 anchorTimeID="t89" functionInDocument="NONE" temporalFunction="true" tid="t108" type="DATE" value="1988">anul trecut</TIMEX3>.</s>
+    <s>De&scedil;i<ENAMEX TYPE="PERSON">dl. Packer</ENAMEX>a<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e58" eiid="ei2023" eventID="e58" polarity="POS" pos="VERB" tense="PRESENT">v&acirc;ndut</EVENT><SIGNAL sid="s311">de atunci</SIGNAL>stocul s&abreve;u ,<ENAMEX TYPE="ORGANIZATION">Courtaulds</ENAMEX><EVENT aspect="PROGRESSIVE" class="OCCURRENCE" eid="e60" eiid="ei2024" eventID="e60" polarity="POS" pos="VERB" tense="PRESENT">ac&tcedil;ioneaz&abreve;</EVENT>pentru a<EVENT aspect="NONE" class="ASPECTUAL" eid="e62" eiid="ei2025" eventID="e62" polarity="POS" pos="VERB" tense="INFINITIVE">p&abreve;stra</EVENT><EVENT aspect="NONE" class="STATE" eid="e110" eiid="ei2026" eventID="e110" polarity="POS" pos="VERB" tense="NONE">ferici&tcedil;i</EVENT>pe ac&tcedil;ionarii institu&tcedil;ionali .</s>
+    <s>Chiar f&abreve;r&abreve; o<EVENT aspect="NONE" class="OCCURRENCE" eid="e63" eiid="ei2027" eventID="e63" polarity="NEG" pos="NOUN" tense="NONE">amenin&tcedil;are</EVENT>de preluare explicit&abreve; ,<ENAMEX TYPE="ORGANIZATION">Courtaulds</ENAMEX>le<EVENT aspect="PROGRESSIVE" class="OCCURRENCE" eid="e64" eiid="ei2028" eventID="e64" polarity="POS" pos="VERB" tense="PRESENT">d&abreve;</EVENT>ac&tcedil;ionarilor "<EVENT aspect="NONE" class="OCCURRENCE" eid="e65" eiid="ei2029" eventID="e65" polarity="POS" pos="NOUN" tense="NONE">op&tcedil;iune</EVENT>&scedil;i valoare , "<EVENT aspect="NONE" class="REPORTING" eid="e66" eiid="ei2030" eventID="e66" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT><ENAMEX TYPE="PERSON">Julia Blake</ENAMEX>, un analist agen&tcedil;ia de burs&abreve;<ENAMEX TYPE="LOCATION">din Londra</ENAMEX>Barclays de Zoete Wedd .</s>
+    <s>&Icirc;ntr- o declara&tcedil;ie , compania a spus : " Ambele p&abreve;r&tcedil;i pot s&abreve; &icirc;&scedil;i realizeze poten&tcedil;ialul &icirc;n &icirc;ntregime &scedil;i s&abreve; fie valorificate corespunz&abreve;tor pe pia&tcedil;&abreve; dac&abreve; sunt companii cotate separat .</s>
+    <s>Definirea mai clar&abreve; &scedil;i autonomia pe care fiecare o va primi mai departe vor fi &icirc;n beneficiul ac&tcedil;ionarilor , a clien&tcedil;ilor &scedil;i a angaja&tcedil;ilor .</s>
+    <s><ENAMEX TYPE="PERSON">Pre&scedil;edintele &scedil;i directorul executiv<ENAMEX TYPE="ORGANIZATION">al Courtaulds</ENAMEX>Sir Christopher Hogg</ENAMEX>va<EVENT aspect="NONE" class="STATE" eid="e77" eiid="ei2031" eventID="e77" polarity="POS" pos="VERB" tense="FUTURE">r&abreve;m&acirc;ne</EVENT>&icirc;n ambele posturi la compania chimic&abreve; ce va supravie&tcedil;ui<SIGNAL sid="s119">dup&abreve;</SIGNAL><EVENT aspect="NONE" class="OCCURRENCE" eid="e118" eiid="ei2032" eventID="e118" polarity="POS" pos="NOUN" tense="NONE">divizare</EVENT>.</s>
+  </TEXT>
+  <TLINK eventID="e110" lid="l51" relType="IS_INCLUDED" relatedToEvent="e60"/>
+  <TLINK eventID="e119" lid="l50" relType="BEFORE" relatedToTime="t89"/>
+  <TLINK eventID="e22" lid="l49" relType="AFTER" relatedToEvent="e1"/>
+  <TLINK eventID="e120" lid="l48" relType="AFTER" relatedToEvent="e22"/>
+  <TLINK eventID="e15" lid="l47" relType="AFTER" relatedToEvent="e1"/>
+  <TLINK eventID="e1" lid="l1" relType="BEFORE" relatedToTime="t89"/>
+  <TLINK eventID="e3" lid="l2" relType="IS_INCLUDED" relatedToEvent="e86"/>
+  <TLINK eventID="e16" lid="l3" relType="IS_INCLUDED" relatedToTime="t90" signalID="s88"/>
+  <TLINK eventID="e20" lid="l4" relType="BEFORE" relatedToTime="t89"/>
+  <TLINK eventID="e93" lid="l5" relType="IDENTITY" relatedToEvent="e3"/>
+  <TLINK eventID="e94" lid="l6" relType="IDENTITY" relatedToEvent="e86"/>
+  <TLINK eventID="e95" lid="l7" relType="SIMULTANEOUS" relatedToEvent="e85"/>
+  <TLINK eventID="e96" lid="l8" relType="IDENTITY" relatedToEvent="e97"/>
+  <TLINK eventID="e96" lid="l9" relType="BEFORE" relatedToTime="t89"/>
+  <TLINK eventID="e96" lid="l10" relType="DURING" relatedToTime="t99" signalID="s98"/>
+  <TLINK eventID="e96" lid="l11" relType="ENDED_BY" relatedToTime="t100" signalID="s101"/>
+  <TLINK eventID="e37" lid="l12" relType="BEFORE" relatedToTime="t89"/>
+  <TLINK eventID="e38" lid="l13" relType="BEFORE" relatedToEvent="e39"/>
+  <TLINK eventID="e41" lid="l14" relType="AFTER" relatedToEvent="e38"/>
+  <TLINK eventID="e41" lid="l15" relType="BEFORE" relatedToEvent="e39"/>
+  <TLINK eventID="e42" lid="l17" relType="BEFORE" relatedToEvent="e38"/>
+  <TLINK eventID="e42" lid="l18" relType="SIMULTANEOUS" relatedToEvent="e103"/>
+  <TLINK eventID="e45" lid="l19" relType="BEFORE" relatedToTime="t89"/>
+  <TLINK eventID="e46" lid="l20" relType="SIMULTANEOUS" relatedToEvent="e38"/>
+  <TLINK eventID="e47" lid="l21" relType="BEFORE" relatedToEvent="e104"/>
+  <TLINK eventID="e46" lid="l22" relType="IDENTITY" relatedToEvent="e47"/>
+  <TLINK eventID="e55" lid="l23" relType="IS_INCLUDED" relatedToTime="t108"/>
+  <TLINK eventID="e58" lid="l24" relType="BEGUN_BY" relatedToEvent="e55" signalID="s311"/>
+  <TLINK eventID="e60" lid="l25" relType="SIMULTANEOUS" relatedToEvent="e58"/>
+  <TLINK eventID="e64" lid="l26" relType="SIMULTANEOUS" relatedToEvent="e63"/>
+  <TLINK eventID="e64" lid="l27" relType="IDENTITY" relatedToEvent="e65"/>
+  <TLINK eventID="e66" lid="l28" relType="BEFORE" relatedToTime="t89"/>
+  <TLINK eventID="e77" lid="l29" relType="INCLUDES" relatedToTime="t89"/>
+  <TLINK eventID="e77" lid="l30" relType="AFTER" relatedToEvent="e118" signalID="s119"/>
+  <SLINK eventID="e47" lid="l46" relType="MODAL" subordinatedEvent="e104"/>
+  <SLINK eventID="e1" lid="l31" relType="EVIDENTIAL" subordinatedEvent="e85"/>
+  <SLINK eventID="e85" lid="l32" relType="MODAL" subordinatedEvent="e3"/>
+  <SLINK eventID="e86" lid="l33" relType="MODAL" subordinatedEvent="e8"/>
+  <SLINK eventID="e15" lid="l34" relType="EVIDENTIAL" subordinatedEvent="e11"/>
+  <SLINK eventID="e20" lid="l35" relType="FACTIVE" subordinatedEvent="e21"/>
+  <SLINK eventID="e95" lid="l36" relType="MODAL" subordinatedEvent="e31"/>
+  <SLINK eventID="e31" lid="l37" relType="MODAL" subordinatedEvent="e33"/>
+  <SLINK eventID="e33" lid="l38" relType="MODAL" subordinatedEvent="e34"/>
+  <SLINK eventID="e37" lid="l39" relType="EVIDENTIAL" subordinatedEvent="e39"/>
+  <SLINK eventID="e45" lid="l40" relType="EVIDENTIAL" subordinatedEvent="e46"/>
+  <SLINK eventID="e45" lid="l41" relType="EVIDENTIAL" subordinatedEvent="e47"/>
+  <SLINK eventID="e60" lid="l42" relType="MODAL" subordinatedEvent="e62"/>
+  <SLINK eventID="e66" lid="l43" relType="EVIDENTIAL" subordinatedEvent="e64"/>
+  <SLINK eventID="e119" lid="l44" relType="MODAL" subordinatedEvent="e54"/>
+  <ALINK eventID="e62" lid="l45" relType="CONTINUES" relatedToEvent="e110"/>
+</TimeML>

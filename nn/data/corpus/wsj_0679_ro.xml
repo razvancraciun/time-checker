@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> WSJ891030-0016 </DOCNO>
+  <DD> = 891030 </DD>
+  <AN> 891030-0016. </AN>
+  <HL> Business Brief -- Octel Communications Corp.:
+@  Hewlett-Packard Co. Raises
+@  Stake to 8.5% of Common </HL>
+  <DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t46" type="DATE" value="1989-10-30">10/30/89</TIMEX3> </DD>
+  <SO> WALL STREET JOURNAL (J) </SO>
+  <CO> HWP OCTL </CO>
+  <IN> TENDER OFFERS, MERGERS, ACQUISITIONS (TNM) </IN>
+  <TEXT>
+    <s><ENAMEX TYPE="ORGANIZATION">Hewlett-Packard Co.</ENAMEX><EVENT aspect="NONE" class="REPORTING" eid="e1" eiid="ei306" eventID="e1" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>c&abreve; &scedil;i-<EVENT aspect="NONE" class="OCCURRENCE" eid="e2" eiid="ei307" eventID="e2" polarity="POS" pos="VERB" tense="PAST">a ridicat</EVENT>stocul &icirc;n<ENAMEX TYPE="ORGANIZATION">Octel Communications Corp .</ENAMEX>la<NUMEX TYPE="PERCENT">8,5%</NUMEX>din ac&tcedil;iunile comune .</s>
+    <s>&Icirc;ntr- un<EVENT aspect="NONE" class="REPORTING" eid="e53" eiid="ei308" eventID="e53" polarity="POS" pos="NOUN" tense="NONE">dosar</EVENT><ENAMEX TYPE="ORGANIZATION">al Securities and Exchange Commission</ENAMEX>,<ENAMEX TYPE="ORGANIZATION">Hewlett-Packard</ENAMEX><EVENT aspect="NONE" class="REPORTING" eid="e4" eiid="ei309" eventID="e4" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>c&abreve; acum<EVENT aspect="NONE" class="STATE" eid="e5" eiid="ei310" eventID="e5" polarity="POS" pos="VERB" tense="PRESENT">de&tcedil;ine</EVENT><CARDINAL>1.384.119</CARDINAL>de ac&tcedil;iuni comune<ENAMEX TYPE="ORGANIZATION">Octel</ENAMEX>, inclusiv<CARDINAL>100.000</CARDINAL>de ac&tcedil;iuni<EVENT aspect="NONE" class="OCCURRENCE" eid="e6" eiid="ei311" eventID="e6" polarity="POS" pos="VERB" tense="PASTPART">cump&abreve;rate</EVENT><SIGNAL sid="s47">din</SIGNAL><TIMEX3 anchorTimeID="t46" functionInDocument="NONE" temporalFunction="true" tid="t94" type="DATE" value="1989-08-26">26_august</TIMEX3><SIGNAL sid="s49">p&acirc;n&abreve;_la</SIGNAL><TIMEX3 anchorTimeID="t46" functionInDocument="NONE" temporalFunction="true" tid="t51" type="DATE" value="1989-10-20">20_octombrie</TIMEX3>cu<NUMEX TYPE="MONEY">$ 23 , 31 p&acirc;n&abreve;_la $ 24 , 25</NUMEX>pe ac&tcedil;iune .</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Hewlett-Packard</ENAMEX>, o companie de computere<ENAMEX TYPE="LOCATION">din Palo Alto</ENAMEX>,<ENAMEX TYPE="LOCATION">Calif .</ENAMEX>,<EVENT aspect="NONE" class="REPORTING" eid="e7" eiid="ei312" eventID="e7" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>c&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e8" eiid="ei313" eventID="e8" polarity="POS" pos="VERB" tense="PAST">a achizi&tcedil;ionat</EVENT>stocul " pentru a<EVENT aspect="NONE" class="OCCURRENCE" eid="e10" eiid="ei314" eventID="e10" polarity="POS" pos="VERB" tense="INFINITIVE">dezvolta</EVENT>&scedil;i<EVENT aspect="NONE" class="STATE" eid="e11" eiid="ei315" eventID="e11" polarity="POS" pos="VERB" tense="INFINITIVE">men&tcedil;ine</EVENT>un parteneriat strategic &icirc;n care fiecare companie<EVENT aspect="NONE" class="STATE" eid="e13" eiid="ei316" eventID="e13" polarity="POS" pos="VERB" tense="PRESENT">r&abreve;m&acirc;ne</EVENT>independent&abreve;<SIGNAL sid="s14">&icirc;n_timp_ce</SIGNAL><EVENT aspect="NONE" class="OCCURRENCE" eid="e15" eiid="ei317" eventID="e15" polarity="POS" pos="VERB" tense="NONE">lucreaz&abreve;</EVENT>&icirc;mpreun&abreve; pentru a- &scedil;i<EVENT aspect="NONE" class="OCCURRENCE" eid="e16" eiid="ei318" eventID="e16" polarity="POS" pos="NOUN" tense="INFINITIVE">scoate pe pia&tcedil;&abreve;</EVENT>&scedil;i a-&scedil;i<EVENT aspect="NONE" class="OCCURRENCE" eid="e17" eiid="ei319" eventID="e17" polarity="POS" pos="VERB" tense="PRESENT">vinde</EVENT>produsele . "</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Octel</ENAMEX><EVENT aspect="NONE" class="REPORTING" eid="e18" eiid="ei320" eventID="e18" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>c&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e19" eiid="ei321" eventID="e19" polarity="POS" pos="NOUN" tense="NONE">cump&abreve;rarea</EVENT>era<EVENT aspect="NONE" class="I_STATE" eid="e20" eiid="ei322" eventID="e20" polarity="POS" pos="VERB" tense="PAST">de a&scedil;teptat</EVENT>.</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Hewlett-Packard</ENAMEX><EVENT aspect="NONE" class="REPORTING" eid="e21" eiid="ei323" eventID="e21" polarity="POS" pos="VERB" tense="PAST">a afirmat</EVENT>c&abreve; nu<EVENT aspect="NONE" class="I_STATE" eid="e22" eiid="ei324" eventID="e22" polarity="NEG" pos="VERB" tense="PRESENT">pl&abreve;nuie&scedil;te</EVENT>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e25" eiid="ei325" eventID="e25" polarity="POS" pos="VERB" tense="INFINITIVE">ob&tcedil;in&abreve;</EVENT>controlul lui<ENAMEX TYPE="ORGANIZATION">Octel</ENAMEX>, un produc&abreve;tor de sisteme de procesare vocal&abreve;<ENAMEX TYPE="LOCATION">din Milpitas</ENAMEX>,<ENAMEX TYPE="LOCATION">Calif</ENAMEX>.</s>
+    <s><EVENT aspect="NONE" class="REPORTING" eid="e59" eiid="ei337" eventID="e59" polarity="POS" pos="PREPOSITION" tense="PRESPART">Potrivit</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e26" eiid="ei326" eventID="e26" polarity="POS" pos="NOUN" tense="NONE">dosarului</EVENT>,<ENAMEX TYPE="ORGANIZATION">Hewlett-Packard</ENAMEX><EVENT aspect="NONE" class="OCCURRENCE" eid="e27" eiid="ei327" eventID="e27" polarity="POS" pos="VERB" tense="PAST">a achizi&tcedil;ionat</EVENT><CARDINAL>730.070</CARDINAL>de ac&tcedil;iuni comune de_la<ENAMEX TYPE="ORGANIZATION">Octel</ENAMEX>ca rezultat al unui<EVENT aspect="NONE" class="I_ACTION" eid="e29" eiid="ei329" eventID="e29" polarity="POS" pos="NOUN" tense="NONE">acord</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e56" eiid="ei328" eventID="e56" polarity="POS" pos="NOUN" tense="NONE">de cump&abreve;rare</EVENT>de stoc din<TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t57" type="DATE" value="1988-08-10">10_august_1988</TIMEX3>.</s>
+    <s>Acel<EVENT aspect="NONE" class="I_ACTION" eid="e58" eiid="ei330" eventID="e58" polarity="POS" pos="NOUN" tense="NONE">acord</EVENT><EVENT aspect="NONE" class="I_ACTION" eid="e30" eiid="ei331" eventID="e30" polarity="POS" pos="VERB" tense="PAST">a cerut</EVENT>de_asemenea ca<ENAMEX TYPE="ORGANIZATION">Hewlett-Packard</ENAMEX>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e32" eiid="ei332" eventID="e32" polarity="POS" pos="VERB" tense="INFINITIVE">cumpere</EVENT><CARDINAL>730.070</CARDINAL>de ac&tcedil;iuni<ENAMEX TYPE="ORGANIZATION">Octel</ENAMEX>pe pia&tcedil;a deschis&abreve;<SIGNAL sid="s59">&icirc;n urm&abreve;toarele</SIGNAL><TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t60" type="DURATION" value="P18M"><CARDINAL>18_luni</CARDINAL></TIMEX3>.</s>
+    <s>&Icirc;n plus ,<ENAMEX TYPE="ORGANIZATION">Hewlett-Packard</ENAMEX><EVENT aspect="NONE" class="OCCURRENCE" eid="e36" eiid="ei333" eventID="e36" polarity="POS" pos="VERB" tense="PAST">a achizi&tcedil;ionat</EVENT>o<EVENT aspect="NONE" class="I_STATE" eid="e37" eiid="ei334" eventID="e37" polarity="POS" pos="NOUN" tense="NONE">op&tcedil;iune</EVENT><TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t61" type="DURATION" value="P2Y">pe doi ani</TIMEX3>de a<EVENT aspect="NONE" class="OCCURRENCE" eid="e39" eiid="ei335" eventID="e39" polarity="POS" pos="VERB" tense="INFINITIVE">cump&abreve;ra</EVENT>&icirc;nc&abreve;<NUMEX TYPE="PERCENT">10%</NUMEX>, din care jum&abreve;tate pot fi<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e40" eiid="ei336" eventID="e40" modality="may" polarity="POS" pos="VERB" tense="NONE">v&acirc;ndute</EVENT>direct lui<ENAMEX TYPE="ORGANIZATION">Hewlett-Packard</ENAMEX>de_c&abreve;tre<ENAMEX TYPE="ORGANIZATION">Octel</ENAMEX>.</s>
+  </TEXT>
+  <TLINK eventID="e59" lid="l46" relType="IS_INCLUDED" relatedToTime="t46"/>
+  <TLINK eventID="e39" lid="l1" relType="BEFORE" relatedToEvent="e40"/>
+  <TLINK lid="l2" relType="AFTER" relatedToEvent="e6" timeID="t46"/>
+  <TLINK eventID="e53" lid="l3" relType="SIMULTANEOUS" relatedToEvent="e1"/>
+  <TLINK eventID="e53" lid="l4" relType="SIMULTANEOUS" relatedToEvent="e4"/>
+  <TLINK eventID="e4" lid="l5" relType="SIMULTANEOUS" relatedToEvent="e4"/>
+  <TLINK eventID="e6" lid="l6" relType="BEFORE" relatedToEvent="e5"/>
+  <TLINK eventID="e6" lid="l7" relType="BEFORE" relatedToTime="t46"/>
+  <TLINK eventID="e6" lid="l8" relType="AFTER" relatedToTime="t94" signalID="s47"/>
+  <TLINK eventID="e6" lid="l9" relType="BEFORE" relatedToTime="t51" signalID="s49"/>
+  <TLINK eventID="e7" lid="l10" relType="SIMULTANEOUS" relatedToEvent="e1"/>
+  <TLINK eventID="e10" lid="l11" relType="SIMULTANEOUS" relatedToEvent="e11"/>
+  <TLINK eventID="e11" lid="l12" relType="SIMULTANEOUS" relatedToEvent="e13"/>
+  <TLINK eventID="e13" lid="l13" relType="SIMULTANEOUS" relatedToEvent="e15" signalID="s14"/>
+  <TLINK eventID="e10" lid="l14" relType="AFTER" relatedToTime="t46"/>
+  <TLINK eventID="e11" lid="l15" relType="AFTER" relatedToTime="t46"/>
+  <TLINK eventID="e18" lid="l16" relType="BEFORE" relatedToTime="t46"/>
+  <TLINK eventID="e18" lid="l17" relType="SIMULTANEOUS" relatedToEvent="e1"/>
+  <TLINK eventID="e21" lid="l18" relType="SIMULTANEOUS" relatedToEvent="e18"/>
+  <TLINK eventID="e53" lid="l19" relType="IDENTITY" relatedToEvent="e26"/>
+  <TLINK eventID="e27" lid="l20" relType="AFTER" relatedToEvent="e29"/>
+  <TLINK eventID="e29" lid="l21" relType="SIMULTANEOUS" relatedToTime="t57"/>
+  <TLINK eventID="e58" lid="l22" relType="IDENTITY" relatedToEvent="e29"/>
+  <TLINK eventID="e58" lid="l23" relType="INCLUDES" relatedToEvent="e30"/>
+  <TLINK lid="l24" relType="DURING" relatedToEvent="e32" signalID="s59" timeID="t60"/>
+  <TLINK lid="l25" relType="AFTER" relatedToTime="t57" timeID="t60"/>
+  <TLINK eventID="e36" lid="l26" relType="SIMULTANEOUS" relatedToEvent="e27"/>
+  <TLINK eventID="e36" lid="l27" relType="BEGINS" relatedToEvent="e37"/>
+  <TLINK eventID="e37" lid="l28" relType="SIMULTANEOUS" relatedToTime="t61"/>
+  <TLINK eventID="e39" lid="l29" relType="IAFTER" relatedToEvent="e36"/>
+  <SLINK eventID="e1" lid="l30" relType="EVIDENTIAL" subordinatedEvent="e2"/>
+  <SLINK eventID="e4" lid="l31" relType="EVIDENTIAL" subordinatedEvent="e5"/>
+  <SLINK eventID="e7" lid="l32" relType="EVIDENTIAL" subordinatedEvent="e8"/>
+  <SLINK eventID="e8" lid="l33" relType="MODAL" subordinatedEvent="e10"/>
+  <SLINK eventID="e8" lid="l34" relType="MODAL" subordinatedEvent="e11"/>
+  <SLINK eventID="e15" lid="l35" relType="MODAL" subordinatedEvent="e16"/>
+  <SLINK eventID="e15" lid="l36" relType="MODAL" subordinatedEvent="e17"/>
+  <SLINK eventID="e18" lid="l37" relType="EVIDENTIAL" subordinatedEvent="e20"/>
+  <SLINK eventID="e20" lid="l38" relType="MODAL" subordinatedEvent="e19"/>
+  <SLINK eventID="e21" lid="l39" relType="EVIDENTIAL" subordinatedEvent="e22"/>
+  <SLINK eventID="e22" lid="l40" relType="MODAL" subordinatedEvent="e25"/>
+  <SLINK eventID="e29" lid="l41" relType="MODAL" subordinatedEvent="e56"/>
+  <SLINK eventID="e30" lid="l42" relType="MODAL" subordinatedEvent="e32"/>
+  <SLINK eventID="e37" lid="l43" relType="MODAL" subordinatedEvent="e39"/>
+  <SLINK eventID="e59" lid="l44" relType="EVIDENTIAL" subordinatedEvent="e27"/>
+  <SLINK eventID="e59" lid="l45" relType="FACTIVE" subordinatedEvent="e26"/>
+</TimeML>

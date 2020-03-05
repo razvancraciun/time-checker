@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> WSJ891030-0087 </DOCNO>
+  <DD> = 891030 </DD>
+  <AN> 891030-0087. </AN>
+  <HL> New Securities Issues </HL>
+  <DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t28" type="DATE" value="1989-10-30">10/30/89</TIMEX3> </DD>
+  <SO> WALL STREET JOURNAL (J) </SO>
+  <CO> SUNW T.CM EUROP F </CO>
+  <IN> BOND MARKET NEWS (BON) </IN>
+  <TEXT><s>Urm&abreve;toarele erau printre<EVENT aspect="NONE" class="OCCURRENCE" eid="e1" eiid="ei2000" eventID="e1" polarity="POS" pos="NOUN" tense="NONE">ofertele</EVENT>&scedil;i<EVENT aspect="NONE" class="OCCURRENCE" eid="e30" eiid="ei2001" eventID="e30" polarity="POS" pos="NOUN" tense="NONE">pre&tcedil;urile</EVENT>de<TIMEX3 anchorTimeID="t28" functionInDocument="NONE" temporalFunction="true" tid="t29" type="DATE" value="1989-10-27">vineri</TIMEX3>din<ENAMEX TYPE="LOCATION">SUA</ENAMEX>&scedil;i din afara SUA ,</s> <s>capital markets, with terms and syndicate manager, as <EVENT aspect="NONE" class="REPORTING" eid="e3" eiid="ei2002" eventID="e3" polarity="POS" pos="VERB" tense="PASTPART">compiled</EVENT> by Dow Jones Capital Markets Report: 
+@ <ENAMEX TYPE="ORGANIZATION">CORPORATES 
+
+   Sun Microsystems Inc.</ENAMEX> -- <NUMEX TYPE="MONEY">$125 million</NUMEX> of <CARDINAL>6</CARDINAL> <NUMEX TYPE="PERCENT">3/8%</NUMEX> convertible subordinated debentures <EVENT aspect="NONE" class="STATE" eid="e31" eiid="ei2003" eventID="e31" polarity="POS" pos="ADJECTIVE" tense="NONE">due</EVENT> <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t32" type="DATE" value="1999-10-15">Oct. 15, 1999</TIMEX3>, <EVENT aspect="NONE" class="OCCURRENCE" eid="e4" eiid="ei2004" eventID="e4" polarity="POS" pos="VERB" tense="PASTPART">priced</EVENT> at <CARDINAL>84.90</CARDINAL> to <EVENT aspect="NONE" class="I_STATE" eid="e42" eiid="ei2005" eventID="e42" polarity="POS" pos="VERB" tense="INFINITIVE">yield</EVENT> <EVENT aspect="NONE" class="STATE" eid="e39" eiid="ei2006" eventID="e39" polarity="POS" pos="OTHER" tense="NONE"><NUMEX TYPE="PERCENT">7.51%</NUMEX></EVENT>.</s><s>Obliga&tcedil;iunile sunt convertibile &icirc;n ac&tcedil;iuni comune<EVENT aspect="NONE" class="STATE" eid="e101" eiid="ei2023" eventID="e101" polarity="POS" pos="PREPOSITION" tense="NONE">la</EVENT><NUMEX TYPE="MONEY">$ 25</NUMEX>pe ac&tcedil;iune , reprezent&acirc;nd un premiu de conversie<NUMEX TYPE="PERCENT">de 24%</NUMEX>peste<EVENT aspect="NONE" class="STATE" eid="e100" eiid="ei2009" eventID="e100" polarity="POS" pos="NOUN" tense="NONE">pre&tcedil;ul</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e34" eiid="ei2008" eventID="e34" polarity="POS" pos="NOUN" tense="NONE">de &icirc;nchidere</EVENT>de<TIMEX3 anchorTimeID="t28" functionInDocument="NONE" temporalFunction="true" tid="t33" type="DATE" value="1989-10-26">mar&tcedil;i</TIMEX3>.</s><s><EVENT aspect="NONE" class="OCCURRENCE" eid="e10" eiid="ei2010" eventID="e10" polarity="POS" pos="VERB" tense="PASTPART">Rated</EVENT> single-B-1 by <ENAMEX TYPE="ORGANIZATION">Moody</ENAMEX>'s <ENAMEX TYPE="ORGANIZATION">Investors Service Inc.</ENAMEX> and single-B-plus by <ENAMEX TYPE="ORGANIZATION">Standard amp Poor's Corp.</ENAMEX>, the issue will be <EVENT aspect="NONE" class="OCCURRENCE" eid="e11" eiid="ei2011" eventID="e11" polarity="POS" pos="VERB" tense="FUTURE">sold</EVENT> through underwriters led by <ENAMEX TYPE="LOCATION">Goldman</ENAMEX>, <ENAMEX TYPE="ORGANIZATION">Sachs amp Co. 
+
+   Hertz Corp.</ENAMEX> -- <NUMEX TYPE="MONEY">$100 million</NUMEX> of senior notes <EVENT aspect="NONE" class="STATE" eid="e36" eiid="ei2012" eventID="e36" polarity="POS" pos="ADJECTIVE" tense="NONE">due</EVENT> <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t37" type="DATE" value="2009-11-01">Nov. 1, 2009</TIMEX3>, <EVENT aspect="NONE" class="STATE" eid="e14" eiid="ei2013" eventID="e14" polarity="POS" pos="VERB" tense="PASTPART">priced</EVENT> at par to <EVENT aspect="NONE" class="I_STATE" eid="e41" eiid="ei2014" eventID="e41" polarity="POS" pos="VERB" tense="INFINITIVE">yield</EVENT> <EVENT aspect="NONE" class="STATE" eid="e40" eiid="ei2015" eventID="e40" polarity="POS" pos="OTHER" tense="NONE"><NUMEX TYPE="PERCENT">9%</NUMEX></EVENT>.</s><s>Emisiunea , care este &icirc;ncasabil&abreve; prin anticipa&tcedil;ie de_c&abreve;tre companie<SIGNAL sid="s43">&icirc;n</SIGNAL><TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t44" type="DATE" value="1999">1999</TIMEX3>, a fost<EVENT aspect="NONE" class="OCCURRENCE" eid="e17" eiid="ei2016" eventID="e17" polarity="POS" pos="VERB" tense="PAST">evaluat&abreve;</EVENT>la<CARDINAL>110</CARDINAL>puncte de baz&abreve; peste nota de 10_ani a<ENAMEX TYPE="ORGANIZATION">trezoreriei</ENAMEX>.</s><s><EVENT aspect="NONE" class="STATE" eid="e21" eiid="ei2017" eventID="e21" polarity="POS" pos="ADJECTIVE" tense="PASTPART">Cotat&abreve;</EVENT>mono-A-3 de<ENAMEX TYPE="ORGANIZATION">Moody</ENAMEX>&scedil;i triplu-B de<ENAMEX TYPE="ORGANIZATION">SamP</ENAMEX>, emisiunea va fi<EVENT aspect="NONE" class="OCCURRENCE" eid="e22" eiid="ei2018" eventID="e22" polarity="POS" pos="VERB" tense="FUTURE">v&acirc;ndut&abreve;</EVENT>prin intermediarii condu&scedil;i de<ENAMEX TYPE="PERSON">Merrill Lynch Capital Markets</ENAMEX>.</s><s><ENAMEX TYPE="ORGANIZATION">Banca Comercial&abreve;</ENAMEX>Canadian<ENAMEX TYPE="ORGANIZATION">Imperial (<ENAMEX TYPE="LOCATION">Canada</ENAMEX>)</ENAMEX>--<NUMEX TYPE="MONEY">10_miliarde_de_yeni</NUMEX>cu<NUMEX TYPE="PERCENT">5,7%</NUMEX>obliga&tcedil;iuni<EVENT aspect="NONE" class="STATE" eid="e46" eiid="ei2019" eventID="e46" polarity="POS" pos="ADJECTIVE" tense="NONE">scadente</EVENT><TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t47" type="DATE" value="1992-11-17">pe 17_noiembrie_1992</TIMEX3>,<EVENT aspect="NONE" class="STATE" eid="e25" eiid="ei2020" eventID="e25" polarity="POS" pos="VERB" tense="PASTPART">evaluate</EVENT>la<CARDINAL>101 1 / 4</CARDINAL>pentru a<EVENT aspect="NONE" class="I_STATE" eid="e27" eiid="ei2021" eventID="e27" polarity="POS" pos="OTHER" tense="INFINITIVE">da</EVENT><EVENT aspect="NONE" class="STATE" eid="e48" eiid="ei2022" eventID="e48" polarity="POS" pos="OTHER" tense="NONE"><NUMEX TYPE="PERCENT">5,75%</NUMEX></EVENT>mai pu&tcedil;ine taxe , via<ENAMEX TYPE="ORGANIZATION">LTCB International Ltd . Fees</ENAMEX><CARDINAL>1 3 / 8</CARDINAL>.</s></TEXT>
+  <TLINK eventID="e101" lid="l29" relType="IS_INCLUDED" relatedToTime="t33"/>
+  <TLINK eventID="e27" lid="l1" relType="ENDED_BY" relatedToEvent="e48"/>
+  <TLINK eventID="e1" lid="l2" relType="IS_INCLUDED" relatedToTime="t29"/>
+  <TLINK eventID="e30" lid="l3" relType="IS_INCLUDED" relatedToTime="t29"/>
+  <TLINK eventID="e3" lid="l4" relType="BEFORE" relatedToTime="t28"/>
+  <TLINK eventID="e31" lid="l5" relType="IS_INCLUDED" relatedToTime="t29"/>
+  <TLINK eventID="e31" lid="l6" relType="ENDED_BY" relatedToTime="t32"/>
+  <TLINK eventID="e4" lid="l7" relType="IS_INCLUDED" relatedToTime="t29"/>
+  <TLINK eventID="e42" lid="l8" relType="ENDED_BY" relatedToEvent="e39"/>
+  <TLINK eventID="e34" lid="l9" relType="IS_INCLUDED" relatedToTime="t33"/>
+  <TLINK eventID="e100" lid="l10" relType="IS_INCLUDED" relatedToEvent="e34"/>
+  <TLINK eventID="e10" lid="l11" relType="IS_INCLUDED" relatedToTime="t29"/>
+  <TLINK eventID="e10" lid="l12" relType="BEFORE" relatedToEvent="e11"/>
+  <TLINK eventID="e36" lid="l13" relType="IS_INCLUDED" relatedToTime="t29"/>
+  <TLINK eventID="e36" lid="l14" relType="ENDED_BY" relatedToTime="t37"/>
+  <TLINK eventID="e14" lid="l15" relType="IS_INCLUDED" relatedToTime="t29"/>
+  <TLINK eventID="e41" lid="l16" relType="ENDED_BY" relatedToEvent="e40"/>
+  <TLINK eventID="e36" lid="l17" relType="BEGUN_BY" relatedToTime="t44" signalID="s43"/>
+  <TLINK eventID="e17" lid="l18" relType="IS_INCLUDED" relatedToTime="t29"/>
+  <TLINK eventID="e21" lid="l19" relType="IS_INCLUDED" relatedToTime="t29"/>
+  <TLINK eventID="e21" lid="l20" relType="BEFORE" relatedToEvent="e22"/>
+  <TLINK eventID="e46" lid="l21" relType="IS_INCLUDED" relatedToTime="t29"/>
+  <TLINK eventID="e46" lid="l22" relType="ENDED_BY" relatedToTime="t47"/>
+  <TLINK eventID="e25" lid="l23" relType="IS_INCLUDED" relatedToTime="t29"/>
+  <SLINK eventID="e3" lid="l24" relType="EVIDENTIAL" subordinatedEvent="e1"/>
+  <SLINK eventID="e3" lid="l25" relType="EVIDENTIAL" subordinatedEvent="e30"/>
+  <SLINK eventID="e4" lid="l26" relType="MODAL" subordinatedEvent="e42"/>
+  <SLINK eventID="e14" lid="l27" relType="MODAL" subordinatedEvent="e41"/>
+  <SLINK eventID="e25" lid="l28" relType="MODAL" subordinatedEvent="e27"/>
+</TimeML>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> CNN<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t19" type="DATE" value="1998-02-23">19980223</TIMEX3>.1130.0960 </DOCNO>
+  <DOCTYPE SOURCE="broadcast news">&Scedil;TIRI</DOCTYPE>
+  <BODY>
+    <bn_episode_trans air_date="19980223:1130" program="CNN_Headline_News">
+      <section endTime="1009.48" startTime="960.65" type="report">
+        <TEXT>
+          <turn endTime="979.039" speaker="unknown" spkrType="unknown" startTime="960.65">
+            <s>&Icirc;n ciuda<TIMEX3 anchorTimeID="t19" functionInDocument="NONE" temporalFunction="true" tid="t20" type="DATE" value="PAST_REF">recentei</TIMEX3>posibilit&abreve;&tcedil;i de<EVENT aspect="NONE" class="OCCURRENCE" eid="e26" eiid="ei148" eventID="e26" polarity="POS" pos="NOUN" tense="NONE">conflict</EVENT>militar cu<ENAMEX TYPE="LOCATION">Irakul</ENAMEX>, pre&tcedil;urile petrolului au<EVENT aspect="PERFECTIVE_PROGRESSIVE" class="OCCURRENCE" eid="e1" eiid="ei149" eventID="e1" polarity="POS" pos="VERB" tense="PRESENT">sc&abreve;zut</EVENT>, aceasta este din_cauza unui<EVENT aspect="NONE" class="OCCURRENCE" eid="e27" eiid="ei150" eventID="e27" polarity="POS" pos="NOUN" tense="NONE">prisos</EVENT>de petrol &icirc;n toat&abreve; lumea .</s>
+            <s><TIMEX3 anchorTimeID="t19" functionInDocument="NONE" temporalFunction="true" tid="t21" type="DATE" value="PRESENT_REF">Acum</TIMEX3>cu o<EVENT aspect="NONE" class="OCCURRENCE" eid="e28" eiid="ei151" eventID="e28" polarity="POS" pos="NOUN" tense="NONE">solu&tcedil;ie</EVENT>diplomatic&abreve; la<EVENT aspect="NONE" class="OCCURRENCE" eid="e29" eiid="ei152" eventID="e29" polarity="POS" pos="NOUN" tense="NONE">criza</EVENT>aparent<EVENT aspect="NONE" class="STATE" eid="e32" eiid="ei153" eventID="e32" polarity="POS" pos="ADJECTIVE" tense="NONE">iminent&abreve;</EVENT>,<EVENT aspect="NONE" class="I_ACTION" eid="e34" eiid="ei154" eventID="e34" polarity="POS" pos="VERB" tense="NONE">preg&abreve;ti&tcedil;i</EVENT>-v&abreve; pentru_ca pre&tcedil;urile petrolului de_la diversitatea m&abreve;rii nordice Brent la &tcedil;i&tcedil;eiul suedez u&scedil;or s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e33" eiid="ei155" eventID="e33" polarity="POS" pos="VERB" tense="INFINITIVE">scad&abreve;</EVENT>&icirc;n_continuare .</s>
+          </turn>
+          <turn endTime="996.959" speaker="unknown" spkrType="unknown" startTime="979.039">
+            <s>Pre&tcedil;urile petrolului au<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e37" eiid="ei156" eventID="e37" polarity="POS" pos="VERB" tense="PRESENT">sc&abreve;zut</EVENT>de_la<TIMEX3 anchorTimeID="t19" functionInDocument="NONE" mod="MID" temporalFunction="true" tid="t22" type="DATE" value="1997-10">mijlocul lui octombrie</TIMEX3>de_la<EVENT aspect="NONE" class="OCCURRENCE" eid="e9" eiid="ei158" eventID="e9" polarity="POS" pos="NOUN" tense="NONE">nivelul</EVENT><NUMEX TYPE="MONEY">de dou&abreve;zeci_&scedil;i_doi_de_dolari</NUMEX>barilul p&acirc;n&abreve;_la cei<NUMEX TYPE="MONEY">paisprezece_dolari</NUMEX>pe care &icirc;i<EVENT aspect="PROGRESSIVE" class="PERCEPTION" eid="e10" eiid="ei159" eventID="e10" polarity="POS" pos="VERB" tense="PRESENT">vedem</EVENT><TIMEX3 anchorTimeID="t19" functionInDocument="NONE" temporalFunction="true" tid="t23" type="DATE" value="1998-02-23">ast&abreve;zi</TIMEX3>.</s>
+            <s>Aceasta a<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e11" eiid="ei160" eventID="e11" polarity="POS" pos="VERB" tense="PRESENT">construit</EVENT>o iner&tcedil;ie grozav&abreve; &scedil;i acea iner&tcedil;ie va<EVENT aspect="NONE" class="I_ACTION" eid="e12" eiid="ei161" eventID="e12" polarity="POS" pos="VERB" tense="FUTURE">urma</EVENT>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e13" eiid="ei162" eventID="e13" polarity="POS" pos="VERB" tense="INFINITIVE">creasc&abreve;</EVENT>.</s>
+            <s>Imediat dup&abreve; este acel nivel<NUMEX TYPE="MONEY">de treisprezece_dolari</NUMEX>pe baril pe care l-<EVENT aspect="NONE" class="PERCEPTION" eid="e14" eiid="ei163" eventID="e14" polarity="POS" pos="VERB" tense="PAST">am v&abreve;zut</EVENT><SIGNAL sid="s114">&icirc;n</SIGNAL><TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t24" type="DATE" value="1994-WI">vara lui<CARDINAL>o_mie_nou&abreve;_sute_nou&abreve;zeci_&scedil;i_patru</CARDINAL></TIMEX3>.</s>
+          </turn>
+          <turn endTime="1009.48" speaker="unknown" spkrType="unknown" startTime="996.959"><s>Pre&tcedil;uri<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e38" eiid="ei164" eventID="e38" polarity="POS" pos="VERB" tense="PRESENT">sc&abreve;zute</EVENT>la petrol au<EVENT aspect="PERFECTIVE" class="I_ACTION" eid="e15" eiid="ei165" eventID="e15" polarity="POS" pos="VERB" tense="PRESENT">f&abreve;cut</EVENT><SIGNAL sid="s123">deja</SIGNAL>via&tcedil;a mai u&scedil;oar&abreve; pentru automobili&scedil;ti la pompa de benzin&abreve; .</s><s>Pre&tcedil;urile benzinei<EVENT aspect="NONE" class="OCCURRENCE" eid="e18" eiid="ei167" eventID="e18" polarity="POS" pos="VERB" tense="PAST">au sc&abreve;zut</EVENT>cu aproape<NUMEX TYPE="MONEY">doi cen&tcedil;i</NUMEX>pe galon<SIGNAL sid="s137">&icirc;n</SIGNAL><TIMEX3 endPoint="t19" functionInDocument="NONE" temporalFunction="true" tid="t25" type="DURATION" value="P2W">ultimele dou&abreve; s&abreve;pt&abreve;m&acirc;ni</TIMEX3>.</s> <s>Aceasta<EVENT aspect="NONE" class="REPORTING" eid="e39" eiid="ei168" eventID="e39" polarity="POS" pos="PREPOSITION" tense="PRESPART">potrivit</EVENT>anchetei Lundberg asupra a<CARDINAL>zece_mii</CARDINAL>de sta&tcedil;ii de benzin&abreve; &icirc;n toat&abreve; &tcedil;ara .</s></turn>
+        </TEXT>
+      </section>
+    </bn_episode_trans>
+  </BODY>
+  <TLINK eventID="e39" lid="l23" relType="IS_INCLUDED" relatedToTime="t19"/>
+  <TLINK lid="l1" relType="IAFTER" relatedToTime="t25" timeID="t19"/>
+  <TLINK eventID="e12" lid="l2" relType="AFTER" relatedToTime="t19"/>
+  <TLINK eventID="e38" lid="l3" relType="DURING" relatedToTime="t19"/>
+  <TLINK eventID="e18" lid="l4" relType="IS_INCLUDED" relatedToTime="t25" signalID="s137"/>
+  <TLINK eventID="e38" lid="l5" relType="BEFORE" relatedToEvent="e15" signalID="s123"/>
+  <TLINK eventID="e11" lid="l6" relType="BEFORE" relatedToTime="t19"/>
+  <TLINK eventID="e37" lid="l7" relType="BEFORE" relatedToTime="t19"/>
+  <TLINK eventID="e14" lid="l8" relType="IS_INCLUDED" relatedToTime="t24" signalID="s114"/>
+  <TLINK eventID="e10" lid="l9" relType="DURING" relatedToTime="t23"/>
+  <TLINK eventID="e26" lid="l10" relType="IS_INCLUDED" relatedToTime="t20"/>
+  <TLINK eventID="e1" lid="l11" relType="DURING" relatedToTime="t19"/>
+  <TLINK eventID="e27" lid="l12" relType="DURING" relatedToTime="t19"/>
+  <TLINK lid="l13" relType="INCLUDES" relatedToEvent="e32" timeID="t21"/>
+  <TLINK eventID="e29" lid="l14" relType="IDENTITY" relatedToEvent="e26"/>
+  <TLINK lid="l15" relType="INCLUDES" relatedToEvent="e9" timeID="t22"/>
+  <TLINK eventID="e28" lid="l16" relType="SIMULTANEOUS" relatedToEvent="e32"/>
+  <TLINK eventID="e34" lid="l17" relType="BEGUN_BY" relatedToEvent="e32"/>
+  <SLINK eventID="e28" lid="l22" relType="FACTIVE" subordinatedEvent="e29"/>
+  <SLINK eventID="e39" lid="l18" relType="EVIDENTIAL" subordinatedEvent="e18"/>
+  <SLINK eventID="e12" lid="l19" relType="MODAL" subordinatedEvent="e13"/>
+  <SLINK eventID="e34" lid="l20" relType="MODAL" subordinatedEvent="e33"/>
+  <ALINK eventID="e28" lid="l21" relType="TERMINATES" relatedToEvent="e29"/>
+</TimeML>

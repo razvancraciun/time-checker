@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> PRI<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t32" type="DATE" value="1998-01-21">19980121</TIMEX3>.2000.2591 </DOCNO>
+  <DOCTYPE SOURCE="broadcast news">&Scedil;TIRI</DOCTYPE>
+  <BODY>
+    <bn_episode_trans air_date="19980121:2000" program="PRI_The_World">
+      <section endTime="2655.51" startTime="2591.95" type="report">
+        <TEXT>
+          <turn endTime="2594.429" speaker="unknown" spkrType="unknown" startTime="2591.95">
+            <s>Acum pentru<EVENT aspect="NONE" class="OCCURRENCE" eid="e1985" eiid="ei1998" eventID="e1985" polarity="POS" pos="NOUN" tense="NONE">testul</EVENT>de geografie de<TIMEX3 anchorTimeID="t32" functionInDocument="NONE" temporalFunction="true" tid="t33" type="DATE" value="1998-01-21">azi</TIMEX3>.</s>
+          </turn>
+          <turn endTime="2603.828" speaker="unknown" spkrType="unknown" startTime="2601.005">
+            <s>Am<EVENT aspect="NONE" class="I_ACTION" eid="e1980" eiid="ei1999" eventID="e1980" polarity="POS" pos="VERB" tense="PRESENT">plecat</EVENT>&icirc;n<EVENT aspect="NONE" class="OCCURRENCE" eid="e2" eiid="ei2000" eventID="e2" polarity="POS" pos="NOUN" tense="NONE">c&abreve;utarea</EVENT>unui ora&scedil; vechi &scedil;i exotic .</s>
+          </turn>
+          <turn endTime="2610.805" speaker="unknown" spkrType="unknown" startTime="2603.828">
+            <s>&Scedil;i unul oficial<EVENT aspect="NONE" class="OCCURRENCE" eid="e4" eiid="ei2001" eventID="e4" polarity="POS" pos="ADJECTIVE" tense="NONE">atestat</EVENT>.</s>
+            <s>UNESCO l-<EVENT aspect="NONE" class="I_ACTION" eid="e5" eiid="ei2002" eventID="e5" polarity="POS" pos="VERB" tense="PAST">a declarat</EVENT>un sit<EVENT aspect="NONE" class="OCCURRENCE" eid="e1981" eiid="ei2003" eventID="e1981" polarity="POS" pos="VERB" tense="NONE">protejat</EVENT>pentru frumuse&tcedil;ea lui &scedil;i importan&tcedil;a istoric&abreve; .</s>
+          </turn>
+          <turn endTime="2624.890" speaker="unknown" spkrType="unknown" startTime="2610.805">
+            <s>Ora&scedil;ului i- ar fi fost<EVENT aspect="PERFECTIVE_PROGRESSIVE" class="I_ACTION" eid="e6" eiid="ei2004" eventID="e6" modality="could" polarity="POS" pos="ADJECTIVE" tense="NONE">util&abreve;</EVENT>o<EVENT aspect="NONE" class="STATE" eid="e8" eiid="ei2005" eventID="e8" polarity="POS" pos="NOUN" tense="NONE">protec&tcedil;ie</EVENT>special&abreve; &icirc;n<TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t34" type="DATE" value="1979"><CARDINAL>o_mie_nou&abreve;_sute_&scedil;aptezeci_&scedil;i_nou&abreve;</CARDINAL></TIMEX3>c&acirc;nd<ENAMEX TYPE="LOCATION">Uniunea Sovietic&abreve;</ENAMEX><EVENT aspect="NONE" class="OCCURRENCE" eid="e10" eiid="ei2006" eventID="e10" polarity="POS" pos="VERB" tense="PAST">a invadat</EVENT><ENAMEX TYPE="LOCATION">Afganistanul</ENAMEX>.</s>
+            <s>Majoritatea monumentelor ora&scedil;ului au fost<EVENT aspect="NONE" class="OCCURRENCE" eid="e11" eiid="ei2007" eventID="e11" polarity="POS" pos="VERB" tense="PAST">distruse</EVENT>, inclusiv o magnific&abreve; moschee placat&abreve; cu ceramic&abreve; , care<EVENT aspect="NONE" class="OCCURRENCE" eid="e12" eiid="ei2008" eventID="e12" polarity="POS" pos="VERB" tense="PAST">a dominat</EVENT>orizontul<TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t1982" type="DURATION" value="PXC">secole de- a r&acirc;ndul</TIMEX3>.</s>
+          </turn>
+          <turn endTime="2636.125" speaker="unknown" spkrType="unknown" startTime="2624.890">
+            <s>Oamenii de aici sunt faimo&scedil;i &icirc;n toat&abreve;<ENAMEX TYPE="LOCATION">Asia central&abreve;</ENAMEX>pentru arta de a fabrica oale &scedil;i ceramic&abreve; &scedil;i sticl&abreve; .</s>
+            <s>Unele familii &scedil;i- au<EVENT aspect="NONE" class="OCCURRENCE" eid="e1989" eiid="ei2009" eventID="e1989" polarity="POS" pos="VERB" tense="PRESENT">p&abreve;strat</EVENT>secretele de prelucrare a sticlei<SIGNAL sid="s1990">pentru</SIGNAL><TIMEX3 functionInDocument="NONE" mod="MORE_THAN" temporalFunction="false" tid="t1991" type="DURATION" value="P2L"><CARDINAL>mai mult de dou&abreve;_mii</CARDINAL>de ani</TIMEX3>.</s>
+          </turn>
+          <turn endTime="2644.898" speaker="unknown" spkrType="unknown" startTime="2636.125">
+            <s>Chiar dac&abreve; acest ora&scedil; este &icirc;n<ENAMEX TYPE="LOCATION">Afganistan</ENAMEX>, majoritatea oamenilor de aici<EVENT aspect="NONE" class="I_ACTION" eid="e19" eiid="ei2010" eventID="e19" polarity="POS" pos="VERB" tense="PRESENT">vorbesc</EVENT>un dialect al limbii perse , &scedil;i<EVENT aspect="NONE" class="STATE" eid="e22" eiid="ei2013" eventID="e22" polarity="POS" pos="VERB" tense="PRESENT">au</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e1983" eiid="ei2014" eventID="e1983" polarity="POS" pos="NOUN" tense="NONE">leg&abreve;turi</EVENT>vechi cu<ENAMEX TYPE="LOCATION">Iranul</ENAMEX>&icirc;nvecinat .</s>
+          </turn>
+          <turn endTime="2649.681" speaker="unknown" spkrType="unknown" startTime="2644.898">
+            <s><EVENT aspect="NONE" class="I_STATE" eid="e25" eiid="ei2015" eventID="e25" polarity="POS" pos="VERB" tense="PRESENT">Crede&tcedil;i</EVENT>c&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e26" eiid="ei2016" eventID="e26" polarity="POS" pos="VERB" tense="PAST">&scedil;ti&tcedil;i</EVENT>?</s>
+            <s>P&abreve;i , sincer , eu nu , dar<EVENT aspect="NONE" class="OCCURRENCE" eid="e29" eiid="ei2018" eventID="e29" polarity="POS" pos="NOUN" tense="NONE">r&abreve;spunsul</EVENT><EVENT aspect="PROGRESSIVE" class="OCCURRENCE" eid="e30" eiid="ei2019" eventID="e30" polarity="POS" pos="VERB" tense="PRESENT">vine</EVENT>&icirc;n doar<TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t1986" type="DURATION" value="PXM">c&acirc;teva minute</TIMEX3>.</s>
+          </turn>
+        </TEXT>
+      </section>
+    </bn_episode_trans>
+  </BODY>
+  <TLINK eventID="e29" lid="l27" relType="AFTER" relatedToTime="t1986"/>
+  <TLINK eventID="e25" lid="l26" relType="IS_INCLUDED" relatedToTime="t33"/>
+  <TLINK eventID="e1983" lid="l25" relType="IS_INCLUDED" relatedToEvent="e22"/>
+  <TLINK eventID="e22" lid="l24" relType="IS_INCLUDED" relatedToTime="t33"/>
+  <TLINK eventID="e19" lid="l23" relType="IS_INCLUDED" relatedToTime="t33"/>
+  <TLINK eventID="e6" lid="l20" relType="BEFORE" relatedToTime="t32"/>
+  <TLINK eventID="e1980" lid="l19" relType="IS_INCLUDED" relatedToEvent="e2"/>
+  <TLINK eventID="e2" lid="l18" relType="IS_INCLUDED" relatedToTime="t32"/>
+  <TLINK lid="l1" relType="DURING" relatedToEvent="e12" timeID="t1982"/>
+  <TLINK lid="l2" relType="IS_INCLUDED" relatedToEvent="e10" timeID="t34"/>
+  <TLINK eventID="e4" lid="l3" relType="IS_INCLUDED" relatedToEvent="e5"/>
+  <TLINK lid="l4" relType="BEFORE" relatedToEvent="e5" timeID="t32"/>
+  <TLINK lid="l5" relType="BEFORE" relatedToEvent="e4" timeID="t32"/>
+  <TLINK lid="l6" relType="IS_INCLUDED" relatedToEvent="e8" timeID="t34"/>
+  <TLINK lid="l7" relType="SIMULTANEOUS" relatedToEvent="e1985" timeID="t33"/>
+  <TLINK lid="l8" relType="IS_INCLUDED" relatedToEvent="e11" timeID="t34"/>
+  <TLINK lid="l9" relType="AFTER" relatedToEvent="e30" timeID="t1986"/>
+  <TLINK eventID="e10" lid="l10" relType="DURING" relatedToEvent="e11"/>
+  <TLINK eventID="e1989" lid="l11" relType="DURING" relatedToTime="t1991" signalID="s1990"/>
+  <SLINK eventID="e22" lid="l17" relType="FACTIVE" subordinatedEvent="e1983"/>
+  <SLINK eventID="e25" lid="l12" relType="MODAL" subordinatedEvent="e26"/>
+  <SLINK eventID="e5" lid="l13" relType="MODAL" subordinatedEvent="e1981"/>
+  <SLINK eventID="e6" lid="l14" relType="FACTIVE" subordinatedEvent="e8"/>
+</TimeML>

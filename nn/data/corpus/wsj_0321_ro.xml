@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> WSJ891101-0043 </DOCNO>
+  <DD> = 891101 </DD>
+  <AN> 891101-0043. </AN>
+  <HL> Business Brief -- StatesWest Airlines:
+@  Offer for Mesa Withdrawn;
+@  Firm to Continue Pursuit </HL>
+  <DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t40" type="DATE" value="1989-11-01">11/01/89</TIMEX3> </DD>
+  <SO> WALL STREET JOURNAL (J) </SO>
+  <CO> SWAL MESA </CO>
+  <IN> TENDER OFFERS, MERGERS, ACQUISITIONS (TNM) </IN>
+  <TEXT>
+    <s><ENAMEX TYPE="ORGANIZATION">StatesWest Airlines</ENAMEX>,<ENAMEX TYPE="LOCATION">Phoenix</ENAMEX>,<ENAMEX TYPE="LOCATION">Ariz .</ENAMEX>,<EVENT aspect="NONE" class="REPORTING" eid="e1" eiid="ei150" eventID="e1" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>c&abreve; &scedil;i-<EVENT aspect="NONE" class="OCCURRENCE" eid="e2" eiid="ei151" eventID="e2" polarity="POS" pos="VERB" tense="PAST">a retras</EVENT><EVENT aspect="NONE" class="I_ACTION" eid="e3" eiid="ei152" eventID="e3" polarity="POS" pos="NOUN" tense="NONE">oferta</EVENT>de a<EVENT aspect="NONE" class="OCCURRENCE" eid="e5" eiid="ei153" eventID="e5" polarity="POS" pos="VERB" tense="INFINITIVE">achizi&tcedil;iona</EVENT><ENAMEX TYPE="ORGANIZATION">Mesa Airlines</ENAMEX>pentru_c&abreve; furnizorul<ENAMEX TYPE="LOCATION">din Farmington</ENAMEX>,<ENAMEX TYPE="LOCATION">N.M.</ENAMEX>, nu a<EVENT aspect="NONE" class="OCCURRENCE" eid="e6" eiid="ei154" eventID="e6" polarity="NEG" pos="VERB" tense="PAST">r&abreve;spuns</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e8" eiid="ei155" eventID="e8" polarity="POS" pos="NOUN" tense="NONE">ofertei</EVENT>sale p&acirc;n&abreve;_la<EVENT aspect="NONE" class="OCCURRENCE" eid="e9" eiid="ei156" eventID="e9" polarity="POS" pos="NOUN" tense="NONE">&icirc;ncheierea</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e10" eiid="ei157" eventID="e10" polarity="POS" pos="NOUN" tense="NONE">afacerii</EVENT><TIMEX3 anchorTimeID="t40" functionInDocument="NONE" temporalFunction="true" tid="t41" type="DATE" value="1989-10-31">ieri</TIMEX3>, un termen pe care<ENAMEX TYPE="ORGANIZATION">StatesWest</ENAMEX>l- a<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e11" eiid="ei158" eventID="e11" polarity="POS" pos="VERB" tense="PAST">dat</EVENT>pentru r&abreve;spuns .</s>
+    <s>Totu&scedil;i ,<ENAMEX TYPE="ORGANIZATION">StatesWest</ENAMEX>nu<EVENT aspect="PROGRESSIVE" class="ASPECTUAL" eid="e12" eiid="ei159" eventID="e12" polarity="NEG" pos="VERB" tense="PRESENT">abandoneaz&abreve;</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e14" eiid="ei160" eventID="e14" polarity="POS" pos="NOUN" tense="NONE">urm&abreve;rirea</EVENT>mult-mai-marei<ENAMEX TYPE="LOCATION">Mesa</ENAMEX>.</s>
+    <s><ENAMEX TYPE="ORGANIZATION">StatesWest</ENAMEX>, care are un stoc<NUMEX TYPE="PERCENT">de 7,25%</NUMEX>&icirc;n<ENAMEX TYPE="LOCATION">Mesa</ENAMEX>,<EVENT aspect="NONE" class="REPORTING" eid="e17" eiid="ei161" eventID="e17" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>c&abreve; ar putea<EVENT aspect="NONE" class="OCCURRENCE" eid="e18" eiid="ei162" eventID="e18" modality="may" polarity="POS" pos="VERB" tense="NONE">s&abreve; cumpere</EVENT>mai mult stoc<ENAMEX TYPE="LOCATION">Mesa</ENAMEX>sau<EVENT aspect="NONE" class="OCCURRENCE" eid="e20" eiid="ei163" eventID="e20" modality="may" polarity="POS" pos="VERB" tense="NONE">s&abreve; fac&abreve;</EVENT>o<EVENT aspect="NONE" class="OCCURRENCE" eid="e21" eiid="ei164" eventID="e21" polarity="POS" pos="NOUN" tense="NONE">ofert&abreve;</EVENT>direct&abreve; ac&tcedil;ionarilor<ENAMEX TYPE="LOCATION">Mesa</ENAMEX>.</s>
+    <s><ENAMEX TYPE="ORGANIZATION">StatesWest</ENAMEX><EVENT aspect="PERFECTIVE" class="I_ACTION" eid="e22" eiid="ei165" eventID="e22" polarity="POS" pos="VERB" tense="PAST">propusese</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e23" eiid="ei166" eventID="e23" polarity="POS" pos="NOUN" tense="NONE">achizi&tcedil;ionarea</EVENT><ENAMEX TYPE="LOCATION">Mesa</ENAMEX>pentru<NUMEX TYPE="MONEY">$ 7</NUMEX>pe ac&tcedil;iune &scedil;i o ac&tcedil;iune dintr- o nou&abreve; serie din<NUMEX TYPE="PERCENT">cele 6%</NUMEX>stoc preferen&tcedil;ial convertibil<ENAMEX TYPE="ORGANIZATION">al StatesWest</ENAMEX>pe care &icirc;l evalueaz&abreve; la<NUMEX TYPE="MONEY">$ 3 pe</NUMEX>ac&tcedil;iune .</s>
+    <s><SIGNAL sid="s43">Mai devreme</SIGNAL>,<ENAMEX TYPE="LOCATION">Mesa</ENAMEX><EVENT aspect="PERFECTIVE" class="I_STATE" eid="e26" eiid="ei167" eventID="e26" polarity="POS" pos="VERB" tense="PAST">respinsese</EVENT>o<EVENT aspect="NONE" class="I_ACTION" eid="e27" eiid="ei168" eventID="e27" polarity="POS" pos="NOUN" tense="NONE">propunere</EVENT>generel&abreve; de_la<ENAMEX TYPE="ORGANIZATION">StatesWest</ENAMEX>de a<EVENT aspect="NONE" class="OCCURRENCE" eid="e29" eiid="ei169" eventID="e29" polarity="POS" pos="VERB" tense="INFINITIVE">combina</EVENT>cei<CARDINAL>doi</CARDINAL>furnizori &icirc;ntr- un fel .</s>
+    <s><ENAMEX TYPE="ORGANIZATION">StatesWest</ENAMEX>serve&scedil;te<CARDINAL>10</CARDINAL>ora&scedil;e din<ENAMEX TYPE="LOCATION">California</ENAMEX>,<ENAMEX TYPE="LOCATION">Arizona</ENAMEX>&scedil;i<ENAMEX TYPE="LOCATION">Nevada</ENAMEX>.</s>
+    <s><ENAMEX TYPE="LOCATION">Mesa</ENAMEX>zboar&abreve; spre<CARDINAL>42</CARDINAL>de ora&scedil;e din<ENAMEX TYPE="LOCATION">New Mexico</ENAMEX>,<ENAMEX TYPE="LOCATION">Arizona</ENAMEX>,<ENAMEX TYPE="LOCATION">Wyoming</ENAMEX>,<ENAMEX TYPE="LOCATION">Colorado</ENAMEX>&scedil;i<ENAMEX TYPE="LOCATION">Texas</ENAMEX>.</s>
+  </TEXT>
+  <TLINK eventID="e14" lid="l28" relType="IDENTITY" relatedToEvent="e3"/>
+  <TLINK eventID="e1" lid="l1" relType="BEFORE" relatedToTime="t40"/>
+  <TLINK eventID="e6" lid="l2" relType="BEFORE" relatedToEvent="e2"/>
+  <TLINK eventID="e8" lid="l3" relType="IDENTITY" relatedToEvent="e3"/>
+  <TLINK eventID="e6" lid="l4" relType="SIMULTANEOUS" relatedToEvent="e9"/>
+  <TLINK eventID="e9" lid="l5" relType="ENDS" relatedToEvent="e10"/>
+  <TLINK eventID="e10" lid="l6" relType="IS_INCLUDED" relatedToTime="t41"/>
+  <TLINK eventID="e11" lid="l7" relType="BEFORE" relatedToEvent="e2"/>
+  <TLINK eventID="e11" lid="l8" relType="BEFORE" relatedToTime="t41"/>
+  <TLINK eventID="e12" lid="l9" relType="INCLUDES" relatedToTime="t40"/>
+  <TLINK eventID="e17" lid="l10" relType="BEFORE" relatedToTime="t40"/>
+  <TLINK eventID="e20" lid="l11" relType="IDENTITY" relatedToEvent="e21"/>
+  <TLINK eventID="e26" lid="l12" relType="BEFORE" relatedToEvent="e22" signalID="s43"/>
+  <TLINK eventID="e22" lid="l13" relType="BEFORE" relatedToTime="t40"/>
+  <TLINK eventID="e26" lid="l14" relType="AFTER" relatedToEvent="e27"/>
+  <SLINK eventID="e26" lid="l26" relType="FACTIVE" subordinatedEvent="e27"/>
+  <SLINK eventID="e27" lid="l15" relType="MODAL" subordinatedEvent="e29"/>
+  <SLINK eventID="e1" lid="l16" relType="EVIDENTIAL" subordinatedEvent="e2"/>
+  <SLINK eventID="e2" lid="l17" relType="MODAL" subordinatedEvent="e3"/>
+  <SLINK eventID="e3" lid="l18" relType="MODAL" subordinatedEvent="e5"/>
+  <SLINK eventID="e6" lid="l19" relType="FACTIVE" subordinatedEvent="e8"/>
+  <SLINK eventID="e17" lid="l20" relType="EVIDENTIAL" subordinatedEvent="e18"/>
+  <SLINK eventID="e17" lid="l21" relType="EVIDENTIAL" subordinatedEvent="e20"/>
+  <SLINK eventID="e22" lid="l22" relType="MODAL" subordinatedEvent="e23"/>
+  <ALINK eventID="e9" lid="l24" relType="TERMINATES" relatedToEvent="e10"/>
+  <ALINK eventID="e12" lid="l23" relType="TERMINATES" relatedToEvent="e14"/>
+</TimeML>

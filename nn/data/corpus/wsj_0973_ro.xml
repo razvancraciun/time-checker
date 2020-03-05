@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> WSJ891026-0085 </DOCNO>
+  <DD> = 891026 </DD>
+  <AN> 891026-0085. </AN>
+  <HL> Westinghouse
+@  Sees Big Gains
+@  For Next Year
+@  ---
+@  Boost in Operating Margins,
+@  Double-Digit Per-Share
+@  Growth Forecast by Firm
+@  ----
+@  By Gregory Stricharchuk
+@  Staff Reporter of The Wall Street Journal </HL>
+  <DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t118" type="DATE" value="1989-10-26">10/26/89</TIMEX3> </DD>
+  <SO> WALL STREET JOURNAL (J) </SO>
+  <CO> WX </CO>
+  <IN> ELECTRICAL COMPONENTS AND EQUIPMENT (ELQ) </IN>
+  <DATELINE> NEW YORK  </DATELINE>
+  <TEXT>
+    <s><ENAMEX TYPE="ORGANIZATION">Westinghouse Electric Corp .</ENAMEX>,<EVENT aspect="NONE" class="OCCURRENCE" eid="e1" eiid="ei1991" eventID="e1" polarity="POS" pos="VERB" tense="PRESPART">capitaliz&acirc;nd</EVENT>pe un program major de restructurare ,<EVENT aspect="NONE" class="I_STATE" eid="e3" eiid="ei1992" eventID="e3" polarity="POS" pos="VERB" tense="PRESENT">se a&scedil;teapt&abreve;</EVENT>la limite opera&tcedil;ionale de mai mult de<NUMEX TYPE="PERCENT">10%</NUMEX>&scedil;i<EVENT aspect="NONE" class="OCCURRENCE" eid="e117" eiid="ei1993" eventID="e117" polarity="POS" pos="NOUN" tense="NONE">o cre&scedil;tere</EVENT>a c&acirc;&scedil;tigurilor de dou&abreve; cifre pe ac&tcedil;iune<TIMEX3 anchorTimeID="t118" functionInDocument="NONE" temporalFunction="true" tid="t119" type="DATE" value="1990">anul viitor</TIMEX3>,<EVENT aspect="NONE" class="REPORTING" eid="e4" eiid="ei1994" eventID="e4" polarity="POS" pos="VERB" tense="PAST">au spus</EVENT>func&tcedil;ionarii superiori anali&scedil;tilor de investi&tcedil;ii de aici .</s>
+    <s><ENAMEX TYPE="PERSON">John C . Marous , pre&scedil;edinte &scedil;i director executiv &scedil;ef</ENAMEX>, a mai<EVENT aspect="NONE" class="REPORTING" eid="e6" eiid="ei1995" eventID="e6" polarity="POS" pos="VERB" tense="PAST">spus</EVENT>c&abreve; compania<EVENT aspect="NONE" class="I_STATE" eid="e7" eiid="ei1996" eventID="e7" polarity="POS" pos="VERB" tense="PRESENT">se a&scedil;teapt&abreve;</EVENT>ca v&acirc;nz&abreve;rile din afacerile continue s&abreve;<EVENT aspect="NONE" cardinality="3" class="OCCURRENCE" eid="e12" eiid="ei1997" eventID="e12" polarity="POS" pos="VERB" tense="INFINITIVE">creasc&abreve;</EVENT><NUMEX TYPE="PERCENT">cu 8.5%</NUMEX><COMMENT NOTE="how to annotate that?">anual</COMMENT><SIGNAL sid="s120">&icirc;n</SIGNAL><TIMEX3 beginPoint="t118" functionInDocument="NONE" temporalFunction="true" tid="t121" type="DURATION" value="P3Y">urm&abreve;torii trei ani</TIMEX3>.</s>
+    <s><SIGNAL sid="s123">&Icirc;n</SIGNAL><TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t122" type="DATE" value="1988">1988</TIMEX3>, compania<EVENT aspect="NONE" class="OCCURRENCE" eid="e13" eiid="ei1998" eventID="e13" polarity="POS" pos="VERB" tense="PAST">a c&acirc;&scedil;tigat</EVENT><NUMEX TYPE="MONEY">$ 822 . 8_milioane</NUMEX>, sau<NUMEX TYPE="MONEY">$ 5 . 66</NUMEX>ac&tcedil;iunea , din v&acirc;nz&abreve;ri de<NUMEX TYPE="MONEY">$ 12 . 49_miliarde</NUMEX>.</s>
+    <s><SIGNAL sid="s125">Din</SIGNAL><TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t126" type="DATE" value="1983">1983</TIMEX3>,<ENAMEX TYPE="ORGANIZATION">Westinghouse</ENAMEX>a<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e15" eiid="ei1999" eventID="e15" polarity="POS" pos="VERB" tense="PRESENT">abandonat</EVENT><CARDINAL>70</CARDINAL>de afaceri care nu<EVENT aspect="NONE" class="I_STATE" eid="e17" eiid="ei2000" eventID="e17" polarity="NEG" pos="VERB" tense="PAST">se a&scedil;tepta</EVENT>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e20" eiid="ei2001" eventID="e20" polarity="POS" pos="VERB" tense="INFINITIVE">produc&abreve;</EVENT>limite opera&tcedil;ionale<NUMEX TYPE="PERCENT">de 10%</NUMEX><SIGNAL sid="s21">&icirc;n_timp_ce</SIGNAL><EVENT aspect="NONE" class="OCCURRENCE" eid="e22" eiid="ei2002" eventID="e22" polarity="POS" pos="VERB" tense="NONE">a achizi&tcedil;ionat</EVENT><CARDINAL>55</CARDINAL>de afaceri .</s>
+    <s>Numai &icirc;n<TIMEX3 endPoint="t118" functionInDocument="NONE" temporalFunction="true" tid="t127" type="DURATION" value="P20M">ultimele 20 de luni</TIMEX3>,<ENAMEX TYPE="PERSON">Paul E. Lego , pre&scedil;edinte &scedil;i director opera&tcedil;ional &scedil;ef</ENAMEX>,<EVENT aspect="NONE" class="REPORTING" eid="e24" eiid="ei2003" eventID="e24" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>c&abreve; deposedarea de<NUMEX TYPE="MONEY">$ 300 milioane</NUMEX>a afacerilor cu profit mic &scedil;i cre&scedil;tere lent&abreve; a fost mai mult dec&acirc;t<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e467" eiid="ei2058" eventID="e467" polarity="POS" pos="VERB" tense="PRESENT">compensat&abreve;</EVENT>de cele<NUMEX TYPE="MONEY">$ 600 milioane</NUMEX>&icirc;n achizi&tcedil;ii profitabile .</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Westinghouse</ENAMEX><EVENT aspect="NONE" class="I_STATE" eid="e31" eiid="ei2005" eventID="e31" polarity="POS" pos="VERB" tense="PRESENT">se a&scedil;teapt&abreve;</EVENT>s&abreve; -&scedil;i<EVENT aspect="NONE" class="OCCURRENCE" eid="e33" eiid="ei2006" eventID="e33" polarity="POS" pos="VERB" tense="INFINITIVE">&icirc;ndeplineasc&abreve;</EVENT>scopurile corporative &icirc;n_ciuda unei &icirc;nmuieri a economiei .</s>
+    <s>Chiar dac&abreve; produsul na&tcedil;ional brut este ori<EVENT aspect="NONE" class="STATE" eid="e130" eiid="ei2007" eventID="e130" polarity="POS" pos="ADJECTIVE" tense="PRESENT">plat</EVENT>ori<EVENT aspect="NONE" class="STATE" eid="e468" eiid="ei2059" eventID="e468" polarity="POS" pos="PREPOSITION" tense="PRESENT">&icirc;n</EVENT>gama de cre&scedil;tere de<NUMEX TYPE="PERCENT">2%</NUMEX>p&acirc;n&abreve;_la<NUMEX TYPE="PERCENT">2.5%</NUMEX>, " putem<EVENT aspect="NONE" class="OCCURRENCE" eid="e37" eiid="ei2009" eventID="e37" modality="can" polarity="POS" pos="NOUN" tense="NONE">face fa&tcedil;&abreve;</EVENT>la asta , "<EVENT aspect="NONE" class="REPORTING" eid="e39" eiid="ei2010" eventID="e39" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT><ENAMEX TYPE="PERSON">dl. Marous</ENAMEX>.</s>
+    <s>PIB este valoarea total&abreve; a produc&tcedil;iei de bunuri &scedil;i servicii a na&tcedil;iunii .</s>
+    <s>Un punct luminos este afacerea de generare de energie a companiei , care<EVENT aspect="PROGRESSIVE" class="I_STATE" eid="e44" eiid="ei2011" eventID="e44" polarity="POS" pos="VERB" tense="PRESENT">trece</EVENT>printr- o explozie de<EVENT aspect="NONE" class="OCCURRENCE" eid="e134" eiid="ei2012" eventID="e134" polarity="POS" pos="NOUN" tense="NONE">cre&scedil;tere</EVENT><COMMENT NOTE="how to annotate that?">pentru prima dat&abreve;</COMMENT><SIGNAL sid="s135">&icirc;n</SIGNAL><TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t136" type="DURATION" value="PXY">ani</TIMEX3>.</s>
+    <s><ENAMEX TYPE="PERSON">Dl . Marous</ENAMEX><EVENT aspect="NONE" class="REPORTING" eid="e47" eiid="ei2013" eventID="e47" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>c&abreve; afacerea va<EVENT aspect="NONE" class="OCCURRENCE" eid="e49" eiid="ei2014" eventID="e49" polarity="POS" pos="VERB" tense="FUTURE">realiza</EVENT>v&acirc;nz&abreve;ri mai mari<TIMEX3 anchorTimeID="t118" functionInDocument="NONE" temporalFunction="true" tid="t137" type="DATE" value="1989">anul acesta</TIMEX3>dec&acirc;t obiectivul &tcedil;int&abreve; al companiei de<NUMEX TYPE="PERCENT">8.5%</NUMEX>.</s>
+    <s>&Icirc;n timp ce<ENAMEX TYPE="ORGANIZATION">Westinghouse</ENAMEX>nu a<EVENT aspect="PERFECTIVE" class="STATE" eid="e138" eiid="ei2015" eventID="e138" polarity="NEG" pos="VERB" tense="PRESENT">avut</EVENT>o<EVENT aspect="NONE" class="OCCURRENCE" eid="e51" eiid="ei2016" eventID="e51" polarity="POS" pos="NOUN" tense="NONE">comand&abreve;</EVENT>de uzin&abreve; de energie nuclear&abreve; de_la o utilitate<ENAMEX TYPE="LOCATION">SUA</ENAMEX><SIGNAL sid="s140">de</SIGNAL><TIMEX3 functionInDocument="NONE" mod="APPROX" temporalFunction="false" tid="t141" type="DURATION" value="P1E">aproximativ o decad&abreve;</TIMEX3>, capacitatea de excedent<EVENT aspect="PROGRESSIVE" class="ASPECTUAL" eid="e52" eiid="ei2017" eventID="e52" polarity="POS" pos="VERB" tense="PRESENT">&icirc;ncepe</EVENT>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e54" eiid="ei2018" eventID="e54" polarity="POS" pos="VERB" tense="INFINITIVE">se mic&scedil;oreze</EVENT>.</s>
+    <s><ENAMEX TYPE="PERSON">Dl . Lego</ENAMEX><EVENT aspect="NONE" class="REPORTING" eid="e55" eiid="ei2019" eventID="e55" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>c&abreve; compania<EVENT aspect="NONE" class="I_STATE" eid="e56" eiid="ei2020" eventID="e56" polarity="POS" pos="VERB" tense="PRESENT">prevede</EVENT><EVENT aspect="NONE" class="I_STATE" eid="e142" eiid="ei2021" eventID="e142" polarity="POS" pos="NOUN" tense="NONE">nevoia</EVENT>de o<EVENT aspect="NONE" class="OCCURRENCE" eid="e57" eiid="ei2022" eventID="e57" polarity="POS" pos="NOUN" tense="NONE">m&abreve;rire</EVENT>major&abreve; a capabilit&abreve;&tcedil;ii de nou&abreve; genera&tcedil;ie<SIGNAL sid="s143">de- a lungul</SIGNAL><TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t144" type="DURATION" value="199">anilor 1990</TIMEX3>.</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Westinghouse</ENAMEX>este de_asemenea bine<EVENT aspect="NONE" class="I_STATE" eid="e58" eiid="ei2023" eventID="e58" polarity="POS" pos="ADJECTIVE" tense="PRESENT">pozi&tcedil;ionat&abreve;</EVENT>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e60" eiid="ei2024" eventID="e60" polarity="POS" pos="VERB" tense="INFINITIVE">v&acirc;nd&abreve;</EVENT>uzine de turbine cu abur &scedil;i turbine cu gaz c&abreve;tre produc&abreve;torii independen&tcedil;i de energie .</s>
+    <s>Abilitatea companiei s&abreve; r&abreve;spund&abreve; nevoilor de energie &icirc;n toat&abreve; lumea va fi<EVENT aspect="NONE" class="OCCURRENCE" eid="e65" eiid="ei2025" eventID="e65" polarity="POS" pos="VERB" tense="FUTURE">&icirc;mbun&abreve;t&abreve;&tcedil;it&abreve;</EVENT>printr- o<EVENT aspect="NONE" class="OCCURRENCE" eid="e66" eiid="ei2027" eventID="e66" polarity="POS" pos="NOUN" tense="NONE">asociere</EVENT><TIMEX3 anchorTimeID="t118" functionInDocument="NONE" temporalFunction="true" tid="t145" type="DATE" value="PAST_REF">recent</TIMEX3><EVENT aspect="NONE" class="I_ACTION" eid="e146" eiid="ei2026" eventID="e146" polarity="POS" pos="VERB" tense="NONE">anun&tcedil;at&abreve;</EVENT>cu<ENAMEX TYPE="ORGANIZATION">Mitsubishi Heavy Industries</ENAMEX>,<EVENT aspect="NONE" class="REPORTING" eid="e68" eiid="ei2028" eventID="e68" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT><ENAMEX TYPE="PERSON">dl. Lego</ENAMEX>.</s>
+    <s>El<EVENT aspect="NONE" class="REPORTING" eid="e69" eiid="ei2029" eventID="e69" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>c&abreve; segmentul energetic independent ar putea<EVENT aspect="NONE" class="OCCURRENCE" eid="e70" eiid="ei2030" eventID="e70" modality="could" polarity="POS" pos="VERB" tense="NONE">cre&scedil;te</EVENT>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e73" eiid="ei2031" eventID="e73" polarity="POS" pos="VERB" tense="INFINITIVE">furnizeze</EVENT>chiar<NUMEX TYPE="PERCENT">50%</NUMEX>din capacitatea de generare a trimestrului apropiat ,<EVENT aspect="NONE" class="REPORTING" eid="e74" eiid="ei2032" eventID="e74" polarity="POS" pos="VERB" tense="NONE">ad&abreve;ug&acirc;nd</EVENT>: " Ne<EVENT aspect="NONE" class="I_STATE" eid="e75" eiid="ei2033" eventID="e75" polarity="POS" pos="VERB" tense="PRESENT">a&scedil;tept&abreve;m</EVENT>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e77" eiid="ei2034" eventID="e77" polarity="POS" pos="VERB" tense="INFINITIVE">aliment&abreve;m</EVENT>o parte semnificativ&abreve; a acestei pie&tcedil;e . "</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Westinghouse</ENAMEX> e mai<EVENT aspect="NONE" class="I_STATE" eid="e79" eiid="ei2035" eventID="e79" polarity="POS" pos="VERB" tense="PRESENT">a&scedil;teapt&abreve;</EVENT>ca v&acirc;nz&abreve;rile sale interna&tcedil;ionale s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e81" eiid="ei2036" eventID="e81" polarity="POS" pos="VERB" tense="INFINITIVE">creasc&abreve;</EVENT><TIMEX3 anchorTimeID="t118" functionInDocument="NONE" temporalFunction="true" tid="t147" type="DATE" value="FUTURE_REF">cur&acirc;nd</TIMEX3>la<EVENT aspect="NONE" class="STATE" eid="e469" eiid="ei2060" eventID="e469" polarity="POS" pos="OTHER" tense="NONE"><NUMEX TYPE="PERCENT">25%</NUMEX></EVENT>din v&acirc;nz&abreve;rile corporative totale<SIGNAL sid="s149">de_la</SIGNAL><EVENT aspect="NONE" class="STATE" eid="e152" eiid="ei2038" eventID="e152" polarity="POS" pos="OTHER" tense="NONE"><NUMEX TYPE="PERCENT">20%</NUMEX></EVENT><TIMEX3 anchorTimeID="t118" functionInDocument="NONE" temporalFunction="true" tid="t150" type="DATE" value="1988">anul trecut</TIMEX3>.</s>
+    <s>Compania<EVENT aspect="PROGRESSIVE" class="OCCURRENCE" eid="e82" eiid="ei2039" eventID="e82" polarity="POS" pos="VERB" tense="PRESENT">negociaz&abreve;</EVENT>cu sovieticii s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e84" eiid="ei2040" eventID="e84" polarity="POS" pos="VERB" tense="INFINITIVE">construiasc&abreve;</EVENT>o uzin&abreve;<ENAMEX TYPE="ORGANIZATION">Thermo</ENAMEX>King de refrigerare pentru camioane care ar<EVENT aspect="NONE" class="OCCURRENCE" eid="e85" eiid="ei2041" eventID="e85" modality="would" polarity="POS" pos="VERB" tense="NONE">produce</EVENT><CARDINAL>cam 10 , 000</CARDINAL>de unit&abreve;&tcedil;i<COMMENT NOTE="how to annotate that?">anual</COMMENT>.</s>
+    <s><ENAMEX TYPE="PERSON">Dl . Marous</ENAMEX><EVENT aspect="NONE" class="REPORTING" eid="e87" eiid="ei2042" eventID="e87" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>c&abreve;<ENAMEX TYPE="ORGANIZATION">Westinghouse</ENAMEX>ar<EVENT aspect="NONE" class="STATE" eid="e154" eiid="ei2043" eventID="e154" modality="would" polarity="POS" pos="VERB" tense="NONE">de&tcedil;ine</EVENT><NUMEX TYPE="PERCENT">70%</NUMEX>din &icirc;ntreprindere .</s>
+    <s><EVENT aspect="NONE" class="OCCURRENCE" eid="e466" eiid="ei2044" eventID="e466" polarity="POS" pos="NOUN" tense="NONE">&Icirc;n&tcedil;elegerea</EVENT>, care va<EVENT aspect="NONE" class="I_STATE" eid="e89" eiid="ei2045" eventID="e89" polarity="POS" pos="VERB" tense="FUTURE">implica</EVENT>o<EVENT aspect="NONE" class="OCCURRENCE" eid="e90" eiid="ei2046" eventID="e90" polarity="POS" pos="NOUN" tense="NONE">investi&tcedil;ie</EVENT>ini&tcedil;ial&abreve;<NUMEX TYPE="MONEY">de $ 20 milioane</NUMEX>, a fost<EVENT aspect="NONE" class="OCCURRENCE" eid="e91" eiid="ei2047" eventID="e91" polarity="POS" pos="VERB" tense="PAST">&icirc;ncheiat&abreve;</EVENT>cu o<EVENT aspect="NONE" class="OCCURRENCE" eid="e155" eiid="ei2048" eventID="e155" polarity="POS" pos="NOUN" tense="NONE">str&acirc;ngere de m&acirc;n&abreve;</EVENT>,<EVENT aspect="NONE" class="REPORTING" eid="e93" eiid="ei2049" eventID="e93" polarity="POS" pos="VERB" tense="PAST">a ad&abreve;ugat</EVENT>el .</s>
+    <s>Oficiali ai companiei au mai<EVENT aspect="NONE" class="REPORTING" eid="e94" eiid="ei2050" eventID="e94" polarity="POS" pos="VERB" tense="PAST">spus</EVENT>c&abreve; orice c&acirc;&scedil;tig din<EVENT aspect="NONE" class="OCCURRENCE" eid="e95" eiid="ei2051" eventID="e95" polarity="POS" pos="NOUN" tense="NONE">v&acirc;nzarea</EVENT>cotei<NUMEX TYPE="PERCENT">de 55%</NUMEX>a<ENAMEX TYPE="ORGANIZATION">Westinghouse</ENAMEX>&icirc;n &icirc;ntreprinderea de transmisie &scedil;i distribu&tcedil;ie cu firma elve&tcedil;ian&abreve; Asea Brown Boveri va fi<EVENT aspect="NONE" class="OCCURRENCE" eid="e101" eiid="ei2052" eventID="e101" polarity="POS" pos="VERB" tense="FUTURE">compensat</EVENT>de o tax&abreve; de restructurare<SIGNAL sid="s156">&icirc;n</SIGNAL><TIMEX3 anchorTimeID="t118" functionInDocument="NONE" temporalFunction="true" tid="t157" type="DATE" value="1989-Q4">al patrulea trimestru</TIMEX3>.</s>
+    <s>Directorii nu au<EVENT aspect="NONE" class="OCCURRENCE" eid="e102" eiid="ei2053" eventID="e102" polarity="NEG" pos="VERB" tense="PAST">dezv&abreve;luit</EVENT>dimensiunea c&acirc;&scedil;tigului a&scedil;teptat .</s>
+    <s>Cheltuiala de capital<SIGNAL sid="s159">&icirc;n</SIGNAL><TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t158" type="DATE" value="1990">1990</TIMEX3>se va<EVENT aspect="NONE" class="OCCURRENCE" eid="e105" eiid="ei2054" eventID="e105" polarity="POS" pos="VERB" tense="FUTURE">ridica</EVENT>u&scedil;or ,<EVENT aspect="NONE" class="REPORTING" eid="e106" eiid="ei2055" eventID="e106" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT><ENAMEX TYPE="PERSON">dl. Marous</ENAMEX>, de_la<NUMEX TYPE="MONEY"><EVENT aspect="NONE" class="STATE" eid="e470" eiid="ei2061" eventID="e470" polarity="POS" pos="NOUN" tense="NONE">$ 470</EVENT>milioane</NUMEX><EVENT aspect="NONE" class="I_STATE" eid="e161" eiid="ei2056" eventID="e161" polarity="POS" pos="VERB" tense="NONE">estima&tcedil;i</EVENT><TIMEX3 anchorTimeID="t118" functionInDocument="NONE" temporalFunction="true" tid="t163" type="DATE" value="1989">anul acesta</TIMEX3>.</s>
+  </TEXT>
+  <TLINK eventID="e470" lid="l85" relType="IS_INCLUDED" relatedToTime="t163"/>
+  <TLINK eventID="e466" lid="l84" relType="IDENTITY" relatedToEvent="e82"/>
+  <TLINK eventID="e93" lid="l83" relType="IDENTITY" relatedToEvent="e87"/>
+  <TLINK eventID="e82" lid="l82" relType="IS_INCLUDED" relatedToTime="t118"/>
+  <TLINK eventID="e469" lid="l81" relType="AFTER" relatedToEvent="e81"/>
+  <TLINK eventID="e79" lid="l80" relType="IS_INCLUDED" relatedToTime="t118"/>
+  <TLINK eventID="e55" lid="l79" relType="BEFORE" relatedToTime="t118"/>
+  <TLINK eventID="e54" lid="l78" relType="IS_INCLUDED" relatedToTime="t118"/>
+  <TLINK eventID="e39" lid="l77" relType="BEFORE" relatedToTime="t118"/>
+  <TLINK eventID="e468" lid="l76" relType="AFTER" relatedToTime="t118"/>
+  <TLINK eventID="e467" lid="l75" relType="IS_INCLUDED" relatedToTime="t127"/>
+  <TLINK eventID="e24" lid="l74" relType="IDENTITY" relatedToEvent="e4"/>
+  <TLINK eventID="e15" lid="l1" relType="BEGUN_BY" relatedToTime="t126" signalID="s125"/>
+  <TLINK eventID="e15" lid="l2" relType="AFTER" relatedToEvent="e17"/>
+  <TLINK eventID="e15" lid="l3" relType="SIMULTANEOUS" relatedToEvent="e22" signalID="s21"/>
+  <TLINK eventID="e22" lid="l4" relType="BEGUN_BY" relatedToTime="t126" signalID="s125"/>
+  <TLINK eventID="e31" lid="l5" relType="INCLUDES" relatedToTime="t118"/>
+  <TLINK eventID="e57" lid="l6" relType="DURING" relatedToTime="t144" signalID="s143"/>
+  <TLINK eventID="e58" lid="l7" relType="INCLUDES" relatedToTime="t118"/>
+  <TLINK eventID="e65" lid="l8" relType="AFTER" relatedToEvent="e66"/>
+  <TLINK lid="l9" relType="INCLUDES" relatedToEvent="e146" timeID="t145"/>
+  <TLINK eventID="e37" lid="l10" relType="SIMULTANEOUS" relatedToEvent="e130"/>
+  <TLINK eventID="e1" lid="l11" relType="SIMULTANEOUS" relatedToEvent="e3"/>
+  <TLINK eventID="e69" lid="l12" relType="IDENTITY" relatedToEvent="e68"/>
+  <TLINK eventID="e74" lid="l13" relType="IS_INCLUDED" relatedToEvent="e69"/>
+  <TLINK eventID="e81" lid="l14" relType="IS_INCLUDED" relatedToTime="t147"/>
+  <TLINK eventID="e81" lid="l15" relType="BEGUN_BY" relatedToEvent="e152" signalID="s149"/>
+  <TLINK eventID="e152" lid="l16" relType="IS_INCLUDED" relatedToTime="t150"/>
+  <TLINK eventID="e84" lid="l17" relType="BEFORE" relatedToEvent="e85"/>
+  <TLINK eventID="e87" lid="l18" relType="IDENTITY" relatedToEvent="e6"/>
+  <TLINK eventID="e89" lid="l19" relType="AFTER" relatedToTime="t118"/>
+  <TLINK eventID="e89" lid="l20" relType="IDENTITY" relatedToEvent="e90"/>
+  <TLINK eventID="e6" lid="l21" relType="IS_INCLUDED" relatedToEvent="e4"/>
+  <TLINK eventID="e91" lid="l22" relType="IDENTITY" relatedToEvent="e155"/>
+  <TLINK eventID="e3" lid="l23" relType="INCLUDES" relatedToEvent="e4"/>
+  <TLINK eventID="e44" lid="l24" relType="INCLUDES" relatedToTime="t118"/>
+  <TLINK eventID="e4" lid="l25" relType="BEFORE" relatedToTime="t118"/>
+  <TLINK eventID="e94" lid="l26" relType="IDENTITY" relatedToEvent="e4"/>
+  <TLINK eventID="e101" lid="l27" relType="AFTER" relatedToEvent="e95"/>
+  <TLINK eventID="e101" lid="l28" relType="IS_INCLUDED" relatedToTime="t157" signalID="s156"/>
+  <TLINK eventID="e13" lid="l29" relType="IS_INCLUDED" relatedToTime="t122" signalID="s123"/>
+  <TLINK eventID="e102" lid="l30" relType="IS_INCLUDED" relatedToEvent="e94"/>
+  <TLINK eventID="e105" lid="l31" relType="IS_INCLUDED" relatedToTime="t158" signalID="s159"/>
+  <TLINK eventID="e106" lid="l32" relType="IDENTITY" relatedToEvent="e87"/>
+  <TLINK eventID="e117" lid="l33" relType="IS_INCLUDED" relatedToTime="t119"/>
+  <TLINK eventID="e161" lid="l34" relType="BEFORE" relatedToEvent="e106"/>
+  <TLINK eventID="e3" lid="l35" relType="INCLUDES" relatedToTime="t118"/>
+  <TLINK eventID="e52" lid="l36" relType="INCLUDES" relatedToTime="t118"/>
+  <TLINK eventID="e138" lid="l37" relType="IS_INCLUDED" relatedToTime="t141" signalID="s140"/>
+  <TLINK eventID="e12" lid="l38" relType="DURING" relatedToTime="t121" signalID="s120"/>
+  <TLINK eventID="e138" lid="l39" relType="IDENTITY" relatedToEvent="e51"/>
+  <TLINK eventID="e49" lid="l40" relType="IS_INCLUDED" relatedToTime="t137"/>
+  <TLINK eventID="e47" lid="l41" relType="IDENTITY" relatedToEvent="e6"/>
+  <TLINK eventID="e134" lid="l42" relType="IS_INCLUDED" relatedToTime="t136" signalID="s135"/>
+  <SLINK eventID="e161" lid="l73" relType="MODAL" subordinatedEvent="e470"/>
+  <SLINK eventID="e91" lid="l72" relType="FACTIVE" subordinatedEvent="e466"/>
+  <SLINK eventID="e24" lid="l71" relType="EVIDENTIAL" subordinatedEvent="e467"/>
+  <SLINK eventID="e4" lid="l70" relType="EVIDENTIAL" subordinatedEvent="e3"/>
+  <SLINK eventID="e55" lid="l44" relType="EVIDENTIAL" subordinatedEvent="e56"/>
+  <SLINK eventID="e56" lid="l45" relType="MODAL" subordinatedEvent="e142"/>
+  <SLINK eventID="e142" lid="l46" relType="MODAL" subordinatedEvent="e57"/>
+  <SLINK eventID="e17" lid="l47" relType="MODAL" subordinatedEvent="e20"/>
+  <SLINK eventID="e31" lid="l48" relType="MODAL" subordinatedEvent="e33"/>
+  <SLINK eventID="e58" lid="l49" relType="MODAL" subordinatedEvent="e60"/>
+  <SLINK eventID="e146" lid="l50" relType="EVIDENTIAL" subordinatedEvent="e66"/>
+  <SLINK eventID="e68" lid="l51" relType="EVIDENTIAL" subordinatedEvent="e65"/>
+  <SLINK eventID="e69" lid="l52" relType="EVIDENTIAL" subordinatedEvent="e70"/>
+  <SLINK eventID="e70" lid="l53" relType="MODAL" subordinatedEvent="e73"/>
+  <SLINK eventID="e74" lid="l54" relType="EVIDENTIAL" subordinatedEvent="e75"/>
+  <SLINK eventID="e75" lid="l55" relType="MODAL" subordinatedEvent="e77"/>
+  <SLINK eventID="e79" lid="l56" relType="MODAL" subordinatedEvent="e81"/>
+  <SLINK eventID="e82" lid="l57" relType="MODAL" subordinatedEvent="e84"/>
+  <SLINK eventID="e87" lid="l58" relType="EVIDENTIAL" subordinatedEvent="e154"/>
+  <SLINK eventID="e39" lid="l59" relType="EVIDENTIAL" subordinatedEvent="e37"/>
+  <SLINK eventID="e6" lid="l60" relType="EVIDENTIAL" subordinatedEvent="e7"/>
+  <SLINK eventID="e93" lid="l61" relType="EVIDENTIAL" subordinatedEvent="e91"/>
+  <SLINK eventID="e94" lid="l62" relType="EVIDENTIAL" subordinatedEvent="e101"/>
+  <SLINK eventID="e7" lid="l63" relType="MODAL" subordinatedEvent="e12"/>
+  <SLINK eventID="e3" lid="l64" relType="MODAL" subordinatedEvent="e117"/>
+  <SLINK eventID="e106" lid="l65" relType="EVIDENTIAL" subordinatedEvent="e105"/>
+  <SLINK eventID="e47" lid="l66" relType="EVIDENTIAL" subordinatedEvent="e49"/>
+  <SLINK eventID="e44" lid="l67" relType="FACTIVE" subordinatedEvent="e134"/>
+  <ALINK eventID="e91" lid="l68" relType="CULMINATES" relatedToEvent="e466"/>
+  <ALINK eventID="e52" lid="l69" relType="INITIATES" relatedToEvent="e54"/>
+</TimeML>

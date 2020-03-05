@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> WSJ891030-0143 </DOCNO>
+  <DD> = 891030 </DD>
+  <AN> 891030-0143. </AN>
+  <HL> RJR Is Selling
+@  Candy Brands
+@  For $370 Million
+@  ----
+@  By Peter Waldman
+@  Staff Reporter of The Wall Street Journal </HL>
+  <DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t78" type="DATE" value="1989-10-30">10/30/89</TIMEX3> </DD>
+  <SO> WALL STREET JOURNAL (J) </SO>
+  <CO> RJR Z.NES </CO>
+  <IN> TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+FOOD PRODUCTS (FOD) </IN>
+  <TEXT>
+    <s><ENAMEX TYPE="ORGANIZATION">RJR Nabisco Inc .</ENAMEX><EVENT aspect="NONE" class="REPORTING" eid="e1" eiid="ei1989" eventID="e1" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>c&abreve;<EVENT aspect="NONE" class="I_STATE" eid="e2" eiid="ei1990" eventID="e2" polarity="POS" pos="VERB" tense="PAST">a convenit</EVENT>s&abreve; -&scedil;i<EVENT aspect="NONE" class="OCCURRENCE" eid="e4" eiid="ei1991" eventID="e4" polarity="POS" pos="VERB" tense="INFINITIVE">v&acirc;nd&abreve;</EVENT>afacerile cu dulciuri<ENAMEX TYPE="LOCATION">Baby Ruth</ENAMEX>,<ENAMEX TYPE="LOCATION">Butterfinger</ENAMEX>&scedil;i<ENAMEX TYPE="LOCATION">Pearson</ENAMEX>unit&abreve;&tcedil;ii<ENAMEX TYPE="ORGANIZATION">Nestle Foods</ENAMEX>a<ENAMEX TYPE="ORGANIZATION">Nestle S.A.</ENAMEX>pentru<NUMEX TYPE="MONEY">$ 370 milioane</NUMEX>.</s>
+    <s><EVENT aspect="NONE" class="OCCURRENCE" eid="e5" eiid="ei1992" eventID="e5" polarity="POS" pos="NOUN" tense="NONE">V&acirc;nzarea</EVENT>, la un<EVENT aspect="NONE" class="STATE" eid="e121" eiid="ei1993" eventID="e121" polarity="POS" pos="NOUN" tense="NONE">pre&tcedil;</EVENT>mai mare dec&acirc;t<EVENT aspect="PERFECTIVE" class="I_STATE" eid="e7" eiid="ei1994" eventID="e7" polarity="POS" pos="VERB" tense="PAST">se a&scedil;teptaser&abreve;</EVENT>unii anali&scedil;ti ,<EVENT aspect="NONE" class="I_ACTION" eid="e8" eiid="ei1995" eventID="e8" polarity="POS" pos="VERB" tense="PRESENT">ajut&abreve;</EVENT>gigantul &icirc;n alimente &scedil;i tutun<EVENT aspect="NONE" class="OCCURRENCE" eid="e72" eiid="ei1996" eventID="e72" polarity="POS" pos="VERB" tense="PRESENT">s&abreve; str&acirc;ng&abreve;</EVENT>fonduri ca s&abreve; -&scedil;i<EVENT aspect="NONE" class="OCCURRENCE" eid="e10" eiid="ei1997" eventID="e10" polarity="POS" pos="VERB" tense="INFINITIVE">pl&abreve;teasc&abreve;</EVENT>datoriile &scedil;i<EVENT aspect="NONE" class="OCCURRENCE" eid="e11" eiid="ei1998" eventID="e11" polarity="POS" pos="VERB" tense="PRESENT">spore&scedil;te</EVENT>cota<ENAMEX TYPE="ORGANIZATION">Nestle</ENAMEX><NUMEX TYPE="PERCENT">de 7%</NUMEX>din pia&tcedil;a<ENAMEX TYPE="LOCATION">american&abreve;</ENAMEX>a dulciurilor la<EVENT aspect="NONE" class="STATE" eid="e73" eiid="ei1999" eventID="e73" polarity="POS" pos="OTHER" tense="INFINITIVE">aproximativ<NUMEX TYPE="PERCENT">12%</NUMEX></EVENT>.</s>
+    <s>Comer&tcedil;ul cu dulciuri<EVENT aspect="NONE" class="STATE" eid="e75" eiid="ei2000" eventID="e75" polarity="POS" pos="VERB" tense="PAST">a avut</EVENT><EVENT aspect="NONE" class="STATE" eid="e76" eiid="ei2001" eventID="e76" polarity="POS" pos="NOUN" tense="NONE">v&acirc;nz&abreve;ri</EVENT>de aproximativ<NUMEX TYPE="MONEY">$ 154 milioane</NUMEX><TIMEX3 anchorTimeID="t78" functionInDocument="NONE" temporalFunction="true" tid="t79" type="DATE" value="1988">anul trecut</TIMEX3>, ceea_ce era &icirc;n mare<NUMEX TYPE="PERCENT">12%</NUMEX>din venitul total pentru unitatea<ENAMEX TYPE="ORGANIZATION">Planters LifeSavers</ENAMEX>a<ENAMEX TYPE="ORGANIZATION">RJR</ENAMEX>,<EVENT aspect="NONE" class="REPORTING" eid="e80" eiid="ei2002" eventID="e80" polarity="POS" pos="PREPOSITION" tense="PRESPART">potrivit</EVENT>unui memorandum<EVENT aspect="NONE" class="OCCURRENCE" eid="e14" eiid="ei2003" eventID="e14" polarity="POS" pos="VERB" tense="PASTPART">distribuit</EVENT>de proprietarul<ENAMEX TYPE="ORGANIZATION">RJR</ENAMEX>,<ENAMEX TYPE="ORGANIZATION">Kohlberg Kravis Roberts amp Co.</ENAMEX>, bancherilor<TIMEX3 anchorTimeID="t78" functionInDocument="NONE" temporalFunction="true" tid="t82" type="DATE" value="1988-12">&icirc;n decembrie trecut</TIMEX3>.</s>
+    <s>Achizi&tcedil;ionarea<ENAMEX TYPE="ORGANIZATION">Nestle</ENAMEX>include o fabric&abreve; de dulciuri &icirc;n<ENAMEX TYPE="LOCATION">parcul Franklin</ENAMEX>,<ENAMEX TYPE="LOCATION">Ill .</ENAMEX>, care se serve&scedil;te<CARDINAL>cam</CARDINAL>de<CARDINAL>800</CARDINAL>de muncitori .</s>
+    <s><EVENT aspect="NONE" class="OCCURRENCE" eid="e17" eiid="ei2004" eventID="e17" polarity="POS" pos="NOUN" tense="NONE">V&acirc;nzarea</EVENT>, care fusese<EVENT aspect="PERFECTIVE" class="I_STATE" eid="e18" eiid="ei2005" eventID="e18" polarity="POS" pos="VERB" tense="PAST">a&scedil;teptat&abreve;</EVENT>, este parte din<EVENT aspect="NONE" class="I_STATE" eid="e83" eiid="ei2006" eventID="e83" polarity="POS" pos="NOUN" tense="NONE">programul</EVENT><ENAMEX TYPE="ORGANIZATION">KKR</ENAMEX>de a<EVENT aspect="NONE" class="OCCURRENCE" eid="e20" eiid="ei2007" eventID="e20" polarity="POS" pos="VERB" tense="INFINITIVE">achita</EVENT><NUMEX TYPE="MONEY">$ 5 miliarde</NUMEX>dintr- un &icirc;mprumut punte<NUMEX TYPE="MONEY">de $ 6 miliarde</NUMEX><SIGNAL sid="s84">p&acirc;n&abreve;_&icirc;n</SIGNAL><TIMEX3 anchorTimeID="t78" functionInDocument="NONE" temporalFunction="true" tid="t85" type="DATE" value="1990-02">februarie</TIMEX3>.</s>
+    <s>Cam<NUMEX TYPE="MONEY">2_miliarde_USD</NUMEX>din acea datorie au fost<SIGNAL sid="s86">deja</SIGNAL><EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e21" eiid="ei2008" eventID="e21" polarity="POS" pos="VERB" tense="PRESENT">returna&tcedil;i</EVENT>din v&acirc;nz&abreve;ri de active anterioare , iar<ENAMEX TYPE="ORGANIZATION">RJR</ENAMEX><EVENT aspect="NONE" class="I_STATE" eid="e23" eiid="ei2009" eventID="e23" polarity="POS" pos="VERB" tense="PRESENT">se a&scedil;teapt&abreve;</EVENT>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e24" eiid="ei2010" eventID="e24" polarity="POS" pos="VERB" tense="INFINITIVE">foloseasc&abreve;</EVENT>alte<NUMEX TYPE="MONEY">2_miliarde_USD</NUMEX>din<EVENT aspect="NONE" class="OCCURRENCE" eid="e25" eiid="ei2011" eventID="e25" polarity="POS" pos="NOUN" tense="NONE">v&acirc;nzarea</EVENT>&icirc;n dou&abreve; p&abreve;r&tcedil;i , nerezolvat&abreve; , a majorit&abreve;&tcedil;ii unit&abreve;&tcedil;ii sale<ENAMEX TYPE="ORGANIZATION">din Del Monte</ENAMEX>.</s>
+    <s>Acea<EVENT aspect="NONE" class="OCCURRENCE" eid="e26" eiid="ei2012" eventID="e26" polarity="POS" pos="NOUN" tense="NONE">v&acirc;nzare</EVENT>, totu&scedil;i , ar putea &icirc;nc&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e89" eiid="ei2013" eventID="e89" modality="could" polarity="POS" pos="VERB" tense="NONE">e&scedil;ua</EVENT><SIGNAL sid="s28">dac&abreve;</SIGNAL>problemele financiare<EVENT aspect="NONE" class="OCCURRENCE" eid="e29" eiid="ei2014" eventID="e29" polarity="POS" pos="VERB" tense="PRESENT">se amplific&abreve;</EVENT>.</s>
+    <s>Astfel , r&abreve;m&acirc;ne crucial pentru<ENAMEX TYPE="ORGANIZATION">RJR</ENAMEX>s&abreve; ob&tcedil;in&abreve; bani buni pentru activele sale mai mici ca m&abreve;rcile de dulciuri .</s>
+    <s><ENAMEX TYPE="PERSON">Louis Gerstner Jr .</ENAMEX>, pre&scedil;edinte &scedil;i ofi&tcedil;er executiv &scedil;ef al<ENAMEX TYPE="ORGANIZATION">RJR</ENAMEX>din<ENAMEX TYPE="LOCATION">New_York</ENAMEX>, a numit v&acirc;nzarea un " pas semnificativ " &icirc;n programul de deposedare al companiei , ca_&scedil;i o " deposedare strategic&abreve; . "</s>
+    <s><SIGNAL sid="s274">De c&acirc;nd</SIGNAL><ENAMEX TYPE="ORGANIZATION">KKR</ENAMEX><EVENT aspect="NONE" class="OCCURRENCE" eid="e38" eiid="ei2015" eventID="e38" polarity="POS" pos="VERB" tense="PAST">a cump&abreve;rat</EVENT><ENAMEX TYPE="ORGANIZATION">RJR</ENAMEX><SIGNAL sid="s90">&icirc;n</SIGNAL><TIMEX3 anchorTimeID="t78" functionInDocument="NONE" temporalFunction="true" tid="t91" type="DATE" value="1989-02">februarie</TIMEX3>pentru<NUMEX TYPE="MONEY">25_de_miliarde_USD</NUMEX>de datorii , a<EVENT aspect="PERFECTIVE" class="I_STATE" eid="e39" eiid="ei2016" eventID="e39" polarity="POS" pos="VERB" tense="PRESENT">convenit</EVENT>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e41" eiid="ei2017" eventID="e41" polarity="POS" pos="VERB" tense="INFINITIVE">v&acirc;nd&abreve;</EVENT>aproape<NUMEX TYPE="MONEY">5_miliarde_USD</NUMEX>&icirc;n active<ENAMEX TYPE="ORGANIZATION">RJR</ENAMEX>.</s>
+    <s>Directorii<ENAMEX TYPE="ORGANIZATION">RJR</ENAMEX>au<EVENT aspect="PERFECTIVE" class="REPORTING" eid="e42" eiid="ei2018" eventID="e42" polarity="POS" pos="VERB" tense="PRESENT">spus</EVENT>c&abreve; se vor<EVENT aspect="NONE" class="OCCURRENCE" eid="e43" eiid="ei2019" eventID="e43" polarity="POS" pos="VERB" tense="FUTURE">dispensa</EVENT>de anumite m&abreve;rci , &icirc;n_special , care nu sunt<EVENT aspect="NONE" class="STATE" eid="e93" eiid="ei2020" eventID="e93" polarity="NEG" pos="NOUN" tense="PRESENT">lideri</EVENT>pe pie&tcedil;ele lor .</s>
+    <s>"<ENAMEX TYPE="ORGANIZATION">RJR Nabisco</ENAMEX>&scedil;i<ENAMEX TYPE="ORGANIZATION">Planters LifeSavers</ENAMEX>se vor<EVENT aspect="NONE" class="OCCURRENCE" eid="e94" eiid="ei2021" eventID="e94" polarity="POS" pos="VERB" tense="FUTURE">concentra</EVENT>mai mult pe propriile noastre afaceri de baz&abreve; , "<EVENT aspect="NONE" class="REPORTING" eid="e50" eiid="ei2022" eventID="e50" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT><ENAMEX TYPE="PERSON">dl. Gerstner</ENAMEX><TIMEX3 anchorTimeID="t78" functionInDocument="NONE" temporalFunction="true" tid="t95" type="DATE" value="1989-10-27">vineri</TIMEX3>.</s>
+    <s>Baby Ruth &scedil;i Butterfinger sunt ambele printre cele mai v&acirc;ndute<CARDINAL>15</CARDINAL>ciocolate din<ENAMEX TYPE="LOCATION">SUA</ENAMEX>, dar cota total&abreve; a<ENAMEX TYPE="ORGANIZATION">RJR</ENAMEX>din pia&tcedil;a<NUMEX TYPE="MONEY">de</NUMEX>aproximativ<NUMEX TYPE="MONEY">5.1_miliarde_USD</NUMEX>este de mai pu&tcedil;in de<NUMEX TYPE="PERCENT">5%</NUMEX>.</s>
+    <s><EVENT aspect="NONE" class="STATE" eid="e96" eiid="ei2023" eventID="e96" polarity="POS" pos="NOUN" tense="NONE">Cota</EVENT><ENAMEX TYPE="ORGANIZATION">Nestle</ENAMEX>de<NUMEX TYPE="PERCENT">7%</NUMEX><SIGNAL sid="s98">&icirc;nainte_de</SIGNAL><EVENT aspect="NONE" class="OCCURRENCE" eid="e52" eiid="ei2024" eventID="e52" polarity="POS" pos="NOUN" tense="NONE">achizi&tcedil;ia</EVENT>de<TIMEX3 anchorTimeID="t78" functionInDocument="NONE" temporalFunction="true" tid="t99" type="DATE" value="1989-10-27">vineri</TIMEX3>este mult sub cotele liderilor de pia&tcedil;&abreve;<ENAMEX TYPE="ORGANIZATION">Hershey Foods Corp .</ENAMEX>&scedil;i<ENAMEX TYPE="ORGANIZATION">Mars Inc .</ENAMEX>, care au cam<NUMEX TYPE="PERCENT">40%</NUMEX>&scedil;i<NUMEX TYPE="PERCENT">36%</NUMEX>din pia&tcedil;&abreve; respectiv .</s>
+    <s>" Aceasta &icirc;nseamn&abreve; c&abreve;<ENAMEX TYPE="ORGANIZATION">Nestle</ENAMEX>este acum &icirc;n afacerea cu batoane &icirc;n stil mare , "<EVENT aspect="NONE" class="REPORTING" eid="e61" eiid="ei2025" eventID="e61" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT><ENAMEX TYPE="PERSON">Lisbeth Echeandia</ENAMEX>, editor al revistei Confectioner<ENAMEX TYPE="LOCATION">din Orlando</ENAMEX>,<ENAMEX TYPE="LOCATION">Fla</ENAMEX>.</s>
+    <s>" Pentru ei are tot felul de rosturi .</s>
+    <s>Li s- a<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e64" eiid="ei2026" eventID="e64" polarity="POS" pos="VERB" tense="PRESENT">dat</EVENT>un mandat din<ENAMEX TYPE="LOCATION">Elve&tcedil;ia</ENAMEX>" s&abreve; -&scedil;i<EVENT aspect="NONE" class="I_ACTION" eid="e67" eiid="ei2027" eventID="e67" polarity="POS" pos="VERB" tense="INFINITIVE">extind&abreve;</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e100" eiid="ei2028" eventID="e100" polarity="POS" pos="NOUN" tense="NONE">opera&tcedil;iunile</EVENT>cu ciocolat&abreve;<ENAMEX TYPE="LOCATION">din SUA</ENAMEX>.</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Nestle SA</ENAMEX>are sediul &icirc;n<ENAMEX TYPE="LOCATION">Vevey</ENAMEX>,<ENAMEX TYPE="LOCATION">Elve&tcedil;ia</ENAMEX>.</s>
+    <s>Noile batoane "<EVENT aspect="NONE" class="OCCURRENCE" eid="e69" eiid="ei2029" eventID="e69" polarity="POS" pos="VERB" tense="NONE">aduc</EVENT>o<EVENT aspect="NONE" class="OCCURRENCE" eid="e70" eiid="ei2030" eventID="e70" polarity="POS" pos="NOUN" tense="NONE">contribu&tcedil;ie</EVENT>important&abreve; la angajamentul<ENAMEX TYPE="ORGANIZATION">Nestle Foods</ENAMEX>fa&tcedil;&abreve;_de aceast&abreve; foarte important&abreve; unitate strategic&abreve; , "<EVENT aspect="NONE" class="REPORTING" eid="e71" eiid="ei2031" eventID="e71" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>C . Alan MacDonald , pre&scedil;edinte la<ENAMEX TYPE="ORGANIZATION">Nestle Foods</ENAMEX>&icirc;n<ENAMEX TYPE="LOCATION">Purchase</ENAMEX>,<ENAMEX TYPE="LOCATION">N.Y.</ENAMEX></s>
+  </TEXT>
+  <TLINK eventID="e80" lid="l54" relType="IS_INCLUDED" relatedToTime="t82"/>
+  <TLINK eventID="e1" lid="l1" relType="BEFORE" relatedToTime="t78"/>
+  <TLINK eventID="e5" lid="l2" relType="IDENTITY" relatedToEvent="e4"/>
+  <TLINK eventID="e7" lid="l3" relType="BEFORE" relatedToEvent="e5"/>
+  <TLINK eventID="e7" lid="l4" relType="BEFORE" relatedToEvent="e2"/>
+  <TLINK eventID="e5" lid="l5" relType="BEFORE" relatedToEvent="e8"/>
+  <TLINK eventID="e5" lid="l6" relType="BEFORE" relatedToEvent="e11"/>
+  <TLINK eventID="e8" lid="l7" relType="SIMULTANEOUS" relatedToEvent="e11"/>
+  <TLINK eventID="e11" lid="l8" relType="ENDED_BY" relatedToEvent="e73"/>
+  <TLINK eventID="e75" lid="l9" relType="IDENTITY" relatedToEvent="e76"/>
+  <TLINK eventID="e75" lid="l10" relType="BEFORE" relatedToTime="t78"/>
+  <TLINK eventID="e75" lid="l11" relType="IS_INCLUDED" relatedToTime="t79"/>
+  <TLINK eventID="e14" lid="l12" relType="IS_INCLUDED" relatedToTime="t82"/>
+  <TLINK eventID="e17" lid="l13" relType="IDENTITY" relatedToEvent="e5"/>
+  <TLINK eventID="e18" lid="l14" relType="BEFORE" relatedToTime="t78"/>
+  <TLINK eventID="e17" lid="l15" relType="IS_INCLUDED" relatedToEvent="e83"/>
+  <TLINK eventID="e20" lid="l16" relType="ENDED_BY" relatedToTime="t85" signalID="s84"/>
+  <TLINK eventID="e21" lid="l17" relType="BEFORE" relatedToTime="t78" signalID="s86"/>
+  <TLINK eventID="e23" lid="l18" relType="INCLUDES" relatedToTime="t78"/>
+  <TLINK eventID="e25" lid="l19" relType="BEFORE" relatedToEvent="e24"/>
+  <TLINK eventID="e26" lid="l20" relType="IDENTITY" relatedToEvent="e25"/>
+  <TLINK eventID="e89" lid="l21" relType="AFTER" relatedToEvent="e29"/>
+  <TLINK eventID="e89" lid="l22" relType="BEFORE" relatedToEvent="e26"/>
+  <TLINK eventID="e38" lid="l23" relType="IS_INCLUDED" relatedToTime="t91" signalID="s90"/>
+  <TLINK eventID="e39" lid="l24" relType="AFTER" relatedToEvent="e38" signalID="s274"/>
+  <TLINK eventID="e42" lid="l25" relType="BEFORE" relatedToTime="t78"/>
+  <TLINK eventID="e93" lid="l26" relType="BEFORE" relatedToEvent="e43"/>
+  <TLINK eventID="e94" lid="l27" relType="AFTER" relatedToTime="t78"/>
+  <TLINK eventID="e50" lid="l28" relType="IS_INCLUDED" relatedToTime="t95"/>
+  <TLINK eventID="e96" lid="l29" relType="BEFORE" relatedToEvent="e52" signalID="s98"/>
+  <TLINK eventID="e52" lid="l30" relType="IS_INCLUDED" relatedToTime="t99"/>
+  <TLINK eventID="e52" lid="l31" relType="SIMULTANEOUS" relatedToEvent="e4"/>
+  <TLINK eventID="e61" lid="l32" relType="BEFORE" relatedToTime="t78"/>
+  <TLINK eventID="e64" lid="l33" relType="BEFORE" relatedToTime="t78"/>
+  <TLINK eventID="e64" lid="l34" relType="BEFORE" relatedToEvent="e61"/>
+  <TLINK eventID="e71" lid="l35" relType="BEFORE" relatedToTime="t78"/>
+  <TLINK eventID="e69" lid="l36" relType="IDENTITY" relatedToEvent="e70"/>
+  <SLINK eventID="e29" lid="l37" relType="CONDITIONAL" signalID="s28" subordinatedEvent="e89"/>
+  <SLINK eventID="e1" lid="l38" relType="EVIDENTIAL" subordinatedEvent="e2"/>
+  <SLINK eventID="e2" lid="l39" relType="MODAL" subordinatedEvent="e4"/>
+  <SLINK eventID="e7" lid="l40" relType="MODAL" subordinatedEvent="e121"/>
+  <SLINK eventID="e8" lid="l41" relType="MODAL" subordinatedEvent="e72"/>
+  <SLINK eventID="e72" lid="l42" relType="FACTIVE" subordinatedEvent="e10"/>
+  <SLINK eventID="e80" lid="l43" relType="EVIDENTIAL" subordinatedEvent="e75"/>
+  <SLINK eventID="e18" lid="l44" relType="MODAL" subordinatedEvent="e17"/>
+  <SLINK eventID="e83" lid="l45" relType="MODAL" subordinatedEvent="e20"/>
+  <SLINK eventID="e23" lid="l46" relType="MODAL" subordinatedEvent="e24"/>
+  <SLINK eventID="e39" lid="l47" relType="MODAL" subordinatedEvent="e41"/>
+  <SLINK eventID="e42" lid="l48" relType="EVIDENTIAL" subordinatedEvent="e43"/>
+  <SLINK eventID="e50" lid="l49" relType="EVIDENTIAL" subordinatedEvent="e94"/>
+  <SLINK eventID="e64" lid="l50" relType="MODAL" subordinatedEvent="e67"/>
+  <SLINK eventID="e67" lid="l51" relType="FACTIVE" subordinatedEvent="e100"/>
+  <SLINK eventID="e61" lid="l52" relType="EVIDENTIAL" subordinatedEvent="e64"/>
+  <SLINK eventID="e71" lid="l53" relType="EVIDENTIAL" subordinatedEvent="e69"/>
+</TimeML>

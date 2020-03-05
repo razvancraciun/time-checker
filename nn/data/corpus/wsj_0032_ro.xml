@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> WSJ891102-0161 </DOCNO>
+  <DD> = 891102 </DD>
+  <AN> 891102-0161. </AN>
+  <HL> Montedison Bid for Erbamont </HL>
+  <DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t13" type="DATE" value="1989-11-02">11/02/89</TIMEX3> </DD>
+  <SO> WALL STREET JOURNAL (J) </SO>
+  <CO> MNT ERB </CO>
+  <IN> TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+DRUG MANUFACTURERS (DRG) </IN>
+  <DATELINE> NEW YORK  </DATELINE>
+  <TEXT>
+    <s>Gigantul de chimicale italian<ENAMEX TYPE="ORGANIZATION">Montedison S.p . A</ENAMEX>, prin unitatea sa indirect&abreve;<ENAMEX TYPE="ORGANIZATION">Montedison Acquisition</ENAMEX>A.<ENAMEX TYPE="ORGANIZATION">N.</ENAMEX>. , &scedil;i- a <EVENT aspect="NONE" class="ASPECTUAL" eid="e1" eiid="ei102" eventID="e1" polarity="POS" pos="VERB" tense="PAST">&icirc;nceput</EVENT> <EVENT aspect="NONE" class="OCCURRENCE" eid="e2" eiid="ei103" eventID="e2" polarity="POS" pos="NOUN" tense="NONE">oferta</EVENT> de licitare de $ 37 ac&tcedil;iunea pentru toate ac&tcedil;iunile comune restante ale Erbamont V N. . , V fabricant de farmaceutice &icirc;ncorporat &icirc;n Olanda .</s>
+    <s><EVENT aspect="NONE" class="OCCURRENCE" eid="e4" eiid="ei104" eventID="e4" polarity="POS" pos="NOUN" tense="NONE">Oferta</EVENT>,<EVENT aspect="NONE" class="OCCURRENCE" eid="e5" eiid="ei105" eventID="e5" polarity="POS" pos="VERB" tense="PASTPART">mediatizat&abreve;</EVENT>&icirc;n edi&tcedil;iile de<TIMEX3 anchorTimeID="t13" functionInDocument="NONE" temporalFunction="true" tid="t19" type="DATE" value="1989-11-02">azi</TIMEX3>ale The<ENAMEX TYPE="ORGANIZATION">Wall Street Journal</ENAMEX>, este<EVENT aspect="NONE" class="I_ACTION" eid="e6" eiid="ei106" eventID="e6" polarity="POS" pos="VERB" tense="PRESENT">programat&abreve;</EVENT>s&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e8" eiid="ei107" eventID="e8" polarity="POS" pos="VERB" tense="INFINITIVE">expire</EVENT><SIGNAL sid="s15">la</SIGNAL><TIMEX3 anchorTimeID="t13" functionInDocument="NONE" mod="END" temporalFunction="true" tid="t18" type="TIME" value="1989-11">sf&acirc;r&scedil;itul lui noiembrie</TIMEX3>.</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Montedison</ENAMEX><EVENT aspect="NONE" class="STATE" eid="e20" eiid="ei108" eventID="e20" polarity="POS" pos="VERB" tense="PRESENT">de&tcedil;ine</EVENT><TIMEX3 anchorTimeID="t13" functionInDocument="NONE" temporalFunction="true" tid="t17" type="DATE" value="PRESENT_REF">curent</TIMEX3>cam<NUMEX TYPE="PERCENT">72%</NUMEX>din ac&tcedil;iunile comune restante ale<ENAMEX TYPE="ORGANIZATION">Erbamont</ENAMEX>.</s>
+    <s><EVENT aspect="NONE" class="OCCURRENCE" eid="e10" eiid="ei109" eventID="e10" polarity="POS" pos="NOUN" tense="NONE">Oferta</EVENT>este<EVENT aspect="PROGRESSIVE" class="I_ACTION" eid="e11" eiid="ei110" eventID="e11" polarity="POS" pos="VERB" tense="PRESENT">lansat&abreve;</EVENT>ca urmare a unui<EVENT aspect="NONE" class="OCCURRENCE" eid="e12" eiid="ei112" eventID="e12" polarity="POS" pos="NOUN" tense="NONE">acord</EVENT><EVENT aspect="NONE" class="REPORTING" eid="e22" eiid="ei111" eventID="e22" polarity="POS" pos="VERB" tense="NONE">anun&tcedil;at</EVENT><TIMEX3 anchorTimeID="t13" functionInDocument="NONE" temporalFunction="true" tid="t21" type="TIME" value="PAST_REF">anterior</TIMEX3>&icirc;ntre companii .</s>
+  </TEXT>
+  <TLINK eventID="e6" lid="l25" relType="IS_INCLUDED" relatedToTime="t13"/>
+  <TLINK eventID="e11" lid="l1" relType="IS_INCLUDED" relatedToTime="t13"/>
+    <TLINK lid="l2" relType="AFTER" relatedToEvent="e1" timeID="t13"/>
+  <TLINK eventID="e1" lid="l3" relType="BEGINS" relatedToEvent="e2"/>
+  <TLINK eventID="e4" lid="l4" relType="IDENTITY" relatedToEvent="e2"/>
+  <TLINK eventID="e4" lid="l5" relType="BEFORE" relatedToEvent="e5"/>
+  <TLINK eventID="e5" lid="l6" relType="IS_INCLUDED" relatedToTime="t19"/>
+  <TLINK lid="l7" relType="IDENTITY" relatedToTime="t13" timeID="t19"/>
+  <TLINK eventID="e4" lid="l8" relType="BEFORE" relatedToEvent="e8"/>
+  <TLINK eventID="e8" lid="l9" relType="ENDED_BY" relatedToTime="t18" signalID="s15"/>
+  <TLINK lid="l10" relType="INCLUDES" relatedToTime="t13" timeID="t17"/>
+  <TLINK lid="l11" relType="INCLUDES" relatedToEvent="e20" timeID="t17"/>
+  <TLINK eventID="e10" lid="l12" relType="IDENTITY" relatedToEvent="e4"/>
+  <TLINK eventID="e10" lid="l13" relType="BEGUN_BY" relatedToEvent="e11"/>
+  <TLINK eventID="e11" lid="l14" relType="AFTER" relatedToEvent="e12"/>
+  <TLINK eventID="e12" lid="l15" relType="BEFORE" relatedToEvent="e22"/>
+  <TLINK eventID="e22" lid="l16" relType="SIMULTANEOUS" relatedToTime="t21"/>
+  <TLINK lid="l17" relType="BEFORE" relatedToTime="t13" timeID="t21"/>
+  <SLINK eventID="e22" lid="l23" relType="EVIDENTIAL" subordinatedEvent="e12"/>
+  <SLINK eventID="e11" lid="l22" relType="FACTIVE" subordinatedEvent="e10"/>
+  <SLINK eventID="e5" lid="l21" relType="EVIDENTIAL" subordinatedEvent="e4"/>
+  <SLINK eventID="e6" lid="l18" relType="MODAL" subordinatedEvent="e8"/>
+    <ALINK eventID="e1" lid="l19" relType="INITIATES" relatedToEvent="e2"/>
+</TimeML>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> WSJ891030-0048 </DOCNO>
+  <DD> = 891030 </DD>
+  <AN> 891030-0048. </AN>
+  <HL> Sun Microsystems Debentures </HL>
+  <DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t18" type="DATE" value="1989-10-30">10/30/89</TIMEX3> </DD>
+  <SO> WALL STREET JOURNAL (J) </SO>
+  <CO> SUNW </CO>
+  <IN> BOND MARKET NEWS (BON) </IN>
+  <DATELINE> MOUNTAIN VIEW, Calif.  </DATELINE>
+  <TEXT>
+    <s><ENAMEX TYPE="ORGANIZATION">Sun Microsystems Inc .</ENAMEX>, un fabricant de computere ,<EVENT aspect="NONE" class="REPORTING" eid="e1" eiid="ei57" eventID="e1" polarity="POS" pos="VERB" tense="PAST">a anun&tcedil;at</EVENT><EVENT aspect="NONE" class="STATE" eid="e13" eiid="ei58" eventID="e13" polarity="POS" pos="NOUN" tense="NONE">valabilitatea</EVENT>declara&tcedil;iei sale de &icirc;nregistrare pentru<NUMEX TYPE="MONEY">$ 125 milioane</NUMEX>din<CARDINAL>6</CARDINAL><NUMEX TYPE="PERCENT">3 / 8 %</NUMEX>garan&tcedil;ii subordonate convertibile<EVENT aspect="NONE" class="STATE" eid="e12" eiid="ei59" eventID="e12" polarity="POS" pos="ADJECTIVE" tense="NONE">scadente</EVENT><TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t14" type="DATE" value="1999-10-15">pe 15_oct. , 1999</TIMEX3>.</s>
+    <s>Compania<EVENT aspect="NONE" class="REPORTING" eid="e3" eiid="ei60" eventID="e3" polarity="POS" pos="VERB" tense="PAST">a spus</EVENT>c&abreve; garan&tcedil;iile sunt<EVENT aspect="PROGRESSIVE" class="OCCURRENCE" eid="e5" eiid="ei61" eventID="e5" polarity="POS" pos="VERB" tense="PRESENT">emise</EVENT>la un pre&tcedil; de emisiune de<NUMEX TYPE="MONEY">$ 849</NUMEX>pentru fiecare<NUMEX TYPE="MONEY">$ 1 , 000</NUMEX>capital de baz&abreve; &scedil;i sunt<EVENT aspect="NONE" class="STATE" eid="e17" eiid="ei62" eventID="e17" polarity="POS" pos="ADJECTIVE" tense="PRESENT">convertibile</EVENT>la orice moment<SIGNAL sid="s15">anterior</SIGNAL><EVENT aspect="NONE" class="STATE" eid="e16" eiid="ei63" eventID="e16" polarity="POS" pos="NOUN" tense="NONE">maturiz&abreve;rii</EVENT>la un pre&tcedil; de conversie de<NUMEX TYPE="MONEY">$ 25</NUMEX>ac&tcedil;iunea .</s>
+    <s>Garan&tcedil;iile sunt disponibile prin<ENAMEX TYPE="ORGANIZATION">Goldman , Sachs amp Co .</ENAMEX></s>
+  </TEXT>
+  <TLINK eventID="e17" lid="l1" relType="BEFORE" relatedToEvent="e16" signalID="s15"/>
+  <TLINK eventID="e1" lid="l2" relType="BEFORE" relatedToTime="t18"/>
+  <TLINK eventID="e12" lid="l3" relType="ENDED_BY" relatedToTime="t14"/>
+  <TLINK eventID="e3" lid="l4" relType="IDENTITY" relatedToEvent="e1"/>
+  <SLINK eventID="e1" lid="l5" relType="EVIDENTIAL" subordinatedEvent="e13"/>
+  <SLINK eventID="e1" lid="l6" relType="EVIDENTIAL" subordinatedEvent="e12"/>
+  <SLINK eventID="e3" lid="l7" relType="EVIDENTIAL" subordinatedEvent="e5"/>
+  <SLINK eventID="e3" lid="l8" relType="EVIDENTIAL" subordinatedEvent="e17"/>
+</TimeML>

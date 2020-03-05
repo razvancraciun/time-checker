@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dtd/timeml_1.2.1.xsd">
+  <DOCNO> WSJ891102-0039 </DOCNO>
+  <DD> = 891102 </DD>
+  <AN> 891102-0039. </AN>
+  <HL> Business Brief -- Dow Jones amp Co.:
+@  Offer for Telerate Common
+@  Is Extended Until Nov. 9 </HL>
+  <DD> <TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t25" type="DATE" value="1989-11-02">11/02/89</TIMEX3> </DD>
+  <SO> WALL STREET JOURNAL (J) </SO>
+  <CO> DJ TLR </CO>
+  <IN> TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+MEDIA, PUBLISHING, BROADCASTING, ELECTRONIC PUBLISHING (MED) </IN>
+  <TEXT>
+    <s><ENAMEX TYPE="ORGANIZATION">Dow Jones amp Co.</ENAMEX><EVENT aspect="NONE" class="REPORTING" eid="e1" eiid="ei120" eventID="e1" polarity="POS" pos="VERB" stem="say" tense="PAST">a spus</EVENT>c&abreve; &scedil;i-<EVENT aspect="NONE" class="I_ACTION" eid="e2" eiid="ei121" eventID="e2" polarity="POS" pos="VERB" stem="extend" tense="PAST">a extins</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e3" eiid="ei122" eventID="e3" polarity="POS" pos="NOUN" stem="offer" tense="NONE">oferta</EVENT>de $ 18 pe ac&tcedil;iune pentru stocul comun<ENAMEX TYPE="ORGANIZATION">al Telerate Inc .</ENAMEX><SIGNAL sid="s26">p&acirc;na la</SIGNAL><TIMEX3 anchorTimeID="t25" functionInDocument="NONE" temporalFunction="true" tid="t27" type="DATE" value="1989-11-09T17:00">5 p.m. EST, 9 noiembrie</TIMEX3>.</s>
+    <s><EVENT aspect="NONE" class="OCCURRENCE" eid="e4" eiid="ei123" eventID="e4" polarity="POS" pos="NOUN" stem="offer" tense="NONE">Oferta</EVENT>, evaluat&abreve; la aproximativ<NUMEX TYPE="MONEY">$ 576 milioane</NUMEX>pentru cele<NUMEX TYPE="PERCENT">33%</NUMEX>din<ENAMEX TYPE="ORGANIZATION">Telerate</ENAMEX>pe care<ENAMEX TYPE="ORGANIZATION">Dow Jones</ENAMEX>nu le de&tcedil;ine deja , a avut termenul de <EVENT aspect="NONE" class="OCCURRENCE" eid="e10" eiid="ei125" eventID="e10" polarity="POS" pos="VERB" stem="expire" tense="INFINITIVE">expirare</EVENT><EVENT aspect="PERFECTIVE" class="I_ACTION" eid="e8" eiid="ei124" eventID="e8" polarity="POS" pos="VERB" stem="fixa" tense="PAST">fixat</EVENT>pe <TIMEX3 anchorTimeID="t25" functionInDocument="NONE" temporalFunction="true" tid="t28" type="DATE" value="1989-11-06">6_noiembrie</TIMEX3>.</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Dow Jones</ENAMEX>, care de&tcedil;ine<CARDINAL>aproximativ 64_milioane</CARDINAL>din cele<CARDINAL>95_milioane</CARDINAL>de ac&tcedil;iuni comune extraordinare<ENAMEX TYPE="ORGANIZATION">Telerate</ENAMEX>,<EVENT aspect="NONE" class="REPORTING" eid="e12" eiid="ei126" eventID="e12" polarity="POS" pos="VERB" stem="say" tense="PAST">a spus</EVENT>c&abreve;<CARDINAL>aproximativ 24 . 000</CARDINAL>de ac&tcedil;iuni au fost<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e13" eiid="ei127" eventID="e13" polarity="POS" pos="VERB" stem="tender" tense="PRESENT">oferite</EVENT>&icirc;n aceast&abreve;<EVENT aspect="NONE" class="OCCURRENCE" eid="e14" eiid="ei128" eventID="e14" polarity="POS" pos="NOUN" stem="offer" tense="NONE">ofert&abreve;</EVENT>.</s>
+    <s><CARDINAL>Cei doi</CARDINAL>directori independen&tcedil;i ai<ENAMEX TYPE="ORGANIZATION">Telerate</ENAMEX>au<EVENT aspect="PERFECTIVE" class="OCCURRENCE" eid="e15" eiid="ei129" eventID="e15" polarity="POS" pos="VERB" stem="reject" tense="PRESENT">respins</EVENT><EVENT aspect="NONE" class="OCCURRENCE" eid="e16" eiid="ei130" eventID="e16" polarity="POS" pos="NOUN" stem="offer" tense="NONE">oferta</EVENT>ca inadecvat&abreve; .</s>
+    <s>&Icirc;n comer&tcedil;ul mixt de_la<ENAMEX TYPE="ORGANIZATION">bursa din New_York</ENAMEX>, ac&tcedil;iunile<ENAMEX TYPE="ORGANIZATION">Telerate</ENAMEX><EVENT aspect="NONE" class="OCCURRENCE" eid="e18" eiid="ei131" eventID="e18" polarity="POS" pos="VERB" stem="close" tense="PAST">s- au &icirc;nchis</EVENT>la<NUMEX TYPE="MONEY">$ 19 , 50</NUMEX>, mai sus<NUMEX TYPE="MONEY">cu 12 , 5 cen&tcedil;i</NUMEX>.</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Telerate</ENAMEX>furnizeaz&abreve; o re&tcedil;ea electronic&abreve; de informa&tcedil;ii financiare .</s>
+    <s><ENAMEX TYPE="ORGANIZATION">Dow Jones</ENAMEX>public&abreve; The<ENAMEX TYPE="ORGANIZATION">Wall Street Journal</ENAMEX>, revista lui<ENAMEX TYPE="PERSON">Barron</ENAMEX>, &scedil;i ziare locale , &scedil;i opereaz&abreve; servicii de &scedil;tiri financiare &scedil;i baze de date computerizate .</s>
+  </TEXT>
+  <TLINK eventID="e8" lid="l17" relType="BEFORE" relatedToEvent="e2"/>
+  <TLINK eventID="e18" lid="l1" origin="USER" relType="BEFORE" relatedToTime="t25"/>
+  <TLINK eventID="e1" lid="l2" origin="USER" relType="AFTER" relatedToTime="t25"/>
+  <TLINK eventID="e3" lid="l3" origin="USER" relType="IDENTITY" relatedToEvent="e4"/>
+    <TLINK eventID="e10" lid="l4" origin="USER" relType="SIMULTANEOUS" relatedToTime="t28"/>
+  <TLINK lid="l5" origin="USER" relType="BEFORE" relatedToTime="t27" timeID="t28"/>
+  <TLINK lid="l6" origin="USER" relType="ENDED_BY" relatedToEvent="e3" signalID="s26" timeID="t27"/>
+  <TLINK eventID="e12" lid="l7" origin="USER" relType="SIMULTANEOUS" relatedToEvent="e1"/>
+  <TLINK eventID="e13" lid="l8" origin="USER" relType="IS_INCLUDED" relatedToEvent="e14"/>
+  <TLINK eventID="e14" lid="l9" origin="USER" relType="IDENTITY" relatedToEvent="e3"/>
+  <TLINK eventID="e16" lid="l10" origin="USER" relType="IDENTITY" relatedToEvent="e3"/>
+  <TLINK eventID="e15" lid="l11" origin="USER" relType="AFTER" relatedToEvent="e13"/>
+  <SLINK eventID="e1" lid="l12" relType="EVIDENTIAL" subordinatedEvent="e2"/>
+  <SLINK eventID="e2" lid="l13" relType="FACTIVE" subordinatedEvent="e3"/>
+  <SLINK eventID="e8" lid="l14" relType="MODAL" subordinatedEvent="e10"/>
+  <SLINK eventID="e12" lid="l15" relType="EVIDENTIAL" subordinatedEvent="e13"/>
+  <SLINK eventID="e15" lid="l16" relType="FACTIVE" subordinatedEvent="e16"/>
+</TimeML>
