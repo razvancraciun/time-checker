@@ -29,6 +29,7 @@ class BayesClassifier:
         for word in text:
             if self.classify(word):
                 result.append(word)
+        print(f'Origin: {len(text)} words. Result: {len(result)} words')
         print(f'Duration {round(time.time() - start, 3)} seconds')
         return result
     
@@ -43,7 +44,7 @@ class BayesClassifier:
         p_word_wr_other = (self.other_set.count(word) + 1) * upscale / self.other_count
         p_other_wr_word = p_word_wr_other * (self.p_other * upscale)
 
-        return p_time_wr_word > p_other_wr_word
+        return p_time_wr_word >= p_other_wr_word
 
 
 text = '''Arjen Robben (Pronunție în olandeză: /ˈɑrjən ˈrɔbə(n)/; n. 23 ianuarie 1984) este un fost jucător de fotbal olandez care a evoluat ultima dată la clubul german Bayern München, fiind în același timp și component al echipei naționale de fotbal a Olandei, fiind și căpitanul acesteia. A participat la Campionatele Europene din 2004, 2008 și 2012 și la Campionatele Mondiale din 2006, 2010 și 2014. Joacă de regulă ca extremă, fiind rar folosit și ca atacant. Este cunoscut pentru driblinguri, viteză, forță de pătrundere și un bun stângaci, mai ales pentru șuturile precise de la distanță.
@@ -62,4 +63,4 @@ text = text.split()
 
 
 bc = BayesClassifier()
-print(bc.run(text))
+result = bc.run(text)
