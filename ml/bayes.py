@@ -9,8 +9,8 @@ def load_set(filepath):
         lines = f.read().splitlines()
         words = []
         for line in lines:
-            if line != "\n":
-                words += line.split()
+            if line != '\n':
+                words += [word for word in line.split() if not word.isspace()]
         return words
     return None
 
