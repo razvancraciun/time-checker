@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 import html
 from copy import deepcopy
 import string
+from misc_utils import preprocess
 
 
 CORPUS_PATH = os.path.dirname(os.path.realpath(__file__)) + '/data/corpus/'
@@ -57,18 +58,11 @@ def words_from_file(filepath):
 def corpus_to_class_files():
     (time_exp, other_exp) = extract_data()
     
-    def preprocess(text):
-        result = ''
-        for word in text:
-            modded = word.replace('_', ' ')
-            modded = ''.join(list(filter(lambda x: x not in ['.', ',', '!', '?'], modded)))
-            modded = modded.strip()
-            modded = modded.lower()
-            result += (modded + '\n') if modded != '' else ''
-        return result
+    time_text = '\n'.join([' '.join(preprocess(exp)) for exp in time_exp])
+    other_text = '\n'.join([' '.join(preprocess(exp)) for exp in other_exp])
 
-    time_text = preprocess(time_exp)
-    other_text = preprocess(other_exp)
+    time_text = '\n'.join([line for line in time_text.splitlines() if line != '\n' ])
+    other_text = '\n'.join([line for line in other_text.splitlines() if line != '\n' ])
 
     with open(DATA_PATH + 'TIMES_RAW.txt', 'w') as f:
         f.write(time_text)
