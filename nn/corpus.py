@@ -3,6 +3,8 @@ import xml.etree.ElementTree as et
 from bs4 import BeautifulSoup
 import html
 from copy import deepcopy
+import string
+
 
 CORPUS_PATH = os.path.dirname(os.path.realpath(__file__)) + '/data/corpus/'
 DATA_PATH = os.path.dirname(os.path.realpath(__file__)) + '/data/'
@@ -27,34 +29,52 @@ def words_from_file(filepath):
         text = file.read()
         text = html.unescape(text)
         tree = et.fromstring(text)
+
         timexs = []
-        notimexs = []
         for tag in TAGS:
             timexs += tree.findall(f'.//{tag}')
-        
-        timexs = list(map(lambda ex: deepcopy(ex), timexs))
         timex_text = [' '.join(timex.itertext()) for timex in timexs]
-        time_words = []
+        time_exp = []
         for text in timex_text:
-            for word in text.split():
-                time_words.append(word)
+            time_exp.append(text)
+        
+        textNode = tree.find('.//TEXT')
+        for tag in TAGS:
+            parents = textNode.findall(f'.//{tag}/..')
+            for parent in parents:
+                for timex in timexs:
+                    try:
+                        parent.remove(timex)
+                    except:
+                        pass
+        
+        notime_exp = []
+        for text in textNode.itertext():
+            notime_exp.append(text)
 
-        return (time_words, notimexs)
+        return (time_exp, notime_exp)
 
 def corpus_to_class_files():
-    (time_words, other_words) = extract_data()
-    print(time_words)
-    print(len(time_words))
+    (time_exp, other_exp) = extract_data()
+    
+    def preprocess(text):
+        result = ''
+        for word in text:
+            modded = word.replace('_', ' ')
+            modded = ''.join(list(filter(lambda x: x not in ['.', ',', '!', '?'], modded)))
+            modded = modded.strip()
+            modded = modded.lower()
+            result += (modded + '\n') if modded != '' else ''
+        return result
+
+    time_text = preprocess(time_exp)
+    other_text = preprocess(other_exp)
+
+    with open(DATA_PATH + 'TIMES_RAW.txt', 'w') as f:
+        f.write(time_text)
+    
+    with open(DATA_PATH + 'OTHER_RAW.txt', 'w') as f:
+        f.write(other_text)
 
 
 corpus_to_class_files()
-
-
-
-
-
-### EXAMPLE USAGE
-
-# timexs = extract_timex()
-# for time in timexs:
-#     print(time.text)
