@@ -68,12 +68,11 @@ class BayesClassifier:
         except:
             pass
         upscale = 1e5
-        z = 2
 
-        p_word_wr_time = (self.time_set.count(word) + z) * upscale / (self.time_count + 2 * z)
+        p_word_wr_time = self.time_set.count(word) * upscale / self.time_count
         p_time_wr_word = p_word_wr_time * (self.p_time * upscale)
 
-        p_word_wr_other = (self.other_set.count(word) + z) * upscale / (self.other_count + 2 * z)
+        p_word_wr_other = self.other_set.count(word) * upscale / self.other_count
         p_other_wr_word = p_word_wr_other * (self.p_other * upscale)
 
         return p_time_wr_word * 1.01 >= p_other_wr_word
