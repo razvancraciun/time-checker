@@ -6,9 +6,10 @@ from copy import deepcopy
 import string
 from misc_utils import preprocess
 
-
-CORPUS_PATH = os.path.dirname(os.path.realpath(__file__)) + '/data/corpus/'
 DATA_PATH = os.path.dirname(os.path.realpath(__file__)) + '/data/'
+
+CORPUS_PATH = DATA_PATH + 'corpus/'
+RAW_PATH = DATA_PATH + 'raw/'
 
 
 TAGS = ['TIMEX', 'TIMEX3']
@@ -64,10 +65,10 @@ def corpus_to_class_files():
     time_text = '\n'.join([line for line in time_text.splitlines() if line != '\n' ])
     other_text = '\n'.join([line for line in other_text.splitlines() if line != '\n' ])
 
-    with open(DATA_PATH + 'TIMES_RAW.txt', 'w') as f:
+    with open(RAW_PATH + 'TIMES_RAW.txt', 'w') as f:
         f.write(time_text)
     
-    with open(DATA_PATH + 'OTHER_RAW.txt', 'w') as f:
+    with open(RAW_PATH + 'OTHER_RAW.txt', 'w') as f:
         f.write(other_text)
 
 
