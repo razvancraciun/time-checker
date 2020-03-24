@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import html
 from copy import deepcopy
 import string
-from misc_utils import preprocess
+from nltk.tokenize import word_tokenize 
 
 DATA_PATH = os.path.dirname(os.path.realpath(__file__)) + '/data/'
 
@@ -59,16 +59,16 @@ def words_from_file(filepath):
 def corpus_to_class_files():
     (time_exp, other_exp) = extract_data()
     
-    time_text = '\n'.join([' '.join(preprocess(exp)) for exp in time_exp])
-    other_text = '\n'.join([' '.join(preprocess(exp)) for exp in other_exp])
+    time_text = '\n'.join([' '.join(word_tokenize(exp)) for exp in time_exp])
+    other_text = '\n'.join([' '.join(word_tokenize(exp)) for exp in other_exp])
 
     time_text = '\n'.join([line for line in time_text.splitlines() if line != '\n' ])
     other_text = '\n'.join([line for line in other_text.splitlines() if line != '\n' ])
 
-    with open(RAW_PATH + 'TIMES_RAW.txt', 'w') as f:
+    with open(RAW_PATH + 'generated_times_raw.txt', 'w') as f:
         f.write(time_text)
     
-    with open(RAW_PATH + 'OTHER_RAW.txt', 'w') as f:
+    with open(RAW_PATH + 'generated_other_raw.txt', 'w') as f:
         f.write(other_text)
 
 

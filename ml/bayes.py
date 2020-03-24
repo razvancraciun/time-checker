@@ -1,8 +1,15 @@
 import os
 import time
 
-TIME_PATH = os.path.dirname(os.path.realpath(__file__)) + '/data/TIMES_RAW.txt'
-OTHER_PATH = os.path.dirname(os.path.realpath(__file__)) + '/data/OTHER_RAW.txt'
+RAW_PATH = os.path.dirname(os.path.realpath(__file__)) + '/data/raw/'
+
+
+def load_data(containing, dirpath=RAW_PATH):
+    words = []
+    for file in os.listdir(os.fsencode(dirpath)):
+        if containing in os.fsdecode(file):
+            words += load_set(RAW_PATH + os.fsdecode(file))
+    return words
 
 def load_set(filepath):
     with open(filepath) as f:
@@ -15,7 +22,7 @@ def load_set(filepath):
     return None
 
 class BayesClassifier:
-    def __init__(self, time_set=load_set(TIME_PATH), other_set=load_set(OTHER_PATH)):
+    def __init__(self, time_set=load_data(containing='times'), other_set=load_data(containing='other')):
         self.time_set = time_set
         self.other_set = other_set
         self.time_count = len(time_set)
@@ -27,9 +34,16 @@ class BayesClassifier:
     def run(self, text):
         start = time.time()
         result = []
-        for word in text:
+        last_word_index = None
+        for index in range(len(text)):
+            word = text[index]
             if self.classify(word):
-                result.append(word)
+                if last_word_index == None or index != last_word_index + 1:
+                    result.append(word)
+                    last_word_index = index
+                else:
+                    result[-1] += ' ' + word
+                    last_word_index = index
         print(f'Origin: {len(text)} words. Result: {len(result)} words')
         print(f'Duration {round(time.time() - start, 3)} seconds')
         return result
@@ -37,6 +51,11 @@ class BayesClassifier:
 
     ''' True if word is part of timex, False otherwids '''
     def classify(self, word):
+        try:
+            int(word)
+            return True
+        except:
+            pass
         upscale = 1e5
         z = 2
 
@@ -52,9 +71,16 @@ class BayesClassifier:
     def run_biased(self, text):
         start = time.time()
         result = []
-        for word in text:
+        last_word_index = None
+        for index in range(len(text)):
+            word = text[index]
             if self.classify_biased(word):
-                result.append(word)
+                if last_word_index == None or index != last_word_index + 1:
+                    result.append(word)
+                    last_word_index = index
+                else:
+                    result[-1] += ' ' + word
+                    last_word_index = index
         print(f'Origin: {len(text)} words. Result: {len(result)} words')
         print(f'Duration {round(time.time() - start, 3)} seconds')
         return result
@@ -75,4 +101,4 @@ class BayesClassifier:
         p_word_wr_other = self.other_set.count(word) * upscale / self.other_count
         p_other_wr_word = p_word_wr_other * (self.p_other * upscale)
 
-        return p_time_wr_word * 1.01 >= p_other_wr_word
+        return p_time_wr_word >= p_other_wr_word

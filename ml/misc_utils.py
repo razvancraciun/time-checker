@@ -1,6 +1,8 @@
 import string
 
+#DEPREACATED use nltk.word_tokenize instead
 def preprocess(text):
+        print('DEPREACATED use nltk.word_tokenize instead')
         result = []
         text = text.strip().split()
         text = [word for word in text if not word.isspace()]
