@@ -1,0 +1,78 @@
+Paracetamolul (sau paraacetilaminofenol, acetaminofen) este un derivat de para-aminofenol din clasa anilidelor, cu acțiune analgezică și antipiretică. Acțiunea sa antiinflamatoare este practic inexistentă, dar acest lucru nu înseamnă că nu poate fi folosit în durerile cauzate de inflamații.
+
+Istoric
+A fost sintetizat  prin reducerea p-nitrofenolului în mediu de acid acetic. Acetanilida (antifebrina) fusese deja descoperită , iar fenacetina  și se foloseau ca antipiretice și analgezice. Eventualele proprietăți terapeutice ale paracetamolului au fost ignorate la data descoperirii sale.  paracetamolul a fost decelat în urina pacienților cărora li se administrase fenacetină, iar  în cea a pacienților care luaseră acetanilidă. În ambele cazuri a fost considerat un metabolit neimportant din punct de vedere farmacologic al acestor medicamente. , Bernard Brodie și Julius Axelrod cercetau legăturile cauzale dintre analgezicele de tipul fenacetinei și acetanilidei și methemoglobinemie. Ei au descoperit că de fapt efectul analgezic al acetanilidei se datora metabolitului său, paracetamolul, și că la administrarea acestuia methemoglobinemia este mult redusă ca incidență și amploare.
+
+Sinteza chimică
+O variantă de sinteză o reprezintă acetilarea para-amino-fenolului cu anhidridă acetică. Acetilarea se poate realiza și cu acid acetic, însă are un randament mult mai mic, din cauza apei care rezultă din reacție.
+
+Farmacologie
+Paracetamolul are o excelentă biodisponibilitate după administrarea orală, și din acest motiv administraraea sa pe cale parenterală este extrem de rar folosită. Pe scurt, proprietățile sale terapeutice se explică prin inhibarea sintezei prostaglandinelor. Aceasta determină efectul analgezic (prin blocarea formării de prostaglandine E2 în sistemul nervos central și periferic) și pe cel antipiretic (la nivelul centrului termoreglării din hipotalamus. Sinteza prostaglandinelor este rezultatul acțiunii ciclooxigenazei, care este inhibată indirect de paracetamol.
+
+Farmacocinetică
+Se absoarbe rapid și aproape complet din tubul digestiv, concentrația plasmatică maximă apărând  după ingestie. absorbția este maximă. Difuzează în toate țesuturile, trecând inclusiv de bariera hematoencefalică. Timpul de înjumătățire este , dar crește  la nou-născuți și la pacienții cu insuficiență hepatică sau renală. La dozele terapeutice de 0,5-2 g legarea de proteinele plasmatice este de maxim 25% și minim 10%. La dozele toxice sau în cazul insuficienței hepatice ajunge până la 50%.
+
+Metabolism și eliminare
+80-90% este metabolizat în ficat prin conjugare, rezultând glucurono- (cea mai mare parte) și sulfoconjugați, excretați apoi în urină. 2% până la 4% se elimină sub formă neschimbată în urină, iar o mică fracțiune ia calea citocromului P450 din mitocondriile hepatice, fiind sursa unui metabolit foarte toxic, care este rapid inactivat prin conjugare cu glutation. Acest metabolit este apoi conjugat a doua oară cu cisteină și acid mercapturic și eliminat renal. Această oxidare cu 2 electroni a acetaminofenului la N acetilbenzosemichinonimină, de către PHS implică probabil formarea unui produs de oxidare cu un electron, Nacetil-benyosemichinonimină, radical liber, ambii metaboliți fiind implicați în toxicitatea renală. Există controverse în legătură cu identitatea acestui metabolit intermediar. O serie de dovezi experimentale sugerează că ar fi N-acetilimidoquinona. În afară de aceste căi de inactivare, în ficat paracetamolul mai suferă și conjugare cu cisteină și deacetilare (rezultând para-aminofenol).După cum se observă activarea în prezența citocromuli P450 conduce la hepatotoxicitate, iar activarea de către PHS duce la nefrotoxicitate, asta deoarece în zona medulară renală are nivele joase de Cit P450, dar nivele înalte de PHS.
+
+Utilizare terapeutică
+Indicații terapeutice
+Este utilizat în mod curent pentru tratamentul simptomatic al afecțiunilor care implică durere de intensitate slabă sau moderată:
+cefalee
+nevralgii dentare
+dureri chirurgicale
+artralgii nereumatismale
+entorse, fracturi, luxații
+dismenoree
+Eficiența maximă a paracetamolului se obține în cazul durerilor slabe de origine non-viscerală.
+
+Ca antipiretic în hipertermiile de natură infecțioasă. Efectul antipiretic este proporțional cu temperatura: paracetamolul este complet ineficient în scăderea temperaturii normale
+Căi de administrare
+Per os (oral)
+Rectal
+intravenos, pentru durerea postoperatorie
+Efecte adverse
+Manifestări alergice urticariene
+Agranulocitoză sau granulocitopenie
+Anemie
+Trombocitopenie
+După doze toxice sau utilizare cronică: hepatotoxicitate cu necroză hepatică generalizată și ireversibilă
+Poate apărea dependența psihică de paracetamol, dar dezvoltarea toleranței și a dependenței fizice nu a fost semnalată.
+Interacțiuni
+Alcoolul și barbituricele pot potența hepatotoxicitatea, dar numai la doze mari
+Modifică rezultatul dozării acidului uric în ser
+Modifică rezultatul dozării glucozei în ser (doar pentru metoda glucozo-oxidazei)
+Poate scadea tranzitoriu transaminazele, timpul de protrombină și bilirubina.
+Efectul său hepatotoxic este potențat de cofeină.
+Contraindicații
+Hipersensibilitate la paracetamol
+Se impune prudență în cazul insuficienței hepatice sau renale și în hepatite
+Alcoolism
+Toxicitate
+
+Mecanismul celular al toxicității
+În caz de supradozare căile de inactivare prin sulfo- și glucurono-conjugare se saturează și astfel se recurge la calea în mod normal minoritară, a citocromului P450 (oxidare). Metabolitul intermediar, foarte toxic datorită gradului mare de reactivitate, despre care se crede că este N-acetilimidoquinona, este rapid conjugat cu glutation. Gluationul poate deveni destul de repede insuficient în intoxicațiile masive, și astfel N-acetilimidoquinona liberă difuzează în citoplasma hepatocitelor, ajungând să reacționeze ireversibil cu glicoproteinele membranare. Sunt afectate și endomembranele, rezultând practic eliberarea așa-numitelor componenete "microsomale". Acesta este mecanismul de toxicitate al paracetamolului, dar și al altor compuși care epuizează rezervele hepatocelulare de glutation. Se ajunge la citoliză, cu necroză hepatică generalizată și implicit insuficiență hepatică. Majoritatea datelor experimentale indică faptul că depleția de glutation la care apare citoliza este de circa 70%. Semnele unei intoxicații apar la doze foarte variate, începând cu 5-8 g. În cazul indivizilor tarați sau al copiilor dozele periculoase pot fi mult mai mici.
+
+Intoxicația
+Relația dintre riscul de toxicitate hepatică manifestă, timp și concentrația plasmatică a paracetamolului. Se observă că pragul de alertă este o concentrație de 150 de µg/ml , și certitudinea afectării ireversibile a ficatului apare în cazul unei concentrații de 200 µg/ml . de la ingestia unei doze mai mari de 5-8 g apar primele semne care constau în:
+
+Greață
+Vărsături
+Anorexie
+Dureri abdominale
+În intoxicațiile cu doze mult mai mari, acestea sunt înlocuite sau însoțite de:
+
+Agitație, delir
+Stupoare, obnubilare sau comă
+Hipotermie moderată
+Dispnee
+Hipotensiune arterială și tahicardie mergând până la șoc
+Tratamentul intoxicației
+Antidotul pentru intoxicația cu paracetamol este N-acetilcisteina. Aceasta trebuie administrată cât de repede posibil, în paralel cu diferite măsuri de tratament simptomatic, și cu monitorizarea funcțiilor vitale.
+
+Este important de menționat faptul că o intoxicație cu paracetamol are o perioadă de evoluție critică , în care pot să apară sau nu primele semne ale citolizei, manifestate bochimic prin creșterea marcată a transaminazelor și clinic prin semnele unei insuficiențe hepatice fulminante.
+
+Paracetamolul este foarte toxic pentru câini, pisici și alte mamifere. Pentru aceste animale, doze foarte mici pot da intoxicații grave, letale. Din acest motiv paracetamolul este evitat de terapia veterinară.
+
+Produse farmaceutice
+Paracetamol, (cpr filmate), Efferalgan, (cpr ef, sirop, supozitoare), Panadol (cpr, sirop), Perfalgan (flac. injectabile i.v.) Se poate asocia cu codeina ptr potentarea efectelor (Napodoren) sau cu tramadol (Zaldiar).
