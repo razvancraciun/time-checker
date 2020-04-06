@@ -1,5 +1,5 @@
 import re
-from redefs import defs, types, timex
+from redefs import defs, timex
 
 # <TIMEX3
 # 	tid="<integer>t"
@@ -29,10 +29,10 @@ if __name__ == "__main__":
 	done = False
 	while not done:
 		txt1 = txt2
-		for def_ in defs:
+		for def_, type_ in defs.items():
 			match = re.search(def_, txt2, flags = re.I)
 			if (match != None):
-				print(timex(match.group(0), types[def_]))
+				print(timex(match.group(0), type_))
 				txt2 = txt2[:match.start()] + txt2[match.end():]
 				found += 1
 
