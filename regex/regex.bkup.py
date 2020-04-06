@@ -1,5 +1,13 @@
 import re
 
+# <TIMEX3
+# 	tid="<integer>t"
+#	type="DATE"|"TIME"|"DURATION"
+#	! value=CDATA
+# >
+# 
+# </TIMEX3>
+
 class Res:
 	pass
 
@@ -25,20 +33,19 @@ redef("c_secunde_nr", res.minute_nr)
 redef("oră_completă_nr", f"{res.ore_nr}:{res.minute_nr}:{res.secunde_nr}")
 redef("oră_simplă_nr", f"{res.ore_nr}:{res.minute_nr}")
 
-redef("c_luni_txt", r"ianuarie|februarie|martie|aprilie|mai|iunie|iulie|august|septembrie|octombrie|noiembrie|decembrie|Ianuarie|Februarie|Martie|Aprilie|Mai|Iunie|Iulie|August|Septembrie|Octombrie|Noiembrie|Decembrie|ian|feb|mar|apr|mai|iun|iul|aug|sep|oct|dec")
+redef("c_luni_txt", r"ianuarie|februarie|martie|aprilie|mai|iunie|iulie|august|septembrie|octombrie|noiembrie|decembrie|ian|feb|mar|apr|mai|iun|iul|aug|sep|oct|dec")
 redef("c_luni_nr", r"10|11|12|0?[1-9]")
 redef("c_ani", r"\d{4}|\d{2}'?")  #1990 / 90'
 redef("c_zile_calendar", r"[1-2][0-9]|3[0-1]|0?[1-9]")
 
 redef("c_interval_ani", f"{res.ani}-{res.ani}")
 
-
 redef("dată_calendaristică", f"{res.zile_calendar}" + r"(\/|\.)" + f"({res.luni_txt}|{res.luni_nr})" + r"(\/|\.)" + f"{res.ani}")
 redef("interval_ani_simplu", res.interval_ani)
 redef("dată_zi_lună", f"{res.zile_calendar}(\/|\.)({res.luni_txt}|{res.luni_nr})")
 
-redef("c_zilele_săptămânii", r"luni|Luni|marți|Marți|miercuri|Miercuri|joi|Joi|vineri|Vineri|sâmbătă|Sâmbătă|duminică|Duminică")
-redef("c_zilele_săptămânii_articulate", r"lunea|Lunea|marția|Marția|miercurea|Miercurea|joia|Joia|vinerea|Vinerea|sâmbăta|Sâmbăta|duminica|Duminica")
+redef("c_zilele_săptămânii", r"luni|marți|miercuri|joi|vineri|sâmbătă|duminică")
+redef("c_zilele_săptămânii_articulate", r"lunea|marția|miercurea|joia|vinerea|sâmbăta|duminica")
 
 redef("c_numerale_ordinale", r"primul|prima|întâia|al ([2-9]|[1-9][0-9])-lea|al doilea|a ([2-9]|[1-9][0-9])-a|a doua|al treilea|a treia|al patrulea|a patra|al cincilea|a cincea|al șaselea|a șasea|al șaptelea|a șaptea|al optulea|a opta|al nouălea|a noua|al zecelea|a zecea")
 redef("c_numere_txt", r"(((două|trei|patru|cinci|șase|șapte|opt|nouă)zeci) și (unu|doi|trei|patru|cinci|șase|șapte|opt|nouă))|((două|trei|patru|cinci|șase|șapte|opt|nouă)zeci)|((un|doi|trei|patru|cinci|șase|șapte|opt|nouă)sprezece)|(unu|una|doi|două|trei|patru|cinci|șase|șapte|opt|nouă|zece)")
@@ -110,21 +117,27 @@ if __name__ == "__main__":
 	txt1 = input_text
 	txt2 = input_text
 
+	to_find = input_text.count("\n") + 1
+	found = 0
 	while True:
 		txt1 = txt2
 		search = re.search(res.expresie_temporală, txt1, flags = re.I)
 		if (search == None):
-			exit(0)
+			break
 		
 		result = search.groupdict()
 		result = {k : v for k, v in result.items() if v != None}
 		
 		if (len(result) == 0):
-			exit(0)
+			break
 
 		for k, v in result.items():
 			print(f'{k}: "{v}"')
 			txt2 = txt2.replace(v, "")
+	
+		found += len(result)
 
 		if txt1 == txt2:
 			break
+	
+	print(f'found {found}/{to_find}')
