@@ -21,6 +21,6 @@ if __name__ == "__main__":
 				print(f"ctimes_art{ii}.txt:")
 				for timex in timexs:
 					print(timex)
-				print(f"{cfount}/{ctotal}")
+				print(f"{cfount}/{ctotal}\n")
 
 	print("%.2f" % (found / total * 100) + "% matched")

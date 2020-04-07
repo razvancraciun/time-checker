@@ -22,4 +22,5 @@ defs = {
 def timex(content, type):
 	global _INTEX
 	_INTEX += 1
-	return f'<TIMEX3 type="{type}">{content}</TIMEX3>'
+	return f'type={type}\t "{content}"'
+	# return f'<TIMEX3 tid="t{_INTEX}" type="{type}">{content}</TIMEX3>'
