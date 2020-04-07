@@ -9,6 +9,21 @@ from redefs import defs, timex
 # 
 # </TIMEX3>
 
+def extract_timex(text):
+	res = []
+	txt1, txt2 = text, text
+
+	while True:
+		txt1 = txt2
+		for def_, type_ in defs.items():
+			match = re.search(def_, txt2, flags = re.I)
+			if (match != None):
+				res += [timex(match.group(0), type_)]
+				txt2 = txt2[:match.start()] + txt2[match.end():]
+
+		if txt1 == txt2:
+			return res
+
 if __name__ == "__main__":
 	from sys import argv 
 	if len(argv) != 2:
@@ -18,26 +33,14 @@ if __name__ == "__main__":
 	input_text = ""
 	try:
 		with open(file_path, "r") as f:
-			input_text = f.read()
+			input_text = f.read().strip()
 	except Exception as e:
 		print(f'> {e.args[1]} "{file_path}"')
 		exit(1)
 
-	total, found = input_text.count("\n") + 1, 0
-	txt1, txt2 = input_text, input_text
+	total = len(input_text.split("\n"))
+	res = extract_timex(input_text)
 
-	done = False
-	while not done:
-		txt1 = txt2
-		for def_, type_ in defs.items():
-			match = re.search(def_, txt2, flags = re.I)
-			if (match != None):
-				print(timex(match.group(0), type_))
-				txt2 = txt2[:match.start()] + txt2[match.end():]
-				found += 1
-
-		if txt1 == txt2:
-			done = True
-	
-	print(f'found {found}/{total}')
-	# print(txt2)
+	for timex in res:
+		print(timex)
+	print(f"{len(res)}/{total}")
