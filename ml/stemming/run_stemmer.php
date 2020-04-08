@@ -3,7 +3,7 @@
 require_once('RomanianStemmer.php');
 
 
-foreach($argv as $arg) {
+foreach(array_slice($argv, 1) as $arg) {
     echo RomanianStemmer::stem($arg)."\n";
 }
 
