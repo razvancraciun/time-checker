@@ -1,5 +1,8 @@
 import os
 import time
+from .stemming.run_stemmer import run_stemmer
+from nltk.tokenize import RegexpTokenizer
+
 
 RAW_PATH = os.path.dirname(os.path.realpath(__file__)) + '/data/raw/'
 
@@ -9,15 +12,13 @@ def load_data(containing, dirpath=RAW_PATH):
     for file in os.listdir(os.fsencode(dirpath)):
         if containing in os.fsdecode(file):
             words += load_set(RAW_PATH + os.fsdecode(file))
-    return words
+    return run_stemmer(words)
 
 def load_set(filepath):
     with open(filepath) as f:
-        lines = f.read().splitlines()
-        words = []
-        for line in lines:
-            if line != '\n':
-                words += [word for word in line.split() if not word.isspace()]
+        text = f.read()
+        tokenizer = RegexpTokenizer(r'\w+')
+        words = tokenizer.tokenize(text.lower())
         return words
     return None
 
@@ -35,9 +36,10 @@ class BayesClassifier:
         start = time.time()
         result = []
         last_word_index = None
+        stemmed_text = run_stemmer(text)
         for index in range(len(text)):
             word = text[index]
-            if self.classify(word):
+            if self.classify(stemmed_text[index]):
                 if last_word_index == None or index != last_word_index + 1:
                     result.append(word)
                     last_word_index = index
@@ -58,7 +60,6 @@ class BayesClassifier:
             pass
         upscale = 1e5
         z = 2
-
         p_word_wr_time = (self.time_set.count(word) + z) * upscale / (self.time_count + 2 * z)
         p_time_wr_word = p_word_wr_time * (self.p_time * upscale)
 
