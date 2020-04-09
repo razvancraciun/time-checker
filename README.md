@@ -8,7 +8,7 @@ Echipă:
 * Petriuc Cezar-Cristian, 3B2
 
 Status:
-
+** OUTDATED **
 Până acum am creat un script care extrage textul din corpusul Ro-TimeBank si il separa in doua fisiere diferite: TIMEXS_RAW.txt si OTHER_ROW.txt
 astfel incat in fisierul timex se afla toate cuvintele care apartin unei expresii temporale ( <TIMEX> tags in corpus) iar in fisierul other, celealte cuvinte din text.
 
