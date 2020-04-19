@@ -1,0 +1,24 @@
+Webul a fost inventat  la Centrul European de Cercetări Nucleare (CERN) din Geneva, Elveția. Propunerea inițială de creare a unei colecții de documente având legături între ele [2] a fost făcută de Tim Berners-Lee . Propunerea a apărut în urma problemelor de comunicare pe care le întâmpinau echipele de cercetători ce foloseau centrul, chiar și folosind poșta electronică.
+
+Primul prototip al acestei colecții (mai întâi în format de text simplu) a apărut , când s-a făcut prima lui demonstrație publică. Studiul a fost continuat prin apariția primei aplicații grafice Mosaic, , realizată de cercetătorul Marc Andreessen de la centrul universitar National Center for Supercomputing Applications (NCSA) din orașul Urbana-Champaign din statul federal Illinois, SUA.
+
+ CERN și M.I.T. au format Consorțiul World Wide Web, care are drept obiectiv dezvoltarea webului, standardizarea protocoalelor și încurajarea legăturilor dintre site-uri. Berners-Lee a devenit directorul acestui consorțiu. M.I.T. coordonează partea americană a consorțiului, iar partea europeană este coordonată de INRIA, centrul de cercetări francez.
+
+ Andreessen părăsește NCSA și înființează o nouă companie, Netscape Communications Corp., care se ocupă cu dezvoltarea de software pentru web.
+
+Apoi webul a evoluat până la ceea ce este , un serviciu multimedia integrativ, având ca suport fizic Internetul.
+
+Berners-Lee și echipa sa au realizat primele versiuni pentru patru componente cheie necesare serviciului web, și anume:
+
+protocolul de intercomunicație HTTP;
+limbajul de descriere a hipertextului HTML, pentru a putea fi afișat de browser;
+serverul de web;
+browserul.
+
+La  la Stanford Linear Accelerator Center (SLAC) a fost instalat un server web și primele pagini Web, care făceau legătura cu biblioteca centrului. Dar primul server web a fost realizat aproape cu , la Centrul European pentru Cercetări Nucleare (CERN), la Geneva, în Elveția, și s-a numit la început nxoc01.cern.ch, iar mai apoi info.cern.ch. 
+
+, când Internetul era deja în plină dezvoltare, după ce proiectul și toate modulele acestuia fuseseră elaborate în Statele Unite, la Stanford Research Institute, la UCLA, UCSB, WU etc., prin realizarea a ceea ce numim acum web, a venit rândul europenilor. Mai exact, la Centrul European de Cercetări Nucleare (CERN) ((în engleză: European Organization for Nuclear Research, în franceză: Organisation européenne pour la recherche nucléaire)), prin proiectul lui Tim Berners-Lee și contribuția câtorva colegi și studenți, a fost creat primul navigator și editor de legături (cu o primă versiune a limbajului HTML) și primul program de server Web.
+
+ Tim Berners-Lee scrie lucrarea: „Information management: A proposal”, difuzată pentru comentarii în CERN, însoțită și de lucrarea „Hypertext and CERN”. Ideea de bază a fost cea a accesului la documente pe baza a ceea ce acum numim URL. După mai multe dezbateri și reluări, , șeful său, Mike Sendal, cumpără un calculator NeXT (unul din supercalculatoarele vremii) și îi permite să treacă la muncă. 
+ 
+  fișierele constituind serverul, navigatoarele și editorul de pagini Web au fost puse la dispoziția celor interesați, accesibile prin ftp, și chiar difuzate în cadrul grupurilor alt.hypertext, comp.sys.next, comp.text.sgml, și comp.mail.multimedia.  încep să funcționeze listele e-mail www-interest și www-talk@info.cern.ch, fiind introdus și accesul cu telnet anonim pe serverul web info.cern.ch. Sunt instalate și punți între WWW si WAIS, respectiv VMS/HELP.
