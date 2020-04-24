@@ -15,12 +15,29 @@ CORPUS_PATH = os.path.dirname(os.path.realpath(__file__)) + '/data/raw/'
 
 BATCH_SIZE = 512
 DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+print(f'Running on {DEVICE}')
+
+class NNClassifier(nn.Module):
+    def __init__(self):
+        super(NNClassifier, self).__init__()
+
+        self.conv = nn.Sequential(
+            nn.Conv1d(300, 512, kernel_size=3)
+        )
+
+
+    def forward(x):
+        y = self.conv(x)
+        print(y.shape)
+
+
+
 
 class Word2Vec(nn.Module):
     def __init__(self, n_words):
         super(Word2Vec, self).__init__()
 
-        self.reprs = nn.Linear(n_words, 300)
+        self.embeddings = nn.Linear(n_words, 300)
         self.output = nn.Sequential(
             nn.Linear(300, n_words),
             nn.Softmax(dim=1)
@@ -122,23 +139,15 @@ print('Creating network...')
 net = Word2Vec(len(voc)).to(DEVICE)
 
 print('Training....')
-net.train(pairGenerator, 3)
+#net.train(pairGenerator, 10)
+print('Done!')
 
-embeddings = net.reprs.weight.T
+embeddings = net.embeddings
 
-word1 = run_stemmer(['zi'])[0]
-word1 = voc.index(word1)
+classifier = NNClassifier()
 
-word2 = run_stemmer(['luna'])[0]
-word2 = voc.index(word2)
+index = voc.index(run_stemmer(['luna']))
+x = embeddings[index]
+print(x.shape)
 
-word3 = run_stemmer(['an'])[0]
-word3 = voc.index(word3)
-
-word4 = run_stemmer(['teoretic'])[0]
-word4 = voc.index(word4)
-
-print(embeddings[word1].sum())
-print(embeddings[word2].sum())
-print(embeddings[word3].sum())
-print(embeddings[word4].sum())
+classifier.forward()

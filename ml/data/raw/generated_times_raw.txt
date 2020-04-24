@@ -4,7 +4,7 @@ anul trecut
 pe al treilea trimestru
 trimestrul de un an mai devreme
 ultimul trimestru
-iunie_1989
+iunie 1989
 19980306
 a doua zi
 mijocul amiezei
@@ -17,8 +17,8 @@ joi
 ieri
 joi
 ieri
-31_dec._1990
-următoarele 14_luni
+31 dec. 1990
+următoarele 14 luni
 1984
 curente
 1988
@@ -29,11 +29,11 @@ al patrulea semestru
 acum
 azi
 10/26/89
-pe 9_august
+pe 9 august
 momentul respectiv
 primul trimestru fiscal
 pe 30 septembrie
-un an în_urmă
+un an în urmă
 un an mai devreme
 10/30/89
 al treilea trimestru
@@ -42,16 +42,16 @@ al treilea trimestru al anului trecut
 următorii doi ani
 anul fiscal 1989
 04/24/1998 21:49:00
-sâmbătă , 25_aprilie
+sâmbătă , 25 aprilie
 săptămâna aceasta
 acum doi ani
 curente
 11/02/89
 5 p.m. EST , 9 noiembrie
-6_noiembrie
+6 noiembrie
 10/26/89
-pe 15_dec .
-17_nov .
+pe 15 dec .
+17 nov .
 ieri
 10/27/89
 pe al treilea trimestru
@@ -59,7 +59,7 @@ ieri
 miercuri
 Ieri mai târziu
 al treilea trimestru
-de_pe al treilea trimestru
+de pe al treilea trimestru
 ieri
 al treilea trimestru
 al patrulea trimestru
@@ -75,7 +75,7 @@ din 1971
 astăzi
 acum
 în septembrie
-anul două_mii
+anul două mii
 acum
 10/30/89
 septembrie
@@ -124,7 +124,7 @@ anul trecut
 anilor nouăzeci
 anul
 pe an
-anului două_mii
+anului două mii
 anul trecut
 acum
 trecut
@@ -139,8 +139,8 @@ Ieri
 începutul lui octombrie
 10/30/89
 trecut
-din_când_în_când
-14_sept .
+din când în când
+14 sept .
 joi
 Vineri
 recent
@@ -163,7 +163,7 @@ primele nouă luni
 11/02/89
 sfârşitul acestei săptămâni
 în 1993
-pe 21_nov .
+pe 21 nov .
 11/02/89
 pentru al treilea trimestru
 de un an mai devreme
@@ -171,20 +171,20 @@ trimestru
 un an mai devreme
 19980115
 Fostul
-o_mie_nouă_sute_nouăzeci_şi_unu
-o_mie_nouă_sute_nouăzeci_şi_şase
+o mie nouă sute nouăzeci şi unu
+o mie nouă sute nouăzeci şi şase
 Acum
 10/30/89
-în_jur_de 1_noiembrie
+în jur de 1 noiembrie
 pe 31 decembrie 1994
 sfârşitul lui 1994
-următoarele 12 până_la 18_luni
+următoarele 12 până la 18 luni
 în prezent
 10/30/89
 vineri
 noapte
 vinerea precedentă
-13_octombrie
+13 octombrie
 actualei
 joi
 săptămânii
@@ -240,8 +240,8 @@ al treilea trimestru
 trimestru
 cele nouă luni
 un an mai devreme
-pe 14_dec .
-din 15_nov .
+pe 14 dec .
+din 15 nov .
 ianuarie
 din 21 . dec
 10/30/89
@@ -266,26 +266,26 @@ curente
 vineri
 luni
 miercuri noaptea
-30_martie
+30 martie
 în fiecare joi
-6_august
+6 august
 11/02/89
-20_noiembrie
+20 noiembrie
 ieri
 deja
-10_noiembrie
+10 noiembrie
 10/30/89
-26_august
-20_octombrie
-10_august_1988
-18_luni
+26 august
+20 octombrie
+10 august 1988
+18 luni
 pe doi ani
 19980223
 recentei
 Acum
 mijlocul lui octombrie
 astăzi
-vara lui o_mie_nouă_sute_nouăzeci_şi_patru
+vara lui o mie nouă sute nouăzeci şi patru
 ultimele două săptămâni
 19980114
 azi
@@ -293,13 +293,13 @@ noaptea
 un minut şi jumătate
 vineri
 vineri
-din noiembrie_1995
+din noiembrie 1995
 0809EST
 02/27/1998 08:09:00
 vineri
 mai mult de patru ore
 vineri
-din noiembrie_1995
+din noiembrie 1995
 10/30/89
 10/26/89
 ultimul an fiscal
@@ -313,10 +313,10 @@ Luna trecută
 joi
 acum aproape doi ani
 următoarelor două saptămâni
-martie_1996
+martie 1996
 ianuarie acest an
 săptămâni sau luni
-26_martie_1996
+26 martie 1996
 22 de luni
 joi
 anul trecut
@@ -349,21 +349,21 @@ recent
 sfârşitul lui 1990
 primăvara aceasta
 11/02/89
-din 13_noiembrie
+din 13 noiembrie
 martie
 pe al treilea trimestru
 cu un an mai devreme
-27_septembrie_1989
+27 septembrie 1989
 ieri
 03/22/1998 14:57:00
 duminică
-de 8_luni
+de 8 luni
 luni
-20_feb .
+20 feb .
 duminică
 mai
 acum două săptămâni
-acum 10_zile
+acum 10 zile
 săptămâna trecută
 februarie
 duminică
@@ -378,8 +378,8 @@ Mai devreme anul acesta
 săptămâna trecută
 10/26/89
 ieri
-31_octombrie
-cu cinci ani în_urmă
+31 octombrie
+cu cinci ani în urmă
 anul trecut
 pe al treilea trimestru
 perioada de anul trecut
@@ -400,14 +400,14 @@ al doilea
 al patrulea trimestru
 trimestrul curent
 10/26/89
-22_nov .
+22 nov .
 last May
 În aprilie trecut
 doi ani
 ieri
 02/12/1998 01:58:00
 joi seara
-pe_la 7 : 15 p.m .
+pe la 7 : 15 p.m .
 acum câţiva ani
 11/01/89
 prima parte a anului viitor
@@ -420,7 +420,7 @@ luna trecută
 un an mai devreme
 ultima decadă
 lunile următoare
-6_aug .
+6 aug .
 ianuarie
 toamna trecută
 vineri
@@ -437,8 +437,8 @@ luna trecută
 decembrie
 ianuarie
 10/30/89
-16_nov .
-pe 1_martie , 2011
+16 nov .
+pe 1 martie , 2011
 vineri
 lunea trecută
 10/30/89
@@ -456,7 +456,7 @@ de două săptămâni
 de două ore
 joi
 acum
-din 2_august
+din 2 august
 joi
 o perioadă destul de lungă
 acum
@@ -471,11 +471,11 @@ joi
 10/27/89
 în aprilie trecut
 ieri
-cel_puţin 30 de zile
-august_1988
+cel puţin 30 de zile
+august 1988
 10/30/89
-7_dec
-30_nov .
+7 dec
+30 nov .
 atunci
 vineri
 11/01/89
@@ -493,7 +493,7 @@ astăzi
 19980216
 săptămâna trecută
 10/26/89
-pe 1_feb .
+pe 1 feb .
 recent
 acum
 trimestrial
@@ -502,14 +502,14 @@ de anul acesta
 din 1987
 al treilea trimestru al acestui an
 un an mai devreme
-30_sept .
+30 sept .
 anul acesta
 1990
 1974
-din 1_feb .
+din 1 feb .
 10/27/89
-pe 1_dec .
-10_nov .
+pe 1 dec .
+10 nov .
 1989
 1990 şi mai departe
 ieri
@@ -524,7 +524,7 @@ chiar acum
 recent
 vineri
 anul acesta
-următorii doi ani sau aşa_ceva
+următorii doi ani sau aşa ceva
 1989
 anul viitor
 anul viitor
@@ -540,7 +540,7 @@ cel mai recent trimestru
 de ieri
 15 decembrie
 anul fiscal
-pe 31_ianuarie
+pe 31 ianuarie
 1992
 în prezent
 10/30/89
@@ -557,14 +557,14 @@ marţi
 astăzi
 azi
 vineri
-august_1988
-2_august
+august 1988
+2 august
 marţi
 astăzi
 astăzi
 azi
 marţi
-6_august
+6 august
 marţi
 azi
 marţi
@@ -584,16 +584,16 @@ un timp mai lung
 acum
 vineri
 opt ani
-august_1988
-2_august
-până_la 180 de zile
+august 1988
+2 august
+până la 180 de zile
 marţi
 astăzi
 astăzi
 azi
 marţi
 acum
-6_august
+6 august
 marţi
 azi
 marţi
@@ -613,7 +613,7 @@ de vineri
 al treilea trimestru
 anul viitor
 acest trimestru
-trimestrul de_la începutul anului
+trimestrul de la începutul anului
 acum o lună
 trimestrului
 trimestre viitoare
@@ -637,7 +637,7 @@ anul viitor
 de vineri
 11/02/89
 cele şase luni
-la 1_octombrie
+la 1 octombrie
 ultima perioadă
 1988
 anul acesta
@@ -645,27 +645,27 @@ anul trecut
 ieri
 un an mai devreme
 11/02/89
-pâna pe 2_ian .
-15_dec .
+pâna pe 2 ian .
+15 dec .
 pe al treilea trimestru
 trimestrul de acum un an
 10/26/89
 pe al treilea trimestru
-Cu un an în_urmă
+Cu un an în urmă
 de ieri
 18 luni
 10/26/89
 primul trimestru fiscal
 primăvara trecută
 trimestrul
-pe 30_sept .
+pe 30 sept .
 un an mai devreme
 trimestrului
 acum
 trimestrului
 pe al treilea trimestru
 un an mai devreme
-de_la începutul anului
+de la începutul anului
 cele nouă luni
 un an mai devreme
 08/13/90
@@ -704,7 +704,7 @@ sfârşitul anului
 miercurea trecută
 11/02/89
 anul
-pe 30_iunie , 1990
+pe 30 iunie , 1990
 anul fiscal curent
 din 1989 fiscal
 1989 fiscal
@@ -716,7 +716,7 @@ al treilea trimestru din 1988
 pe al treilea trimestru
 de anul trecut
 din anul precedent
-aproape două săptămâni în_urmă
+aproape două săptămâni în urmă
 pe trimestrul al patrulea
 vineri
 ultimul trimestru
@@ -727,12 +727,12 @@ august
 cele nouă luni
 anul trecut
 10/27/89
-pe 7_dec .
-22_nov .
+pe 7 dec .
+22 nov .
 de ieri
 11/02/89
 al patrulea trimestru
-la 30_septembrie
+la 30 septembrie
 anul fiscal
 anul fiscal 1988
 11/02/89
@@ -740,7 +740,7 @@ odată
 începutul anilor 1980
 1983
 1985
-iulie_1988
+iulie 1988
 11/02/89
 fiecare din ultimii trei ani
 recent
@@ -749,12 +749,12 @@ ieri
 trecută
 10/26/89
 pe al treilea trimestru
-un an în_urmă
+un an în urmă
 mai devreme anul acesta
 ieri
 02/27/1998 07:56:00
 vineri
-februarie_1947
+februarie 1947
 10/26/89
 al treilea trimestru
 trimestrul de acum un an
@@ -763,16 +763,16 @@ an mai devreme
 ultimii anii
 the nine months
 a year earlier
-30_sept .
-30_iunie
+30 sept .
+30 iunie
 1994
 acum
 cinci ani
 august
 ultimele două săptămâni
-9_oct .
+9 oct .
 sfârşitul anului
-30_sept .
+30 sept .
 10/26/89
 pe al treilea trimestru
 de doi ani
@@ -786,7 +786,7 @@ acum un an
 third-quarter
 acum un an
 acum un an
-din 1_iunie
+din 1 iunie
 al patrulea trimestru
 începutul verii
 pe al treilea trimestru
@@ -794,7 +794,7 @@ trimestrul de acum un an
 now
 al doilea trimestru fiscal
 trimestrul
-pe 30_sept .
+pe 30 sept .
 acum un an
 Ultima perioadă
 anului trecut
@@ -813,9 +813,9 @@ nu mai mult de şaizeci de zile
 acum
 anul trecut
 10/27/89
-9_noiembrie
+9 noiembrie
 acum
-31_octombrie
+31 octombrie
 ieri
 10/30/89
 şase luni
@@ -828,7 +828,7 @@ anului
 recent
 vineri
 1987
-29_septembrie
+29 septembrie
 acest an
 10/26/89
 11/02/89
@@ -844,7 +844,7 @@ pe al treilea trimestru
 acum un an
 11/01/89
 anul
-la 31_martie
+la 31 martie
 în prezent
 11/02/89
 din al patrulea trimestru
@@ -852,7 +852,7 @@ un an mai devreme
 ultima perioadă
 anul trecut
 anul
-pe 30_septembrie
+pe 30 septembrie
 acest an
 întregul an
 recenta
@@ -863,7 +863,7 @@ ieri
 10/26/89
 primul trimestru fiscal
 trimestrul
-pe 29_sept .
+pe 29 sept .
 an mai devreme
 perioada 1988
 luna aceasta
@@ -873,7 +873,7 @@ acest trimestru
 aprilie
 vară
 al patrulea trimestru
-pe 30_iunie
+pe 30 iunie
 anul acesta
 anului fiscal
 Recently
@@ -882,7 +882,7 @@ early next year
 zilelor
 vară
 acum
-cel_puţin ultimele 18_luni
+cel puţin ultimele 18 luni
 pe al treilea trimestru
 luna trecută
 ultima jumătate a 1989
@@ -920,27 +920,27 @@ luna trecută
 ultimii trei ani
 luna aceasta
 începutul lui septembrie
-vineri 13_oct .
+vineri 13 oct .
 acum
 ultimele două luni
 anul acesta
 august
 Ultimele două luni
 anul acesta
-19_octombrie
+19 octombrie
 anul acesta
-19_oct .
+19 oct .
 acum
 ultimele săptămâni şi luni
 19980205
 acum
 11/01/89
 al treilea trimestru
-un an în_urmă
+un an în urmă
 august
 ieri
 vara aceasta
-un an în_urmă
+un an în urmă
 al treilea trimestru
 un an
 10/26/89
@@ -964,21 +964,21 @@ ieri
 săptămâna aceasta
 marţi
 11/01/89
-din 23_oct .
+din 23 oct .
 cam acum doi ani
 secolul al 20 -lea
 10/30/89
-cât de_curând
+cât de curând
 Mai devreme în acest an
 10/26/89
 90 de zile
 04/18/1998 06:07:00
 sâmbătă
-26_mai_1980
+26 mai 1980
 şase zile
-octombrie_1984
+octombrie 1984
 într- o zi
-22_mai_1995
+22 mai 1995
 anul următor
 decembrie
 02/13/1998 15:44:00
@@ -1002,7 +1002,7 @@ azi dimineaţă
 10/27/89
 anul acesta
 curent
-30_sept .
+30 sept .
 Mai devreme luna aceasta
 10/27/89
 cândva anul viitor
@@ -1016,7 +1016,7 @@ Ieri
 săptămâna viitoare
 sfârşitul lui septembrie
 luni
-6_noiembrie
+6 noiembrie
 în aprilie trecut
 devreme anul viitor
 următorii ani
@@ -1027,7 +1027,7 @@ un an mai devreme
 în prezent
 în al patrulea trimestru
 anul
-pe 31_august
+pe 31 august
 anul trecut
 1988
 în prima parte a acestui an
@@ -1037,10 +1037,10 @@ după-amiezei de ieri
 deja
 10/30/89
 iunie
-în_jurul sfârşitului de an
+în jurul sfârşitului de an
 10/27/89
 02/13/1998 14:26:00
-210_ani
+210 ani
 vineri
 anul viitor
 vineri
@@ -1048,7 +1048,7 @@ din 2000
 acum câţiva ani
 anul acesta
 1901
-aproape o_sută de ani
+aproape o sută de ani
 din 1996
 11/02/89
 al treilea trimestru
@@ -1064,7 +1064,7 @@ vineri
 la începutul lunii
 1994 sau mai târziu
 weekendului
-iunie_1994
+iunie 1994
 cinci ani
 1990
 în 1991
@@ -1079,13 +1079,13 @@ de ieri
 03/06/1998 13:19:00
 vineri
 aproape două luni
-de 10_ore
+de 10 ore
 Înainte
 joi
 peste o săptămână
-13_ian .
+13 ian .
 vineri
-din 23_feb .
+din 23 feb .
 joi
 joi
 vineri
@@ -1093,8 +1093,8 @@ săptămâna viitoare
 din 1990
 10/27/89
 astăzi
-17_nov .
-1_ian._1990
+17 nov .
+1 ian. 1990
 10/27/89
 luni
 ianuarie
@@ -1111,7 +1111,7 @@ Azi
 Azi
 acum
 10/30/89
-pe 15_martie , 2007
+pe 15 martie , 2007
 11/02/89
 ieri
 06/26/1998 07:07:00
@@ -1123,8 +1123,8 @@ recent
 aseară
 ieri
 weekend -ului
-11_februarie
-cam cu o săptămână în_urmă
+11 februarie
+cam cu o săptămână în urmă
 seara de sâmbătă
 Data
 în decurs de o săptămână
@@ -1153,7 +1153,7 @@ Anterior
 primii doi ani
 cinci ani
 10/30/89
-pe 15_oct . , 1999
+pe 15 oct . , 1999
 19980213
 azi
 oricând
@@ -1174,12 +1174,12 @@ anterioare
 vineri
 acum
 patru ani
-6_aprilie_1995
+6 aprilie 1995
 0813EST
 02/27/1998 08:13:00
 vineri
 acum aproape patru ani
-6_aprilie_1995
+6 aprilie 1995
 2 ½ ani
 un an
 10/26/89
@@ -1227,15 +1227,15 @@ acum
 10/30/89
 vineri
 joia trecută
-6_noiembrie
-16_nov .
+6 noiembrie
+16 nov .
 vineri seara
 mijlocul lui noiembrie
 săptămâna trecută
 joi
 joi
 10/27/89
-1_noiembrie , 2004
+1 noiembrie , 2004
 ieri
 19980501
 săptămâna viitoare
@@ -1251,7 +1251,7 @@ din 1978
 Vineri
 Duminică
 astăzi
-1985 _
+1985  
 Săptămâna trecută
 anul trecut
 în februarie trecut
@@ -1266,7 +1266,7 @@ atunci
 vineri
 secole
 în mai anul trecut
-cel_puţin încă 20 de ani
+cel puţin încă 20 de ani
 Anul trecut
 trecut
 de patru zile
@@ -1285,7 +1285,7 @@ curent
 anterior
 11/01/89
 al treilea trimestru
-pe 30_septembrie
+pe 30 septembrie
 perioada corespunzătoare de anul trecut
 acest trimestru
 al treilea trimestru al acestui an
@@ -1305,7 +1305,7 @@ septembrie
 Luna trecută
 10/26/89
 8 . nov
-30_sept .
+30 sept .
 ieri
 980111
 următoarele câteva zile
@@ -1319,7 +1319,7 @@ Oct. 15 , 1999
 marţi
 Nov. 1 , 2009
 1999
-pe 17_noiembrie_1992
+pe 17 noiembrie 1992
 11/02/89
 pe al treilea trimestru
 anul trecut
@@ -1336,20 +1336,20 @@ al doilea trimestru din 1988
 pe 3 ian .
 16 nov .
 al patrulea trimestru
-pe 26_aug .
+pe 26 aug .
 Un an mai devreme
 19980304
 azi
 decembrie
-de_data_asta
+de data asta
 douăzeci de ani
 acum
 acum
 10/30/89
-5_p.m . EST , 6_nov .
+5 p.m . EST , 6 nov .
 vineri la miezul nopţii
 vinerea trecută
-26_septembrie
+26 septembrie
 Friday
 Săptămâna trecută târziu
 11/01/89
@@ -1358,11 +1358,11 @@ săptămâna trecută
 luni
 19980227
 luna trecută
-o_mie_nouă_sute_nouăzeci_şi_şase
-Ianuarie o_mie_nouă_sute_nouăzeci_şi_şapte
+o mie nouă sute nouăzeci şi şase
+Ianuarie o mie nouă sute nouăzeci şi şapte
 luna trecută
 Acum
-în o_mie_nouă_sute_nouăzeci_şi_şapte
+în o mie nouă sute nouăzeci şi şapte
 săptămâna aceasta
 11/02/89
 al treilea trimestru
@@ -1371,7 +1371,7 @@ ultimul trimestru
 Anul trecut
 19980108
 săptămână
-ultimele douăzeci_şi_patru de ore
+ultimele douăzeci şi patru de ore
 cinci ani
 patru ani
 Acum
@@ -1384,7 +1384,7 @@ câţiva ani
 10/30/89
 Friday
 trimestrul
-pe 31_iulie
+pe 31 iulie
 10/26/89
 10/30/89
 anul trecut
@@ -1396,7 +1396,7 @@ vineri
 11/01/89
 pe al treilea trimestru
 trimestru
-pe 30_septembrie
+pe 30 septembrie
 trimestrul din anul trecut
 de anul trecut
 al treilea trimestru
@@ -1411,22 +1411,22 @@ ultimii 20 de ani
 1987
 acum
 luni
-pe 1_iulie
+pe 1 iulie
 anul acesta
 19980121
 azi
-o_mie_nouă_sute_şaptezeci_şi_nouă
+o mie nouă sute şaptezeci şi nouă
 secole de- a rândul
-mai mult de două_mii de ani
+mai mult de două mii de ani
 câteva minute
 10/26/89
 10/27/89
 al treilea trimestru
-pe 21_august
+pe 21 august
 al treilea trimestru
 al treilea trimestru din anul anterior
 din iunie
-de 1_noiembrie
+de 1 noiembrie
 11/02/89
 de marţi
 luna aceasta
@@ -1437,10 +1437,10 @@ lui noiembrie
 decembrie
 trimestrul comparabil de acum un an
 al doilea trimestru
-pe 31_oct .
+pe 31 oct .
 acel trimestru
 10/27/89
 this month
 ieri târziu
 anul
-pe 2_iulie
+pe 2 iulie

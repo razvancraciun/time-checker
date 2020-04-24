@@ -1,18 +1,16 @@
 from ml.bayes import BayesClassifier
 
-from nltk.tokenize import RegexpTokenizer
 
+print('Reading file...')
 text = ''
 with open('example.txt', 'r') as f:
     text = f.read()
 
-tokenizer = RegexpTokenizer(r'\w+')
-words = tokenizer.tokenize(text.lower())
-
+print('Creating classifier...')
 bc = BayesClassifier()
 
-print('Unbiased run...')
-result = bc.run(words)
+print('Running...')
+result = bc.run_on_text(text)
 print(result)
 
 print('---------------------------')
