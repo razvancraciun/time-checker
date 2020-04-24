@@ -1,9 +1,7 @@
 import os
 from nltk.tokenize import RegexpTokenizer
 from pickle import load
-print('stem')
 from .preprocess import stem
-print('done')
 
 RAW_PATH = os.path.dirname(os.path.realpath(__file__)) + '/data/raw/'
 PREPROCESSED_PATH = os.path.dirname(os.path.realpath(__file__)) + '/data/preprocessed/'
