@@ -60,8 +60,9 @@ content = []
 for (is_time, expr) in time_expressions:
 	t = timex(expr)
 	content += [t[0] if is_time else expr]
-	found += t[1]
-	total += t[2]
+	if (is_time):
+		found += t[1]
+		total += t[2]
 
 TEXT.text = ' '.join(content).strip()
 

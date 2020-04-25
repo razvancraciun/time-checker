@@ -93,11 +93,11 @@ def timex(text: str):
 	
 	timexs = list(sorted(timexs, key = lambda el: el[0]))
 
-	acc = txt2.replace(' ', '')
 	result = txt2
 	for (_, t) in timexs:
 		_INTEX += 1
 		t.i = _INTEX
 		result = re.sub('(█+)', str(t), result, 1)
 
+	acc = txt2.replace(' ', '')
 	return (result, acc.count('█'), len(acc))
