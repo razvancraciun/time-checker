@@ -9,7 +9,7 @@ if __name__ != '__main__':
 	errprint('Cannot use timechecker as a module')
 	exit(1)
 
-if len(argv) < 2:
+if len(argv) != 2:
 	errprint('!> input file path must be given')
 	exit(1)
 
@@ -49,18 +49,19 @@ def indent(el: et.Element, lvl = 0):
 		if lvl and (not el.tail or not el.tail.strip()):
 			el.tail = INDENT
 
-# for (is_time, expr) in time_expressions:
-# 	if is_time:
-# 		print(f'"{expr}"\t-> "{timex(expr)}"')
-
 TimeML = et.Element('TimeML')
 TEXT = et.Element('TEXT')
 TimeML.append(TEXT)
 
+found = 0
+total = 0
+
 content = []
 for (is_time, expr) in time_expressions:
-	content += [timex(expr) if is_time else expr]
-	# encoding += timex(expr) if is_time else expr
+	t = timex(expr)
+	content += [t[0] if is_time else expr]
+	found += t[1]
+	total += t[2]
 
 TEXT.text = ' '.join(content).strip()
 
@@ -75,17 +76,5 @@ content = content.replace('&lt;', '<').replace('&gt;', '>')
 f.write(content)
 
 f.close()
-print("Done.")
+print(f'Done. ({"{0:.00%}".format(found / total)} accuracy)')
 exit(0)
-
-# et.ElementTree(TimeML).write(output_file, encoding = 'UTF-8', xml_declaration = True)
-
-# f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
-# # f.write('<!DOCTYPE TimeML SYSTEM "../../dtd/ISO-TimeML-Ro.dtd">')
-# f.write('<!DOCTYPE TimeML>\n')
-# f.write('<TimeML>\n')
-# # add <DATE_TIME>
-# f.write('<TEXT>\n')
-
-# f.write('</TEXT>\n')
-# f.write('</TimeML>')
