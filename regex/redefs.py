@@ -1,7 +1,6 @@
-_INTEX = 0
-_DATE = "DATE"
-_TIME = "TIME"
-_DURATION = "DURATION"
+import re
+
+# definitions
 
 număr_arab = r"([1-9]?[0-9]{0,100}[0-9])"
 
@@ -44,7 +43,13 @@ prep_perioadă_cuvânt =f"(({prep_perioadă} {număr} \w+)|({prep_perioadă} (lu
 
 unități_temporale=f"(({prep} ({număr} )?{unități_măsură})|({prep_perioadă} ({număr} )?{unități_măsură}))"
 unități_temporale2=f"(({cuvinte_cheie} ({cuvinte_legatura} )?({unități_măsură}|{perioadă}|{lunile_anului}|{anotimpuri}))|({prep} {cuvinte_cheie}))"
-#-------
+
+#========
+
+_INTEX = 0
+_DATE = "DATE"
+_TIME = "TIME"
+_DURATION = "DURATION"
 
 defs = {
 	perioadă_istorică: _DURATION,
@@ -59,8 +64,39 @@ defs = {
 	#lunile_anului: _TIME,
 }
 
-def timex(content, type):
+class Timex:
+	def __init__(self, i: int, t: str, c: str):
+		self.i = i
+		self.t = t
+		self.c = c
+
+	def __str__(self):
+		return f'<TIMEX3 tid="t{self.i}" type="{self.t}">{self.c}</TIMEX3>'
+
+def timex(text: str):
 	global _INTEX
-	_INTEX += 1
-	return f'type={type}\t "{content}"'
-	# return f'<TIMEX3 tid="t{_INTEX}" type="{type}">{content}</TIMEX3>'
+
+	timexs = []
+	
+	txt1, txt2 = text, text
+	diff = 0
+	while True:
+		txt1 = txt2
+		for definition, deftype in defs.items():
+			match = re.search(definition, txt2, flags = re.I)
+			if (match != None):
+				timexs += [(match.start(), Timex(-1, deftype, match.group(0)))]
+				txt2 = (txt2[:match.start()] + '█' * (match.end() - match.start()) + txt2[match.end():])
+
+		if txt1 == txt2:
+			break
+	
+	timexs = list(sorted(timexs, key = lambda el: el[0]))
+
+	result = txt2
+	for (_, t) in timexs:
+		_INTEX += 1
+		t.i = _INTEX
+		result = re.sub('(█+)', str(t), result, 1)
+
+	return result

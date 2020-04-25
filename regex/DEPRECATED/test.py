@@ -1,5 +1,5 @@
 from sys import argv
-from encode import extract_timex
+from .encode import extract_timex
 
 if __name__ == "__main__":
 	debug = False

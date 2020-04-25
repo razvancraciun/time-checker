@@ -1,5 +1,5 @@
 import re
-from redefs import defs, timex
+from .redefs import defs, timex
 
 # <TIMEX3
 # 	tid="<integer>t"
