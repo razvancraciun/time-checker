@@ -44,10 +44,8 @@ class BayesClassifier:
                 last_bool = el
                 partial = words[i] 
 
+        result.append( (last_bool, partial) )
         return result
-        # print(f'Origin: {len(text)} words. Result: {len(result)} words')
-        # print(f'Duration {round(time.time() - start, 3)} seconds')
-        # return result
     
 
     ''' True if word is part of timex, False otherwids '''
