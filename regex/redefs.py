@@ -72,7 +72,7 @@ defs = {
 	unități_temporale: _TIME,
 	unități_temporale2: _TIME,
 	an_plus: _TIME,
-	cazuri_particulare: _TEST
+	# cazuri_particulare: _TEST
 }
 
 class Timex:
