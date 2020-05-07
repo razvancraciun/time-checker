@@ -12,19 +12,13 @@ def load_pickle(path):
         
 
 class BayesClassifier:
-    def __init__(self, begin_set=load_pickle(PREPROCESSED_PATH + 'begin.pkl'), inside_set=load_pickle(PREPROCESSED_PATH + 'inside.pkl'), outside_set=load_pickle(PREPROCESSED_PATH + 'other.pkl')):
-        self.begin_set = begin_set
-        self.inside_set = inside_set
-        self.outside_set = outside_set
-
-        self.begin_count = sum(self.begin_set.values())
-        self.inside_count = sum(self.inside_set.values())
-        self.outside_count = sum(self.outside_set.values())
-        self.all_count = self.begin_count + self.inside_count + self.outside_count
-
-        self.p_begin = self.begin_count / self.all_count
-        self.p_inside = self.inside_count / self.all_count
-        self.p_outside = self.outside_count / self.all_count
+    def __init__(self, time_set=load_pickle(PREPROCESSED_PATH + 'times.pkl'), other_set=load_pickle(PREPROCESSED_PATH + 'other.pkl')):
+        self.time_set = time_set
+        self.other_set = other_set
+        self.time_count = sum(self.time_set.values())
+        self.other_count = sum(self.other_set.values())
+        self.p_time = self.time_count / (self.time_count + self.other_count)
+        self.p_other = self.other_count / (self.time_count + self.other_count)
 
     def run_on_text(self, text):
         tokenizer = RegexpTokenizer(r'\w+')
@@ -64,31 +58,22 @@ class BayesClassifier:
         upscale = 1e5
         z = 2
 
-        begin_count_word = 0
+        time_count_word = 0
         try:
-            begin_count_word = self.begin_set[word]
+            time_count_word = self.time_set[word]
         except:
             pass
 
-        inside_count_word = 0
+        other_count_word = 0
         try:
-            inside_count_word = self.inside_set[word]
+            other_count_word = self.other_set[word]
         except:
             pass
 
-        outside_count_word = 0
-        try:
-            outside_count_word = self.outside_set[word]
-        except:
-            pass
+        p_word_wr_time = (time_count_word + z) * upscale / (self.time_count + 2 * z)
+        p_time_wr_word = p_word_wr_time * (self.p_time * upscale)
 
-        p_word_wr_begin = (begin_count_word + z) * upscale / (self.begin_count + 2 * z)
-        p_begin_wr_word = p_word_wr_begin * (self.p_begin * upscale)
+        p_word_wr_other = (other_count_word + z) * upscale / (self.other_count + 2 * z)
+        p_other_wr_word = p_word_wr_other * (self.p_other * upscale)
 
-        p_word_wr_inside = (inside_count_word + z) * upscale / (self.inside_count + 2 * z)
-        p_inside_wr_word = p_word_wr_inside * (self.p_inside * upscale)
-
-        p_word_wr_outside = (outside_count_word + z) * upscale / (self.outside_count + 2 * z)
-        p_outside_wr_word = p_word_wr_outside * (self.p_outside * upscale)
-
-        return p_inside_wr_word >= p_outside_wr_word or p_begin_wr_word >= p_outside_wr_word
+        return p_time_wr_word >= p_other_wr_word
