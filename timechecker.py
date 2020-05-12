@@ -79,7 +79,7 @@ print('Generating output...')
 TimeML = et.Element('TimeML')
 TEXT = et.Element('TEXT')
 TimeML.append(TEXT)
-TEXT.text = ' '.join(content).strip()
+TEXT.text = ''.join(content).strip()
 
 f = open(OUTPUT_FILE, 'w+')
 f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
