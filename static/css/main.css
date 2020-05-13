@@ -1,0 +1,44 @@
+body {
+    padding: 5px;
+    margin: 0;
+    background-color: #c9eaeb !important;
+    font-family: 'Muli', sans-serif !important;
+}
+
+input[type=submit] {
+    width: 100%;
+    padding: 15px 20px;
+    margin: 15px 0;
+    border: none;
+    background-color: #9bbbbd;
+}
+
+input[type=submit]:hover {
+    background-color:#5f8f90;
+}
+
+.centerBox {
+    box-shadow: 3px 3px 17px 0px rgba(0, 0, 0, 0.1);
+    color: black;
+    margin-left: 23vw;
+    margin-right: 23vw;
+    margin-top: 20px;
+    min-height: 50vh;
+    background-color:#abc7c7;
+
+}
+
+.header{
+    background-color: #9bbbbd!important;
+    color:white;
+}
+
+.my-navbar-brand{
+    width: 100%;
+    padding: 12px 20px;
+    text-align: center;
+}
+
+.mycontainer{
+    padding-top: 10vh;
+}
