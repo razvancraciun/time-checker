@@ -115,3 +115,24 @@ def timex(text: str):
 
 	acc = txt2.replace(' ', '')
 	return (result, acc.count('█'), len(acc))
+
+def timex_matched(text: str):
+	global _INTEX
+
+	timexs = []
+	
+	txt1, txt2 = text, text
+	diff = 0
+	while True:
+		txt1 = txt2
+		for definition, deftype in defs.items():
+			match = re.search(definition, txt2, flags = re.I)
+			if (match != None):
+				timexs += [(match.start(), match.group(0))]
+				txt2 = (txt2[:match.start()] + '█' * (match.end() - match.start()) + txt2[match.end():])
+
+		if txt1 == txt2:
+			break
+	
+	timexs = list(map(lambda el: el[1], sorted(timexs, key = lambda el: el[0])))
+	return timexs
