@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"Team Tasks.xlsx": true,
+		"TimeCheckerDescription_2020.doc": true,
+		"**/__init__.py": true,
+		"**/__pycache__": true,
+		"**/.~lock*": true,
+	}
+}
