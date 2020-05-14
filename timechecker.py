@@ -53,8 +53,6 @@ def indent(el: et.Element, lvl = 0):
 		if lvl and (not el.tail or not el.tail.strip()):
 			el.tail = INDENT
 
-found = 0
-total = 0
 debug_info = []
 
 print('Filtering and encoding...')
@@ -63,8 +61,6 @@ for (is_time, expr) in time_expressions:
 	if (is_time):
 		t = timex(expr)
 		content += [t[0]]
-		found += t[1]
-		total += t[2]
 		if DEBUG:
 			debug_info += [f'"{expr}" -> "{t[0]}"']
 	else:
@@ -90,5 +86,5 @@ content = content.replace('&lt;', '<').replace('&gt;', '>')
 f.write(content)
 f.close()
 
-print(f'Done. ({"%.2f" % (found / total * 100)}% accuracy)')
+print(f'Done.')
 exit(0)
