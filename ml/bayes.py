@@ -36,7 +36,6 @@ class BayesClassifier:
                 result[-1] = (result[-1][0], result[-1][1] + expr)
 
         final = [result[0]]
-
         for ii in range(1, len(result)):
             if final[-1][0] != result[ii][0]:
                 final += [result[ii]]
@@ -45,7 +44,6 @@ class BayesClassifier:
                 final[-1] = (final[-1][0], final[-1][1] + space + result[ii][1])
 
         return final
-
 
     ''' True if word is part of timex, False otherwids '''
     def classify(self, word):

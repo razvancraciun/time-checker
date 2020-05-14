@@ -1,11 +1,12 @@
 from os import listdir, fsencode, fsdecode, path
-from stemming.run_stemmer import run_stemmer
+from .stemming.run_stemmer import run_stemmer
 from nltk.tokenize import RegexpTokenizer
 from collections import Counter
 import pickle
 
 RAW_PATH = path.dirname(path.realpath(__file__)) + '/data/raw/'
 PREPROCESSED_PATH = path.dirname(path.realpath(__file__)) + '/data/test/'
+COMBS = ['c' + str(i) for i in range(1,41)] + ['t' + str(i) for i in range(1,41)]
 
 def load_data(containing, butnot, dirpath=RAW_PATH):
     owner = butnot[0]
@@ -45,9 +46,9 @@ def filter_keys(dictt):
         dictt.pop(key)
 
 if __name__ == "__main__":
-    combs = ['c' + str(i) for i in range(1,41)] + ['t' + str(i) for i in range(1,41)]
     
-    for comb in combs:
+    
+    for comb in COMBS:
         print(comb)
         times = load_data('times', butnot=comb)
         times_dict = Counter(times)
