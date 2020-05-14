@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from flask import Flask, render_template, request, redirect, send_file, send_from_directory
 from werkzeug.utils import secure_filename
 import os
