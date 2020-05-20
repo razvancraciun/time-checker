@@ -17,20 +17,20 @@ zi = "((0?[1-9])|([12][0-9])|(3[01]))"
 lună = "((0?[1-9])|(1[0-2]))"
 eră = r"(((î|d|a)\.?(Hr|Chr)\.)|î.e.n.|î.e.c|a.e.n.|e.n.)"
 an = r"(([1-9]?[0-9]{0,2}[0-9])|([1-9][0-9]'))"
-secol = f"((secolul(ui)? ((al {num_roman}-lea)|{num_roman})( {eră})?)|(secolele (al )?{num_roman}(-lea)? și (al )?{num_roman}(-lea)?( {eră})?)|(secol {num_roman}( și {num_roman})?)|(sec(.)? {num_roman}( {eră})?))"
+secol = f"((secolul(ui)? (({număr})|((al {num_roman}-lea)|{num_roman})( {eră})?))|(secolele (al )?{num_roman}(-lea)? și (al )?{num_roman}(-lea)?( {eră})?)|(secol {num_roman}( și {num_roman})?)|(sec(\.)? {num_roman}( {eră})?))"
 
 an_plus = f"(({an} (sau|\/) {an})|({an}(-|\/|, ){an})|({an}))"
 
-unități_măsură=r"(secunda|secundă|secundelor|secundele|secunde|minutelor|minutele|minute|minut|ora|oră|orele|orelor|ore|zilele|zilelor|zile|zi|săptămâna|săptămânilor|saptămânile|săptămâni|săptămână|luna|lunile|lunilor|lunii|luni|lună|anilor|anual|anii|ani|anului|anul|an|deceniile|decenii|deceniu|veacuri|veacul|veac|secolul|mileniul|mileniile|milenii|mileuniu)"
+unități_măsură=r"(secunda|secundă|secundelor|secundele|secunde|minutelor|minutele|minute|minut|ora|oră|orele|orelor|ore|zilele|zilelor|zile|zi|săptămâna|săptămânilor|saptămânile|săptămâni|săptămână|luna|lunile|lunilor|lunii|luni|lună|anilor|anual|anii|ani|anului|anul|an|deceniile|decenii|deceniu|veacuri|veacul|veacsecolul|secolele|secole|secol|mileniul|mileniile|milenii|mileuniu)"
 
 prep = r"(încă|în|circa( o|un)?|un|de la|la|câteva|până la|până|o dată pe|al|de|din acea|acea|din|toată|tot)"
-prep_perioadă= r"(până (în|la)|de mai bine de (o|un)|timp de|vreme de|în timpul|pe timpul|în epoca|epoca|ca\.|o parte a|restul|în fiecare|într-o)"
+prep_perioadă= r"(până (în|la)|de mai bine de( o| un)?|timp de|vreme de|în timpul|pe timpul|în epoca|epoca|ca\.|o parte a|restul|în fiecare|într-o|în jurul|acum|începând( cu)?)"
 cuvinte_legatura=r"(lui|la|pe|de)"
 
 timp_al_zilei = f"(dimineața|dimineață|amiaza|amiază|după-amiaza|după-amiază|după amiaza|după amiază|seara|seară|noaptea|noapte|zi|ziua|miezul nopții)"
-cuvinte_cheie=r"(timp|timpului|azi|astăzi|mâine|ieri|începutul|început|anteriori|anterior|curent|viitor|viitoare|viitorul|sfârșitul|sfârșit|prima|primul|ultimul|ultima|ultimele|trecut|trecută|înainte|prezent|prezentă|acum|semestru|trimestru|perioada|perioadă|durata|durată|vreme|vremea|vremurile|vremuri)"
+cuvinte_cheie=r"(timp|timpului|azi|astăzi|mâine|ieri|începutul|început|anteriori|anterior|curent|viitor|viitoare|viitorul|sfârșitul|sfârșit|prima|primul|ultimul|ultima|ultimele|trecut|trecută|înainte|prezent|prezentă|acum|semestru|trimestru|perioada|perioadă|durata|durată|vreme|vremea|vremurile|vremuri|mijlocul)"
 
-perioadă_expresie = r"(antichitate|evul mediu|zilele noastre|anului|anul|deceniu|epocă)"
+perioadă_expresie = r"(antichitate|evul mediu|zilele noastre|anului|anul|deceniu|epocă|datei)"
 #perioadă = f"(((o|un) (zi|săptămână|lună|an|deceniu|secol))|(({număr}|{prep}) (zile|săptămâni|luni|ani|decenii|secol)(le|lor)? (noastre)?))"
 
 lunile_anului=r"(ianuarie|februarie|martie|aprilie|mai|iunie|iulie|august|septembrie|octombrie|noiembrie|decembrie)"
@@ -42,18 +42,18 @@ expr_anotimpuri=f"({prep} {anotimpuri} ({unități_măsură}|{cuvinte_cheie}) {a
 
 dată_celendaristică=f"(({zi}(\.|\/| )({lună}|{lunile_anului})(\.|\/| ){an})|({zi}(\.|\/| )({lună}|{lunile_anului}))|(({lună}|{lunile_anului})(\.|\/| ){an}))"
 dată = f"((({prep} )?{dată_celendaristică})|(({prep}|{prep_perioadă}) ({an}|{secol}|{anotimpuri}|({lunile_anului} și {lunile_anului})|{lunile_anului})( {eră}| {unități_măsură})?)|((({prep} |{prep_perioadă} )?({an}|{secol}) ({eră}|{unități_măsură})))|(({prep} )?{cuvinte_cheie} {secol})|({secol}))"
-dată_istorică = f"({prep} {perioadă_expresie}( {an})?)"
-perioadă_istorică = f"(({prep_perioadă} {perioadă_expresie})|(({prep}|{prep_perioadă}) {an}(-|, ){an}( {eră}|{lunile_anului})?)|({an}(-|\/){an}( {unități_măsură}|( și {an}(-|\/){an}))?)( {lunile_anului} ({an})?)?)"
+dată_istorică = f"({prep} {perioadă_expresie}( ({prep} )?{an})?( {eră})?)"
+perioadă_istorică = f"(({prep_perioadă} {perioadă_expresie}( ({prep} )?{an})?)|(({prep}|{prep_perioadă}) {an}(-|, ){an}( {eră}|{lunile_anului})?)|({an}(-|\/){an}( {unități_măsură}|( și {an}(-|\/){an}))?)( {lunile_anului} ({an})?)?)"
 
 intervale = f"((din {an} până în {an})|((în perioada )?({dată_celendaristică}|{zi}|{lună}|{an})( {lunile_anului})?( - |-|\/)({dată_celendaristică}|{zi}|{lună}|{an})( {lunile_anului})?)|({prep} )?{unități_măsură} {unități_măsură})"
 
-prep_perioadă_cuvânt =f"(({prep_perioadă} {număr} \w+)|({prep_perioadă} (lui|la)? \w+))"
+prep_perioadă_cuvânt =f"(({prep_perioadă} {număr} \w+ ({prep} ){unități_măsură})|({prep_perioadă} {număr} \w+)|({prep_perioadă} (lui|la)? \w+)|({număr} \w+ {unități_măsură}))"
 
-perioadă_litere = f"(({num_română} {unități_măsură}, {num_română} {unități_măsură} și {num_română} {unități_măsură})|({num_română} {unități_măsură} și {num_română} {unități_măsură})|((( )?a )?{num_română} {unități_măsură}( și \w+)?))"
-unități_temporale=f"(({număr} |{num_română} )?({prep_perioadă} ({număr} |{num_română} )?{unități_măsură})|({număr} |{num_română} )?({prep} ({număr} |{num_română} )?{unități_măsură}( {dată_celendaristică}| {an})?)|(({număr}|{num_română}) ({unități_măsură}|{cuvinte_cheie}|{timp_al_zilei})))"
-unități_temporale2=f"(({cuvinte_cheie} ({cuvinte_legatura} )?({unități_măsură}|{lunile_anului}|{anotimpuri}))|({prep} {cuvinte_cheie}( {unități_măsură} {an}| {unități_măsură})?)|({prep} {prep_perioadă} \w+)|({unități_măsură} {lunile_anului})|((a|{prep}) {num_română} {unități_măsură})|({prep} {timp_al_zilei})|(({prep}|{prep_perioadă}|{prep} {prep_perioadă}) {zilele_săptămânii}))"
+perioadă_litere = f"(({num_română} {unități_măsură}, {num_română} {unități_măsură} și {num_română} {unități_măsură})|({num_română} {unități_măsură} și {num_română} {unități_măsură})|(((( )?a )?|({prep_perioadă} )?){num_română} {unități_măsură}( și \w+)?))"
+unități_temporale=f"(({număr} |{num_română} )?({prep_perioadă} ({număr} |{num_română} )?({secol}|{unități_măsură}))|({număr} |{num_română} )?({prep} ({număr} |{num_română} )?({secol}|{unități_măsură})( {dată_celendaristică}| {an})?)|(({număr}|{num_română}) ({unități_măsură}|{cuvinte_cheie}|{timp_al_zilei})))"
+unități_temporale2=f"((({prep} )?{cuvinte_cheie} ({cuvinte_legatura} )?({unități_măsură}|{lunile_anului}|{anotimpuri}))|({prep} {cuvinte_cheie}( {secol}| {unități_măsură} ({an}|ale {secol})| {unități_măsură})?)|({prep} {prep_perioadă} \w+)|({unități_măsură} {lunile_anului})|((a|{prep}) {num_română} {unități_măsură})|({prep} {timp_al_zilei})|(({prep}|{prep_perioadă}|{prep} {prep_perioadă}) {zilele_săptămânii}))"
 
-cazuri_particulare=f"(în această perioadă|în aceeași zi|după moartea artistului|În ultimii săi ani de viață|Vreme de mulți ani|din tinerețe|timp de aproape o jumătate de mileniu|către sfârșitul vieții|de-a lungul perioadei preistorice|în ultimele decenii ale secolului al-{num_roman}-lea)|în scurt timp|la scurt timp după|după intrarea României în cel de-al doilea război balcanic|între timp|din acele zile|în cel de-al treilea an|mai târziu|în acest timp|de-a lungul timpului|paleoliticului|paleolitic|de-a lungul istoriei|în Egiptul antic|în primele luni de viață|din primele zile de viață|cel de-al Doilea Război Mondial|Primul(ui)? Razboi Mondial|vreme de război|în jurul anului {an}|astăzi|în fiecare zi|în urmă cu {an} de mii de ani"
+cazuri_particulare=f"(în această perioadă|în aceeași zi|după moartea artistului|În ultimii săi ani de viață|Vreme de mulți ani|din tinerețe|timp de aproape o jumătate de mileniu|către sfârșitul vieții|de-a lungul perioadei preistorice|în ultimele decenii ale secolului al-{num_roman}-lea)|în scurt timp|la scurt timp după|după intrarea României în cel de-al doilea război balcanic|între timp|din acele zile|în cel de-al treilea an|mai târziu|în acest timp|de-a lungul timpului|paleoliticului|paleolitic|de-a lungul istoriei|în Egiptul antic|în primele luni de viață|din primele zile de viață|cel de-al Doilea Război Mondial|Primul(ui)? Razboi Mondial|vreme de război|în jurul anului {an}|astăzi|în fiecare zi|în urmă cu {an} de mii de ani|înainte"
 
 
 #========
@@ -76,6 +76,7 @@ defs = {
 	dată: _DATE,
 	an_plus: _TIME,
 	cazuri_particulare: _TIME,
+	lunile_anului: _TIME
 }
 
 class Timex:
