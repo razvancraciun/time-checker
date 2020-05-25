@@ -19,20 +19,11 @@ if len(argv) > 3:
 
 INPUT_FILE = argv[1]
 OUTPUT_FILE = f'{path.splitext(INPUT_FILE)[0]}.xml'
-DEBUG_FILE = f'{path.splitext(INPUT_FILE)[0]}_debug.txt'
-DEBUG = len(argv) == 3
 
 print('Reading input data...')
 input_text = ''
 with open(INPUT_FILE, 'r') as f:
 	input_text = f.read()
-
-print('Instantiating classifier...')
-from ml.bayes import BayesClassifier
-classifier = BayesClassifier()
-
-print('Running classifier...')
-time_expressions = classifier.run_on_text(input_text)
 
 from regex.redefs import timex
 import xml.etree.ElementTree as et
@@ -53,29 +44,11 @@ def indent(el: et.Element, lvl = 0):
 		if lvl and (not el.tail or not el.tail.strip()):
 			el.tail = INDENT
 
-debug_info = []
-
-print('Filtering and encoding...')
-content = []
-for (is_time, expr) in time_expressions:
-	if (is_time):
-		t = timex(expr)
-		content += [t[0]]
-		if DEBUG:
-			debug_info += [f'"{expr}" -> "{t[0]}"']
-	else:
-		content += [expr]
-
-if DEBUG:
-	print('Generating debug info...')
-	with open(DEBUG_FILE, 'w+') as f:
-		f.write('\n'.join(debug_info))
-
 print('Generating output...')
 TimeML = et.Element('TimeML')
 TEXT = et.Element('TEXT')
 TimeML.append(TEXT)
-TEXT.text = ''.join(content).strip()
+TEXT.text = timex(input_text)[0]
 
 f = open(OUTPUT_FILE, 'w+')
 f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
