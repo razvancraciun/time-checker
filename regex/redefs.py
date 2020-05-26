@@ -133,10 +133,10 @@ def timex_matched(text: str):
 			match = re.search(definition, txt2, flags = re.I)
 			if (match != None):
 				timexs += [(match.start(), match.group(0))]
-				txt2 = (txt2[:match.start()] + '█' * (match.end() - match.start()) + txt2[match.end():])
+				txt2 = (txt2[:match.start()] + txt2[match.end():])
 
 		if txt1 == txt2:
 			break
 	
 	timexs = list(map(lambda el: el[1], sorted(timexs, key = lambda el: el[0])))
-	return timexs
+	return timexs, re.sub('\s+', ' ', txt2)

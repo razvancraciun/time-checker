@@ -73,4 +73,4 @@ class BayesClassifier:
         p_word_wr_other = (other_count_word + z) * upscale / (self.other_count + 2 * z)
         p_other_wr_word = p_word_wr_other * (self.p_other * upscale)
 
-        return p_time_wr_word >= p_other_wr_word
+        return p_time_wr_word * 2 >= p_other_wr_word
