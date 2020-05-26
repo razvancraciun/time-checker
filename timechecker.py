@@ -25,7 +25,7 @@ input_text = ''
 with open(INPUT_FILE, 'r') as f:
 	input_text = f.read()
 
-from regex.redefs import timex
+from regexs.redefs import timex
 import xml.etree.ElementTree as et
 
 def indent(el: et.Element, lvl = 0):

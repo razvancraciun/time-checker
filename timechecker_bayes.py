@@ -34,7 +34,7 @@ classifier = BayesClassifier()
 print('Running classifier...')
 time_expressions = classifier.run_on_text(input_text)
 
-from regex.redefs import timex
+from regexs.redefs import timex
 import xml.etree.ElementTree as et
 
 def indent(el: et.Element, lvl = 0):
