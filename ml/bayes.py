@@ -33,7 +33,8 @@ class BayesClassifier:
                 for ii in range(len(tokens)):
                     result += [(is_temp_exprs[ii], tokens[ii])]
             else:
-                result[-1] = (result[-1][0], result[-1][1] + expr)
+                if len(result) > 0:
+                    result[-1] = (result[-1][0], result[-1][1] + expr)
 
         final = [result[0]]
         for ii in range(1, len(result)):
@@ -73,4 +74,4 @@ class BayesClassifier:
         p_word_wr_other = (other_count_word + z) * upscale / (self.other_count + 2 * z)
         p_other_wr_word = p_word_wr_other * (self.p_other * upscale)
 
-        return p_time_wr_word * 2 >= p_other_wr_word
+        return p_time_wr_word * 5 >= p_other_wr_word

@@ -2,7 +2,7 @@ from ml.preprocess_acc import COMBS
 from ml.bayes import BayesClassifier, load_pickle
 import os
 from nltk.tokenize import RegexpTokenizer
-from regex.redefs import timex_matched
+from regexs.redefs import timex_matched
 from tqdm import tqdm
 
 
@@ -46,7 +46,6 @@ for comb in tqdm(COMBS):
                 for item in sublist:
                     flat_list.append(item)
             matched = flat_list
-            print(matched)    
             false_positives += len(matched)
 
 print(f'Stats for regex module:')
