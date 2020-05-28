@@ -7,9 +7,4 @@ Echipă:
 * Iacob Constantin-Cristian, 3B2
 * Petriuc Cezar-Cristian, 3B2
 
-# Running
-  ## Dependencies
-  To run [example.py](https://github.com/razvancraciun/time-checker/blob/master/example.py) you will need the following tools:
-  - php 
-  - Python packages:
-     - nltk
+## [Docs](docs)
