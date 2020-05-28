@@ -104,6 +104,7 @@ def timex(text: str):
 			if (match != None):
 				timexs += [(match.start(), Timex(-1, deftype, match.group(0)))]
 				txt2 = (txt2[:match.start()] + '█' * (match.end() - match.start()) + txt2[match.end():])
+				break
 
 		if txt1 == txt2:
 			break
