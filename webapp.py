@@ -13,7 +13,7 @@ def allowed_file(filename):
     return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
 
 def run_timechecker(filepath):
-    os.system('python timechecker.py ' + filepath)
+    os.system('python3.7 timechecker.py ' + filepath)
     root_ext = os.path.splitext(filepath)
     file_xml_path = root_ext[0] + '.xml'
     return send_file(file_xml_path, as_attachment=True)

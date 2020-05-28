@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-from sys import argv, stderr
+from sys import argv
 from os import path
 
 if __name__ != '__main__':
@@ -56,5 +56,5 @@ content = content.replace('&lt;', '<').replace('&gt;', '>')
 f.write(content)
 f.close()
 
-print(f'Done.')
+print('Done.')
 exit(0)
