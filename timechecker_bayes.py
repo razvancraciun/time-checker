@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from sys import argv, stderr
 from os import path
+import re
 
 if __name__ != '__main__':
 	print('Cannot use timechecker as a module')
@@ -72,7 +73,9 @@ print('Generating output...')
 TimeML = et.Element('TimeML')
 TEXT = et.Element('TEXT')
 TimeML.append(TEXT)
-TEXT.text = ''.join(content).strip()
+aux = ' '.join(content).strip()
+aux = re.sub(r'„ ', '„', re.sub(r'\( ', '(', re.sub(r'\- ', '-', re.sub(r'[ ]+', ' ', aux))))
+TEXT.text = aux
 
 f = open(OUTPUT_FILE, 'w+')
 f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
