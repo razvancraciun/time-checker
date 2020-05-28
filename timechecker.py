@@ -2,19 +2,16 @@
 from sys import argv, stderr
 from os import path
 
-def errprint(*args, **kwargs):
-	print(*args, file = stderr, **kwargs)
-
 if __name__ != '__main__':
-	errprint('Cannot use timechecker as a module')
+	print('Cannot use timechecker as a module')
 	exit(1)
 
 if len(argv) < 2:
-	errprint('!> input file path must be given')
+	print('!> input file path must be given')
 	exit(1)
 
 if len(argv) > 3:
-	errprint('!> too many arguments')
+	print('!> too many arguments')
 	exit(1)
 
 INPUT_FILE = argv[1]
